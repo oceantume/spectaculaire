@@ -1,1 +1,1 @@
-npx tsgo --noEmit && npx biome check .
+npx tsgo --noEmit && npx biome check --write .

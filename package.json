@@ -10,7 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "check": "tsgo --noEmit && biome check .",
+    "check": "tsgo --noEmit && biome check --write .",
     "prepare": "husky"
   },
   "repository": {
