@@ -17,7 +17,7 @@ export function ScheduleTable() {
 			<table class="w-full text-sm border-collapse">
 				<thead>
 					<tr class="text-left text-xs text-gray-500 uppercase tracking-wide">
-						<th class="py-1 px-2 font-medium">Scène</th>
+						<th class="py-1 px-2 font-medium">Lieu</th>
 						<th class="py-1 px-2 font-medium">Passe?</th>
 						<th class="py-1 px-2 font-medium">Début</th>
 						<th class="py-1 px-2 font-medium">Artiste</th>

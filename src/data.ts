@@ -3,6 +3,7 @@ import raw from "../assets/programmation.json";
 type Venue = {
 	id: number;
 	te: string;
+	ln: string;
 	tt: boolean;
 };
 
@@ -42,20 +43,19 @@ export type Row = {
 };
 
 const rows: Row[] = sw
-	.slice()
-	.sort((a, b) => a.st.localeCompare(b.st))
 	.map((show) => {
 		const edt = toEDT(show.st);
 		const venue = venueById[show.ve];
 		return {
 			dateStr: localDateStr(edt),
-			venue: venue.te,
+			venue: venue.ln,
 			paid: venue.tt,
 			time: localTimeStr(edt),
 			artist: show.at.te,
 			genre: show.at.sc.name,
 		};
-	});
+	})
+	.sort((a, b) => a.dateStr.localeCompare(b.dateStr) || a.venue.localeCompare(b.venue) || a.time.localeCompare(b.time));
 
 export const schedule: Map<string, Row[]> = new Map();
 for (const row of rows) {
