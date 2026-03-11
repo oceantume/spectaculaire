@@ -5,6 +5,7 @@ type Venue = {
 	te: string;
 	ln: string;
 	tt: boolean;
+	or: number;
 };
 
 type Show = {
@@ -20,6 +21,11 @@ type Show = {
 const { ve, sw } = (raw[1] as { data: { mamData: { ve: Venue[]; sw: Show[] } } }).data.mamData;
 
 const venueById = Object.fromEntries(ve.map((v) => [v.id, v]));
+
+const venueOrderByLn: Record<string, number> = {};
+for (const v of ve) {
+	if (!(v.ln in venueOrderByLn) || v.or < venueOrderByLn[v.ln]) venueOrderByLn[v.ln] = v.or;
+}
 
 function toEDT(utcStr: string): Date {
 	return new Date(new Date(utcStr).getTime() - 4 * 60 * 60 * 1000);
@@ -55,7 +61,13 @@ const rows: Row[] = sw
 			genre: show.at.sc.name,
 		};
 	})
-	.sort((a, b) => a.dateStr.localeCompare(b.dateStr) || a.venue.localeCompare(b.venue) || a.time.localeCompare(b.time));
+	.sort(
+		(a, b) =>
+			a.dateStr.localeCompare(b.dateStr) ||
+			(b.paid ? 1 : 0) - (a.paid ? 1 : 0) ||
+			venueOrderByLn[a.venue] - venueOrderByLn[b.venue] ||
+			a.time.localeCompare(b.time),
+	);
 
 export const schedule: Map<string, Row[]> = new Map();
 for (const row of rows) {
