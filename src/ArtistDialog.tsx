@@ -76,8 +76,9 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 							) : (
 								<>
 									<img
+										key={artist.name}
 										src={artist.imageUrl}
-										alt={artist.name}
+										alt=""
 										class="w-full h-64 object-cover object-top rounded-t-xl"
 									/>
 									<div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-t-xl" />
