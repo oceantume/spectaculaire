@@ -13,12 +13,28 @@ type Show = {
 	ve: number;
 	st: string;
 	at: {
+		id: number;
 		te: string;
-		sc: { name: string };
+		cy?: string;
+		sc: { name: string; tc: string; bc: string };
+		ds?: string;
+		dl?: string;
+		ls?: Array<{ label: string; url: string }>;
 	};
 };
 
-const { ve, sw } = (raw[1] as { data: { mamData: { ve: Venue[]; sw: Show[] } } }).data.mamData;
+export type ArtistDetails = {
+	name: string;
+	country?: string;
+	genre: string;
+	genreBg: string;
+	genreText: string;
+	description?: string;
+	imageUrl?: string;
+	links: Array<{ label: string; url: string }>;
+};
+
+const { ci, ve, sw } = (raw[1] as { data: { mamData: { ci: string; ve: Venue[]; sw: Show[] } } }).data.mamData;
 
 const venueById = Object.fromEntries(ve.map((v) => [v.id, v]));
 
@@ -46,19 +62,32 @@ export type Row = {
 	time: string;
 	artist: string;
 	genre: string;
+	artistDetails: ArtistDetails;
 };
 
 const rows: Row[] = sw
 	.map((show) => {
 		const edt = toEDT(show.st);
 		const venue = venueById[show.ve];
+		const at = show.at;
+		const artistDetails: ArtistDetails = {
+			name: at.te,
+			country: at.cy,
+			genre: at.sc.name,
+			genreBg: at.sc.bc,
+			genreText: at.sc.tc,
+			description: at.ds,
+			imageUrl: at.dl ? ci + at.dl : undefined,
+			links: at.ls ?? [],
+		};
 		return {
 			dateStr: localDateStr(edt),
 			venue: venue.ln,
 			paid: venue.tt,
 			time: localTimeStr(edt),
-			artist: show.at.te,
-			genre: show.at.sc.name,
+			artist: at.te,
+			genre: at.sc.name,
+			artistDetails,
 		};
 	})
 	.sort(
