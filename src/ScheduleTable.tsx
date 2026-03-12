@@ -38,7 +38,7 @@ export function ScheduleTable() {
 						onClick={() => setShowFreeOnly(false)}
 						class={`text-xs px-3 py-1 rounded-full border ${!showFreeOnly ? "bg-gray-800 text-white border-gray-800" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
 					>
-						Tous
+						Toute
 					</button>
 					<button
 						type="button"
@@ -93,7 +93,7 @@ export function ScheduleTable() {
 												>
 													{row.artist}
 													{row.artistDetails.country === "Québec" && (
-														<img src="/qc-flag.svg" alt="Québec" class="h-4 w-auto inline-block align-middle ml-1" />
+														<img src="/qc-flag.svg" alt="Québec" class="h-4 w-3 inline-block align-middle ml-1" />
 													)}
 												</button>
 											</td>
