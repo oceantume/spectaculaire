@@ -162,5 +162,5 @@ const rows: Row[] = sw
 			a.time.localeCompare(b.time),
 	);
 
-await fs.writeFile(outPath, JSON.stringify(rows));
+await fs.writeFile(outPath, JSON.stringify(rows, null, 2));
 console.log(`Written ${rows.length} rows to ${outPath}`);
