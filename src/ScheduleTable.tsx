@@ -58,6 +58,9 @@ export function ScheduleTable() {
 												class="cursor-pointer underline text-left"
 											>
 												{row.artist}
+												{row.artistDetails.country === "Québec" && (
+													<img src="/qc-flag.svg" alt="Québec" class="inline-block w-4 h-3 ml-1 align-middle" />
+												)}
 											</button>
 										</td>
 										<td class="py-1 px-2 text-gray-500">{row.genre}</td>

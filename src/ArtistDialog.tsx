@@ -41,7 +41,12 @@ export function ArtistDialog({ artist, onClose }: Props) {
 					<div class="flex items-start justify-between gap-4 p-4 pb-2">
 						<div class="flex-1 min-w-0">
 							<h2 class="text-xl font-bold text-gray-900 truncate">{artist.name}</h2>
-							{artist.country && <p class="text-sm text-gray-500">{artist.country}</p>}
+							{artist.country && (
+								<p class="text-sm text-gray-500 flex items-center gap-1">
+									{artist.country === "Québec" && <img src="/qc-flag.svg" alt="" class="w-4 h-3 flex-shrink-0" />}
+									{artist.country}
+								</p>
+							)}
 						</div>
 						<button
 							type="button"
