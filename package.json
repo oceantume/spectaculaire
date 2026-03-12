@@ -11,7 +11,9 @@
     "build": "vite build",
     "preview": "vite preview",
     "check": "tsgo --noEmit && biome check --write .",
-    "prepare": "husky"
+    "prepare": "husky",
+    "fetch": "node scripts/fetch-programmation.js",
+    "transform": "node scripts/transform-programmation.js"
   },
   "repository": {
     "type": "git",
