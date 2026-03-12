@@ -69,7 +69,6 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 		<dialog
 			ref={dialogRef}
 			onClick={handleBackdropClick}
-			onKeyUp={handleBackdropClick}
 			onKeyDown={handleKeyDown}
 			onCancel={handleCancel}
 			class="rounded-xl shadow-2xl p-0 max-w-lg w-full backdrop:bg-black/50 open:flex open:flex-col"
