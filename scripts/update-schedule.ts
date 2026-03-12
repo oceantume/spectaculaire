@@ -130,6 +130,16 @@ function localTimeStr(d: Date): string {
 	return d.toISOString().slice(11, 16);
 }
 
+function htmlToText(html: string): string {
+	return html
+		.replace(/<\/p>\s*<p[^>]*>/gi, "\n\n")
+		.replace(/<p[^>]*>/gi, "")
+		.replace(/<\/p>/gi, "")
+		.replace(/<br\s*\/?>/gi, "\n")
+		.replace(/<[^>]+>/g, "")
+		.trim();
+}
+
 const rows: Row[] = sw
 	.map((show) => {
 		const edt = toEDT(show.st);
@@ -148,7 +158,7 @@ const rows: Row[] = sw
 				genre: at.sc.name,
 				genreBg: at.sc.bc,
 				genreText: at.sc.tc,
-				description: at.ds,
+				description: at.ds ? htmlToText(at.ds) : undefined,
 				imageUrl: at.dl ? ci + at.dl : undefined,
 				links: at.ls ?? [],
 			},

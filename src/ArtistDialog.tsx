@@ -158,10 +158,7 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 					</div>
 
 					{artist.description && (
-						<div
-							class="px-4 pb-3 text-sm text-gray-700 leading-relaxed"
-							dangerouslySetInnerHTML={{ __html: artist.description }}
-						/>
+						<p class="px-4 pb-3 text-sm text-gray-700 leading-relaxed whitespace-pre-line">{artist.description}</p>
 					)}
 
 					{remainingLinks.length > 0 && (
