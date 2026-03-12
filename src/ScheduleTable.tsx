@@ -49,17 +49,17 @@ export function ScheduleTable() {
 					<button
 						type="button"
 						onClick={() => setShowFreeOnly(true)}
-						class={`text-xs px-3 py-1 rounded-full border ${showFreeOnly ? "bg-green-700 text-white border-green-700" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
+						class={`text-xs px-3 py-1 rounded-full border ${showFreeOnly ? "bg-green-100 text-green-900 border-green-300" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
 					>
 						Gratuit seulement
 					</button>
 					<button
 						type="button"
 						onClick={() => setShowQuebecOnly((v) => !v)}
-						class={`text-xs px-3 py-1 rounded-full border flex items-center gap-1 ${showQuebecOnly ? "bg-blue-700 text-white border-blue-700" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
+						class={`text-xs px-3 py-1 rounded-full border flex items-center gap-1 ${showQuebecOnly ? "bg-blue-100 text-blue-900 border-blue-300" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
 					>
 						<img src="/qc-flag.svg" alt="" class="h-3.5 w-2.5 inline-block" />
-						Québecois
+						Québécois
 					</button>
 				</div>
 				<table class="w-full text-sm border-collapse">
