@@ -83,12 +83,7 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 									<div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-t-xl" />
 									<div class="absolute bottom-0 left-0 p-4">
 										<h2 class="text-xl font-bold text-white">{artist.name}</h2>
-										{artist.country && (
-											<p class="text-sm text-white/80 flex items-center gap-1">
-												{artist.country === "Québec" && <img src="/qc.svg" alt="" class="h-4 w-3 flex-shrink-0" />}
-												{artist.country}
-											</p>
-										)}
+										{artist.country && <p class="text-sm text-white/80">{artist.country}</p>}
 									</div>
 									<button
 										type="button"
@@ -130,12 +125,7 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 						<div class="flex items-start justify-between gap-4 p-4 pb-2">
 							<div class="flex-1 min-w-0">
 								<h2 class="text-xl font-bold text-gray-900">{artist.name}</h2>
-								{artist.country && (
-									<p class="text-sm text-gray-500 flex items-center gap-1">
-										{artist.country === "Québec" && <img src="/qc.svg" alt="" class="h-4 w-3 flex-shrink-0" />}
-										{artist.country}
-									</p>
-								)}
+								{artist.country && <p class="text-sm text-gray-500">{artist.country}</p>}
 							</div>
 							<button
 								type="button"
