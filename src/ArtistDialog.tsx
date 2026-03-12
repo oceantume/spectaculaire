@@ -113,14 +113,19 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 										×
 									</button>
 									{youtubeEmbed && (
-										<button
-											type="button"
-											onClick={() => setIsPlayingVideo(true)}
+										<a
+											href={officialVideoLink?.url}
+											target="_blank"
+											rel="noopener noreferrer"
+											onClick={(e) => {
+												e.preventDefault();
+												setIsPlayingVideo(true);
+											}}
 											class="absolute bottom-3 right-3 bg-black/60 hover:bg-black/80 text-white rounded-full w-10 h-10 flex items-center justify-center cursor-pointer pl-1 pb-1"
 											aria-label="Jouer la vidéo officielle"
 										>
 											▶
-										</button>
+										</a>
 									)}
 								</>
 							)}
