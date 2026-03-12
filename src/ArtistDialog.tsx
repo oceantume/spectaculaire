@@ -8,20 +8,6 @@ type Props = {
 	onNext?: () => void;
 };
 
-function getYouTubeEmbed(url: string): { videoId: string; start?: number } | null {
-	try {
-		const u = new URL(url);
-		if (!u.hostname.includes("youtube.com")) return null;
-		const videoId = u.searchParams.get("v");
-		if (!videoId) return null;
-		const t = u.searchParams.get("t");
-		const start = t ? parseInt(t, 10) : undefined;
-		return { videoId, start };
-	} catch {
-		return null;
-	}
-}
-
 export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 	const dialogRef = useRef<HTMLDialogElement>(null);
 	const [isPlayingVideo, setIsPlayingVideo] = useState(false);
@@ -187,6 +173,20 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 			)}
 		</dialog>
 	);
+}
+
+function getYouTubeEmbed(url: string): { videoId: string; start?: number } | null {
+	try {
+		const u = new URL(url);
+		if (!u.hostname.includes("youtube.com")) return null;
+		const videoId = u.searchParams.get("v");
+		if (!videoId) return null;
+		const t = u.searchParams.get("t");
+		const start = t ? parseInt(t, 10) : undefined;
+		return { videoId, start };
+	} catch {
+		return null;
+	}
 }
 
 function useBodyScrollLock(locked: boolean) {

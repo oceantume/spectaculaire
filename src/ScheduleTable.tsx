@@ -2,17 +2,6 @@ import { useState } from "preact/hooks";
 import { ArtistDialog } from "./ArtistDialog";
 import { type ArtistDetails, schedule } from "./data";
 
-function formatDayHeader(dateStr: string): string {
-	const [year, month, day] = dateStr.split("-").map(Number);
-	const date = new Date(year, month - 1, day);
-	return date.toLocaleDateString("fr-CA", {
-		weekday: "long",
-		day: "numeric",
-		month: "long",
-		year: "numeric",
-	});
-}
-
 export function ScheduleTable() {
 	const [selectedArtist, setSelectedArtist] = useState<ArtistDetails | null>(null);
 	const [showFreeOnly, setShowFreeOnly] = useState(false);
@@ -54,7 +43,7 @@ export function ScheduleTable() {
 						onClick={() => setShowFreeOnly((v) => !v)}
 						class={`text-xs px-3 py-1 rounded-full border ${showFreeOnly ? "bg-green-100 text-green-900 border-green-300" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
 					>
-						Gratuit seulement
+						Gratuit
 					</button>
 					<button
 						type="button"
@@ -139,4 +128,15 @@ export function ScheduleTable() {
 			/>
 		</>
 	);
+}
+
+function formatDayHeader(dateStr: string): string {
+	const [year, month, day] = dateStr.split("-").map(Number);
+	const date = new Date(year, month - 1, day);
+	return date.toLocaleDateString("fr-CA", {
+		weekday: "long",
+		day: "numeric",
+		month: "long",
+		year: "numeric",
+	});
 }
