@@ -77,11 +77,11 @@ export function ScheduleTable() {
 												<button
 													type="button"
 													onClick={() => setSelectedArtist(row.artistDetails)}
-													class="cursor-pointer underline text-left inline-flex items-center gap-1"
+													class="cursor-pointer underline text-left"
 												>
 													{row.artist}
 													{row.artistDetails.country === "Québec" && (
-														<img src="/qc-flag.svg" alt="Québec" class="h-4 w-auto" />
+														<img src="/qc-flag.svg" alt="Québec" class="h-4 w-auto inline-block align-middle ml-1" />
 													)}
 												</button>
 											</td>
