@@ -1,4 +1,4 @@
-import { useEffect, useRef } from "preact/hooks";
+import { useEffect, useRef, useState } from "preact/hooks";
 import type { ArtistDetails } from "./data";
 
 type Props = {
@@ -8,8 +8,23 @@ type Props = {
 	onNext?: () => void;
 };
 
+function getYouTubeEmbed(url: string): { videoId: string; start?: number } | null {
+	try {
+		const u = new URL(url);
+		if (!u.hostname.includes("youtube.com")) return null;
+		const videoId = u.searchParams.get("v");
+		if (!videoId) return null;
+		const t = u.searchParams.get("t");
+		const start = t ? parseInt(t, 10) : undefined;
+		return { videoId, start };
+	} catch {
+		return null;
+	}
+}
+
 export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 	const dialogRef = useRef<HTMLDialogElement>(null);
+	const [isPlayingVideo, setIsPlayingVideo] = useState(false);
 
 	useEffect(() => {
 		const dialog = dialogRef.current;
@@ -19,6 +34,10 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 		} else {
 			dialog.close();
 		}
+	}, [artist]);
+
+	useEffect(() => {
+		setIsPlayingVideo(false);
 	}, [artist]);
 
 	function handleBackdropClick(e: MouseEvent | KeyboardEvent) {
@@ -40,6 +59,12 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 		}
 	}
 
+	const officialVideoLink = artist?.links.find(
+		(l) => l.label.toLowerCase().includes("vidéo") || l.label.toLowerCase().includes("video"),
+	);
+	const youtubeEmbed = officialVideoLink ? getYouTubeEmbed(officialVideoLink.url) : null;
+	const remainingLinks = artist?.links.filter((l) => l !== officialVideoLink) ?? [];
+
 	return (
 		<dialog
 			ref={dialogRef}
@@ -53,25 +78,51 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 				<div class="flex flex-col">
 					{artist.imageUrl ? (
 						<div class="relative">
-							<img src={artist.imageUrl} alt={artist.name} class="w-full h-64 object-cover object-top rounded-t-xl" />
-							<div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-t-xl" />
-							<button
-								type="button"
-								onClick={onClose}
-								class="absolute top-3 right-3 text-white/80 hover:text-white text-2xl leading-none cursor-pointer"
-								aria-label="Fermer"
-							>
-								×
-							</button>
-							<div class="absolute bottom-0 left-0 p-4">
-								<h2 class="text-xl font-bold text-white">{artist.name}</h2>
-								{artist.country && (
-									<p class="text-sm text-white/80 flex items-center gap-1">
-										{artist.country === "Québec" && <img src="/qc-flag.svg" alt="" class="h-4 w-3 flex-shrink-0" />}
-										{artist.country}
-									</p>
-								)}
-							</div>
+							{isPlayingVideo && youtubeEmbed ? (
+								<iframe
+									src={`https://www.youtube.com/embed/${youtubeEmbed.videoId}?autoplay=1&rel=0${youtubeEmbed.start ? `&start=${youtubeEmbed.start}` : ""}`}
+									title="Vidéo officielle"
+									class="w-full h-64 rounded-t-xl"
+									allow="autoplay; encrypted-media"
+									allowFullScreen
+								/>
+							) : (
+								<>
+									<img
+										src={artist.imageUrl}
+										alt={artist.name}
+										class="w-full h-64 object-cover object-top rounded-t-xl"
+									/>
+									<div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-t-xl" />
+									<div class="absolute bottom-0 left-0 p-4">
+										<h2 class="text-xl font-bold text-white">{artist.name}</h2>
+										{artist.country && (
+											<p class="text-sm text-white/80 flex items-center gap-1">
+												{artist.country === "Québec" && <img src="/qc-flag.svg" alt="" class="h-4 w-3 flex-shrink-0" />}
+												{artist.country}
+											</p>
+										)}
+									</div>
+									<button
+										type="button"
+										onClick={onClose}
+										class="absolute top-3 right-3 text-white/80 hover:text-white text-2xl leading-none cursor-pointer"
+										aria-label="Fermer"
+									>
+										×
+									</button>
+									{youtubeEmbed && (
+										<button
+											type="button"
+											onClick={() => setIsPlayingVideo(true)}
+											class="absolute bottom-3 right-3 bg-black/60 hover:bg-black/80 text-white rounded-full w-10 h-10 flex items-center justify-center cursor-pointer pl-1 pb-1"
+											aria-label="Jouer la vidéo officielle"
+										>
+											▶
+										</button>
+									)}
+								</>
+							)}
 						</div>
 					) : (
 						<div class="flex items-start justify-between gap-4 p-4 pb-2">
@@ -111,9 +162,9 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 						/>
 					)}
 
-					{artist.links.length > 0 && (
+					{remainingLinks.length > 0 && (
 						<div class="flex flex-wrap gap-2 px-4 pb-4">
-							{artist.links.map((link) => (
+							{remainingLinks.map((link) => (
 								<a
 									key={link.url}
 									href={link.url}
