@@ -43,7 +43,7 @@ export function ArtistDialog({ artist, onClose }: Props) {
 							<h2 class="text-xl font-bold text-gray-900 truncate">{artist.name}</h2>
 							{artist.country && (
 								<p class="text-sm text-gray-500 flex items-center gap-1">
-									{artist.country === "Québec" && <img src="/qc-flag.svg" alt="" class="w-4 h-3 flex-shrink-0" />}
+									{artist.country === "Québec" && <img src="/qc-flag.svg" alt="" class="h-4 w-auto flex-shrink-0" />}
 									{artist.country}
 								</p>
 							)}
