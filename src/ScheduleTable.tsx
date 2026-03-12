@@ -17,6 +17,18 @@ export function ScheduleTable() {
 	const [selectedArtist, setSelectedArtist] = useState<ArtistDetails | null>(null);
 	const [showFreeOnly, setShowFreeOnly] = useState(false);
 
+	const filteredArtists = Array.from(schedule.values())
+		.flatMap((rows) => (showFreeOnly ? rows.filter((r) => !r.paid) : rows))
+		.map((r) => r.artistDetails);
+
+	function navigate(delta: -1 | 1) {
+		if (!selectedArtist) return;
+		const idx = filteredArtists.indexOf(selectedArtist);
+		if (idx === -1) return;
+		const next = (idx + delta + filteredArtists.length) % filteredArtists.length;
+		setSelectedArtist(filteredArtists[next]);
+	}
+
 	return (
 		<>
 			<div>
@@ -94,7 +106,12 @@ export function ScheduleTable() {
 					</tbody>
 				</table>
 			</div>
-			<ArtistDialog artist={selectedArtist} onClose={() => setSelectedArtist(null)} />
+			<ArtistDialog
+				artist={selectedArtist}
+				onClose={() => setSelectedArtist(null)}
+				onPrevious={() => navigate(-1)}
+				onNext={() => navigate(1)}
+			/>
 		</>
 	);
 }

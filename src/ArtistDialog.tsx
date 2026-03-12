@@ -4,9 +4,11 @@ import type { ArtistDetails } from "./data";
 type Props = {
 	artist: ArtistDetails | null;
 	onClose: () => void;
+	onPrevious?: () => void;
+	onNext?: () => void;
 };
 
-export function ArtistDialog({ artist, onClose }: Props) {
+export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 	const dialogRef = useRef<HTMLDialogElement>(null);
 
 	useEffect(() => {
@@ -28,11 +30,22 @@ export function ArtistDialog({ artist, onClose }: Props) {
 		onClose();
 	}
 
+	function handleKeyDown(e: KeyboardEvent) {
+		if (e.key === "ArrowUp") {
+			e.preventDefault();
+			onPrevious?.();
+		} else if (e.key === "ArrowDown") {
+			e.preventDefault();
+			onNext?.();
+		}
+	}
+
 	return (
 		<dialog
 			ref={dialogRef}
 			onClick={handleBackdropClick}
 			onKeyUp={handleBackdropClick}
+			onKeyDown={handleKeyDown}
 			onCancel={handleCancel}
 			class="rounded-xl shadow-2xl p-0 max-w-lg w-full backdrop:bg-black/50 open:flex open:flex-col"
 		>
