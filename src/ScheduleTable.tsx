@@ -16,9 +16,15 @@ function formatDayHeader(dateStr: string): string {
 export function ScheduleTable() {
 	const [selectedArtist, setSelectedArtist] = useState<ArtistDetails | null>(null);
 	const [showFreeOnly, setShowFreeOnly] = useState(false);
+	const [showQuebecOnly, setShowQuebecOnly] = useState(false);
 
 	const filteredArtists = Array.from(schedule.values())
-		.flatMap((rows) => (showFreeOnly ? rows.filter((r) => !r.paid) : rows))
+		.flatMap((rows) => {
+			let r = rows;
+			if (showFreeOnly) r = r.filter((row) => !row.paid);
+			if (showQuebecOnly) r = r.filter((row) => row.artistDetails.country === "Québec");
+			return r;
+		})
 		.map((r) => r.artistDetails);
 
 	function navigate(delta: -1 | 1) {
@@ -47,6 +53,14 @@ export function ScheduleTable() {
 					>
 						Gratuit seulement
 					</button>
+					<button
+						type="button"
+						onClick={() => setShowQuebecOnly((v) => !v)}
+						class={`text-xs px-3 py-1 rounded-full border flex items-center gap-1 ${showQuebecOnly ? "bg-blue-700 text-white border-blue-700" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
+					>
+						<img src="/qc-flag.svg" alt="" class="h-3.5 w-2.5 inline-block" />
+						Québecois
+					</button>
 				</div>
 				<table class="w-full text-sm border-collapse">
 					<thead>
@@ -60,7 +74,8 @@ export function ScheduleTable() {
 					</thead>
 					<tbody>
 						{Array.from(schedule.entries()).map(([dateStr, rows]) => {
-							const filtered = showFreeOnly ? rows.filter((r) => !r.paid) : rows;
+							let filtered = showFreeOnly ? rows.filter((r) => !r.paid) : rows;
+							if (showQuebecOnly) filtered = filtered.filter((r) => r.artistDetails.country === "Québec");
 							if (filtered.length === 0) return null;
 							return (
 								<>
