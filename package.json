@@ -12,8 +12,7 @@
     "preview": "vite preview",
     "check": "tsgo --noEmit && biome check --write .",
     "prepare": "husky",
-    "fetch": "node scripts/fetch-programmation.js",
-    "transform": "node scripts/transform-programmation.js"
+    "update": "node scripts/update-schedule.ts"
   },
   "repository": {
     "type": "git",
@@ -31,6 +30,7 @@
     "@biomejs/biome": "^2.4.6",
     "@preact/preset-vite": "^2.10.3",
     "@tailwindcss/vite": "^4.2.1",
+    "@types/node": "^25.5.0",
     "@typescript/native-preview": "^7.0.0-dev.20260311.1",
     "husky": "^9.1.7",
     "preact": "^10.29.0",

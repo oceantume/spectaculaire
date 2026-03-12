@@ -1,5 +1,7 @@
 import rows from "../assets/schedule.json";
 
+export type ArtistLink = { label: string; url: string };
+
 export type ArtistDetails = {
 	name: string;
 	country?: string;
@@ -8,7 +10,7 @@ export type ArtistDetails = {
 	genreText: string;
 	description?: string;
 	imageUrl?: string;
-	links: Array<{ label: string; url: string }>;
+	links: ArtistLink[];
 };
 
 export type Row = {
