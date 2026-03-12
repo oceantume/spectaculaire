@@ -111,7 +111,7 @@ export function ScheduleTable() {
 													)}
 												</button>
 											</td>
-											<td class="py-1 px-2 text-gray-500">{row.genre}</td>
+											<td class="py-1 px-2 text-gray-500">{row.artistDetails.genre}</td>
 										</tr>
 									))}
 								</>

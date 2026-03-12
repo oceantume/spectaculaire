@@ -6,8 +6,6 @@ export type ArtistDetails = {
 	name: string;
 	country?: string;
 	genre: string;
-	genreBg: string;
-	genreText: string;
 	description?: string;
 	imageUrl?: string;
 	links: ArtistLink[];
@@ -19,7 +17,6 @@ export type Row = {
 	paid: boolean;
 	time: string;
 	artist: string;
-	genre: string;
 	artistDetails: ArtistDetails;
 };
 

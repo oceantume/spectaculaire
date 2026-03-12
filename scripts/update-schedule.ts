@@ -21,7 +21,7 @@ interface Artist {
 	ds: string; // description
 	dl?: string; // image path
 	ls?: ArtistLink[];
-	sc: { name: string; bc: string; tc: string }; // subcategory
+	sc: { name: string }; // subcategory
 }
 
 interface Show {
@@ -151,13 +151,10 @@ const rows: Row[] = sw
 			paid: venue.tt,
 			time: localTimeStr(edt),
 			artist: at.te,
-			genre: at.sc.name,
 			artistDetails: {
 				name: at.te,
 				country: at.cy === "Montréal" ? "Québec" : at.cy,
 				genre: at.sc.name,
-				genreBg: at.sc.bc,
-				genreText: at.sc.tc,
 				description: at.ds ? htmlToText(at.ds) : undefined,
 				imageUrl: at.dl ? ci + at.dl : undefined,
 				links: at.ls ?? [],

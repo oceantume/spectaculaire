@@ -149,10 +149,7 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 					)}
 
 					<div class="px-4 pt-3 pb-1">
-						<span
-							class="text-xs font-medium px-2 py-1 rounded self-start"
-							style={{ backgroundColor: artist.genreBg, color: artist.genreText }}
-						>
+						<span class="text-xs font-medium px-2 py-1 rounded self-start bg-gray-100 text-gray-600">
 							{artist.genre}
 						</span>
 					</div>
