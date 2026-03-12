@@ -72,7 +72,7 @@ const rows: Row[] = sw
 		const at = show.at;
 		const artistDetails: ArtistDetails = {
 			name: at.te,
-			country: at.cy,
+			country: at.cy === "Montréal" ? "Québec" : at.cy,
 			genre: at.sc.name,
 			genreBg: at.sc.bc,
 			genreText: at.sc.tc,
