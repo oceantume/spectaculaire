@@ -36,6 +36,8 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 		}
 	}, [artist]);
 
+	useBodyScrollLock(!!artist);
+
 	useEffect(() => {
 		setIsPlayingVideo(false);
 	}, [artist]);
@@ -180,4 +182,15 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 			)}
 		</dialog>
 	);
+}
+
+function useBodyScrollLock(locked: boolean) {
+	useEffect(() => {
+		if (locked) {
+			document.body.style.overflow = "hidden";
+			return () => {
+				document.body.style.overflow = "";
+			};
+		}
+	}, [locked]);
 }
