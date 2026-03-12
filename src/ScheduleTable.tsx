@@ -1,17 +1,19 @@
 import { useState } from "preact/hooks";
 import { ArtistDialog } from "./ArtistDialog";
-import { type ArtistDetails, schedule } from "./data";
+import { type ArtistDetails, type Row, schedule } from "./data";
 
 export function ScheduleTable() {
 	const [selectedArtist, setSelectedArtist] = useState<ArtistDetails | null>(null);
 	const [showFreeOnly, setShowFreeOnly] = useState(false);
 	const [showQuebecOnly, setShowQuebecOnly] = useState(false);
+	const [sortByTime, setSortByTime] = useState(false);
 
 	const filteredArtists = Array.from(schedule.values())
 		.flatMap((rows) => {
 			let r = rows;
 			if (showFreeOnly) r = r.filter((row) => !row.paid);
 			if (showQuebecOnly) r = r.filter((row) => row.artistDetails.country === "Québec");
+			if (sortByTime) r = sortRows(r);
 			return r;
 		})
 		.map((r) => r.artistDetails);
@@ -59,7 +61,12 @@ export function ScheduleTable() {
 						<tr class="text-left text-xs text-gray-500 uppercase tracking-wide">
 							<th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Lieu</th>
 							{!showFreeOnly && <th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Passe?</th>}
-							<th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Début</th>
+							<th
+								class="py-1 px-2 font-medium sticky top-0 z-20 bg-white cursor-pointer select-none"
+								onClick={() => setSortByTime((v) => !v)}
+							>
+								<span class={sortByTime ? "underline text-gray-900" : ""}>Début</span>
+							</th>
 							<th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Artiste</th>
 							<th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Genre</th>
 						</tr>
@@ -68,6 +75,7 @@ export function ScheduleTable() {
 						{Array.from(schedule.entries()).map(([dateStr, rows]) => {
 							let filtered = showFreeOnly ? rows.filter((r) => !r.paid) : rows;
 							if (showQuebecOnly) filtered = filtered.filter((r) => r.artistDetails.country === "Québec");
+							if (sortByTime) filtered = sortRows(filtered);
 							if (filtered.length === 0) return null;
 							return (
 								<>
@@ -139,4 +147,8 @@ function formatDayHeader(dateStr: string): string {
 		month: "long",
 		year: "numeric",
 	});
+}
+
+function sortRows(rows: Row[]): Row[] {
+	return [...rows].sort((a, b) => a.time.localeCompare(b.time));
 }
