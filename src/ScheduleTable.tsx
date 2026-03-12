@@ -61,7 +61,7 @@ export function ScheduleTable() {
 						onClick={() => setShowQuebecOnly((v) => !v)}
 						class={`text-xs px-3 py-1 rounded-full border flex items-center gap-1 ${showQuebecOnly ? "bg-blue-100 text-blue-900 border-blue-300" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
 					>
-						<img src="/qc-flag.svg" alt="" class="h-3.5 w-2.5 inline-block" />
+						<img src="/qc.svg" alt="" class="h-3.5 w-2.5 inline-block" />
 						Québécois
 					</button>
 				</div>
@@ -114,7 +114,7 @@ export function ScheduleTable() {
 															{row.artist.slice(0, row.artist.lastIndexOf(" ") + 1)}
 															<span class="whitespace-nowrap">
 																{row.artist.slice(row.artist.lastIndexOf(" ") + 1)}
-																<img src="/qc-flag.svg" alt="Québec" class="h-4 w-3 inline-block align-middle ml-1" />
+																<img src="/qc.svg" alt="Québec" class="h-4 w-3 inline-block align-middle ml-1" />
 															</span>
 														</>
 													) : (

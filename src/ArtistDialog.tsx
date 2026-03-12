@@ -99,7 +99,7 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 										<h2 class="text-xl font-bold text-white">{artist.name}</h2>
 										{artist.country && (
 											<p class="text-sm text-white/80 flex items-center gap-1">
-												{artist.country === "Québec" && <img src="/qc-flag.svg" alt="" class="h-4 w-3 flex-shrink-0" />}
+												{artist.country === "Québec" && <img src="/qc.svg" alt="" class="h-4 w-3 flex-shrink-0" />}
 												{artist.country}
 											</p>
 										)}
@@ -136,7 +136,7 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 								<h2 class="text-xl font-bold text-gray-900">{artist.name}</h2>
 								{artist.country && (
 									<p class="text-sm text-gray-500 flex items-center gap-1">
-										{artist.country === "Québec" && <img src="/qc-flag.svg" alt="" class="h-4 w-3 flex-shrink-0" />}
+										{artist.country === "Québec" && <img src="/qc.svg" alt="" class="h-4 w-3 flex-shrink-0" />}
 										{artist.country}
 									</p>
 								)}
