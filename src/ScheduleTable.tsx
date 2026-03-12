@@ -13,22 +13,25 @@ function formatDayHeader(dateStr: string): string {
 
 export function ScheduleTable() {
 	return (
-		<div class="overflow-x-auto">
+		<div>
 			<table class="w-full text-sm border-collapse">
 				<thead>
 					<tr class="text-left text-xs text-gray-500 uppercase tracking-wide">
-						<th class="py-1 px-2 font-medium">Lieu</th>
-						<th class="py-1 px-2 font-medium">Passe?</th>
-						<th class="py-1 px-2 font-medium">Début</th>
-						<th class="py-1 px-2 font-medium">Artiste</th>
-						<th class="py-1 px-2 font-medium">Genre</th>
+						<th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Lieu</th>
+						<th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Passe?</th>
+						<th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Début</th>
+						<th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Artiste</th>
+						<th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Genre</th>
 					</tr>
 				</thead>
 				<tbody>
 					{Array.from(schedule.entries()).map(([dateStr, rows]) => (
 						<>
 							<tr class="day-header bg-gray-100">
-								<th colspan={5} class="py-2 px-2 text-left text-sm font-semibold text-gray-700 capitalize">
+								<th
+									colspan={5}
+									class="py-2 px-2 text-left text-sm font-semibold text-gray-700 capitalize sticky top-6 z-10 bg-gray-100"
+								>
 									{formatDayHeader(dateStr)}
 								</th>
 							</tr>
