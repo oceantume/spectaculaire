@@ -41,14 +41,17 @@ export function ScheduleTable() {
 				<div class="flex gap-2 px-2 py-2">
 					<button
 						type="button"
-						onClick={() => setShowFreeOnly(false)}
-						class={`text-xs px-3 py-1 rounded-full border ${!showFreeOnly ? "bg-gray-800 text-white border-gray-800" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
+						onClick={() => {
+							setShowFreeOnly(false);
+							setShowQuebecOnly(false);
+						}}
+						class={`text-xs px-3 py-1 rounded-full border ${!showFreeOnly && !showQuebecOnly ? "bg-gray-800 text-white border-gray-800" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
 					>
 						Toute
 					</button>
 					<button
 						type="button"
-						onClick={() => setShowFreeOnly(true)}
+						onClick={() => setShowFreeOnly((v) => !v)}
 						class={`text-xs px-3 py-1 rounded-full border ${showFreeOnly ? "bg-green-100 text-green-900 border-green-300" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
 					>
 						Gratuit seulement
