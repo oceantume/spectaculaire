@@ -171,14 +171,14 @@ const rows: Row[] = sw
 			links: at.ls ?? [],
 		};
 
-		const hasVideoLink = artistDetails.links.some(
-			(l) => l.label.toLowerCase().includes("vidéo") || l.label.toLowerCase().includes("video"),
-		);
-		if (!hasVideoLink) {
-			const overrideUrl = youtubeOverridesNormalized.get(at.te.toLowerCase().trim());
-			if (overrideUrl) {
-				artistDetails.links = [...artistDetails.links, { label: "Vidéo officielle", url: overrideUrl }];
-			}
+		const overrideUrl = youtubeOverridesNormalized.get(at.te.toLowerCase().trim());
+		if (overrideUrl) {
+			artistDetails.links = [
+				...artistDetails.links.filter(
+					(l) => !l.label.toLowerCase().includes("vidéo") && !l.label.toLowerCase().includes("video"),
+				),
+				{ label: "Vidéo officielle", url: overrideUrl },
+			];
 		}
 
 		return {
