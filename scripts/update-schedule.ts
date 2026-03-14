@@ -6,7 +6,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import vm from "node:vm";
-import type { ArtistLink, Row } from "../src/data.ts";
+import type { ArtistDetails, ArtistLink, Row } from "../src/data.ts";
 
 interface Venue {
 	id: number;
@@ -38,6 +38,7 @@ interface MamData {
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const outPath = path.join(__dirname, "../assets/schedule.json");
+const overridesPath = path.join(__dirname, "../assets/youtube-overrides.json");
 
 const url = "https://www.feq.ca/fr/programmation";
 console.log(`Fetching ${url}...`);
@@ -109,6 +110,22 @@ console.log(`Extracted data literal: ${jsLiteral.length} chars`);
 const raw = vm.runInNewContext(`(${jsLiteral})`, {}) as [unknown, { data: { mamData: MamData } }];
 console.log(`Parsed successfully. Top-level entries: ${raw.length}`);
 
+let youtubeOverrides: Record<string, string> = {};
+try {
+	const overridesRaw = await fs.readFile(overridesPath, "utf-8");
+	youtubeOverrides = JSON.parse(overridesRaw) as Record<string, string>;
+	console.log(`Loaded ${Object.keys(youtubeOverrides).length} YouTube overrides`);
+} catch (err: unknown) {
+	if ((err as NodeJS.ErrnoException).code === "ENOENT") {
+		console.log("No youtube-overrides.json found, skipping overrides");
+	} else {
+		throw err;
+	}
+}
+const youtubeOverridesNormalized = new Map(
+	Object.entries(youtubeOverrides).map(([name, url]) => [name.toLowerCase().trim(), url]),
+);
+
 // Transform
 const { ci, ve, sw } = raw[1].data.mamData;
 
@@ -145,20 +162,32 @@ const rows: Row[] = sw
 		const edt = toEDT(show.st);
 		const venue = venueById[show.ve];
 		const at = show.at;
+		const artistDetails: ArtistDetails = {
+			name: at.te,
+			country: at.cy === "Montréal" ? "Québec" : at.cy,
+			genre: at.sc.name,
+			description: at.ds ? htmlToText(at.ds) : undefined,
+			imageUrl: at.dl ? ci + at.dl : undefined,
+			links: at.ls ?? [],
+		};
+
+		const hasVideoLink = artistDetails.links.some(
+			(l) => l.label.toLowerCase().includes("vidéo") || l.label.toLowerCase().includes("video"),
+		);
+		if (!hasVideoLink) {
+			const overrideUrl = youtubeOverridesNormalized.get(at.te.toLowerCase().trim());
+			if (overrideUrl) {
+				artistDetails.links = [...artistDetails.links, { label: "Vidéo officielle", url: overrideUrl }];
+			}
+		}
+
 		return {
 			dateStr: localDateStr(edt),
 			venue: venue.ln,
 			paid: venue.tt,
 			time: localTimeStr(edt),
 			artist: at.te,
-			artistDetails: {
-				name: at.te,
-				country: at.cy === "Montréal" ? "Québec" : at.cy,
-				genre: at.sc.name,
-				description: at.ds ? htmlToText(at.ds) : undefined,
-				imageUrl: at.dl ? ci + at.dl : undefined,
-				links: at.ls ?? [],
-			},
+			artistDetails,
 		};
 	})
 	.sort(
