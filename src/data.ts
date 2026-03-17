@@ -30,7 +30,7 @@ export type Row = {
 };
 
 export const schedule: Map<string, Row[]> = new Map();
-for (const row of rows as unknown as Row[]) {
+for (const row of rows) {
 	const group = schedule.get(row.dateStr);
 	if (group) {
 		group.push(row);
