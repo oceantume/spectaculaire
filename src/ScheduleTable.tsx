@@ -59,16 +59,16 @@ export function ScheduleTable() {
 				<table class="w-full text-sm border-collapse">
 					<thead>
 						<tr class="text-left text-xs text-gray-500 uppercase tracking-wide">
-							<th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Lieu</th>
-							{!showFreeOnly && <th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Passe?</th>}
+							<th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white">Lieu</th>
+							{!showFreeOnly && <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white">Passe?</th>}
 							<th
-								class="py-1 px-2 font-medium sticky top-0 z-20 bg-white cursor-pointer select-none"
+								class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white cursor-pointer select-none"
 								onClick={() => setSortByTime((v) => !v)}
 							>
 								<span class={sortByTime ? "underline text-gray-900" : ""}>Début</span>
 							</th>
-							<th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Artiste</th>
-							<th class="py-1 px-2 font-medium sticky top-0 z-20 bg-white">Genre</th>
+							<th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white">Artiste</th>
+							<th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white hidden xs:table-cell">Genre</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -81,17 +81,17 @@ export function ScheduleTable() {
 								<>
 									<tr class="day-header bg-gray-100">
 										<th
-											colspan={showFreeOnly ? 4 : 5}
-											class="py-2 px-2 text-left text-sm font-semibold text-gray-700 capitalize sticky top-6 z-10 bg-gray-100"
+											colspan={10}
+											class="py-2 px-1 sm:px-2 text-left text-sm font-semibold text-gray-700 capitalize sticky top-6 z-10 bg-gray-100"
 										>
 											{formatDayHeader(dateStr)}
 										</th>
 									</tr>
 									{filtered.map((row) => (
 										<tr class="border-b border-gray-100 hover:bg-gray-50">
-											<td class="py-1 px-2 text-gray-700">{row.venue}</td>
+											<td class="py-1 px-1 sm:px-2 text-gray-700">{row.venue}</td>
 											{!showFreeOnly && (
-												<td class="py-1 px-2">
+												<td class="py-1 px-1 sm:px-2">
 													{row.paid ? (
 														<span class="text-xs px-1.5 py-0.5 rounded bg-amber-100 text-amber-800">Payant</span>
 													) : (
@@ -99,8 +99,8 @@ export function ScheduleTable() {
 													)}
 												</td>
 											)}
-											<td class="py-1 px-2 tabular-nums text-gray-600">{row.time}</td>
-											<td class="py-1 px-2 font-medium">
+											<td class="py-1 px-1 sm:px-2 tabular-nums text-gray-600">{row.time}</td>
+											<td class="py-1 px-1 sm:px-2 font-medium">
 												<button
 													type="button"
 													onClick={() => setSelectedArtist(row.artistDetails)}
@@ -119,7 +119,7 @@ export function ScheduleTable() {
 													)}
 												</button>
 											</td>
-											<td class="py-1 px-2 text-gray-500">{row.artistDetails.genre}</td>
+											<td class="py-1 px-1 sm:px-2 text-gray-500 hidden xs:table-cell">{row.artistDetails.genre}</td>
 										</tr>
 									))}
 								</>

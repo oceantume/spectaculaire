@@ -5,5 +5,10 @@
 	},
 	"formatter": {
 		"lineWidth": 120
+	},
+	"css": {
+		"parser": {
+			"tailwindDirectives": true
+		}
 	}
 }
