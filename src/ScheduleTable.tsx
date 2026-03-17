@@ -1,19 +1,20 @@
 import { useState } from "preact/hooks";
 import { ArtistDialog } from "./ArtistDialog";
 import { type ArtistDetails, type Row, schedule } from "./data";
+import { useStoredState } from "./useStoredState";
 
 export function ScheduleTable() {
 	const [selectedArtist, setSelectedArtist] = useState<ArtistDetails | null>(null);
-	const [showFreeOnly, setShowFreeOnly] = useState(false);
-	const [showQuebecOnly, setShowQuebecOnly] = useState(false);
-	const [sortByTime, setSortByTime] = useState(false);
+	const [showFreeOnly, setShowFreeOnly] = useStoredState("feq2026:free", false);
+	const [showQuebecOnly, setShowQuebecOnly] = useStoredState("feq2026:quebec", false);
+	const [sortByStart, setSortByStart] = useStoredState("feq2026:start", false);
 
 	const filteredArtists = Array.from(schedule.values())
 		.flatMap((rows) => {
 			let r = rows;
 			if (showFreeOnly) r = r.filter((row) => !row.paid);
 			if (showQuebecOnly) r = r.filter((row) => row.artistDetails.country === "Québec");
-			if (sortByTime) r = sortRows(r);
+			if (sortByStart) r = sortRows(r);
 			return r;
 		})
 		.map((r) => r.artistDetails);
@@ -63,9 +64,9 @@ export function ScheduleTable() {
 							{!showFreeOnly && <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white">Passe?</th>}
 							<th
 								class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white cursor-pointer select-none"
-								onClick={() => setSortByTime((v) => !v)}
+								onClick={() => setSortByStart((v) => !v)}
 							>
-								<span class={sortByTime ? "underline text-gray-900" : ""}>Début</span>
+								<span class={sortByStart ? "underline text-gray-900" : ""}>Début</span>
 							</th>
 							<th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white">Artiste</th>
 							<th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white hidden xs:table-cell">Genre</th>
@@ -75,7 +76,7 @@ export function ScheduleTable() {
 						{Array.from(schedule.entries()).map(([dateStr, rows]) => {
 							let filtered = showFreeOnly ? rows.filter((r) => !r.paid) : rows;
 							if (showQuebecOnly) filtered = filtered.filter((r) => r.artistDetails.country === "Québec");
-							if (sortByTime) filtered = sortRows(filtered);
+							if (sortByStart) filtered = sortRows(filtered);
 							if (filtered.length === 0) return null;
 							return (
 								<>
