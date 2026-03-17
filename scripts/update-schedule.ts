@@ -38,7 +38,7 @@ interface MamData {
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const scheduleOutPath = path.join(__dirname, "../assets/schedule.json");
-const artistDetailsOutPath = path.join(__dirname, "../public/assets/artist-details.json");
+const artistDetailsOutPath = path.join(__dirname, "../assets/artist-details.json");
 const overridesPath = path.join(__dirname, "../assets/youtube-overrides.json");
 
 const url = "https://www.feq.ca/fr/programmation";

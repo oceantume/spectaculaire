@@ -40,12 +40,10 @@ for (const row of rows) {
 }
 
 let artistDetailsCache: ArtistDetailsByName | null = null;
-export const artistDetailsFetch = fetch("/assets/artist-details.json")
-	.then((r) => r.json() as Promise<ArtistDetailsByName>)
-	.then((d) => {
-		artistDetailsCache = d;
-		return d;
-	});
+export const artistDetailsFetch = import("../assets/artist-details.json").then((m) => {
+	artistDetailsCache = m.default as ArtistDetailsByName;
+	return artistDetailsCache;
+});
 export function getArtistDetails() {
 	return artistDetailsCache;
 }
