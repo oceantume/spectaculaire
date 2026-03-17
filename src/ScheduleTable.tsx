@@ -1,6 +1,13 @@
-import { useState } from "preact/hooks";
+import { useEffect, useState } from "preact/hooks";
 import { ArtistDialog } from "./ArtistDialog";
-import { type ArtistDetails, type Row, schedule } from "./data";
+import {
+	type ArtistDetails,
+	type ArtistDetailsByName,
+	artistDetailsFetch,
+	getArtistDetails,
+	type Row,
+	schedule,
+} from "./data";
 import { useStoredState } from "./useStoredState";
 
 export function ScheduleTable() {
@@ -8,23 +15,38 @@ export function ScheduleTable() {
 	const [showFreeOnly, setShowFreeOnly] = useStoredState("feq2026:free", false);
 	const [showQuebecOnly, setShowQuebecOnly] = useStoredState("feq2026:quebec", false);
 	const [sortByStart, setSortByStart] = useStoredState("feq2026:start", false);
+	const [artistDetails, setArtistDetails] = useState<ArtistDetailsByName | null>(getArtistDetails());
 
-	const filteredArtists = Array.from(schedule.values())
-		.flatMap((rows) => {
-			let r = rows;
-			if (showFreeOnly) r = r.filter((row) => !row.paid);
-			if (showQuebecOnly) r = r.filter((row) => row.artistDetails.country === "Québec");
-			if (sortByStart) r = sortRows(r);
-			return r;
-		})
-		.map((r) => r.artistDetails);
+	useEffect(() => {
+		if (!artistDetails) artistDetailsFetch.then(setArtistDetails);
+	}, []);
+
+	const filteredRows = Array.from(schedule.values()).flatMap((rows) => {
+		let r = rows;
+		if (showFreeOnly) r = r.filter((row) => !row.paid);
+		if (showQuebecOnly) r = r.filter((row) => row.country === "Québec");
+		if (sortByStart) r = sortRows(r);
+		return r;
+	});
+
+	function rowToArtistDetails(row: Row): ArtistDetails {
+		const details = artistDetails?.[row.artist];
+		return {
+			name: row.artist,
+			country: row.country,
+			genre: row.genre,
+			description: details?.description,
+			imageUrl: details?.imageUrl,
+			links: details?.links ?? [],
+		};
+	}
 
 	function navigate(delta: -1 | 1) {
 		if (!selectedArtist) return;
-		const idx = filteredArtists.indexOf(selectedArtist);
+		const idx = filteredRows.findIndex((r) => r.artist === selectedArtist.name);
 		if (idx === -1) return;
-		const next = (idx + delta + filteredArtists.length) % filteredArtists.length;
-		setSelectedArtist(filteredArtists[next]);
+		const next = (idx + delta + filteredRows.length) % filteredRows.length;
+		setSelectedArtist(rowToArtistDetails(filteredRows[next]));
 	}
 
 	return (
@@ -75,7 +97,7 @@ export function ScheduleTable() {
 					<tbody>
 						{Array.from(schedule.entries()).map(([dateStr, rows]) => {
 							let filtered = showFreeOnly ? rows.filter((r) => !r.paid) : rows;
-							if (showQuebecOnly) filtered = filtered.filter((r) => r.artistDetails.country === "Québec");
+							if (showQuebecOnly) filtered = filtered.filter((r) => r.country === "Québec");
 							if (sortByStart) filtered = sortRows(filtered);
 							if (filtered.length === 0) return null;
 							return (
@@ -104,10 +126,10 @@ export function ScheduleTable() {
 											<td class="py-1 px-1 sm:px-2 font-medium">
 												<button
 													type="button"
-													onClick={() => setSelectedArtist(row.artistDetails)}
+													onClick={() => setSelectedArtist(rowToArtistDetails(row))}
 													class="cursor-pointer underline text-left"
 												>
-													{row.artistDetails.country === "Québec" ? (
+													{row.country === "Québec" ? (
 														<>
 															{row.artist.slice(0, row.artist.lastIndexOf(" ") + 1)}
 															<span class="whitespace-nowrap">
@@ -120,7 +142,7 @@ export function ScheduleTable() {
 													)}
 												</button>
 											</td>
-											<td class="py-1 px-1 sm:px-2 text-gray-500 hidden xs:table-cell">{row.artistDetails.genre}</td>
+											<td class="py-1 px-1 sm:px-2 text-gray-500 hidden xs:table-cell">{row.genre}</td>
 										</tr>
 									))}
 								</>

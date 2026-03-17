@@ -6,7 +6,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import vm from "node:vm";
-import type { ArtistDetails, ArtistLink, Row } from "../src/data.ts";
+import type { ArtistDetailEntry, ArtistLink, Row } from "../src/data.ts";
 
 interface Venue {
 	id: number;
@@ -37,7 +37,8 @@ interface MamData {
 }
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const outPath = path.join(__dirname, "../assets/schedule.json");
+const scheduleOutPath = path.join(__dirname, "../assets/schedule.json");
+const artistDetailsOutPath = path.join(__dirname, "../public/assets/artist-details.json");
 const overridesPath = path.join(__dirname, "../assets/youtube-overrides.json");
 
 const url = "https://www.feq.ca/fr/programmation";
@@ -157,46 +158,65 @@ function htmlToText(html: string): string {
 		.trim();
 }
 
-const rows: Row[] = sw
+interface ShowWithDetails {
+	row: Row;
+	details: ArtistDetailEntry;
+}
+
+const showsWithDetails: ShowWithDetails[] = sw
 	.map((show) => {
 		const edt = toEDT(show.st);
 		const venue = venueById[show.ve];
 		const at = show.at;
-		const artistDetails: ArtistDetails = {
-			name: at.te,
-			country: at.cy === "Montréal" ? "Québec" : at.cy,
-			genre: at.sc.name,
-			description: at.ds ? htmlToText(at.ds) : undefined,
-			imageUrl: at.dl ? ci + at.dl : undefined,
-			links: at.ls ?? [],
-		};
+		const country = at.cy === "Montréal" ? "Québec" : at.cy;
+		const genre = at.sc.name;
 
+		let links: ArtistLink[] = at.ls ?? [];
 		const overrideUrl = youtubeOverridesNormalized.get(at.te.toLowerCase().trim());
 		if (overrideUrl) {
-			artistDetails.links = [
-				...artistDetails.links.filter(
+			links = [
+				...links.filter(
 					(l) => !l.label.toLowerCase().includes("vidéo") && !l.label.toLowerCase().includes("video"),
 				),
 				{ label: "Vidéo officielle", url: overrideUrl },
 			];
 		}
 
-		return {
+		const row: Row = {
 			dateStr: localDateStr(edt),
 			venue: venue.ln,
 			paid: venue.tt,
 			time: localTimeStr(edt),
 			artist: at.te,
-			artistDetails,
+			country,
+			genre,
 		};
+
+		const details: ArtistDetailEntry = {
+			description: at.ds ? htmlToText(at.ds) : undefined,
+			imageUrl: at.dl ? ci + at.dl : undefined,
+			links,
+		};
+
+		return { row, details };
 	})
 	.sort(
 		(a, b) =>
-			a.dateStr.localeCompare(b.dateStr) ||
-			(b.paid ? 1 : 0) - (a.paid ? 1 : 0) ||
-			venueOrderByLn[a.venue] - venueOrderByLn[b.venue] ||
-			a.time.localeCompare(b.time),
+			a.row.dateStr.localeCompare(b.row.dateStr) ||
+			(b.row.paid ? 1 : 0) - (a.row.paid ? 1 : 0) ||
+			venueOrderByLn[a.row.venue] - venueOrderByLn[b.row.venue] ||
+			a.row.time.localeCompare(b.row.time),
 	);
 
-await fs.writeFile(outPath, JSON.stringify(rows, null, 2));
-console.log(`Written ${rows.length} rows to ${outPath}`);
+const rows: Row[] = showsWithDetails.map((s) => s.row);
+const artistDetailsMap: Record<string, ArtistDetailEntry> = {};
+for (const { row, details } of showsWithDetails) {
+	artistDetailsMap[row.artist] = details;
+}
+
+await fs.writeFile(scheduleOutPath, JSON.stringify(rows, null, 2));
+console.log(`Written ${rows.length} rows to ${scheduleOutPath}`);
+
+await fs.mkdir(path.dirname(artistDetailsOutPath), { recursive: true });
+await fs.writeFile(artistDetailsOutPath, JSON.stringify(artistDetailsMap, null, 2));
+console.log(`Written ${Object.keys(artistDetailsMap).length} artist details to ${artistDetailsOutPath}`);
