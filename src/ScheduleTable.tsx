@@ -95,7 +95,7 @@ export function ScheduleTable() {
 						</tr>
 					</thead>
 					<tbody>
-						{Array.from(schedule.entries()).map(([dateStr, rows]) => {
+						{Array.from(schedule.entries()).map(([date, rows]) => {
 							let filtered = showFreeOnly ? rows.filter((r) => !r.paid) : rows;
 							if (showQuebecOnly) filtered = filtered.filter((r) => r.country === "Québec");
 							if (sortByStart) filtered = sortRows(filtered);
@@ -107,7 +107,7 @@ export function ScheduleTable() {
 											colspan={10}
 											class="py-2 px-1 sm:px-2 text-left text-sm font-semibold text-gray-700 capitalize sticky top-6 z-10 bg-gray-100"
 										>
-											{formatDayHeader(dateStr)}
+											{formatDayHeader(date)}
 										</th>
 									</tr>
 									{filtered.map((row) => (
@@ -161,10 +161,10 @@ export function ScheduleTable() {
 	);
 }
 
-function formatDayHeader(dateStr: string): string {
-	const [year, month, day] = dateStr.split("-").map(Number);
-	const date = new Date(year, month - 1, day);
-	return date.toLocaleDateString("fr-CA", {
+function formatDayHeader(date: string): string {
+	const [year, month, day] = date.split("-").map(Number);
+	const d = new Date(year, month - 1, day);
+	return d.toLocaleDateString("fr-CA", {
 		weekday: "long",
 		day: "numeric",
 		month: "long",

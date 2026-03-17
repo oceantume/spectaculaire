@@ -183,7 +183,7 @@ const showsWithDetails: ShowWithDetails[] = sw
 		}
 
 		const row: Row = {
-			dateStr: localDateStr(edt),
+			date: localDateStr(edt),
 			venue: venue.ln,
 			paid: venue.tt,
 			time: localTimeStr(edt),
@@ -202,7 +202,7 @@ const showsWithDetails: ShowWithDetails[] = sw
 	})
 	.sort(
 		(a, b) =>
-			a.row.dateStr.localeCompare(b.row.dateStr) ||
+			a.row.date.localeCompare(b.row.date) ||
 			(b.row.paid ? 1 : 0) - (a.row.paid ? 1 : 0) ||
 			venueOrderByLn[a.row.venue] - venueOrderByLn[b.row.venue] ||
 			a.row.time.localeCompare(b.row.time),

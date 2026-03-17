@@ -1,6 +1,6 @@
 [
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "19:00",
@@ -9,7 +9,7 @@
     "genre": "Rock"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "20:00",
@@ -18,7 +18,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "21:30",
@@ -27,7 +27,7 @@
     "genre": "Nu-Metal"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Place George-V",
     "paid": true,
     "time": "17:50",
@@ -36,7 +36,7 @@
     "genre": "Indie rock"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Place George-V",
     "paid": true,
     "time": "18:25",
@@ -45,7 +45,7 @@
     "genre": "Indie pop"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Place George-V",
     "paid": true,
     "time": "19:10",
@@ -54,7 +54,7 @@
     "genre": "Indie rock"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Place George-V",
     "paid": true,
     "time": "20:00",
@@ -63,7 +63,7 @@
     "genre": "Pop rock"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Place George-V",
     "paid": true,
     "time": "21:15",
@@ -72,7 +72,7 @@
     "genre": "Chanson"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Manège militaire",
     "paid": true,
     "time": "22:30",
@@ -81,7 +81,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Manège militaire",
     "paid": true,
     "time": "23:30",
@@ -90,7 +90,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "18:00",
@@ -99,7 +99,7 @@
     "genre": "Dub"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "19:30",
@@ -108,7 +108,7 @@
     "genre": "Reggae"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "21:00",
@@ -117,7 +117,7 @@
     "genre": "Reggae"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "18:00",
@@ -126,7 +126,7 @@
     "genre": "Folk"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "19:15",
@@ -135,7 +135,7 @@
     "genre": "Électro-pop"
   },
   {
-    "dateStr": "2026-07-09",
+    "date": "2026-07-09",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "20:45",
@@ -144,7 +144,7 @@
     "genre": "Pop"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "19:00",
@@ -153,7 +153,7 @@
     "genre": "Indie folk"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "20:00",
@@ -162,7 +162,7 @@
     "genre": "Country"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "21:30",
@@ -171,7 +171,7 @@
     "genre": "Folk rock"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Place George-V",
     "paid": true,
     "time": "17:50",
@@ -180,7 +180,7 @@
     "genre": "Reggae"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Place George-V",
     "paid": true,
     "time": "18:25",
@@ -189,7 +189,7 @@
     "genre": "R&B Soul"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Place George-V",
     "paid": true,
     "time": "19:10",
@@ -198,7 +198,7 @@
     "genre": "Reggae"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Place George-V",
     "paid": true,
     "time": "20:00",
@@ -207,7 +207,7 @@
     "genre": "Funk"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Place George-V",
     "paid": true,
     "time": "21:15",
@@ -216,7 +216,7 @@
     "genre": "Reggae"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Manège militaire",
     "paid": true,
     "time": "22:30",
@@ -225,7 +225,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Manège militaire",
     "paid": true,
     "time": "23:30",
@@ -234,7 +234,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "18:00",
@@ -243,7 +243,7 @@
     "genre": "Cumbia"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "19:30",
@@ -252,7 +252,7 @@
     "genre": "Cumbia"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "21:00",
@@ -261,7 +261,7 @@
     "genre": "Cumbia"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "19:15",
@@ -270,7 +270,7 @@
     "genre": "Chanson"
   },
   {
-    "dateStr": "2026-07-10",
+    "date": "2026-07-10",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "20:45",
@@ -279,7 +279,7 @@
     "genre": "Chanson"
   },
   {
-    "dateStr": "2026-07-11",
+    "date": "2026-07-11",
     "venue": "Place George-V",
     "paid": true,
     "time": "17:50",
@@ -288,7 +288,7 @@
     "genre": "Metal"
   },
   {
-    "dateStr": "2026-07-11",
+    "date": "2026-07-11",
     "venue": "Place George-V",
     "paid": true,
     "time": "18:25",
@@ -297,7 +297,7 @@
     "genre": "Metal"
   },
   {
-    "dateStr": "2026-07-11",
+    "date": "2026-07-11",
     "venue": "Place George-V",
     "paid": true,
     "time": "19:10",
@@ -306,7 +306,7 @@
     "genre": "Metal"
   },
   {
-    "dateStr": "2026-07-11",
+    "date": "2026-07-11",
     "venue": "Place George-V",
     "paid": true,
     "time": "20:00",
@@ -315,7 +315,7 @@
     "genre": "Metal"
   },
   {
-    "dateStr": "2026-07-11",
+    "date": "2026-07-11",
     "venue": "Place George-V",
     "paid": true,
     "time": "21:15",
@@ -324,7 +324,7 @@
     "genre": "Metal"
   },
   {
-    "dateStr": "2026-07-11",
+    "date": "2026-07-11",
     "venue": "Manège militaire",
     "paid": true,
     "time": "22:30",
@@ -333,7 +333,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-11",
+    "date": "2026-07-11",
     "venue": "Manège militaire",
     "paid": true,
     "time": "23:30",
@@ -342,7 +342,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-11",
+    "date": "2026-07-11",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "18:00",
@@ -351,7 +351,7 @@
     "genre": "Indie folk"
   },
   {
-    "dateStr": "2026-07-11",
+    "date": "2026-07-11",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "19:30",
@@ -360,7 +360,7 @@
     "genre": "Folk rock"
   },
   {
-    "dateStr": "2026-07-11",
+    "date": "2026-07-11",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "21:00",
@@ -369,7 +369,7 @@
     "genre": "Folk pop"
   },
   {
-    "dateStr": "2026-07-11",
+    "date": "2026-07-11",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "18:00",
@@ -378,7 +378,7 @@
     "genre": "Jazz"
   },
   {
-    "dateStr": "2026-07-11",
+    "date": "2026-07-11",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "19:15",
@@ -387,7 +387,7 @@
     "genre": "Jazz"
   },
   {
-    "dateStr": "2026-07-11",
+    "date": "2026-07-11",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "20:45",
@@ -396,7 +396,7 @@
     "genre": "Jazz"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "19:00",
@@ -405,7 +405,7 @@
     "genre": "R&B Soul"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "20:00",
@@ -414,7 +414,7 @@
     "genre": "Jazz"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "21:30",
@@ -423,7 +423,7 @@
     "genre": "Jazz"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Place George-V",
     "paid": true,
     "time": "17:50",
@@ -432,7 +432,7 @@
     "genre": "Indie pop"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Place George-V",
     "paid": true,
     "time": "18:25",
@@ -441,7 +441,7 @@
     "genre": "Indie"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Place George-V",
     "paid": true,
     "time": "19:10",
@@ -450,7 +450,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Place George-V",
     "paid": true,
     "time": "20:00",
@@ -459,7 +459,7 @@
     "genre": "Indie pop"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Place George-V",
     "paid": true,
     "time": "21:15",
@@ -468,7 +468,7 @@
     "genre": "Pop"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Manège militaire",
     "paid": true,
     "time": "22:30",
@@ -477,7 +477,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Manège militaire",
     "paid": true,
     "time": "23:30",
@@ -486,7 +486,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "18:00",
@@ -495,7 +495,7 @@
     "genre": "R&B Soul"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "19:30",
@@ -504,7 +504,7 @@
     "genre": "Indie rock"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "21:00",
@@ -513,7 +513,7 @@
     "genre": "Indie rock"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "18:00",
@@ -522,7 +522,7 @@
     "genre": "Punk rock"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "19:15",
@@ -531,7 +531,7 @@
     "genre": "Punk"
   },
   {
-    "dateStr": "2026-07-12",
+    "date": "2026-07-12",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "20:45",
@@ -540,7 +540,7 @@
     "genre": "Post-Punk"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "19:00",
@@ -549,7 +549,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "19:45",
@@ -558,7 +558,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "21:00",
@@ -567,7 +567,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Place George-V",
     "paid": true,
     "time": "17:50",
@@ -576,7 +576,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Place George-V",
     "paid": true,
     "time": "18:25",
@@ -585,7 +585,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Place George-V",
     "paid": true,
     "time": "19:10",
@@ -594,7 +594,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Place George-V",
     "paid": true,
     "time": "20:00",
@@ -603,7 +603,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Place George-V",
     "paid": true,
     "time": "21:15",
@@ -612,7 +612,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Manège militaire",
     "paid": true,
     "time": "22:30",
@@ -621,7 +621,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Manège militaire",
     "paid": true,
     "time": "23:30",
@@ -630,7 +630,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "18:00",
@@ -639,7 +639,7 @@
     "genre": "Folk"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "19:30",
@@ -648,7 +648,7 @@
     "genre": "Folk"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "21:00",
@@ -657,7 +657,7 @@
     "genre": "Soul"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "18:00",
@@ -666,7 +666,7 @@
     "genre": "Expérimental"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "19:15",
@@ -675,7 +675,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-13",
+    "date": "2026-07-13",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "20:45",
@@ -684,7 +684,7 @@
     "genre": "Instrumental"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "19:00",
@@ -693,7 +693,7 @@
     "genre": "Indie"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "20:00",
@@ -702,7 +702,7 @@
     "genre": "Chanson"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "21:30",
@@ -711,7 +711,7 @@
     "genre": "Indie rock"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Place George-V",
     "paid": true,
     "time": "17:50",
@@ -720,7 +720,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Place George-V",
     "paid": true,
     "time": "18:25",
@@ -729,7 +729,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Place George-V",
     "paid": true,
     "time": "19:10",
@@ -738,7 +738,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Place George-V",
     "paid": true,
     "time": "20:00",
@@ -747,7 +747,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Place George-V",
     "paid": true,
     "time": "21:15",
@@ -756,7 +756,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Manège militaire",
     "paid": true,
     "time": "22:30",
@@ -765,7 +765,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Manège militaire",
     "paid": true,
     "time": "23:30",
@@ -774,7 +774,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "18:00",
@@ -783,7 +783,7 @@
     "genre": "Pop"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "19:30",
@@ -792,7 +792,7 @@
     "genre": "Funk"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "21:00",
@@ -801,7 +801,7 @@
     "genre": "Folk"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "18:00",
@@ -810,7 +810,7 @@
     "genre": "Post-Punk"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "19:15",
@@ -819,7 +819,7 @@
     "genre": "Rock"
   },
   {
-    "dateStr": "2026-07-14",
+    "date": "2026-07-14",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "20:45",
@@ -828,7 +828,7 @@
     "genre": "Indie rock"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "19:00",
@@ -837,7 +837,7 @@
     "genre": "Pop punk"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "20:15",
@@ -846,7 +846,7 @@
     "genre": "Reggae"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "21:45",
@@ -855,7 +855,7 @@
     "genre": "Pop"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Place George-V",
     "paid": true,
     "time": "17:50",
@@ -864,7 +864,7 @@
     "genre": "Indie folk"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Place George-V",
     "paid": true,
     "time": "18:25",
@@ -873,7 +873,7 @@
     "genre": "Folk pop"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Place George-V",
     "paid": true,
     "time": "19:10",
@@ -882,7 +882,7 @@
     "genre": "Folk"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Place George-V",
     "paid": true,
     "time": "20:00",
@@ -891,7 +891,7 @@
     "genre": "Indie rock"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Place George-V",
     "paid": true,
     "time": "21:15",
@@ -900,7 +900,7 @@
     "genre": "Folk"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Manège militaire",
     "paid": true,
     "time": "22:30",
@@ -909,7 +909,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Manège militaire",
     "paid": true,
     "time": "23:30",
@@ -918,7 +918,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "18:00",
@@ -927,7 +927,7 @@
     "genre": "Musique du monde"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "19:30",
@@ -936,7 +936,7 @@
     "genre": "Afrobeat"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "21:00",
@@ -945,7 +945,7 @@
     "genre": "Musique du monde"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "18:00",
@@ -954,7 +954,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "19:15",
@@ -963,7 +963,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-15",
+    "date": "2026-07-15",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "20:45",
@@ -972,7 +972,7 @@
     "genre": "R&B Soul"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "19:00",
@@ -981,7 +981,7 @@
     "genre": "Pop"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "20:00",
@@ -990,7 +990,7 @@
     "genre": "R&B Soul"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "21:30",
@@ -999,7 +999,7 @@
     "genre": "Pop"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Place George-V",
     "paid": true,
     "time": "17:50",
@@ -1008,7 +1008,7 @@
     "genre": "Country"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Place George-V",
     "paid": true,
     "time": "18:25",
@@ -1017,7 +1017,7 @@
     "genre": "Country"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Place George-V",
     "paid": true,
     "time": "19:10",
@@ -1026,7 +1026,7 @@
     "genre": "Country"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Place George-V",
     "paid": true,
     "time": "20:00",
@@ -1035,7 +1035,7 @@
     "genre": "Country"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Place George-V",
     "paid": true,
     "time": "21:15",
@@ -1044,7 +1044,7 @@
     "genre": "Country"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Manège militaire",
     "paid": true,
     "time": "22:30",
@@ -1053,7 +1053,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Manège militaire",
     "paid": true,
     "time": "23:30",
@@ -1062,7 +1062,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "18:00",
@@ -1071,7 +1071,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "19:30",
@@ -1080,7 +1080,7 @@
     "genre": "Électro-pop"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "21:00",
@@ -1089,7 +1089,7 @@
     "genre": "Rap / Hip-hop"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "18:00",
@@ -1098,7 +1098,7 @@
     "genre": "Indie"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "19:15",
@@ -1107,7 +1107,7 @@
     "genre": "Indie folk"
   },
   {
-    "dateStr": "2026-07-16",
+    "date": "2026-07-16",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "20:45",
@@ -1116,7 +1116,7 @@
     "genre": "Folk"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "19:00",
@@ -1125,7 +1125,7 @@
     "genre": "Rock Alternatif"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "20:00",
@@ -1134,7 +1134,7 @@
     "genre": "Rock"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "21:30",
@@ -1143,7 +1143,7 @@
     "genre": "Rock"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Place George-V",
     "paid": true,
     "time": "17:50",
@@ -1152,7 +1152,7 @@
     "genre": "Indie pop"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Place George-V",
     "paid": true,
     "time": "18:25",
@@ -1161,7 +1161,7 @@
     "genre": "Indie rock"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Place George-V",
     "paid": true,
     "time": "19:10",
@@ -1170,7 +1170,7 @@
     "genre": "Indie pop"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Place George-V",
     "paid": true,
     "time": "20:00",
@@ -1179,7 +1179,7 @@
     "genre": "Pop psychédélique"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Place George-V",
     "paid": true,
     "time": "21:15",
@@ -1188,7 +1188,7 @@
     "genre": "Indie rock"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Manège militaire",
     "paid": true,
     "time": "22:30",
@@ -1197,7 +1197,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "18:00",
@@ -1206,7 +1206,7 @@
     "genre": "Musique du monde"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "19:30",
@@ -1215,7 +1215,7 @@
     "genre": "Musique du monde"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "21:00",
@@ -1224,7 +1224,7 @@
     "genre": "Reggae"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "18:00",
@@ -1233,7 +1233,7 @@
     "genre": "Rock"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "19:15",
@@ -1242,7 +1242,7 @@
     "genre": "Chanson"
   },
   {
-    "dateStr": "2026-07-17",
+    "date": "2026-07-17",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "20:45",
@@ -1251,7 +1251,7 @@
     "genre": "Chanson"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "19:00",
@@ -1260,7 +1260,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "19:45",
@@ -1269,7 +1269,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "20:45",
@@ -1278,7 +1278,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "22:00",
@@ -1287,7 +1287,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Place George-V",
     "paid": true,
     "time": "17:50",
@@ -1296,7 +1296,7 @@
     "genre": "Punk rock"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Place George-V",
     "paid": true,
     "time": "18:25",
@@ -1305,7 +1305,7 @@
     "genre": "Punk"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Place George-V",
     "paid": true,
     "time": "19:10",
@@ -1314,7 +1314,7 @@
     "genre": "Métal / Punk"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Place George-V",
     "paid": true,
     "time": "20:00",
@@ -1323,7 +1323,7 @@
     "genre": "Rock"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Place George-V",
     "paid": true,
     "time": "21:15",
@@ -1332,7 +1332,7 @@
     "genre": "Punk rock"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Manège militaire",
     "paid": true,
     "time": "22:30",
@@ -1341,7 +1341,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Manège militaire",
     "paid": true,
     "time": "23:30",
@@ -1350,7 +1350,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "18:00",
@@ -1359,7 +1359,7 @@
     "genre": "Pop"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "19:30",
@@ -1368,7 +1368,7 @@
     "genre": "Rock"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "21:00",
@@ -1377,7 +1377,7 @@
     "genre": "Chanson"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "18:00",
@@ -1386,7 +1386,7 @@
     "genre": "Indie rock"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "19:15",
@@ -1395,7 +1395,7 @@
     "genre": "Folk"
   },
   {
-    "dateStr": "2026-07-18",
+    "date": "2026-07-18",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "20:45",
@@ -1404,7 +1404,7 @@
     "genre": "Folk"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "19:00",
@@ -1413,7 +1413,7 @@
     "genre": "Country"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "20:00",
@@ -1422,7 +1422,7 @@
     "genre": "Rock"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Plaines d'Abraham",
     "paid": true,
     "time": "21:30",
@@ -1431,7 +1431,7 @@
     "genre": "Country"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Place George-V",
     "paid": true,
     "time": "19:10",
@@ -1440,7 +1440,7 @@
     "genre": "Chanson"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Place George-V",
     "paid": true,
     "time": "20:00",
@@ -1449,7 +1449,7 @@
     "genre": "Chanson"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Place George-V",
     "paid": true,
     "time": "21:15",
@@ -1458,7 +1458,7 @@
     "genre": "Chanson"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Manège militaire",
     "paid": true,
     "time": "22:30",
@@ -1467,7 +1467,7 @@
     "genre": "Électro"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Manège militaire",
     "paid": true,
     "time": "23:30",
@@ -1476,7 +1476,7 @@
     "genre": "Cumbia"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "18:00",
@@ -1485,7 +1485,7 @@
     "genre": "Musique du monde"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "19:30",
@@ -1494,7 +1494,7 @@
     "genre": "Musique du monde"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "21:00",
@@ -1503,7 +1503,7 @@
     "genre": "Instrumental"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "18:00",
@@ -1512,7 +1512,7 @@
     "genre": "Rock"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "19:15",
@@ -1521,7 +1521,7 @@
     "genre": "Indie pop"
   },
   {
-    "dateStr": "2026-07-19",
+    "date": "2026-07-19",
     "venue": "Place D’Youville",
     "paid": false,
     "time": "20:45",

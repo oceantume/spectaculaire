@@ -20,7 +20,7 @@ export type ArtistDetailEntry = {
 export type ArtistDetailsByName = Record<string, ArtistDetailEntry>;
 
 export type Row = {
-	dateStr: string;
+	date: string;
 	venue: string;
 	paid: boolean;
 	time: string;
@@ -31,11 +31,11 @@ export type Row = {
 
 export const schedule: Map<string, Row[]> = new Map();
 for (const row of rows) {
-	const group = schedule.get(row.dateStr);
+	const group = schedule.get(row.date);
 	if (group) {
 		group.push(row);
 	} else {
-		schedule.set(row.dateStr, [row]);
+		schedule.set(row.date, [row]);
 	}
 }
 
