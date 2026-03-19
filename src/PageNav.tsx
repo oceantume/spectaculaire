@@ -57,7 +57,7 @@ export function PageNav({ theme, onToggleTheme }: Props) {
       <button
         type="button"
         onClick={onToggleTheme}
-        class={`cursor-pointer p-1 rounded transition-colors ${theme === "dark" ? "text-gray-600 hover:text-gray-500" : "text-gray-300 hover:text-gray-400"}`}
+        class={`cursor-pointer p-1 rounded transition-colors ${theme === "dark" ? "text-gray-300 hover:text-gray-100" : "text-gray-300 hover:text-gray-400"}`}
         aria-label={theme === "dark" ? "Passer au mode clair" : "Passer au mode sombre"}
       >
         {theme === "dark" ? <SunIcon /> : <MoonIcon />}

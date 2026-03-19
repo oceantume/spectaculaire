@@ -81,7 +81,7 @@ export function ScheduleTable() {
         </div>
         <table class="w-full text-sm border-collapse">
           <thead>
-            <tr class="text-left text-xs text-gray-500 uppercase tracking-wide">
+            <tr class="text-left text-xs text-gray-500 dark:text-gray-400 uppercase tracking-wide">
               <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Lieu</th>
               {!showFreeOnly && (
                 <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Passe?</th>
