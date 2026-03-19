@@ -59,7 +59,7 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 			onClick={handleBackdropClick}
 			onKeyDown={handleKeyDown}
 			onCancel={handleCancel}
-			class="rounded-xl shadow-2xl p-0 max-w-lg w-full backdrop:bg-black/50 open:flex open:flex-col"
+			class="rounded-xl shadow-2xl p-0 max-w-lg w-full backdrop:bg-black/50 open:flex open:flex-col dark:bg-gray-800"
 		>
 			{artist && (
 				<div class="flex flex-col">
@@ -125,13 +125,13 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 					) : (
 						<div class="flex items-start justify-between gap-4 p-4 pb-2">
 							<div class="flex-1 min-w-0">
-								<h2 class="text-xl font-bold text-gray-900">{artist.name}</h2>
-								{artist.country && <p class="text-sm text-gray-500">{artist.country}</p>}
+								<h2 class="text-xl font-bold text-gray-900 dark:text-white">{artist.name}</h2>
+								{artist.country && <p class="text-sm text-gray-500 dark:text-gray-400">{artist.country}</p>}
 							</div>
 							<button
 								type="button"
 								onClick={onClose}
-								class="text-gray-400 hover:text-gray-600 text-xl leading-none flex-shrink-0 cursor-pointer"
+								class="text-gray-400 hover:text-gray-600 dark:text-gray-500 dark:hover:text-gray-300 text-xl leading-none flex-shrink-0 cursor-pointer"
 								aria-label="Fermer"
 							>
 								×
@@ -140,13 +140,15 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 					)}
 
 					<div class="px-4 pt-3 pb-1">
-						<span class="text-xs font-medium px-2 py-1 rounded self-start bg-gray-100 text-gray-600">
+						<span class="text-xs font-medium px-2 py-1 rounded self-start bg-gray-100 text-gray-600 dark:bg-gray-700 dark:text-gray-300">
 							{artist.genre}
 						</span>
 					</div>
 
 					{artist.description && (
-						<p class="px-4 pb-3 text-sm text-gray-700 leading-relaxed whitespace-pre-line">{artist.description}</p>
+						<p class="px-4 pb-3 text-sm text-gray-700 dark:text-gray-300 leading-relaxed whitespace-pre-line">
+							{artist.description}
+						</p>
 					)}
 
 					{remainingLinks.length > 0 && (
@@ -157,7 +159,7 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
 									href={link.url}
 									target="_blank"
 									rel="noopener noreferrer"
-									class="text-sm text-blue-600 hover:underline"
+									class="text-sm text-blue-600 dark:text-blue-400 hover:underline"
 								>
 									{link.label}
 								</a>

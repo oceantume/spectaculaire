@@ -59,39 +59,43 @@ export function ScheduleTable() {
 							setShowFreeOnly(false);
 							setShowQuebecOnly(false);
 						}}
-						class={`cursor-pointer text-xs px-3 py-1 rounded-full border ${!showFreeOnly && !showQuebecOnly ? "bg-gray-800 text-white border-gray-800" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
+						class={`cursor-pointer text-xs px-3 py-1 rounded-full border ${!showFreeOnly && !showQuebecOnly ? "bg-gray-800 text-white border-gray-800 dark:bg-gray-500 dark:text-white dark:border-gray-500" : "text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800"}`}
 					>
 						Toute
 					</button>
 					<button
 						type="button"
 						onClick={() => setShowFreeOnly((v) => !v)}
-						class={`cursor-pointer text-xs px-3 py-1 rounded-full border ${showFreeOnly ? "bg-green-100 text-green-900 border-green-300" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
+						class={`cursor-pointer text-xs px-3 py-1 rounded-full border ${showFreeOnly ? "bg-green-100 text-green-900 border-green-300 dark:bg-green-900/40 dark:text-green-200 dark:border-green-700" : "text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800"}`}
 					>
 						Gratuit
 					</button>
 					<button
 						type="button"
 						onClick={() => setShowQuebecOnly((v) => !v)}
-						class={`cursor-pointer text-xs px-3 py-1 rounded-full border flex items-center gap-1 ${showQuebecOnly ? "bg-blue-100 text-blue-900 border-blue-300" : "text-gray-600 border-gray-300 hover:bg-gray-50"}`}
+						class={`cursor-pointer text-xs px-3 py-1 rounded-full border flex items-center gap-1 ${showQuebecOnly ? "bg-blue-100 text-blue-900 border-blue-300 dark:bg-blue-900/40 dark:text-blue-200 dark:border-blue-700" : "text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800"}`}
 					>
-						<img src="/qc.svg" alt="" class="h-3.5 w-2.5 inline-block" />
+						<img src="/qc.svg" alt="" class="h-3.5 w-2.5 inline-block dark:brightness-[2]" />
 						Québécois
 					</button>
 				</div>
 				<table class="w-full text-sm border-collapse">
 					<thead>
 						<tr class="text-left text-xs text-gray-500 uppercase tracking-wide">
-							<th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white">Lieu</th>
-							{!showFreeOnly && <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white">Passe?</th>}
+							<th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Lieu</th>
+							{!showFreeOnly && (
+								<th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Passe?</th>
+							)}
 							<th
-								class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white cursor-pointer select-none"
+								class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900 cursor-pointer select-none"
 								onClick={() => setSortByStart((v) => !v)}
 							>
-								<span class={sortByStart ? "underline text-gray-900" : ""}>Début</span>
+								<span class={sortByStart ? "underline text-gray-900 dark:text-white" : ""}>Début</span>
 							</th>
-							<th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white">Artiste</th>
-							<th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white hidden xs:table-cell">Genre</th>
+							<th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Artiste</th>
+							<th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900 hidden xs:table-cell">
+								Genre
+							</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -102,39 +106,47 @@ export function ScheduleTable() {
 							if (filtered.length === 0) return null;
 							return (
 								<>
-									<tr class="day-header bg-gray-100">
+									<tr class="day-header bg-gray-100 dark:bg-gray-800">
 										<th
 											colspan={10}
-											class="py-2 px-1 sm:px-2 text-left text-sm font-semibold text-gray-700 capitalize sticky top-6 z-10 bg-gray-100"
+											class="py-2 px-1 sm:px-2 text-left text-sm font-semibold text-gray-700 dark:text-gray-200 capitalize sticky top-6 z-10 bg-gray-100 dark:bg-gray-800"
 										>
 											{formatDayHeader(date)}
 										</th>
 									</tr>
 									{filtered.map((row) => (
-										<tr class="border-b border-gray-100 hover:bg-gray-50">
-											<td class="py-1 px-1 sm:px-2 text-gray-700">{row.venue}</td>
+										<tr class="border-b border-gray-100 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-800">
+											<td class="py-1 px-1 sm:px-2 text-gray-700 dark:text-gray-300">{row.venue}</td>
 											{!showFreeOnly && (
 												<td class="py-1 px-1 sm:px-2">
 													{row.paid ? (
-														<span class="text-xs px-1.5 py-0.5 rounded bg-amber-100 text-amber-800">Payant</span>
+														<span class="text-xs px-1.5 py-0.5 rounded bg-amber-100 text-amber-800 dark:bg-amber-900/40 dark:text-amber-200">
+															Payant
+														</span>
 													) : (
-														<span class="text-xs px-1.5 py-0.5 rounded bg-green-100 text-green-800">Gratuit</span>
+														<span class="text-xs px-1.5 py-0.5 rounded bg-green-100 text-green-800 dark:bg-green-900/40 dark:text-green-200">
+															Gratuit
+														</span>
 													)}
 												</td>
 											)}
-											<td class="py-1 px-1 sm:px-2 tabular-nums text-gray-600">{row.time}</td>
+											<td class="py-1 px-1 sm:px-2 tabular-nums text-gray-600 dark:text-gray-400">{row.time}</td>
 											<td class="py-1 px-1 sm:px-2 font-medium">
 												<button
 													type="button"
 													onClick={() => setSelectedArtist(rowToArtistDetails(row))}
-													class="cursor-pointer underline text-left"
+													class="cursor-pointer underline text-left dark:text-gray-100"
 												>
 													{row.country === "Québec" ? (
 														<>
 															{row.artist.slice(0, row.artist.lastIndexOf(" ") + 1)}
 															<span class="whitespace-nowrap">
 																{row.artist.slice(row.artist.lastIndexOf(" ") + 1)}
-																<img src="/qc.svg" alt="Québec" class="h-4 w-3 inline-block align-middle ml-1" />
+																<img
+																	src="/qc.svg"
+																	alt="Québec"
+																	class="h-4 w-3 inline-block align-middle ml-1 dark:brightness-[2]"
+																/>
 															</span>
 														</>
 													) : (
@@ -142,7 +154,9 @@ export function ScheduleTable() {
 													)}
 												</button>
 											</td>
-											<td class="py-1 px-1 sm:px-2 text-gray-500 hidden xs:table-cell">{row.genre}</td>
+											<td class="py-1 px-1 sm:px-2 text-gray-500 dark:text-gray-400 hidden xs:table-cell">
+												{row.genre}
+											</td>
 										</tr>
 									))}
 								</>
