@@ -1,6 +1,17 @@
 <!doctype html>
 <html lang="fr">
   <head>
+    <script>
+      try {
+        if (JSON.parse(localStorage.getItem("theme")) === "dark") {
+          document.documentElement.classList.add("dark");
+        }
+      } catch (_) {}
+    </script>
+    <style>
+      /* Color must match .dark background-color in src/index.css */
+      html.dark { background-color: #111827; }
+    </style>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Spectaculaire</title>
