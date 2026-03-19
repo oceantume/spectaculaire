@@ -1,14 +1,16 @@
 {
-	"$schema": "https://biomejs.dev/schemas/2.4.6/schema.json",
-	"files": {
-		"includes": ["src/**", "vite.config.ts", "biome.json", "tsconfig.json"]
-	},
-	"formatter": {
-		"lineWidth": 120
-	},
-	"css": {
-		"parser": {
-			"tailwindDirectives": true
-		}
-	}
+  "$schema": "https://biomejs.dev/schemas/2.4.6/schema.json",
+  "files": {
+    "includes": ["src/**", "vite.config.ts", "biome.json", "tsconfig.json"]
+  },
+  "formatter": {
+    "lineWidth": 120,
+    "indentStyle": "space",
+    "indentWidth": 2
+  },
+  "css": {
+    "parser": {
+      "tailwindDirectives": true
+    }
+  }
 }

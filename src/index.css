@@ -3,13 +3,13 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
-	--breakpoint-xs: 490px;
+  --breakpoint-xs: 490px;
 }
 
 dialog {
-	margin: auto;
+  margin: auto;
 }
 
 .dark {
-	background-color: var(--color-gray-900);
+  background-color: var(--color-gray-900);
 }
