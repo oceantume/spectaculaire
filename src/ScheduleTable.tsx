@@ -115,7 +115,7 @@ export function ScheduleTable() {
                     </th>
                   </tr>
                   {filtered.map((row) => (
-                    <tr class="border-b border-gray-100 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-800">
+                    <tr class="hover:bg-gray-50 dark:hover:bg-gray-800">
                       <td class="py-1 px-1 sm:px-2 text-gray-700 dark:text-gray-300">{row.venue}</td>
                       {!showFreeOnly && (
                         <td class="py-1 px-1 sm:px-2">
