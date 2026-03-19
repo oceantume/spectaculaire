@@ -9,7 +9,6 @@ export default defineConfig({
     tailwindcss(),
     VitePWA({
       registerType: "autoUpdate",
-      strategies: "generateSW",
       workbox: {
         navigateFallback: "/index.html",
         runtimeCaching: [
@@ -19,7 +18,7 @@ export default defineConfig({
               request.destination === "script" ||
               request.destination === "style" ||
               request.destination === "image",
-            handler: "NetworkFirst",
+            handler: "StaleWhileRevalidate",
             options: {
               cacheName: "spectaculaire-runtime",
             },
@@ -28,7 +27,6 @@ export default defineConfig({
       },
       manifest: {
         name: "Spectaculaire",
-        short_name: "Spectaculaire",
         description: "Horaire de la programmation du Festival d'été de Québec 2026",
         lang: "fr",
         start_url: "/",
