@@ -59,10 +59,10 @@ export function ArtistDialog({ artist, onClose, onPrevious, onNext }: Props) {
       onClick={handleBackdropClick}
       onKeyDown={handleKeyDown}
       onCancel={handleCancel}
-      class="rounded-xl shadow-2xl p-0 max-w-lg w-full backdrop:bg-black/50 open:flex open:flex-col dark:bg-gray-800"
+      class="rounded-xl shadow-2xl p-0 max-w-lg w-full backdrop:bg-black/50 open:flex open:flex-col bg-transparent"
     >
       {artist && (
-        <div class="flex flex-col">
+        <div class="flex flex-col bg-white dark:bg-gray-800 rounded-xl">
           {artist.imageUrl ? (
             <div class="relative">
               {isPlayingVideo && youtubeEmbed ? (
