@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && node scripts/prerender.ts",
     "preview": "vite preview",
     "check": "tsgo --noEmit && biome check --write .",
     "prepare": "husky",
@@ -36,6 +36,7 @@
     "@typescript/native-preview": "^7.0.0-dev.20260311.1",
     "husky": "^9.1.7",
     "preact": "^10.29.0",
+    "preact-render-to-string": "^6.6.6",
     "tailwindcss": "^4.2.1",
     "typescript": "^5.9.3",
     "vite": "^7.3.1",
