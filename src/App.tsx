@@ -15,6 +15,9 @@ export function App() {
     } else {
       document.documentElement.classList.remove("dark");
     }
+    document
+      .querySelector('meta[name="theme-color"]')
+      ?.setAttribute("content", theme === "dark" ? "#111827" : "#ffffff");
   }, [theme]);
 
   function onToggleTheme() {
