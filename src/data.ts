@@ -1,4 +1,5 @@
-import rows from "../assets/schedule.json";
+import envoletRows from "../assets/envolet-schedule.json";
+import feqRows from "../assets/schedule.json";
 
 export type ArtistLink = { label: string; url: string };
 
@@ -29,21 +30,64 @@ export type Row = {
   genre: string;
 };
 
-export const schedule: Map<string, Row[]> = new Map();
-for (const row of rows) {
-  const group = schedule.get(row.date);
-  if (group) {
-    group.push(row);
-  } else {
-    schedule.set(row.date, [row]);
+export type EventConfig = {
+  key: string;
+  label: string;
+  schedule: Map<string, Row[]>;
+  artistDetailsFetch: Promise<ArtistDetailsByName>;
+  getArtistDetails: () => ArtistDetailsByName | null;
+  features: { freeFilter: boolean; quebecFilter: boolean };
+};
+
+export const feq2026Config: EventConfig = buildEventConfig({
+  key: "feq2026",
+  label: "Festival d'Été de Québec 2026",
+  rows: feqRows as Row[],
+  detailsImport: () => import("../assets/artist-details.json"),
+  features: { freeFilter: true, quebecFilter: true },
+});
+
+export const envolet2026Config: EventConfig = buildEventConfig({
+  key: "envolet2026",
+  label: "Envol et Macadam 2026",
+  rows: envoletRows as Row[],
+  detailsImport: () => import("../assets/envolet-artist-details.json"),
+  features: { freeFilter: false, quebecFilter: false },
+});
+
+export const allEvents: EventConfig[] = [feq2026Config, envolet2026Config];
+
+function buildScheduleMap(rows: Row[]): Map<string, Row[]> {
+  const map = new Map<string, Row[]>();
+  for (const row of rows) {
+    const group = map.get(row.date);
+    if (group) {
+      group.push(row);
+    } else {
+      map.set(row.date, [row]);
+    }
   }
+  return map;
 }
 
-let artistDetailsCache: ArtistDetailsByName | null = null;
-export const artistDetailsFetch = import("../assets/artist-details.json").then((m) => {
-  artistDetailsCache = m.default as ArtistDetailsByName;
-  return artistDetailsCache;
-});
-export function getArtistDetails() {
-  return artistDetailsCache;
+function buildEventConfig(opts: {
+  key: string;
+  label: string;
+  rows: Row[];
+  detailsImport: () => Promise<{ default: ArtistDetailsByName }>;
+  features: { freeFilter: boolean; quebecFilter: boolean };
+}): EventConfig {
+  let cache: ArtistDetailsByName | null = null;
+  const artistDetailsFetch = opts.detailsImport().then((m) => {
+    cache = m.default;
+    return cache;
+  });
+  return {
+    key: opts.key,
+    label: opts.label,
+    schedule: buildScheduleMap(opts.rows),
+    artistDetailsFetch,
+    getArtistDetails: () => cache,
+    features: opts.features,
+  };
 }

@@ -1,21 +1,14 @@
 import { useEffect, useRef, useState } from "preact/hooks";
+import { allEvents, type EventConfig } from "./data";
 
 type Props = {
   theme: string;
   onToggleTheme: () => void;
+  event: EventConfig;
+  onSelectEvent: (key: string) => void;
 };
 
-type NavItem = {
-  label: string;
-  disabled?: boolean;
-};
-
-const items: NavItem[] = [
-  { label: "Le Festif!", disabled: true },
-  { label: "Fête de la Musique de Québec", disabled: true },
-];
-
-export function PageNav({ theme, onToggleTheme }: Props) {
+export function PageNav({ theme, onToggleTheme, event, onSelectEvent }: Props) {
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
 
@@ -37,19 +30,23 @@ export function PageNav({ theme, onToggleTheme }: Props) {
           class={`text-2xl font-bold flex items-center gap-2 cursor-pointer rounded-lg px-2 py-1 -mx-2 -my-1 transition-colors dark:text-gray-100${open ? " bg-black/5 dark:bg-white/10" : " hover:bg-black/5 dark:hover:bg-white/10"}`}
           onClick={() => setOpen((v) => !v)}
         >
-          Programmation FEQ 2026
+          {event.label}
           <span class="text-base leading-none self-center">▾</span>
         </button>
         {open && (
           <div class="absolute top-full left-0 mt-1 bg-white dark:bg-gray-800 rounded shadow-lg border border-gray-200 dark:border-gray-700 min-w-max z-30">
-            {items.map((item) => (
-              <div
-                key={item.label}
-                class="px-4 py-2 text-sm text-gray-400 dark:text-gray-500 cursor-not-allowed flex items-center gap-2"
+            {allEvents.map((e) => (
+              <button
+                key={e.key}
+                type="button"
+                onClick={() => {
+                  onSelectEvent(e.key);
+                  setOpen(false);
+                }}
+                class={`w-full text-left px-4 py-2 text-sm cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 dark:text-gray-200 ${e.key === event.key ? "font-semibold" : ""}`}
               >
-                {item.label}
-                <span class="text-xs">À venir</span>
-              </div>
+                {e.label}
+              </button>
             ))}
           </div>
         )}

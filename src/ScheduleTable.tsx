@@ -1,27 +1,25 @@
 import { useEffect, useState } from "preact/hooks";
 import { ArtistDialog } from "./ArtistDialog";
-import {
-  type ArtistDetails,
-  type ArtistDetailsByName,
-  artistDetailsFetch,
-  getArtistDetails,
-  type Row,
-  schedule,
-} from "./data";
+import type { ArtistDetails, ArtistDetailsByName, EventConfig, Row } from "./data";
 import { useStoredState } from "./useStoredState";
 
-export function ScheduleTable() {
+type Props = { event: EventConfig };
+
+export function ScheduleTable({ event }: Props) {
   const [selectedArtist, setSelectedArtist] = useState<ArtistDetails | null>(null);
-  const [showFreeOnly, setShowFreeOnly] = useStoredState("feq2026:free", false);
-  const [showQuebecOnly, setShowQuebecOnly] = useStoredState("feq2026:quebec", false);
-  const [sortByStart, setSortByStart] = useStoredState("feq2026:start", false);
-  const [artistDetails, setArtistDetails] = useState<ArtistDetailsByName | null>(getArtistDetails());
+  const [showFreeOnly, setShowFreeOnly] = useStoredState(`${event.key}:free`, false);
+  const [showQuebecOnly, setShowQuebecOnly] = useStoredState(`${event.key}:quebec`, false);
+  const [sortByStart, setSortByStart] = useStoredState(`${event.key}:start`, false);
+  const [artistDetails, setArtistDetails] = useState<ArtistDetailsByName | null>(event.getArtistDetails());
 
   useEffect(() => {
-    if (!artistDetails) artistDetailsFetch.then(setArtistDetails);
-  }, []);
+    setArtistDetails(event.getArtistDetails());
+    if (!event.getArtistDetails()) {
+      event.artistDetailsFetch.then(setArtistDetails);
+    }
+  }, [event]);
 
-  const filteredRows = Array.from(schedule.values()).flatMap((rows) => {
+  const filteredRows = Array.from(event.schedule.values()).flatMap((rows) => {
     let r = rows;
     if (showFreeOnly) r = r.filter((row) => !row.paid);
     if (showQuebecOnly) r = r.filter((row) => row.country === "Québec");
@@ -52,33 +50,39 @@ export function ScheduleTable() {
   return (
     <>
       <div>
-        <div class="flex gap-2 px-2 py-2">
-          <button
-            type="button"
-            onClick={() => {
-              setShowFreeOnly(false);
-              setShowQuebecOnly(false);
-            }}
-            class={`cursor-pointer text-xs px-3 py-1 rounded-full border ${!showFreeOnly && !showQuebecOnly ? "bg-gray-800 text-white border-gray-800 dark:bg-gray-500 dark:text-white dark:border-gray-500" : "text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800"}`}
-          >
-            Toute
-          </button>
-          <button
-            type="button"
-            onClick={() => setShowFreeOnly((v) => !v)}
-            class={`cursor-pointer text-xs px-3 py-1 rounded-full border ${showFreeOnly ? "bg-green-100 text-green-900 border-green-300 dark:bg-green-900/40 dark:text-green-200 dark:border-green-700" : "text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800"}`}
-          >
-            Gratuit
-          </button>
-          <button
-            type="button"
-            onClick={() => setShowQuebecOnly((v) => !v)}
-            class={`cursor-pointer text-xs px-3 py-1 rounded-full border flex items-center gap-1 ${showQuebecOnly ? "bg-blue-100 text-blue-900 border-blue-300 dark:bg-blue-900/40 dark:text-blue-200 dark:border-blue-700" : "text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800"}`}
-          >
-            <img src="/qc.svg" alt="" class="h-3.5 w-2.5 inline-block dark:brightness-[1.5]" />
-            Québécois
-          </button>
-        </div>
+        {(event.features.freeFilter || event.features.quebecFilter) && (
+          <div class="flex gap-2 px-2 py-2">
+            <button
+              type="button"
+              onClick={() => {
+                setShowFreeOnly(false);
+                setShowQuebecOnly(false);
+              }}
+              class={`cursor-pointer text-xs px-3 py-1 rounded-full border ${!showFreeOnly && !showQuebecOnly ? "bg-gray-800 text-white border-gray-800 dark:bg-gray-500 dark:text-white dark:border-gray-500" : "text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800"}`}
+            >
+              Toute
+            </button>
+            {event.features.freeFilter && (
+              <button
+                type="button"
+                onClick={() => setShowFreeOnly((v) => !v)}
+                class={`cursor-pointer text-xs px-3 py-1 rounded-full border ${showFreeOnly ? "bg-green-100 text-green-900 border-green-300 dark:bg-green-900/40 dark:text-green-200 dark:border-green-700" : "text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800"}`}
+              >
+                Gratuit
+              </button>
+            )}
+            {event.features.quebecFilter && (
+              <button
+                type="button"
+                onClick={() => setShowQuebecOnly((v) => !v)}
+                class={`cursor-pointer text-xs px-3 py-1 rounded-full border flex items-center gap-1 ${showQuebecOnly ? "bg-blue-100 text-blue-900 border-blue-300 dark:bg-blue-900/40 dark:text-blue-200 dark:border-blue-700" : "text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800"}`}
+              >
+                <img src="/qc.svg" alt="" class="h-3.5 w-2.5 inline-block dark:brightness-[1.5]" />
+                Québécois
+              </button>
+            )}
+          </div>
+        )}
         <table class="w-full text-sm border-collapse">
           <thead>
             <tr class="text-left text-xs text-gray-500 dark:text-gray-400 uppercase tracking-wide">
@@ -99,7 +103,7 @@ export function ScheduleTable() {
             </tr>
           </thead>
           <tbody>
-            {Array.from(schedule.entries()).map(([date, rows]) => {
+            {Array.from(event.schedule.entries()).map(([date, rows]) => {
               let filtered = showFreeOnly ? rows.filter((r) => !r.paid) : rows;
               if (showQuebecOnly) filtered = filtered.filter((r) => r.country === "Québec");
               if (sortByStart) filtered = sortRows(filtered);
