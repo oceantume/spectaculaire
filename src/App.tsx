@@ -30,7 +30,7 @@ export function App() {
   return (
     <main class="p-2 sm:p-4 dark:bg-gray-900 min-h-screen">
       <PageNav theme={theme} onToggleTheme={onToggleTheme} event={event} onSelectEvent={setEventKey} />
-      <ScheduleTable event={event} />
+      <ScheduleTable key={event.key} event={event} />
     </main>
   );
 }
