@@ -9,7 +9,8 @@ export function ScheduleTable({ event }: Props) {
   const [selectedArtist, setSelectedArtist] = useState<ArtistDetails | null>(null);
   const [showFreeOnly, setShowFreeOnly] = useStoredState(`${event.key}:free`, false);
   const [showQuebecOnly, setShowQuebecOnly] = useStoredState(`${event.key}:quebec`, false);
-  const [sortByStart, setSortByStart] = useStoredState(`${event.key}:start`, false);
+  const [sortByStartStored, setSortByStart] = useStoredState(`${event.key}:start`, false);
+  const sortByStart = event.features.debutSort && sortByStartStored;
   const [artistDetails, setArtistDetails] = useState<ArtistDetailsByName | null>(event.getArtistDetails());
 
   useEffect(() => {
@@ -90,12 +91,16 @@ export function ScheduleTable({ event }: Props) {
               {!showFreeOnly && (
                 <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Passe?</th>
               )}
-              <th
-                class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900 cursor-pointer select-none"
-                onClick={() => setSortByStart((v) => !v)}
-              >
-                <span class={sortByStart ? "underline text-gray-900 dark:text-white" : ""}>Début</span>
-              </th>
+              {event.features.debutSort ? (
+                <th
+                  class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900 cursor-pointer select-none"
+                  onClick={() => setSortByStart((v) => !v)}
+                >
+                  <span class={sortByStart ? "underline text-gray-900 dark:text-white" : ""}>Début</span>
+                </th>
+              ) : (
+                <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Début</th>
+              )}
               <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Artiste</th>
               <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900 hidden xs:table-cell">
                 Genre
