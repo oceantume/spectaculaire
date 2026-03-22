@@ -1,16 +1,16 @@
 import { useEffect } from "preact/hooks";
-import { allEvents, type EventConfig, feq2026Config } from "./data";
+import type { EventConfig } from "./data";
 import { PageNav } from "./PageNav";
 import { ScheduleTable } from "./ScheduleTable";
 import { useStoredState } from "./useStoredState";
 
-export function App() {
+type Props = { event: EventConfig };
+
+export function App({ event }: Props) {
   const [theme, setTheme] = useStoredState(
     "theme",
-    window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light",
+    typeof window !== "undefined" && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light",
   );
-  const [eventKey, setEventKey] = useStoredState("event", feq2026Config.key);
-  const event: EventConfig = allEvents.find((e) => e.key === eventKey) ?? feq2026Config;
 
   useEffect(() => {
     if (theme === "dark") {
@@ -29,7 +29,7 @@ export function App() {
 
   return (
     <main class="p-2 sm:p-4 dark:bg-gray-900 min-h-screen">
-      <PageNav theme={theme} onToggleTheme={onToggleTheme} event={event} onSelectEvent={setEventKey} />
+      <PageNav theme={theme} onToggleTheme={onToggleTheme} event={event} />
       <ScheduleTable key={event.key} event={event} />
     </main>
   );

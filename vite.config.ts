@@ -5,12 +5,17 @@ import { VitePWA } from "vite-plugin-pwa";
 
 export default defineConfig({
   plugins: [
-    preact(),
+    preact({
+      prerender: {
+        enabled: true,
+        renderTarget: "#app",
+        additionalPrerenderRoutes: ["/envolet2026"],
+      },
+    }),
     tailwindcss(),
     VitePWA({
       registerType: "autoUpdate",
       workbox: {
-        navigateFallback: "/index.html",
         runtimeCaching: [
           {
             urlPattern: ({ request }) =>
@@ -29,7 +34,7 @@ export default defineConfig({
         name: "Spectaculaire",
         description: "Horaire de la programmation du Festival d'été de Québec 2026",
         lang: "fr",
-        start_url: "/",
+        start_url: "/feq2026",
         display: "standalone",
         background_color: "#111827",
         theme_color: "#111827",

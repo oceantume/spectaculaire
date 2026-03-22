@@ -5,10 +5,9 @@ type Props = {
   theme: string;
   onToggleTheme: () => void;
   event: EventConfig;
-  onSelectEvent: (key: string) => void;
 };
 
-export function PageNav({ theme, onToggleTheme, event, onSelectEvent }: Props) {
+export function PageNav({ theme, onToggleTheme, event }: Props) {
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
 
@@ -36,17 +35,13 @@ export function PageNav({ theme, onToggleTheme, event, onSelectEvent }: Props) {
         {open && (
           <div class="absolute top-full left-0 mt-1 bg-white dark:bg-gray-800 rounded shadow-lg border border-gray-200 dark:border-gray-700 min-w-max z-30">
             {allEvents.map((e) => (
-              <button
+              <a
                 key={e.key}
-                type="button"
-                onClick={() => {
-                  onSelectEvent(e.key);
-                  setOpen(false);
-                }}
-                class={`w-full text-left px-4 py-2 text-sm cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 dark:text-gray-200 ${e.key === event.key ? "font-semibold" : ""}`}
+                href={`/${e.key}`}
+                class={`block w-full text-left px-4 py-2 text-sm hover:bg-gray-50 dark:hover:bg-gray-700 dark:text-gray-200 ${e.key === event.key ? "font-semibold" : ""}`}
               >
                 {e.label}
-              </button>
+              </a>
             ))}
           </div>
         )}
