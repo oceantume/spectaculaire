@@ -1,4 +1,4 @@
-import { hydrate } from "preact";
+import { hydrate, render } from "preact";
 import { App } from "./App";
 import { allEvents, feq2026Config } from "./data";
 import "./index.css";
@@ -8,7 +8,13 @@ if (typeof window !== "undefined") {
   const eventKey = path.slice(1);
   const event = allEvents.find((e) => e.key === eventKey) ?? feq2026Config;
   const root = document.getElementById("app");
-  if (root) hydrate(<App event={event} />, root);
+  if (root) {
+    if (root.firstChild) {
+      hydrate(<App event={event} />, root);
+    } else {
+      render(<App event={event} />, root);
+    }
+  }
 }
 
 export async function prerender({ url }: { url: string }) {
