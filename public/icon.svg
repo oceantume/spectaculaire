@@ -1,24 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="681" height="681" viewBox="-76 -48 681 681">
-  <rect x="-68" y="-40" width="665" height="665" fill="#F3F4F6" rx="80"/>
-  <g fill="none" stroke="#2563EB" stroke-linecap="round" stroke-linejoin="round" stroke-width="46">
-    <!-- Top tent -->
-    <polyline points="88,94 264,0 441,94"/>
-    <!-- Upper verticals -->
-    <line x1="88" y1="94" x2="88" y2="217"/>
-    <line x1="264" y1="94" x2="264" y2="217"/>
-    <line x1="441" y1="94" x2="441" y2="217"/>
-    <!-- Middle crossing diagonals -->
-    <line x1="88" y1="217" x2="264" y2="347"/>
-    <line x1="264" y1="217" x2="441" y2="347"/>
-    <!-- Middle crossing connectors -->
-    <line x1="88" y1="347" x2="176" y2="282"/>
-    <line x1="353" y1="282" x2="441" y2="217"/>
-    <!-- Lower verticals -->
-    <line x1="88" y1="347" x2="88" y2="475"/>
-    <line x1="264" y1="347" x2="264" y2="475"/>
-    <line x1="441" y1="347" x2="441" y2="475"/>
-    <!-- Bottom tent -->
-    <polyline points="88,475 264,585 441,475"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#2563EB" rx="96"/>
 </svg>
