@@ -28,13 +28,13 @@ export function App() {
     <main class="p-2 sm:p-4 dark:bg-gray-900 min-h-screen">
       <PageNav theme={theme} onToggleTheme={onToggleTheme} />
       <ScheduleTable />
-      <footer class="mt-8 text-center text-xs text-gray-400 dark:text-gray-600">
+      <footer class="mt-8 text-center text-xs text-gray-600 dark:text-gray-400">
         Données tirées de{" "}
         <a
           href="https://www.feq.ca/fr/programmation"
           target="_blank"
           rel="noopener noreferrer"
-          class="underline hover:text-gray-500 dark:hover:text-gray-400"
+          class="underline hover:text-gray-700 dark:hover:text-gray-300"
         >
           feq.ca
         </a>{" "}
