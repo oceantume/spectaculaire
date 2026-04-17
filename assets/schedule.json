@@ -211,9 +211,9 @@
     "venue": "Place George-V",
     "paid": true,
     "time": "21:15",
-    "artist": "Sean Paul",
-    "country": "Jamaïque",
-    "genre": "Reggae"
+    "artist": "bbno$",
+    "country": "Canada",
+    "genre": "Rap / Hip-hop"
   },
   {
     "date": "2026-07-10",
@@ -634,9 +634,9 @@
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "18:00",
-    "artist": "Pied Léger",
+    "artist": "Le Winston Band",
     "country": "Québec",
-    "genre": "Folk"
+    "genre": "Pop"
   },
   {
     "date": "2026-07-13",
@@ -778,9 +778,9 @@
     "venue": "Place de l'Assemblée-Nationale",
     "paid": false,
     "time": "18:00",
-    "artist": "Le Winston Band",
+    "artist": "Pied Léger",
     "country": "Québec",
-    "genre": "Pop"
+    "genre": "Folk"
   },
   {
     "date": "2026-07-14",
