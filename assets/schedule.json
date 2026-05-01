@@ -280,6 +280,42 @@
   },
   {
     "date": "2026-07-11",
+    "venue": "Plaines d'Abraham",
+    "paid": true,
+    "time": "18:30",
+    "artist": "FRIKITON",
+    "country": "Québec",
+    "genre": "Latin"
+  },
+  {
+    "date": "2026-07-11",
+    "venue": "Plaines d'Abraham",
+    "paid": true,
+    "time": "19:20",
+    "artist": "Cruzito",
+    "country": "Québec",
+    "genre": "Latin"
+  },
+  {
+    "date": "2026-07-11",
+    "venue": "Plaines d'Abraham",
+    "paid": true,
+    "time": "20:15",
+    "artist": "ARIA VEGA",
+    "country": "Colombie",
+    "genre": "Latin"
+  },
+  {
+    "date": "2026-07-11",
+    "venue": "Plaines d'Abraham",
+    "paid": true,
+    "time": "21:30",
+    "artist": "Luis Fonsi",
+    "country": "Porto Rico",
+    "genre": "Latin"
+  },
+  {
+    "date": "2026-07-11",
     "venue": "Place George-V",
     "paid": true,
     "time": "17:50",
@@ -1194,6 +1230,15 @@
     "time": "22:30",
     "artist": "HORIZON",
     "country": "Québec",
+    "genre": "Électro"
+  },
+  {
+    "date": "2026-07-17",
+    "venue": "Manège militaire",
+    "paid": true,
+    "time": "23:30",
+    "artist": "LP Giobbi",
+    "country": "États-Unis",
     "genre": "Électro"
   },
   {
