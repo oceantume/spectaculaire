@@ -1,25 +1,8 @@
 import { getStored, setStored } from "./stored-state";
 
-const ACTIVE_ALL = "bg-gray-800 text-white border-gray-800 dark:bg-gray-500 dark:text-white dark:border-gray-500";
-const INACTIVE =
-  "text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800";
-const ACTIVE_FREE =
-  "bg-green-100 text-green-900 border-green-300 dark:bg-green-900/40 dark:text-green-200 dark:border-green-700";
-const ACTIVE_QUEBEC =
-  "bg-blue-100 text-blue-900 border-blue-300 dark:bg-blue-900/40 dark:text-blue-200 dark:border-blue-700";
-
-function setButtonClasses(btn: Element | null, activeClass: string, isActive: boolean) {
+function setButtonActive(btn: Element | null, isActive: boolean) {
   if (!btn) return;
-  if (isActive) {
-    for (const cls of INACTIVE.split(" ")) btn.classList.remove(cls);
-    for (const cls of activeClass.split(" ")) btn.classList.add(cls);
-  } else {
-    for (const cls of activeClass.split(" ")) btn.classList.remove(cls);
-    for (const cls of ACTIVE_ALL.split(" ")) btn.classList.remove(cls);
-    for (const cls of ACTIVE_FREE.split(" ")) btn.classList.remove(cls);
-    for (const cls of ACTIVE_QUEBEC.split(" ")) btn.classList.remove(cls);
-    for (const cls of INACTIVE.split(" ")) btn.classList.add(cls);
-  }
+  btn.classList.toggle("is-active", isActive);
 }
 
 const table = document.querySelector<HTMLElement>("[data-schedule-table]");
@@ -66,18 +49,14 @@ function applyFilters() {
 
   // Update filter button states
   const allNone = !showFreeOnly && !showQuebecOnly;
-  setButtonClasses(scheduleFilterBar.querySelector("[data-filter='all']"), ACTIVE_ALL, allNone);
-  setButtonClasses(scheduleFilterBar.querySelector("[data-filter='free']"), ACTIVE_FREE, showFreeOnly);
-  setButtonClasses(scheduleFilterBar.querySelector("[data-filter='quebec']"), ACTIVE_QUEBEC, showQuebecOnly);
+  setButtonActive(scheduleFilterBar.querySelector("[data-filter='all']"), allNone);
+  setButtonActive(scheduleFilterBar.querySelector("[data-filter='free']"), showFreeOnly);
+  setButtonActive(scheduleFilterBar.querySelector("[data-filter='quebec']"), showQuebecOnly);
 
   // Update sort label
   const sortLabel = scheduleTable.querySelector<HTMLElement>("[data-sort-label]");
   if (sortLabel) {
-    if (sortByStart) {
-      sortLabel.classList.add("underline", "text-gray-900", "dark:text-white");
-    } else {
-      sortLabel.classList.remove("underline", "text-gray-900", "dark:text-white");
-    }
+    sortLabel.classList.toggle("is-active", sortByStart);
   }
 }
 
@@ -123,7 +102,7 @@ scheduleFilterBar.addEventListener("click", (e) => {
   }
   setStored(freeKey, showFreeOnly);
   setStored(quebecKey, showQuebecOnly);
-  applyFilters();
+  applyFiltersAnimated();
 });
 
 function applySortOrderAnimated() {
@@ -134,12 +113,27 @@ function applySortOrderAnimated() {
   }
 }
 
+function applyFiltersAnimated() {
+  if (document.startViewTransition) {
+    document.startViewTransition(() => applyFilters());
+  } else {
+    applyFilters();
+  }
+}
+
 scheduleTable.querySelector("[data-sort-toggle]")?.addEventListener("click", () => {
   sortByStart = !sortByStart;
   setStored(startKey, sortByStart);
   applySortOrderAnimated();
-  applyFilters();
+  applyFiltersAnimated();
 });
 
-applySortOrder();
-applyFilters();
+if (document.startViewTransition) {
+  document.startViewTransition(() => {
+    applySortOrder();
+    applyFilters();
+  });
+} else {
+  applySortOrder();
+  applyFilters();
+}

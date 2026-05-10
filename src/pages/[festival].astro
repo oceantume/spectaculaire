@@ -41,20 +41,15 @@ const otherFestivals = (import.meta.env.DEV ? allFestivals : allFestivals.filter
 ---
 
 <Base title={festival.name} description={`Horaire de la programmation ${festival.name}`}>
-  <main class="p-2 sm:p-4 dark:bg-gray-900 min-h-screen">
+  <main class="page-main">
     <PageNav festival={festival} otherFestivals={otherFestivals} />
     <ScheduleTable schedule={schedule} artistDetails={artistDetails} slug={festival.slug} features={festival.features} />
     <ArtistDialog />
     {
       festival.sourceUrl && (
-        <footer class="mt-8 text-center text-xs text-gray-600 dark:text-gray-400">
+        <footer class="page-footer">
           Données tirées de{" "}
-          <a
-            href={festival.sourceUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="underline hover:text-gray-700 dark:hover:text-gray-300"
-          >
+          <a href={festival.sourceUrl} target="_blank" rel="noopener noreferrer" class="page-footer-link">
             {festival.sourceLabel}
           </a>{" "}
           · Contenu appartenant au {festival.sourceAttribution}
@@ -64,3 +59,27 @@ const otherFestivals = (import.meta.env.DEV ? allFestivals : allFestivals.filter
   </main>
   <script is:inline type="application/json" id="artist-details-data" set:html={JSON.stringify(artistDetails)} />
 </Base>
+
+<style>
+  .page-main {
+    padding: 0.5rem;
+    min-height: 100vh;
+    background-color: var(--bg);
+  }
+
+  .page-footer {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    color: var(--text-dim);
+  }
+
+  .page-footer-link {
+    text-decoration: underline;
+  }
+
+  .page-footer-link:hover {
+    color: var(--text-secondary);
+  }
+</style>

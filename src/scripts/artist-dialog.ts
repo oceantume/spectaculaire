@@ -35,42 +35,42 @@ function renderDialogContent(name: string, country: string | undefined, genre: s
   let html = "";
 
   if (details?.imageUrl) {
-    html += `<div class="relative">`;
-    html += `<img src="${escapeAttr(details.imageUrl)}" alt="" class="w-full h-64 object-cover object-top rounded-t-xl" />`;
-    html += `<div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent rounded-t-xl"></div>`;
-    html += `<div class="absolute bottom-0 left-0 p-4">`;
-    html += `<h2 class="text-xl font-bold text-white">${escapeHtml(name)}</h2>`;
-    if (country) html += `<p class="text-sm text-white/80">${escapeHtml(country)}</p>`;
+    html += `<div class="dialog-img-header">`;
+    html += `<img src="${escapeAttr(details.imageUrl)}" alt="" class="dialog-cover-img" />`;
+    html += `<div class="dialog-img-overlay"></div>`;
+    html += `<div class="dialog-img-caption">`;
+    html += `<h2 class="dialog-title-onimg">${escapeHtml(name)}</h2>`;
+    if (country) html += `<p class="dialog-subtitle-onimg">${escapeHtml(country)}</p>`;
     html += `</div>`;
-    html += `<button type="button" data-dialog-close class="absolute top-3 right-3 text-white/80 hover:text-white text-2xl leading-none cursor-pointer" aria-label="Fermer">×</button>`;
+    html += `<button type="button" data-dialog-close class="dialog-close-onimg" aria-label="Fermer">×</button>`;
     if (youtubeEmbed) {
-      html += `<button type="button" data-play-video data-video-id="${escapeAttr(youtubeEmbed.videoId)}" data-video-start="${youtubeEmbed.start ?? ""}" data-video-url="${escapeAttr(officialVideoLink?.url ?? "")}" class="absolute bottom-3 right-3 bg-black/60 hover:bg-black/80 text-white rounded-full w-10 h-10 flex items-center justify-center cursor-pointer" aria-label="Jouer la vidéo officielle">`;
-      html += `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-5 h-5" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>`;
+      html += `<button type="button" data-play-video data-video-id="${escapeAttr(youtubeEmbed.videoId)}" data-video-start="${youtubeEmbed.start ?? ""}" data-video-url="${escapeAttr(officialVideoLink?.url ?? "")}" class="dialog-play-btn" aria-label="Jouer la vidéo officielle">`;
+      html += `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="dialog-play-icon" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>`;
       html += `</button>`;
     }
     html += `</div>`;
   } else {
-    html += `<div class="flex items-start justify-between gap-4 p-4 pb-2">`;
-    html += `<div class="flex-1 min-w-0">`;
-    html += `<h2 class="text-xl font-bold text-gray-900 dark:text-white">${escapeHtml(name)}</h2>`;
-    if (country) html += `<p class="text-sm text-gray-500 dark:text-gray-400">${escapeHtml(country)}</p>`;
+    html += `<div class="dialog-header">`;
+    html += `<div class="dialog-header-main">`;
+    html += `<h2 class="dialog-title">${escapeHtml(name)}</h2>`;
+    if (country) html += `<p class="dialog-subtitle">${escapeHtml(country)}</p>`;
     html += `</div>`;
-    html += `<button type="button" data-dialog-close class="text-gray-400 hover:text-gray-600 dark:text-gray-500 dark:hover:text-gray-300 text-xl leading-none flex-shrink-0 cursor-pointer" aria-label="Fermer">×</button>`;
+    html += `<button type="button" data-dialog-close class="dialog-close" aria-label="Fermer">×</button>`;
     html += `</div>`;
   }
 
-  html += `<div class="px-4 pt-3 pb-1">`;
-  html += `<span class="text-xs font-medium px-2 py-1 rounded self-start bg-gray-100 text-gray-600 dark:bg-gray-700 dark:text-gray-300">${escapeHtml(genre)}</span>`;
+  html += `<div class="dialog-genre-wrap">`;
+  html += `<span class="dialog-genre-badge">${escapeHtml(genre)}</span>`;
   html += `</div>`;
 
   if (details?.description) {
-    html += `<p class="px-4 pb-3 text-sm text-gray-700 dark:text-gray-300 leading-relaxed whitespace-pre-line">${escapeHtml(details.description)}</p>`;
+    html += `<p class="dialog-description">${escapeHtml(details.description)}</p>`;
   }
 
   if (remainingLinks.length > 0) {
-    html += `<div class="flex flex-wrap gap-2 px-4 pb-4">`;
+    html += `<div class="dialog-links">`;
     for (const link of remainingLinks) {
-      html += `<a href="${escapeAttr(link.url)}" target="_blank" rel="noopener noreferrer" class="text-sm text-blue-600 dark:text-blue-400 hover:underline">${escapeHtml(link.label)}</a>`;
+      html += `<a href="${escapeAttr(link.url)}" target="_blank" rel="noopener noreferrer" class="dialog-link">${escapeHtml(link.label)}</a>`;
     }
     html += `</div>`;
   }
@@ -138,10 +138,10 @@ document.addEventListener("click", (e) => {
     const iframe = document.createElement("iframe");
     iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0${startParam}`;
     iframe.title = "Vidéo officielle";
-    iframe.className = "w-full h-64 rounded-t-xl";
+    iframe.className = "dialog-video";
     iframe.allow = "autoplay; encrypted-media";
     iframe.allowFullscreen = true;
-    playBtn.closest(".relative")?.replaceWith(iframe);
+    playBtn.closest(".dialog-img-header")?.replaceWith(iframe);
     return;
   }
 });

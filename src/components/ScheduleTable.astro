@@ -30,60 +30,46 @@ let globalIndex = 0;
 <div>
   {
     (hasFreeFilter || hasQuebecFilter) && (
-      <div data-filter-bar class="flex gap-2 px-2 py-2">
+      <div data-filter-bar class="filter-bar">
         <button
           type="button"
           data-filter="all"
-          class="cursor-pointer text-xs px-3 py-1 rounded-full border bg-gray-800 text-white border-gray-800 dark:bg-gray-500 dark:text-white dark:border-gray-500"
+          class="filter-btn is-active"
         >
           Toute
         </button>
         {hasFreeFilter && (
-          <button
-            type="button"
-            data-filter="free"
-            class="cursor-pointer text-xs px-3 py-1 rounded-full border text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800"
-          >
+          <button type="button" data-filter="free" class="filter-btn">
             Gratuit
           </button>
         )}
         {hasQuebecFilter && (
-          <button
-            type="button"
-            data-filter="quebec"
-            class="cursor-pointer text-xs px-3 py-1 rounded-full border flex items-center gap-1 text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800"
-          >
-            <img src="/qc.svg" alt="" class="h-3.5 w-2.5 inline-block dark:brightness-[1.5]" />
+          <button type="button" data-filter="quebec" class="filter-btn">
+            <img src="/qc.svg" alt="" class="qc-flag" />
             Québécois
           </button>
         )}
       </div>
     )
   }
-  <table class="w-full text-sm border-collapse" data-schedule-table data-schedule-slug={slug}>
+  <table class="sched-table" data-schedule-table data-schedule-slug={slug}>
     <thead>
-      <tr class="text-left text-xs text-gray-500 dark:text-gray-400 uppercase tracking-wide">
-        <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Lieu</th>
-        <th data-paid-header class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Passe?</th>
-        <th
-          data-sort-toggle
-          class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900 cursor-pointer select-none"
-        >
+      <tr class="sched-thead-row">
+        <th class="sched-th">Lieu</th>
+        <th data-paid-header class="sched-th">Passe?</th>
+        <th data-sort-toggle class="sched-th sched-th-sort">
           <span data-sort-label>Début</span>
         </th>
-        <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Artiste</th>
-        <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900 hidden xs:table-cell">Genre</th>
+        <th class="sched-th">Artiste</th>
+        <th class="sched-th sched-th-genre">Genre</th>
       </tr>
     </thead>
     <tbody>
       {
         Array.from(schedule.entries()).map(([date, rows]) => (
           <>
-            <tr data-day-header data-date={date} class="bg-gray-100 dark:bg-gray-800">
-              <th
-                colspan={10}
-                class="py-2 px-1 sm:px-2 text-left text-sm font-semibold text-gray-700 dark:text-gray-200 capitalize sticky top-6 z-10 bg-gray-100 dark:bg-gray-800"
-              >
+            <tr data-day-header data-date={date} class="sched-day-row">
+              <th colspan={10} class="sched-day-cell">
                 {formatDayHeader(date)}
               </th>
             </tr>
@@ -98,38 +84,26 @@ let globalIndex = 0;
                   data-time={row.time}
                   data-genre={row.genre}
                   data-original-index={idx}
-                  class="hover:bg-gray-50 dark:hover:bg-gray-800"
+                  class="sched-row"
                   style={`view-transition-name: row-${idx}`}
                 >
-                  <td class="py-1 px-1 sm:px-2 text-gray-700 dark:text-gray-300">{row.venue}</td>
-                  <td data-paid-cell class="py-1 px-1 sm:px-2">
+                  <td class="sched-td sched-td-venue">{row.venue}</td>
+                  <td data-paid-cell class="sched-td">
                     {row.paid ? (
-                      <span class="text-xs px-1.5 py-0.5 rounded bg-amber-100 text-amber-800 dark:bg-amber-900/40 dark:text-amber-200">
-                        Payant
-                      </span>
+                      <span class="badge-paid">Payant</span>
                     ) : (
-                      <span class="text-xs px-1.5 py-0.5 rounded bg-green-100 text-green-800 dark:bg-green-900/40 dark:text-green-200">
-                        Gratuit
-                      </span>
+                      <span class="badge-free">Gratuit</span>
                     )}
                   </td>
-                  <td class="py-1 px-1 sm:px-2 tabular-nums text-gray-600 dark:text-gray-400">{row.time}</td>
-                  <td class="py-1 px-1 sm:px-2 font-medium">
-                    <button
-                      type="button"
-                      data-artist-open={row.artist}
-                      class="cursor-pointer underline text-left dark:text-gray-100"
-                    >
+                  <td class="sched-td sched-td-time">{row.time}</td>
+                  <td class="sched-td sched-td-artist">
+                    <button type="button" data-artist-open={row.artist} class="artist-btn">
                       {row.country === "Québec" ? (
                         <>
                           {row.artist.slice(0, row.artist.lastIndexOf(" ") + 1)}
-                          <span class="whitespace-nowrap">
+                          <span class="qc-nowrap">
                             {row.artist.slice(row.artist.lastIndexOf(" ") + 1)}
-                            <img
-                              src="/qc.svg"
-                              alt="Québec"
-                              class="h-4 w-3 inline-block align-middle ml-1 dark:brightness-[1.5]"
-                            />
+                            <img src="/qc.svg" alt="Québec" class="qc-flag-inline" />
                           </span>
                         </>
                       ) : (
@@ -137,7 +111,7 @@ let globalIndex = 0;
                       )}
                     </button>
                   </td>
-                  <td class="py-1 px-1 sm:px-2 text-gray-500 dark:text-gray-400 hidden xs:table-cell">{row.genre}</td>
+                  <td class="sched-td sched-td-genre">{row.genre}</td>
                 </tr>
               );
             })}
@@ -150,3 +124,213 @@ let globalIndex = 0;
 <script>
   import "../scripts/schedule-filter";
 </script>
+
+<style>
+  .filter-bar {
+    display: flex;
+    gap: 0.5rem;
+    padding: 0.5rem;
+  }
+
+  .filter-btn {
+    cursor: pointer;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    border: 1px solid var(--border-muted);
+    color: var(--text-dim);
+    background: none;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    transition: background-color 0.15s;
+  }
+
+  .filter-btn:not(.is-active):hover {
+    background-color: var(--bg-hover);
+  }
+
+  [data-filter="all"].filter-btn.is-active {
+    background-color: var(--filter-all-bg);
+    color: var(--filter-all-text);
+    border-color: var(--filter-all-border);
+  }
+
+  [data-filter="free"].filter-btn.is-active {
+    background-color: var(--filter-free-bg);
+    color: var(--filter-free-text);
+    border-color: var(--filter-free-border);
+  }
+
+  [data-filter="quebec"].filter-btn.is-active {
+    background-color: var(--filter-qc-bg);
+    color: var(--filter-qc-text);
+    border-color: var(--filter-qc-border);
+  }
+
+  .qc-flag {
+    height: 0.875rem;
+    width: 0.625rem;
+    display: inline-block;
+  }
+
+  :global(.dark) .qc-flag,
+  :global(.dark) .qc-flag-inline {
+    filter: brightness(1.5);
+  }
+
+  .sched-table {
+    width: 100%;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    border-collapse: collapse;
+  }
+
+  .sched-thead-row {
+    text-align: left;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .sched-th {
+    padding: 0.25rem 0.25rem;
+    font-weight: 500;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background-color: var(--bg);
+  }
+
+  @media (min-width: 640px) {
+    .sched-th {
+      padding: 0.25rem 0.5rem;
+    }
+  }
+
+  .sched-th-sort {
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .sched-th-genre {
+    display: none;
+  }
+
+  @media (min-width: 490px) {
+    .sched-th-genre {
+      display: table-cell;
+    }
+  }
+
+  .sched-day-row {
+    background-color: var(--bg-secondary);
+  }
+
+  .sched-day-cell {
+    padding: 0.5rem 0.25rem;
+    text-align: left;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    text-transform: capitalize;
+    position: sticky;
+    top: 1.5rem;
+    z-index: 10;
+    background-color: var(--bg-secondary);
+  }
+
+  @media (min-width: 640px) {
+    .sched-day-cell {
+      padding: 0.5rem 0.5rem;
+    }
+  }
+
+  .sched-row:hover {
+    background-color: var(--bg-hover);
+  }
+
+  .sched-td {
+    padding: 0.25rem 0.25rem;
+  }
+
+  @media (min-width: 640px) {
+    .sched-td {
+      padding: 0.25rem 0.5rem;
+    }
+  }
+
+  .sched-td-venue {
+    color: var(--text-secondary);
+  }
+
+  .sched-td-time {
+    font-variant-numeric: tabular-nums;
+    color: var(--text-dim);
+  }
+
+  .sched-td-artist {
+    font-weight: 500;
+  }
+
+  .sched-td-genre {
+    color: var(--text-muted);
+    display: none;
+  }
+
+  @media (min-width: 490px) {
+    .sched-td-genre {
+      display: table-cell;
+    }
+  }
+
+  .badge-paid {
+    font-size: 0.75rem;
+    line-height: 1rem;
+    padding: 0.125rem 0.375rem;
+    border-radius: 0.25rem;
+    background-color: var(--badge-paid-bg);
+    color: var(--badge-paid-text);
+  }
+
+  .badge-free {
+    font-size: 0.75rem;
+    line-height: 1rem;
+    padding: 0.125rem 0.375rem;
+    border-radius: 0.25rem;
+    background-color: var(--badge-free-bg);
+    color: var(--badge-free-text);
+  }
+
+  .artist-btn {
+    cursor: pointer;
+    text-decoration: underline;
+    text-align: left;
+    color: var(--text);
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+  }
+
+  .qc-nowrap {
+    white-space: nowrap;
+  }
+
+  .qc-flag-inline {
+    height: 1rem;
+    width: 0.75rem;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 0.25rem;
+  }
+
+  [data-sort-label].is-active {
+    text-decoration: underline;
+    color: var(--text);
+  }
+</style>

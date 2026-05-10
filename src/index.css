@@ -1,16 +1,131 @@
-@import "tailwindcss";
+:root {
+  --bg: #ffffff;
+  --bg-secondary: #f3f4f6;
+  --bg-elevated: #ffffff;
+  --bg-hover: #f9fafb;
+  --text: #111827;
+  --text-muted: #6b7280;
+  --text-subtle: #9ca3af;
+  --text-secondary: #374151;
+  --text-dim: #4b5563;
+  --border: #e5e7eb;
+  --border-muted: #d1d5db;
+  --filter-all-bg: #1f2937;
+  --filter-all-text: #ffffff;
+  --filter-all-border: #1f2937;
+  --filter-free-bg: #dcfce7;
+  --filter-free-text: #14532d;
+  --filter-free-border: #86efac;
+  --filter-qc-bg: #dbeafe;
+  --filter-qc-text: #1e3a8a;
+  --filter-qc-border: #93c5fd;
+  --badge-paid-bg: #fef3c7;
+  --badge-paid-text: #92400e;
+  --badge-free-bg: #dcfce7;
+  --badge-free-text: #166534;
+  --dialog-genre-bg: #f3f4f6;
+  --dialog-genre-text: #4b5563;
+  --dialog-close-color: #9ca3af;
+  --dialog-close-hover: #4b5563;
+  --dialog-link-color: #2563eb;
+}
 
-@custom-variant dark (&:where(.dark, .dark *));
+.dark {
+  background-color: #111827;
+  --bg: #111827;
+  --bg-secondary: #1f2937;
+  --bg-elevated: #1f2937;
+  --bg-hover: #1f2937;
+  --text: #f9fafb;
+  --text-muted: #9ca3af;
+  --text-subtle: #6b7280;
+  --text-secondary: #e5e7eb;
+  --text-dim: #9ca3af;
+  --border: #374151;
+  --border-muted: #4b5563;
+  --filter-all-bg: #6b7280;
+  --filter-all-text: #ffffff;
+  --filter-all-border: #6b7280;
+  --filter-free-bg: rgba(20, 83, 45, 0.4);
+  --filter-free-text: #bbf7d0;
+  --filter-free-border: #15803d;
+  --filter-qc-bg: rgba(30, 58, 138, 0.4);
+  --filter-qc-text: #bfdbfe;
+  --filter-qc-border: #1d4ed8;
+  --badge-paid-bg: rgba(120, 53, 15, 0.4);
+  --badge-paid-text: #fde68a;
+  --badge-free-bg: rgba(20, 83, 45, 0.4);
+  --badge-free-text: #bbf7d0;
+  --dialog-genre-bg: #374151;
+  --dialog-genre-text: #d1d5db;
+  --dialog-close-color: #6b7280;
+  --dialog-close-hover: #d1d5db;
+  --dialog-link-color: #60a5fa;
+}
 
-@theme {
-  --breakpoint-xs: 490px;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+ol,
+ul,
+menu {
+  list-style: none;
+}
+
+img,
+svg,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: inherit;
+  color: inherit;
+}
+
+table {
+  border-collapse: collapse;
+  text-indent: 0;
+  border-color: inherit;
+}
+
+html {
+  font-family:
+    ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+  tab-size: 4;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: normal;
+  font-variation-settings: normal;
 }
 
 dialog {
   margin: auto;
 }
 
-/* If changed, update the inline style in Base.astro */
-.dark {
-  background-color: var(--color-gray-900);
+.hidden {
+  display: none;
 }
