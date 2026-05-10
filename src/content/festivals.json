@@ -37,18 +37,5 @@
     "sourceLabel": "lefestif.ca",
     "sourceAttribution": "Le Festif! de Baie-Saint-Paul",
     "draft": true
-  },
-  {
-    "name": "Test Festival 2026",
-    "shortName": "Test 2026",
-    "slug": "test-festival",
-    "year": 2026,
-    "region": "Test",
-    "features": ["filter-free", "filter-quebec"],
-    "dataDir": "test-festival",
-    "sourceUrl": null,
-    "sourceLabel": null,
-    "sourceAttribution": null,
-    "draft": true
   }
 ]
