@@ -1,5 +1,544 @@
 [
   {
+    "date": "2026-07-22",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "18:00",
+    "artist": "Riri",
+    "country": "Baie-Saint-Paul",
+    "genre": "DJ set / Musique du monde / Afrobeat / Funk brésilien / Latin house"
+  },
+  {
+    "date": "2026-07-22",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "19:30",
+    "artist": "Donotstealmyname",
+    "country": "Québec",
+    "genre": "House / Techno"
+  },
+  {
+    "date": "2026-07-22",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "21:00",
+    "artist": "Molyness",
+    "country": "Québec",
+    "genre": "DJ électro-acoustique"
+  },
+  {
+    "date": "2026-07-22",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "22:30",
+    "artist": "MAMBE",
+    "country": "Scandinavie / Colombie",
+    "genre": "Global bass / Electronic cumbia"
+  },
+  {
+    "date": "2026-07-22",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "23:45",
+    "artist": "seb e ko",
+    "country": "Québec",
+    "genre": "House ambiant / Électro / Dance"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Place Desjardins",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Lysandre",
+    "country": "Québec",
+    "genre": "Indie-pop / Folk"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Place Desjardins",
+    "paid": true,
+    "time": "19:45",
+    "artist": "Marjo",
+    "country": "Québec",
+    "genre": "Rock / Pop-rock"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Place Desjardins",
+    "paid": true,
+    "time": "21:30",
+    "artist": "Lou-Adriane Cassidy",
+    "country": "Québec",
+    "genre": "Folk-rock / Pop alternative"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Scène Chez Mag à la bétonnière",
+    "paid": true,
+    "time": "20:00",
+    "artist": "u.r.trax",
+    "country": "Paris",
+    "genre": "Électro / Techno expérimentale"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Scène Chez Mag à la bétonnière",
+    "paid": true,
+    "time": "21:30",
+    "artist": "The Halluci Nation",
+    "country": "Ottawa",
+    "genre": "Électro / Dance / Hip-hop / Dubstep"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "23:45",
+    "artist": "GYMSHORTS",
+    "country": "Boston",
+    "genre": "Punk rock"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "16:30",
+    "artist": "Rosalie Ayotte",
+    "country": "Québec",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "17:15",
+    "artist": "Pierre Lapointe",
+    "country": "Québec",
+    "genre": "Contemporain / Pop orchestrale"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Scène SiriusXM",
+    "paid": true,
+    "time": "23:45",
+    "artist": "BAIE",
+    "country": "Québec / Nouveau-Brunswick",
+    "genre": "Pop / Rock / Disco"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Bistro des Balcons",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Thee Soreheads",
+    "country": "Québec",
+    "genre": "Punk / Rock alternatif"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Garage du Curé Lepointdevente.com & Exclaim!",
+    "paid": false,
+    "time": "19:30",
+    "artist": "VioleTT Pi",
+    "country": "Québec",
+    "genre": "Rock alternatif / Punk / Pop électronique"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Garage du Curé Lepointdevente.com & Exclaim!",
+    "paid": false,
+    "time": "22:00",
+    "artist": "Souls of Mischief",
+    "country": "Californie",
+    "genre": "Hip-hop"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Gare Menaud & Viandes Bio de Charlevoix",
+    "paid": false,
+    "time": "17:00",
+    "artist": "Pancho",
+    "country": "Baie-Saint-Paul",
+    "genre": "Électro / House / Funk / Hip-hop latino"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Gare Menaud & Viandes Bio de Charlevoix",
+    "paid": false,
+    "time": "22:30",
+    "artist": "Riri",
+    "country": "Baie-Saint-Paul",
+    "genre": "DJ set / Musique du monde / Afrobeat / Funk brésilien / Latin house"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "15:00",
+    "artist": "Claudine Prévost",
+    "country": "Québec",
+    "genre": "DJ Set"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "17:00",
+    "artist": "Philippe Fehmiu",
+    "country": "Québec",
+    "genre": "DJ éclectique"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Tallandskiinny",
+    "country": "Québec",
+    "genre": "Pop électronique-underground / UKG / Jersey Club / Breakbeat"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "23:00",
+    "artist": "Le DJ de Trop",
+    "genre": "DJ nostalgique et assumé"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Scène MicroBrasserie Charlevoix",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Metalord",
+    "country": "Baie-Saint-Paul",
+    "genre": "Heavy-trash metal"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Scène MicroBrasserie Charlevoix",
+    "paid": false,
+    "time": "20:30",
+    "artist": "Sahra Halgan",
+    "country": "Somalie",
+    "genre": "Rock du Somaliland"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Série URBANIA : Lieu à venir",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Klaus",
+    "country": "Québec",
+    "genre": "Indie rock / Pop expérimental"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Zone Chez Mag",
+    "paid": false,
+    "time": "19:00",
+    "artist": "SNORO",
+    "country": "Baie-Saint-Paul",
+    "genre": "DJ funk / Disco / Hip-Hop"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Zone Chez Mag",
+    "paid": false,
+    "time": "22:00",
+    "artist": "laced",
+    "country": "Québec",
+    "genre": "Techno"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Bus Festif! Menaud",
+    "paid": true,
+    "time": "00:00",
+    "artist": "Slash Need",
+    "country": "Toronto",
+    "genre": "Techno industrielle / EBM métallique"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Bus Festif! Menaud",
+    "paid": true,
+    "time": "00:45",
+    "artist": "Slash Need",
+    "country": "Toronto",
+    "genre": "Techno industrielle / EBM métallique"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Bus Festif! Menaud",
+    "paid": true,
+    "time": "21:00",
+    "artist": "distraction4ever",
+    "country": "Québec",
+    "genre": "Post-punk / Minimal Wave"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Bus Festif! Menaud",
+    "paid": true,
+    "time": "21:45",
+    "artist": "distraction4ever",
+    "country": "Québec",
+    "genre": "Post-punk / Minimal Wave"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Cour à Joanne présentée par La Presse",
+    "paid": true,
+    "time": "13:00",
+    "artist": "Stone Bonnet Choir",
+    "country": "Québec",
+    "genre": "Musique traditionnelle"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Cour à Joanne présentée par La Presse",
+    "paid": true,
+    "time": "14:10",
+    "artist": "Hauterive",
+    "country": "Québec",
+    "genre": "Folk acoustique"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Pit à sable Electrolight",
+    "paid": true,
+    "time": "00:00",
+    "artist": "Dead Obies",
+    "country": "Québec",
+    "genre": "Hip-hop / Rap expérimental"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Place Desjardins",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Naya Ali",
+    "country": "Québec",
+    "genre": "Hip-hop / Rap / Soul / Afro-pop"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Place Desjardins",
+    "paid": true,
+    "time": "19:45",
+    "artist": "FouKi",
+    "country": "Québec",
+    "genre": "Rap québécois / Hip-hop"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Place Desjardins",
+    "paid": true,
+    "time": "21:30",
+    "artist": "Loud",
+    "country": "Québec",
+    "genre": "Hip-hop / Rap"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Scène Chez Mag à la bétonnière",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Natascha Polké",
+    "country": "Suisse",
+    "genre": "House indie / Électro"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Scène Chez Mag à la bétonnière",
+    "paid": true,
+    "time": "21:30",
+    "artist": "Tonic Walter",
+    "country": "Allemagne",
+    "genre": "Melodic house / Techno / Live électronique"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "01:00",
+    "artist": "Vulgaires Machins",
+    "country": "Québec",
+    "genre": "Punk rock / New wave"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "23:45",
+    "artist": "Robert Robert",
+    "country": "Québec",
+    "genre": "Électro-pop alternative"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "14:00",
+    "artist": "Flore Laurentienne",
+    "country": "Québec",
+    "genre": "Néo-classique / Instrumental"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Laurence Jalbert",
+    "country": "Québec",
+    "genre": "Chanson québécoise / Pop-rock acoustique"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Scène SiriusXM",
+    "paid": true,
+    "time": "01:00",
+    "artist": "Les Hay Babies",
+    "country": "Nouveau-Brunswick",
+    "genre": "Indie-folk / Country / Rock"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Scène SiriusXM",
+    "paid": true,
+    "time": "23:45",
+    "artist": "BéLi",
+    "country": "Québec",
+    "genre": "Pop alternative / Indie-électro"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Bistro des Balcons",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Interdit les chiens",
+    "country": "Québec",
+    "genre": "Noise-rock"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "En route vers le Quai Bell : Chez Stan",
+    "paid": false,
+    "time": "10:30",
+    "artist": "C.A & Sonny",
+    "country": "Ottawa",
+    "genre": "Late 19th, and Early 20th Century music—Ragtime, Ragtime/Blues, Folk, Country, Old Time, Calypso, and more."
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "En route vers le Quai Bell : Chez Stan",
+    "paid": false,
+    "time": "13:45",
+    "artist": "Les Sorcières de salon",
+    "country": "Québec",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "En route vers le Quai Bell : Halte routière",
+    "paid": false,
+    "time": "10:30",
+    "artist": "Les Sorcières de salon",
+    "country": "Québec",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "En route vers le Quai Bell : Halte routière",
+    "paid": false,
+    "time": "13:45",
+    "artist": "C.A & Sonny",
+    "country": "Ottawa",
+    "genre": "Late 19th, and Early 20th Century music—Ragtime, Ragtime/Blues, Folk, Country, Old Time, Calypso, and more."
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Espace Promutuel",
+    "paid": false,
+    "time": "14:00",
+    "artist": "Marc André Belliveau",
+    "country": "Baie-Saint-Paul",
+    "genre": "Ska / Folk / Punk / Reggae"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Espace Promutuel",
+    "paid": false,
+    "time": "16:00",
+    "artist": "Les Sorcières de salon",
+    "country": "Québec",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Espace Promutuel",
+    "paid": false,
+    "time": "19:00",
+    "artist": "C.A & Sonny",
+    "country": "Ottawa",
+    "genre": "Late 19th, and Early 20th Century music—Ragtime, Ragtime/Blues, Folk, Country, Old Time, Calypso, and more."
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Espace Promutuel",
+    "paid": false,
+    "time": "20:00",
+    "artist": "Johanna Rose & The Dreamboats",
+    "country": "Winnipeg",
+    "genre": "Jazz alternatif"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Garage du Curé Lepointdevente.com & Exclaim!",
+    "paid": false,
+    "time": "01:30",
+    "artist": "Otoboke Beaver",
+    "country": "Japon",
+    "genre": "Punk / Rock"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Garage du Curé Lepointdevente.com & Exclaim!",
+    "paid": false,
+    "time": "19:30",
+    "artist": "Ravenspell",
+    "country": "Baie-Saint-Paul",
+    "genre": "Heavy Metal"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Garage du Curé Lepointdevente.com & Exclaim!",
+    "paid": false,
+    "time": "22:00",
+    "artist": "The Mummies",
+    "country": "Californie",
+    "genre": "Rock Garage"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Gare Menaud & Viandes Bio de Charlevoix",
+    "paid": false,
+    "time": "17:00",
+    "artist": "Riri",
+    "country": "Baie-Saint-Paul",
+    "genre": "DJ set / Musique du monde / Afrobeat / Funk brésilien / Latin house"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Gare Menaud & Viandes Bio de Charlevoix",
+    "paid": false,
+    "time": "22:30",
+    "artist": "Pancho",
+    "country": "Baie-Saint-Paul",
+    "genre": "Électro / House / Funk / Hip-hop latino"
+  },
+  {
     "date": "2026-07-24",
     "venue": "Jardin de François",
     "paid": false,
@@ -7,6 +546,356 @@
     "artist": "Marylou Ménard",
     "country": "Baie-Saint-Paul",
     "genre": "Yoga"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "15:00",
+    "artist": "Claudine Prévost",
+    "country": "Québec",
+    "genre": "DJ Set"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "17:00",
+    "artist": "Philippe Fehmiu",
+    "country": "Québec",
+    "genre": "DJ éclectique"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "19:00",
+    "artist": "La Niña Kiwi",
+    "country": "Québec",
+    "genre": "Électro-latino urbain"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "23:00",
+    "artist": "Le DJ de Trop",
+    "genre": "DJ nostalgique et assumé"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Quai Bell",
+    "paid": false,
+    "time": "11:30",
+    "artist": "Mykalle",
+    "country": "Québec",
+    "genre": "Électro néoclassique / Chant sacré"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Quai Bell",
+    "paid": false,
+    "time": "12:45",
+    "artist": "Maude Audet",
+    "country": "Québec",
+    "genre": "Folk contemporain"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Scène MicroBrasserie Charlevoix",
+    "paid": false,
+    "time": "14:00",
+    "artist": "Grand Eugène",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Scène MicroBrasserie Charlevoix",
+    "paid": false,
+    "time": "17:00",
+    "artist": "Adrian Quesada's Trio Asesino",
+    "country": "Chicago",
+    "genre": "Soul psyché / Funk / Latin"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Scène MicroBrasserie Charlevoix",
+    "paid": false,
+    "time": "20:30",
+    "artist": "Fulu Miziki",
+    "country": "Congo",
+    "genre": "Afro-futuriste-éco punk"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Scène Solotech",
+    "paid": false,
+    "time": "14:30",
+    "artist": "Laura Masotto",
+    "country": "Italie",
+    "genre": "Contemporain / Expérimental"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Scène Solotech",
+    "paid": false,
+    "time": "17:30",
+    "artist": "Gwenifer Raymond",
+    "country": "Royaume-Uni",
+    "genre": "Blues fingerstyle / Folk horror"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Série URBANIA : Caserne de pompiers",
+    "paid": false,
+    "time": "16:00",
+    "artist": "Angry Blackmen",
+    "country": "Chicago",
+    "genre": "Hip-hop expérimental / Rap industriel"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Zone Chez Mag",
+    "paid": false,
+    "time": "16:00",
+    "artist": "Féfé",
+    "country": "Québec",
+    "genre": "House / Disco"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Zone Chez Mag",
+    "paid": false,
+    "time": "19:00",
+    "artist": "laced",
+    "country": "Québec",
+    "genre": "Techno"
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Zone Chez Mag",
+    "paid": false,
+    "time": "22:00",
+    "artist": "LaChatte",
+    "country": "Québec",
+    "genre": "DJ queer"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Bus Festif! Menaud",
+    "paid": true,
+    "time": "00:00",
+    "artist": "Lex Leosis",
+    "country": "Toronto",
+    "genre": "Spoken word"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Bus Festif! Menaud",
+    "paid": true,
+    "time": "00:45",
+    "artist": "Lex Leosis",
+    "country": "Toronto",
+    "genre": "Spoken word"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Bus Festif! Menaud",
+    "paid": true,
+    "time": "21:00",
+    "artist": "Mandyspie",
+    "country": "France",
+    "genre": "Rap francophone / Trap alternatif"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Bus Festif! Menaud",
+    "paid": true,
+    "time": "21:45",
+    "artist": "Mandyspie",
+    "country": "France",
+    "genre": "Rap francophone / Trap alternatif"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Cour à Joanne présentée par La Presse",
+    "paid": true,
+    "time": "13:00",
+    "artist": "Luan Larobina",
+    "country": "Québec",
+    "genre": "Indie / Folk / Latin"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Cour à Joanne présentée par La Presse",
+    "paid": true,
+    "time": "14:10",
+    "artist": "Stéphane Archambault",
+    "country": "Québec",
+    "genre": "Musique traditionnelle / Folk"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Pit à sable Electrolight",
+    "paid": true,
+    "time": "00:00",
+    "artist": "Les Goules",
+    "country": "Québec",
+    "genre": "Rock / Punk"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Place Desjardins",
+    "paid": true,
+    "time": "18:30",
+    "artist": "oui merci",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Place Desjardins",
+    "paid": true,
+    "time": "19:45",
+    "artist": "Vincent Vallières",
+    "country": "Québec",
+    "genre": "Folk / Pop québécoise"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Place Desjardins",
+    "paid": true,
+    "time": "21:30",
+    "artist": "JF Pauzé",
+    "country": "Québec",
+    "genre": "Folk-rock québécois"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Scène Chez Mag à la bétonnière",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Marie Davidson (DJ)",
+    "country": "Québec",
+    "genre": "Techno / Synth pop / Ambient"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Scène Chez Mag à la bétonnière",
+    "paid": true,
+    "time": "21:30",
+    "artist": "Felix Cartal",
+    "country": "Vancouver",
+    "genre": "House / Indie-électro / Dance"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "01:00",
+    "artist": "Malaimé Soleil",
+    "country": "Québec",
+    "genre": "Pop-rock alternatif / Indie"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "23:30",
+    "artist": "Slim Tony",
+    "country": "Baie-Saint-Paul",
+    "genre": "Hip-hop"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "14:00",
+    "artist": "Louis-Jean Cormier",
+    "country": "Québec",
+    "genre": "Folk-rock / Pop alternative"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Les soeurs Boulay et Elliot Maginot font quelque chose (ensemble sur scène)",
+    "country": "Québec",
+    "genre": "Folk / Acoustique"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Scène SiriusXM",
+    "paid": true,
+    "time": "01:00",
+    "artist": "Gab Bouchard",
+    "country": "Québec",
+    "genre": "Pop-rock / Country-folk / Soul"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Scène SiriusXM",
+    "paid": true,
+    "time": "23:45",
+    "artist": "Patche",
+    "country": "Québec",
+    "genre": "Électro / Techno psyché / Rock expérimental"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "53 rue St-Joseph",
+    "paid": false,
+    "time": "16:00",
+    "artist": "Tommy Boivin",
+    "country": "Baie-Saint-Paul",
+    "genre": "Chanson folk / Poésie musicale"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Bistro des Balcons",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Caniche 666",
+    "country": "Québec",
+    "genre": "Punk francophone / Hardcore"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "En route vers le Quai Bell : Chez Stan",
+    "paid": false,
+    "time": "10:30",
+    "artist": "Aurelia Anne Cohen",
+    "country": "Arizona",
+    "genre": "Folk intemporel-expérimental"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "En route vers le Quai Bell : Chez Stan",
+    "paid": false,
+    "time": "13:45",
+    "artist": "Johanna Rose & The Dreamboats",
+    "country": "Winnipeg",
+    "genre": "Jazz alternatif"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "En route vers le Quai Bell : Halte routière",
+    "paid": false,
+    "time": "10:30",
+    "artist": "Johanna Rose & The Dreamboats",
+    "country": "Winnipeg",
+    "genre": "Jazz alternatif"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "En route vers le Quai Bell : Halte routière",
+    "paid": false,
+    "time": "13:45",
+    "artist": "Aurelia Anne Cohen",
+    "country": "Arizona",
+    "genre": "Folk intemporel-expérimental"
   },
   {
     "date": "2026-07-25",
@@ -19,12 +908,164 @@
   },
   {
     "date": "2026-07-25",
+    "venue": "Espace Promutuel",
+    "paid": false,
+    "time": "13:00",
+    "artist": "Marc André Belliveau",
+    "country": "Baie-Saint-Paul",
+    "genre": "Ska / Folk / Punk / Reggae"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Espace Promutuel",
+    "paid": false,
+    "time": "14:30",
+    "artist": "C.A & Sonny",
+    "country": "Ottawa",
+    "genre": "Late 19th, and Early 20th Century music—Ragtime, Ragtime/Blues, Folk, Country, Old Time, Calypso, and more."
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Espace Promutuel",
+    "paid": false,
+    "time": "16:00",
+    "artist": "Aurelia Anne Cohen",
+    "country": "Arizona",
+    "genre": "Folk intemporel-expérimental"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Espace Promutuel",
+    "paid": false,
+    "time": "19:00",
+    "artist": "C.A & Sonny",
+    "country": "Ottawa",
+    "genre": "Late 19th, and Early 20th Century music—Ragtime, Ragtime/Blues, Folk, Country, Old Time, Calypso, and more."
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Espace Promutuel",
+    "paid": false,
+    "time": "20:00",
+    "artist": "Aurelia Anne Cohen",
+    "country": "Arizona",
+    "genre": "Folk intemporel-expérimental"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Espace Promutuel",
+    "paid": false,
+    "time": "21:30",
+    "artist": "C.A & Sonny",
+    "country": "Ottawa",
+    "genre": "Late 19th, and Early 20th Century music—Ragtime, Ragtime/Blues, Folk, Country, Old Time, Calypso, and more."
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Garage du Curé Lepointdevente.com & Exclaim!",
+    "paid": false,
+    "time": "01:30",
+    "artist": "Heavy Lungs",
+    "country": "Royaume-Uni",
+    "genre": "Post-punk / Noise rock"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Garage du Curé Lepointdevente.com & Exclaim!",
+    "paid": false,
+    "time": "19:30",
+    "artist": "Get The Shot",
+    "country": "Québec",
+    "genre": "Punk hardcore / Death metal"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Garage du Curé Lepointdevente.com & Exclaim!",
+    "paid": false,
+    "time": "22:00",
+    "artist": "African Head Charge",
+    "country": "Royaume-Uni",
+    "genre": "Dub reggae / Percussion expérimentale"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Gare Menaud & Viandes Bio de Charlevoix",
+    "paid": false,
+    "time": "17:00",
+    "artist": "Riri",
+    "country": "Baie-Saint-Paul",
+    "genre": "DJ set / Musique du monde / Afrobeat / Funk brésilien / Latin house"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Gare Menaud & Viandes Bio de Charlevoix",
+    "paid": false,
+    "time": "22:30",
+    "artist": "Pancho",
+    "country": "Baie-Saint-Paul",
+    "genre": "Électro / House / Funk / Hip-hop latino"
+  },
+  {
+    "date": "2026-07-25",
     "venue": "Jardin de François",
     "paid": false,
     "time": "10:00",
     "artist": "Emily Beauchamp",
     "country": "Baie-Saint-Paul",
     "genre": "Méditation sonore immersive"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "15:00",
+    "artist": "Claudine Prévost",
+    "country": "Québec",
+    "genre": "DJ Set"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "17:00",
+    "artist": "Philippe Fehmiu",
+    "country": "Québec",
+    "genre": "DJ éclectique"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Sugarface BelFo",
+    "country": "Québec",
+    "genre": "House / Nu disco / Global bass"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Parvis Radio-Canada",
+    "paid": false,
+    "time": "23:00",
+    "artist": "Le DJ de Trop",
+    "genre": "DJ nostalgique et assumé"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Quai Bell",
+    "paid": false,
+    "time": "11:30",
+    "artist": "Forêt Marine",
+    "country": "Baie-Saint-Paul",
+    "genre": "Folk-pop alternative"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Quai Bell",
+    "paid": false,
+    "time": "12:45",
+    "artist": "Büşra Kayıkçı",
+    "country": "Istanbul",
+    "genre": "Contemporain classique / Piano moderne"
   },
   {
     "date": "2026-07-25",
@@ -133,5 +1174,221 @@
     "artist": "MarieMIKEA",
     "country": "Québec",
     "genre": "Cirque"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Scène MicroBrasserie Charlevoix",
+    "paid": false,
+    "time": "14:00",
+    "artist": "Alphonse Bisaillon",
+    "country": "Québec",
+    "genre": "Chanson poétique / Jazz / Dubstep"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Scène MicroBrasserie Charlevoix",
+    "paid": false,
+    "time": "17:00",
+    "artist": "La Banda Chuska",
+    "country": "Brooklyn",
+    "genre": "Surf rock / Cumbia"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Scène MicroBrasserie Charlevoix",
+    "paid": false,
+    "time": "20:30",
+    "artist": "Babe Rainbow",
+    "country": "Australie",
+    "genre": "Psyché surf / Acid-pop"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Scène Solotech",
+    "paid": false,
+    "time": "14:30",
+    "artist": "Ulysse Ruel Orchestra",
+    "country": "Québec",
+    "genre": "Harmonica post-blues / Expérimental"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Scène Solotech",
+    "paid": false,
+    "time": "17:30",
+    "artist": "Ami Dang",
+    "country": "Asie du Sud / Baltimore",
+    "genre": "deep reggae roots and culture"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Série URBANIA : Restaurant le Bercail",
+    "paid": false,
+    "time": "11:00",
+    "artist": "Goodbye Karelle",
+    "country": "Québec",
+    "genre": "Pop alternative / Spoken word"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Série URBANIA : Restaurant le Bercail",
+    "paid": false,
+    "time": "16:00",
+    "artist": "Queen Ka",
+    "country": "Québec",
+    "genre": "Slam poésie / Électro"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Zone Chez Mag",
+    "paid": false,
+    "time": "16:00",
+    "artist": "Féfé",
+    "country": "Québec",
+    "genre": "House / Disco"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Zone Chez Mag",
+    "paid": false,
+    "time": "19:00",
+    "artist": "SIN LESS",
+    "country": "Québec",
+    "genre": "House / Deep Tech / Indie Dance"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Zone Chez Mag",
+    "paid": false,
+    "time": "22:00",
+    "artist": "Sugarface BelFo",
+    "country": "Québec",
+    "genre": "House / Nu disco / Global bass"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "Bus Festif! Menaud",
+    "paid": true,
+    "time": "00:00",
+    "artist": "Nectar Palace",
+    "country": "Québec",
+    "genre": "Noise pop"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "Bus Festif! Menaud",
+    "paid": true,
+    "time": "00:45",
+    "artist": "Nectar Palace",
+    "country": "Québec",
+    "genre": "Noise pop"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "Concert à l'aube GO CHARLEVOIX",
+    "paid": true,
+    "time": "04:30",
+    "artist": "Natasha Kanapé",
+    "country": "Pessamit",
+    "genre": "Poésie performée"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "Pit à sable Electrolight",
+    "paid": true,
+    "time": "00:00",
+    "artist": "Les Louanges",
+    "country": "Québec",
+    "genre": "Soul / Funk / Pop alternative"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "00:00",
+    "artist": "Kinji00",
+    "country": "Québec",
+    "genre": "Rap plug"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "01:00",
+    "artist": "Rowjay",
+    "country": "Québec",
+    "genre": "Rap ignorant"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "Scène SiriusXM",
+    "paid": true,
+    "time": "01:00",
+    "artist": "We Are Wolves",
+    "country": "Québec",
+    "genre": "Post-punk alternatif / Dance-rock"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "En route vers le Quai Bell : Chez Stan",
+    "paid": false,
+    "time": "10:30",
+    "artist": "Hochelaga Hotshots",
+    "country": "Québec",
+    "genre": "Musique de rue / Jazz New Orleans"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "En route vers le Quai Bell : Chez Stan",
+    "paid": false,
+    "time": "13:45",
+    "artist": "PLOMBERIE",
+    "country": "Québec",
+    "genre": "Groove instrumental / Brass band / Hip-hop urbain"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "En route vers le Quai Bell : Halte routière",
+    "paid": false,
+    "time": "10:30",
+    "artist": "PLOMBERIE",
+    "country": "Québec",
+    "genre": "Groove instrumental / Brass band / Hip-hop urbain"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "En route vers le Quai Bell : Halte routière",
+    "paid": false,
+    "time": "13:45",
+    "artist": "Hochelaga Hotshots",
+    "country": "Québec",
+    "genre": "Musique de rue / Jazz New Orleans"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "Garage du Curé Lepointdevente.com & Exclaim!",
+    "paid": false,
+    "time": "01:30",
+    "artist": "Sextile",
+    "country": "Los Angeles",
+    "genre": "Électro / Techno alternatif"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "Quai Bell",
+    "paid": false,
+    "time": "11:30",
+    "artist": "Vanille",
+    "country": "Québec",
+    "genre": "Rock alternatif / Folk / Sunshine pop"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "Quai Bell",
+    "paid": false,
+    "time": "12:45",
+    "artist": "Marie Céleste",
+    "country": "Québec",
+    "genre": "Rock / Électro / Folk"
   }
 ]

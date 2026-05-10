@@ -117,7 +117,7 @@ export async function run(): Promise<void> {
   const filtered = edges.filter(({ node }) => {
     if (!node.data.event?.document || !node.data.artist?.document) return false;
     const ev = node.data.event.document.data;
-    return !ev.hidefromprog && ev.is_show;
+    return !ev.hidefromprog;
   });
 
   console.log(`[festif-2026] ${filtered.length} appearances after filtering (${edges.length} total)`);
