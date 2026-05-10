@@ -22,6 +22,7 @@ function formatDayHeader(date: string): string {
 
 const hasFreeFilter = features.includes("filter-free");
 const hasQuebecFilter = features.includes("filter-quebec");
+const hasAllPaid = features.includes("all-paid");
 
 let globalIndex = 0;
 ---
@@ -62,7 +63,7 @@ let globalIndex = 0;
     <thead>
       <tr class="sched-thead-row">
         <th class="sched-th">Lieu</th>
-        <th data-paid-header class="sched-th">Passe?</th>
+        {!hasAllPaid && <th data-paid-header class="sched-th">Passe?</th>}
         <th data-sort-toggle class="sched-th sched-th-sort">
           <span data-sort-label style="view-transition-name: col-time">Début</span>
         </th>
@@ -94,13 +95,15 @@ let globalIndex = 0;
                 style={`view-transition-name: row-${idx}`}
               >
                   <td class="sched-td sched-td-venue">{row.venue}</td>
-                  <td data-paid-cell class="sched-td">
-                    {row.paid ? (
-                      <span class="badge-paid">Payant</span>
-                    ) : (
-                      <span class="badge-free">Gratuit</span>
-                    )}
-                  </td>
+                  {!hasAllPaid && (
+                    <td data-paid-cell class="sched-td">
+                      {row.paid ? (
+                        <span class="badge-paid">Payant</span>
+                      ) : (
+                        <span class="badge-free">Gratuit</span>
+                      )}
+                    </td>
+                  )}
                   <td class="sched-td sched-td-time">{row.time}</td>
                   <td class="sched-td sched-td-artist">
                     <button type="button" data-artist-open={row.artist} class="artist-btn">
