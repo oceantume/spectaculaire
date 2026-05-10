@@ -98,10 +98,12 @@ async function fetchEventDetails(slug: string): Promise<{ description?: string; 
   if (!res.ok) return {};
   const html = await res.text();
 
+  const descSectionMatch = html.match(/class="[^"]*c-event-intro_description[^"]*"[^>]*>([\s\S]*?)<\/div>/);
+  const descHtml = descSectionMatch ? descSectionMatch[1] : "";
   const paragraphs: string[] = [];
-  for (const pMatch of html.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)) {
-    const text = htmlToText(pMatch[1]).trim();
-    if (text.length >= 80) paragraphs.push(text);
+  for (const pMatch of descHtml.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)) {
+    const text = decodeHtmlEntities(htmlToText(pMatch[1]));
+    if (text) paragraphs.push(text);
   }
   const description = paragraphs.length > 0 ? paragraphs.join("\n\n") : undefined;
 
