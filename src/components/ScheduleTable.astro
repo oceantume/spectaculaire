@@ -27,15 +27,22 @@ const hasQuebecFilter = features.includes("filter-quebec");
 let globalIndex = 0;
 ---
 
-<div>
+<div data-schedule-wrapper data-schedule-slug={slug}>
+  <script is:inline>
+    (function () {
+      try {
+        var el = document.currentScript.parentElement;
+        var slug = el.getAttribute('data-schedule-slug');
+        if (JSON.parse(localStorage.getItem(slug + ':free'))) el.setAttribute('data-filter-free', '');
+        if (JSON.parse(localStorage.getItem(slug + ':quebec'))) el.setAttribute('data-filter-quebec', '');
+        if (JSON.parse(localStorage.getItem(slug + ':start'))) el.setAttribute('data-sort-by-start', '');
+      } catch (_) {}
+    })();
+  </script>
   {
     (hasFreeFilter || hasQuebecFilter) && (
       <div data-filter-bar class="filter-bar">
-        <button
-          type="button"
-          data-filter="all"
-          class="filter-btn is-active"
-        >
+        <button type="button" data-filter="all" class="filter-btn">
           Toute
         </button>
         {hasFreeFilter && (
@@ -52,7 +59,7 @@ let globalIndex = 0;
       </div>
     )
   }
-  <table class="sched-table" data-schedule-table data-schedule-slug={slug}>
+  <table class="sched-table" data-schedule-table>
     <thead>
       <tr class="sched-thead-row">
         <th class="sched-th">Lieu</th>
@@ -64,29 +71,29 @@ let globalIndex = 0;
         <th class="sched-th sched-th-genre">Genre</th>
       </tr>
     </thead>
-    <tbody>
-      {
-        Array.from(schedule.entries()).map(([date, rows]) => (
-          <>
-            <tr data-day-header data-date={date} class="sched-day-row">
-              <th colspan={10} class="sched-day-cell">
-                {formatDayHeader(date)}
-              </th>
-            </tr>
-            {rows.map((row) => {
-              const idx = globalIndex++;
-              return (
-                <tr
-                  data-row
-                  data-date={row.date}
-                  data-paid={String(row.paid)}
-                  data-country={row.country ?? ""}
-                  data-time={row.time}
-                  data-genre={row.genre}
-                  data-original-index={idx}
-                  class="sched-row"
-                  style={`view-transition-name: row-${idx}`}
-                >
+    {
+      Array.from(schedule.entries()).map(([date, rows]) => (
+        <tbody data-day={date}>
+          <tr data-day-header data-date={date} class="sched-day-row">
+            <th colspan={10} class="sched-day-cell">
+              {formatDayHeader(date)}
+            </th>
+          </tr>
+          {rows.map((row) => {
+            const idx = globalIndex++;
+            return (
+              <tr
+                data-row
+                data-date={row.date}
+                data-paid={String(row.paid)}
+                data-country={row.country ?? ""}
+                data-non-quebec={row.country !== "Québec" ? "" : undefined}
+                data-time={row.time}
+                data-genre={row.genre}
+                data-original-index={idx}
+                class="sched-row"
+                style={`view-transition-name: row-${idx}`}
+              >
                   <td class="sched-td sched-td-venue">{row.venue}</td>
                   <td data-paid-cell class="sched-td">
                     {row.paid ? (
@@ -115,10 +122,9 @@ let globalIndex = 0;
                 </tr>
               );
             })}
-          </>
-        ))
-      }
-    </tbody>
+        </tbody>
+      ))
+    }
   </table>
 </div>
 <script>
@@ -147,26 +153,55 @@ let globalIndex = 0;
     transition: background-color 0.15s;
   }
 
-  .filter-btn:not(.is-active):hover {
+  .filter-btn:hover {
     background-color: var(--bg-hover);
   }
 
-  [data-filter="all"].filter-btn.is-active {
+  [data-schedule-wrapper]:not([data-filter-free]):not([data-filter-quebec])
+    [data-filter="all"].filter-btn {
     background-color: var(--filter-all-bg);
     color: var(--filter-all-text);
     border-color: var(--filter-all-border);
   }
 
-  [data-filter="free"].filter-btn.is-active {
+  [data-filter-free] [data-filter="free"].filter-btn {
     background-color: var(--filter-free-bg);
     color: var(--filter-free-text);
     border-color: var(--filter-free-border);
   }
 
-  [data-filter="quebec"].filter-btn.is-active {
+  [data-filter-quebec] [data-filter="quebec"].filter-btn {
     background-color: var(--filter-qc-bg);
     color: var(--filter-qc-text);
     border-color: var(--filter-qc-border);
+  }
+
+  [data-filter-free] [data-row][data-paid="true"] {
+    display: none;
+  }
+
+  [data-filter-quebec] [data-row][data-non-quebec] {
+    display: none;
+  }
+
+  [data-filter-free] [data-paid-header],
+  [data-filter-free] [data-paid-cell] {
+    display: none;
+  }
+
+  [data-filter-free]:not([data-filter-quebec])
+    tbody:not(:has([data-row]:not([data-paid="true"]))) {
+    display: none;
+  }
+
+  [data-filter-quebec]:not([data-filter-free])
+    tbody:not(:has([data-row]:not([data-non-quebec]))) {
+    display: none;
+  }
+
+  [data-filter-free][data-filter-quebec]
+    tbody:not(:has([data-row]:not([data-paid="true"]):not([data-non-quebec]))) {
+    display: none;
   }
 
   .qc-flag {
@@ -329,7 +364,7 @@ let globalIndex = 0;
     margin-left: 0.25rem;
   }
 
-  [data-sort-label].is-active {
+  [data-sort-by-start] [data-sort-label] {
     text-decoration: underline;
     color: var(--text);
   }
