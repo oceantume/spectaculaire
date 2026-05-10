@@ -1,7 +1,7 @@
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
-import { htmlToText, localDateStr, localTimeStr, toEDT, writeFestivalData } from "../update-schedule.ts";
+import { htmlToText, localDateStr, localTimeStr, toEDT, writeFestivalData } from "../utils.ts";
 
 interface PrismicText {
   text: string;

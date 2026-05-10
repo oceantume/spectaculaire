@@ -3,7 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import vm from "node:vm";
 import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
-import { htmlToText, localDateStr, localTimeStr, toEDT, writeFestivalData } from "../update-schedule.ts";
+import { htmlToText, localDateStr, localTimeStr, toEDT, writeFestivalData } from "../utils.ts";
 
 interface Venue {
   id: number;

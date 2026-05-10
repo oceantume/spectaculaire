@@ -2,7 +2,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { parse } from "node-html-parser";
 import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
-import { htmlToText, writeFestivalData } from "../update-schedule.ts";
+import { htmlToText, writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataDir = path.join(__dirname, "../../src/content/festivals/festivent-2026");
