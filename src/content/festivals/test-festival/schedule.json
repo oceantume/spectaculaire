@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2026-07-03",
+    "venue": "Grande Scène",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Les Grandes Orgues",
+    "country": "Québec",
+    "genre": "Rock"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène Hydro-Québec",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Midnight Echo",
+    "country": "France",
+    "genre": "Électronique"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène Hydro-Québec",
+    "paid": false,
+    "time": "21:30",
+    "artist": "The Wanderers",
+    "country": "États-Unis",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Grande Scène",
+    "paid": true,
+    "time": "20:30",
+    "artist": "Maëva Tremblay",
+    "country": "Québec",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scène Hydro-Québec",
+    "paid": false,
+    "time": "18:00",
+    "artist": "Solstice Band",
+    "country": "Belgique",
+    "genre": "Jazz"
+  }
+]

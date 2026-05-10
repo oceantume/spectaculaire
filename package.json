@@ -7,10 +7,10 @@
     "doc": "docs"
   },
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "check": "tsgo --noEmit && biome check --write .",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check && biome check --write .",
     "prepare": "husky",
     "update": "node scripts/update-schedule.ts",
     "generate-icons": "node --experimental-strip-types scripts/generate-icons.ts"
@@ -29,16 +29,14 @@
   "homepage": "https://github.com/oceantume/spectaculaire#readme",
   "devDependencies": {
     "@biomejs/biome": "^2.4.6",
-    "@preact/preset-vite": "^2.10.3",
     "@resvg/resvg-js": "^2.6.2",
     "@tailwindcss/vite": "^4.2.1",
     "@types/node": "^25.5.0",
+    "@astrojs/check": "^0.9.0",
     "@typescript/native-preview": "^7.0.0-dev.20260311.1",
+    "astro": "^5.0.0",
     "husky": "^9.1.7",
-    "preact": "^10.29.0",
     "tailwindcss": "^4.2.1",
-    "typescript": "^5.9.3",
-    "vite": "^7.3.1",
-    "vite-plugin-pwa": "^1.2.0"
+    "typescript": "^5.9.3"
   }
 }

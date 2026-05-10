@@ -1,7 +1,18 @@
+---
+import "../index.css";
+
+type Props = {
+  title: string;
+  description: string;
+};
+
+const { title, description } = Astro.props;
+---
+
 <!doctype html>
 <html lang="fr">
   <head>
-    <script>
+    <script is:inline>
       try {
         if (JSON.parse(localStorage.getItem("theme")) === "dark") {
           document.documentElement.classList.add("dark");
@@ -10,19 +21,20 @@
     </script>
     <style>
       /* Color must match .dark background-color in src/index.css */
-      html.dark { background-color: #111827; }
+      html.dark {
+        background-color: #111827;
+      }
     </style>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Spectaculaire</title>
-    <meta name="description" content="Horaire de la programmation du Festival d'été de Québec 2026" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
     <meta name="theme-color" content="#111827" />
     <link rel="icon" href="/favicon.ico" sizes="32x32" />
     <link rel="icon" href="/icon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/icons/192.png" />
   </head>
   <body>
-    <div id="app"></div>
-    <script type="module" src="/src/main.tsx"></script>
+    <slot />
   </body>
 </html>

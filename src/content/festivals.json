@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Programmation FEQ 2026",
+    "shortName": "FEQ 2026",
+    "slug": "feq-2026",
+    "year": 2026,
+    "region": "Québec",
+    "features": ["filter-free", "filter-quebec"],
+    "dataDir": "feq-2026",
+    "sourceUrl": "https://www.feq.ca/fr/programmation",
+    "sourceLabel": "feq.ca",
+    "sourceAttribution": "Festival d'été de Québec",
+    "draft": false
+  },
+  {
+    "name": "Test Festival 2026",
+    "shortName": "Test 2026",
+    "slug": "test-festival",
+    "year": 2026,
+    "region": "Test",
+    "features": ["filter-free", "filter-quebec"],
+    "dataDir": "test-festival",
+    "sourceUrl": null,
+    "sourceLabel": null,
+    "sourceAttribution": null,
+    "draft": true
+  }
+]

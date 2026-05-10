@@ -1,0 +1,26 @@
+{
+  "Les Grandes Orgues": {
+    "description": "Un groupe de rock progressif québécois qui fusionne les sons classiques et modernes pour créer une expérience musicale unique.",
+    "imageUrl": "https://images.unsplash.com/photo-1501386761578-eaa54b6cc8ee?w=800&h=400&fit=crop",
+    "links": [
+      { "label": "Site officiel", "url": "https://example.com/les-grandes-orgues" },
+      { "label": "Vidéo officielle", "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }
+    ]
+  },
+  "Midnight Echo": {
+    "description": "Duo électronique parisien connu pour ses performances live immersives et ses paysages sonores hypnotiques.",
+    "links": [{ "label": "Spotify", "url": "https://example.com/midnight-echo" }]
+  },
+  "The Wanderers": {
+    "links": []
+  },
+  "Maëva Tremblay": {
+    "description": "Auteure-compositrice-interprète de Montréal dont la voix envoûtante et les textes poétiques ont conquis le public québécois.",
+    "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&h=400&fit=crop",
+    "links": [{ "label": "Site officiel", "url": "https://example.com/maeva-tremblay" }]
+  },
+  "Solstice Band": {
+    "description": "Formation jazz belge aux influences world music, reconnue pour ses improvisations enflammées.",
+    "links": [{ "label": "Bandcamp", "url": "https://example.com/solstice-band" }]
+  }
+}

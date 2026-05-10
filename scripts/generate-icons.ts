@@ -1,6 +1,6 @@
-import { Resvg } from "@resvg/resvg-js";
 import { readFileSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
+import { Resvg } from "@resvg/resvg-js";
 
 const svgPath = resolve(import.meta.dirname, "../public/icon.svg");
 const svg = readFileSync(svgPath, "utf-8");

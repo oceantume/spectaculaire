@@ -10,7 +10,7 @@ dialog {
   margin: auto;
 }
 
-/* If changed, update the inline style in index.html */
+/* If changed, update the inline style in Base.astro */
 .dark {
   background-color: var(--color-gray-900);
 }

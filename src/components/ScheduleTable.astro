@@ -1,0 +1,151 @@
+---
+import type { ArtistDetailsByName, Row } from "../types";
+
+type Props = {
+  schedule: Map<string, Row[]>;
+  artistDetails: ArtistDetailsByName;
+  slug: string;
+  features: string[];
+};
+
+const { schedule, slug, features } = Astro.props;
+
+function formatDayHeader(date: string): string {
+  const [year, month, day] = date.split("-").map(Number);
+  const d = new Date(year, month - 1, day);
+  return d.toLocaleDateString("fr-CA", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+  });
+}
+
+const hasFreeFilter = features.includes("filter-free");
+const hasQuebecFilter = features.includes("filter-quebec");
+
+let globalIndex = 0;
+---
+
+<div>
+  {
+    (hasFreeFilter || hasQuebecFilter) && (
+      <div data-filter-bar class="flex gap-2 px-2 py-2">
+        <button
+          type="button"
+          data-filter="all"
+          class="cursor-pointer text-xs px-3 py-1 rounded-full border bg-gray-800 text-white border-gray-800 dark:bg-gray-500 dark:text-white dark:border-gray-500"
+        >
+          Toute
+        </button>
+        {hasFreeFilter && (
+          <button
+            type="button"
+            data-filter="free"
+            class="cursor-pointer text-xs px-3 py-1 rounded-full border text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800"
+          >
+            Gratuit
+          </button>
+        )}
+        {hasQuebecFilter && (
+          <button
+            type="button"
+            data-filter="quebec"
+            class="cursor-pointer text-xs px-3 py-1 rounded-full border flex items-center gap-1 text-gray-600 border-gray-300 hover:bg-gray-50 dark:text-gray-400 dark:border-gray-600 dark:hover:bg-gray-800"
+          >
+            <img src="/qc.svg" alt="" class="h-3.5 w-2.5 inline-block dark:brightness-[1.5]" />
+            Québécois
+          </button>
+        )}
+      </div>
+    )
+  }
+  <table class="w-full text-sm border-collapse" data-schedule-table data-schedule-slug={slug}>
+    <thead>
+      <tr class="text-left text-xs text-gray-500 dark:text-gray-400 uppercase tracking-wide">
+        <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Lieu</th>
+        <th data-paid-header class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Passe?</th>
+        <th
+          data-sort-toggle
+          class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900 cursor-pointer select-none"
+        >
+          <span data-sort-label>Début</span>
+        </th>
+        <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900">Artiste</th>
+        <th class="py-1 px-1 sm:px-2 font-medium sticky top-0 z-20 bg-white dark:bg-gray-900 hidden xs:table-cell">Genre</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        Array.from(schedule.entries()).map(([date, rows]) => (
+          <>
+            <tr data-day-header data-date={date} class="bg-gray-100 dark:bg-gray-800">
+              <th
+                colspan={10}
+                class="py-2 px-1 sm:px-2 text-left text-sm font-semibold text-gray-700 dark:text-gray-200 capitalize sticky top-6 z-10 bg-gray-100 dark:bg-gray-800"
+              >
+                {formatDayHeader(date)}
+              </th>
+            </tr>
+            {rows.map((row) => {
+              const idx = globalIndex++;
+              return (
+                <tr
+                  data-row
+                  data-date={row.date}
+                  data-paid={String(row.paid)}
+                  data-country={row.country ?? ""}
+                  data-time={row.time}
+                  data-genre={row.genre}
+                  data-original-index={idx}
+                  class="hover:bg-gray-50 dark:hover:bg-gray-800"
+                >
+                  <td class="py-1 px-1 sm:px-2 text-gray-700 dark:text-gray-300">{row.venue}</td>
+                  <td data-paid-cell class="py-1 px-1 sm:px-2">
+                    {row.paid ? (
+                      <span class="text-xs px-1.5 py-0.5 rounded bg-amber-100 text-amber-800 dark:bg-amber-900/40 dark:text-amber-200">
+                        Payant
+                      </span>
+                    ) : (
+                      <span class="text-xs px-1.5 py-0.5 rounded bg-green-100 text-green-800 dark:bg-green-900/40 dark:text-green-200">
+                        Gratuit
+                      </span>
+                    )}
+                  </td>
+                  <td class="py-1 px-1 sm:px-2 tabular-nums text-gray-600 dark:text-gray-400">{row.time}</td>
+                  <td class="py-1 px-1 sm:px-2 font-medium">
+                    <button
+                      type="button"
+                      data-artist-open={row.artist}
+                      class="cursor-pointer underline text-left dark:text-gray-100"
+                    >
+                      {row.country === "Québec" ? (
+                        <>
+                          {row.artist.slice(0, row.artist.lastIndexOf(" ") + 1)}
+                          <span class="whitespace-nowrap">
+                            {row.artist.slice(row.artist.lastIndexOf(" ") + 1)}
+                            <img
+                              src="/qc.svg"
+                              alt="Québec"
+                              class="h-4 w-3 inline-block align-middle ml-1 dark:brightness-[1.5]"
+                            />
+                          </span>
+                        </>
+                      ) : (
+                        row.artist
+                      )}
+                    </button>
+                  </td>
+                  <td class="py-1 px-1 sm:px-2 text-gray-500 dark:text-gray-400 hidden xs:table-cell">{row.genre}</td>
+                </tr>
+              );
+            })}
+          </>
+        ))
+      }
+    </tbody>
+  </table>
+</div>
+<script>
+  import "../scripts/schedule-filter";
+</script>

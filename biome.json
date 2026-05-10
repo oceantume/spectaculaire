@@ -1,7 +1,7 @@
 {
   "$schema": "https://biomejs.dev/schemas/2.4.6/schema.json",
   "files": {
-    "includes": ["src/**", "vite.config.ts", "biome.json", "tsconfig.json"]
+    "includes": ["src/**", "scripts/**", "astro.config.mjs", "biome.json", "tsconfig.json"]
   },
   "formatter": {
     "lineWidth": 120,
@@ -12,5 +12,18 @@
     "parser": {
       "tailwindDirectives": true
     }
-  }
+  },
+  "overrides": [
+    {
+      "includes": ["**/*.astro"],
+      "linter": {
+        "rules": {
+          "correctness": {
+            "noUnusedVariables": "off",
+            "noUnusedImports": "off"
+          }
+        }
+      }
+    }
+  ]
 }
