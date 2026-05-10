@@ -1,5 +1,6 @@
 import fs from "node:fs/promises";
 import path from "node:path";
+import { parse } from "node-html-parser";
 import type { ArtistDetailEntry, Row } from "../src/types.ts";
 
 export function toEDT(utcStr: string): Date {
@@ -15,13 +16,12 @@ export function localTimeStr(d: Date): string {
 }
 
 export function htmlToText(html: string): string {
-  return html
-    .replace(/<\/p>\s*<p[^>]*>/gi, "\n\n")
-    .replace(/<p[^>]*>/gi, "")
-    .replace(/<\/p>/gi, "")
-    .replace(/<br\s*\/?>/gi, "\n")
-    .replace(/<[^>]+>/g, "")
-    .trim();
+  const root = parse(html);
+  for (const br of root.querySelectorAll("br")) br.replaceWith("\n");
+  for (const p of root.querySelectorAll("p")) {
+    p.replaceWith(`${p.innerHTML}\n\n`);
+  }
+  return root.textContent.trim().replace(/\n{3,}/g, "\n\n");
 }
 
 export async function writeFestivalData(

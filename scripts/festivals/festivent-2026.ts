@@ -1,5 +1,6 @@
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { parse } from "node-html-parser";
 import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
 import { htmlToText, writeFestivalData } from "../update-schedule.ts";
 
@@ -7,19 +8,6 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataDir = path.join(__dirname, "../../src/content/festivals/festivent-2026");
 
 const DATES = ["2026-07-29", "2026-07-30", "2026-07-31", "2026-08-01", "2026-08-02"];
-
-function decodeHtmlEntities(text: string): string {
-  return text
-    .replace(/&rsquo;/gi, "’")
-    .replace(/&#038;/g, "&")
-    .replace(/&amp;/gi, "&")
-    .replace(/&nbsp;/gi, " ")
-    .replace(/&lt;/gi, "<")
-    .replace(/&gt;/gi, ">")
-    .replace(/&quot;/gi, '"')
-    .replace(/&#(\d+);/g, (_, code: string) => String.fromCodePoint(parseInt(code, 10)))
-    .trim();
-}
 
 interface ParsedCard {
   artist: string;
@@ -32,24 +20,19 @@ interface ParsedCard {
 }
 
 function parseCards(html: string): ParsedCard[] {
-  const eventsSectionMatch = html.match(/data-module-events[\s\S]*/);
-  if (!eventsSectionMatch) throw new Error("Could not find data-module-events section");
+  const root = parse(html);
+  const eventsSection = root.querySelector("[data-module-events]");
+  if (!eventsSection) throw new Error("Could not find data-module-events section");
 
-  const eventsSection = eventsSectionMatch[0];
-  const slides = eventsSection.split(/<div class="o-carousel_cell"/);
-
+  const slides = eventsSection.querySelectorAll(".o-carousel_cell");
   const cards: ParsedCard[] = [];
 
-  // slides[0] is before the first carousel cell, so slide index starts at 1 → date index 0
-  for (let i = 1; i < slides.length && i - 1 < DATES.length; i++) {
+  for (let i = 0; i < slides.length && i < DATES.length; i++) {
     const slide = slides[i];
-    const date = DATES[i - 1];
+    const date = DATES[i];
 
-    const cardPattern =
-      /<div[^>]*class="[^"]*c-card[^"]*"[^>]*data-filters-item='([^']+)'[\s\S]*?(?=<div[^>]*data-filters-item=|$)/g;
-
-    for (const cardMatch of slide.matchAll(cardPattern)) {
-      const filterData = cardMatch[1];
+    for (const card of slide.querySelectorAll("[data-filters-item]")) {
+      const filterData = card.getAttribute("data-filters-item") ?? "";
       let filterObj: { type?: string };
       try {
         filterObj = JSON.parse(filterData) as { type?: string };
@@ -58,25 +41,15 @@ function parseCards(html: string): ParsedCard[] {
       }
       if (filterObj.type !== "musicale") continue;
 
-      const cardHtml = cardMatch[0];
+      const artist = card.querySelector(".c-card_title")?.textContent.trim() ?? "";
+      const genre = card.querySelector(".c-card_tag")?.textContent.trim() ?? "";
+      const venue = card.querySelector(".c-card_subtitle")?.textContent.trim() ?? "";
+      const time = card.querySelector(".c-timestamp")?.textContent.trim() ?? "";
+      const imageUrl = card.querySelector(".c-card_image")?.getAttribute("src") ?? "";
 
-      const titleMatch = cardHtml.match(/class="[^"]*c-card_title[^"]*"[^>]*>([\s\S]*?)<\/(?:h\d|div|span|p)>/);
-      const artist = titleMatch ? decodeHtmlEntities(titleMatch[1].replace(/<[^>]+>/g, "").trim()) : "";
-
-      const tagMatch = cardHtml.match(/class="[^"]*c-card_tag[^"]*"[^>]*>([\s\S]*?)<\/(?:div|span|p)>/);
-      const genre = tagMatch ? decodeHtmlEntities(tagMatch[1].replace(/<[^>]+>/g, "").trim()) : "";
-
-      const subtitleMatch = cardHtml.match(/class="[^"]*c-card_subtitle[^"]*"[^>]*>([\s\S]*?)<\/(?:div|span|p)>/);
-      const venue = subtitleMatch ? decodeHtmlEntities(subtitleMatch[1].replace(/<[^>]+>/g, "").trim()) : "";
-
-      const timeMatch = cardHtml.match(/class="[^"]*c-timestamp[^"]*"[^>]*>([\s\S]*?)<\/(?:div|span|p|time)>/);
-      const time = timeMatch ? timeMatch[1].replace(/<[^>]+>/g, "").trim() : "";
-
-      const imageMatch = cardHtml.match(/class="[^"]*c-card_image[^"]*"[^>]*src="([^"]+)"/);
-      const imageUrl = imageMatch ? imageMatch[1] : "";
-
-      const linkMatch = cardHtml.match(/href="https?:\/\/festivent\.ca\/programmation\/([^/"]+)\/?"/);
-      const slug = linkMatch ? linkMatch[1] : "";
+      const linkHref = card.querySelector('a[href*="festivent.ca/programmation/"]')?.getAttribute("href") ?? "";
+      const slugMatch = linkHref.match(/festivent\.ca\/programmation\/([^/"]+)\/?/);
+      const slug = slugMatch ? slugMatch[1] : "";
 
       if (artist && slug) {
         cards.push({ artist, genre, venue, time, imageUrl, slug, date });
@@ -98,12 +71,14 @@ async function fetchEventDetails(slug: string): Promise<{ description?: string; 
   if (!res.ok) return {};
   const html = await res.text();
 
-  const descSectionMatch = html.match(/class="[^"]*c-event-intro_description[^"]*"[^>]*>([\s\S]*?)<\/div>/);
-  const descHtml = descSectionMatch ? descSectionMatch[1] : "";
+  const root = parse(html);
+  const descSection = root.querySelector(".c-event-intro_description");
   const paragraphs: string[] = [];
-  for (const pMatch of descHtml.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)) {
-    const text = decodeHtmlEntities(htmlToText(pMatch[1]));
-    if (text) paragraphs.push(text);
+  if (descSection) {
+    for (const p of descSection.querySelectorAll("p")) {
+      const text = htmlToText(p.outerHTML);
+      if (text) paragraphs.push(text);
+    }
   }
   const description = paragraphs.length > 0 ? paragraphs.join("\n\n") : undefined;
 
