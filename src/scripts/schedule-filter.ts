@@ -105,14 +105,6 @@ scheduleFilterBar.addEventListener("click", (e) => {
   applyFiltersAnimated();
 });
 
-function applySortOrderAnimated() {
-  if (document.startViewTransition) {
-    document.startViewTransition(() => applySortOrder());
-  } else {
-    applySortOrder();
-  }
-}
-
 function applyFiltersAnimated() {
   if (document.startViewTransition) {
     document.startViewTransition(() => applyFilters());
@@ -124,8 +116,15 @@ function applyFiltersAnimated() {
 scheduleTable.querySelector("[data-sort-toggle]")?.addEventListener("click", () => {
   sortByStart = !sortByStart;
   setStored(startKey, sortByStart);
-  applySortOrderAnimated();
-  applyFiltersAnimated();
+  if (document.startViewTransition) {
+    document.startViewTransition(() => {
+      applySortOrder();
+      applyFilters();
+    });
+  } else {
+    applySortOrder();
+    applyFilters();
+  }
 });
 
 if (document.startViewTransition) {
