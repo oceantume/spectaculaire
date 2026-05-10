@@ -3,15 +3,13 @@ import { getYouTubeEmbed } from "./youtube";
 
 const dialogEl = document.querySelector<HTMLDialogElement>("#artist-dialog");
 const dialogContentEl = document.querySelector<HTMLElement>("#artist-dialog-content");
-const dataEl = document.querySelector<HTMLScriptElement>("#artist-details-data");
 
-if (!dialogEl || !dialogContentEl || !dataEl) throw new Error("Missing dialog elements");
+if (!dialogEl || !dialogContentEl) throw new Error("Missing dialog elements");
 
-const artistDetails: ArtistDetailsByName = JSON.parse(dataEl.textContent ?? "{}");
-
-// Capture non-null references for use in functions
 const dialog = dialogEl;
 const dialogContent = dialogContentEl;
+
+const artistDetailsPromise: Promise<ArtistDetailsByName> = fetch(dialog.dataset.src ?? "").then((r) => r.json());
 
 let currentArtistName: string | null = null;
 
@@ -23,7 +21,12 @@ function escapeAttr(str: string): string {
   return str.replace(/&/g, "&amp;").replace(/"/g, "&quot;");
 }
 
-function renderDialogContent(name: string, country: string | undefined, genre: string) {
+function renderDialogContent(
+  name: string,
+  country: string | undefined,
+  genre: string,
+  artistDetails: ArtistDetailsByName,
+) {
   const details = artistDetails[name];
   const links = details?.links ?? [];
   const officialVideoLink = links.find(
@@ -92,9 +95,10 @@ function withDialogTransition(fn: () => void) {
   });
 }
 
-function openArtistDialog(name: string, country: string | undefined, genre: string) {
+async function openArtistDialog(name: string, country: string | undefined, genre: string) {
   currentArtistName = name;
-  renderDialogContent(name, country, genre);
+  const artistDetails = await artistDetailsPromise;
+  renderDialogContent(name, country, genre, artistDetails);
   withDialogTransition(() => {
     dialog.showModal();
     document.body.style.overflow = "hidden";
@@ -128,11 +132,13 @@ function navigate(delta: -1 | 1) {
   const nextCountry = nextRow.dataset.country;
   const nextGenre = nextRow.dataset.genre ?? "";
   currentArtistName = nextName;
-  if (document.startViewTransition) {
-    document.startViewTransition(() => renderDialogContent(nextName, nextCountry, nextGenre));
-  } else {
-    renderDialogContent(nextName, nextCountry, nextGenre);
-  }
+  artistDetailsPromise.then((artistDetails) => {
+    if (document.startViewTransition) {
+      document.startViewTransition(() => renderDialogContent(nextName, nextCountry, nextGenre, artistDetails));
+    } else {
+      renderDialogContent(nextName, nextCountry, nextGenre, artistDetails);
+    }
+  });
 }
 
 document.addEventListener("click", (e) => {
