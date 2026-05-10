@@ -13,6 +13,32 @@
     "draft": false
   },
   {
+    "name": "Programmation Festivent 2026",
+    "shortName": "Festivent 2026",
+    "slug": "festivent-2026",
+    "year": 2026,
+    "region": "Lévis",
+    "features": [],
+    "dataDir": "festivent-2026",
+    "sourceUrl": "https://festivent.ca/programmation/",
+    "sourceLabel": "festivent.ca",
+    "sourceAttribution": "Festivent de Lévis",
+    "draft": true
+  },
+  {
+    "name": "Programmation Festif 2026",
+    "shortName": "Festif 2026",
+    "slug": "festif-2026",
+    "year": 2026,
+    "region": "Charlevoix",
+    "features": ["filter-free", "filter-quebec"],
+    "dataDir": "festif-2026",
+    "sourceUrl": "https://lefestif.ca/programmation",
+    "sourceLabel": "lefestif.ca",
+    "sourceAttribution": "Le Festif! de Baie-Saint-Paul",
+    "draft": true
+  },
+  {
     "name": "Test Festival 2026",
     "shortName": "Test 2026",
     "slug": "test-festival",

@@ -1,0 +1,146 @@
+[
+  {
+    "date": "2026-07-29",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Lou Fre$h",
+    "genre": "Musique électronique"
+  },
+  {
+    "date": "2026-07-29",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "20:10",
+    "artist": "High Klassified",
+    "genre": "Musique électronique"
+  },
+  {
+    "date": "2026-07-29",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "19:20",
+    "artist": "Anyma Ora’",
+    "genre": "Électro-pop"
+  },
+  {
+    "date": "2026-07-29",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "21:40",
+    "artist": "Marshmello",
+    "genre": "Musique électronique"
+  },
+  {
+    "date": "2026-07-30",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Caravane",
+    "genre": "Rock"
+  },
+  {
+    "date": "2026-07-30",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "20:25",
+    "artist": "Marie-Annick Lépine",
+    "genre": "Folk-country"
+  },
+  {
+    "date": "2026-07-30",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "19:20",
+    "artist": "Frais Dispo",
+    "genre": "Folk-country"
+  },
+  {
+    "date": "2026-07-30",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "21:30",
+    "artist": "Salebarbes",
+    "genre": "Traditionnel acadien"
+  },
+  {
+    "date": "2026-07-31",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "19:45",
+    "artist": "GrimSkunk & invités",
+    "genre": "Punk-rock"
+  },
+  {
+    "date": "2026-07-31",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "21:30",
+    "artist": "Papa Roach",
+    "genre": "Rock-metal"
+  },
+  {
+    "date": "2026-08-01",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Reney Ray",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-01",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "20:10",
+    "artist": "Kaïn",
+    "genre": "Folk rock"
+  },
+  {
+    "date": "2026-08-01",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "19:20",
+    "artist": "Arpin Lépine",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-01",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "21:30",
+    "artist": "JF Pauzé",
+    "genre": "Folk rock"
+  },
+  {
+    "date": "2026-08-02",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Hipshot",
+    "genre": "Pop-rock"
+  },
+  {
+    "date": "2026-08-02",
+    "venue": "Scène Hydro-Québec",
+    "paid": true,
+    "time": "20:25",
+    "artist": "Vulgaires Machins",
+    "genre": "Punk-rock"
+  },
+  {
+    "date": "2026-08-02",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "19:20",
+    "artist": "Angine de poitrine",
+    "genre": "Rock expérimental"
+  },
+  {
+    "date": "2026-08-02",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "21:30",
+    "artist": "The Offspring",
+    "genre": "Punk-rock"
+  }
+]
