@@ -27,7 +27,7 @@ Parse its content with `JSON.parse`. Full page data is in `props.pageProps`. Ind
 Fetch the page HTML and search for:
 - `const data = [` (SvelteKit — large inline array)
 - `window.__NUXT__` or `__NUXT__=` (Nuxt)
-The value is a JS object literal, not JSON. Use bracket-counting to extract the full literal, then evaluate with `vm.runInNewContext` (see `scripts/update-schedule.ts` for the pattern).
+The value is a JS object literal, not JSON. Use bracket-counting to extract the full literal, then evaluate with `vm.runInNewContext` (see `scripts/utils.ts` for the pattern).
 
 **D. WordPress REST API**
 Fetch `{siteOrigin}/wp-json/` and inspect:
@@ -94,7 +94,7 @@ Inside:
 - Fetch and parse the data source
 - Build `Row[]` and `Record<string, ArtistDetailEntry>`
 - Write to `src/content/festivals/{slug}/schedule.json` and `artist-details.json`
-- Import shared helpers (`toEDT`, `localDateStr`, `localTimeStr`, `htmlToText`) from `../update-schedule.ts`
+- Import shared helpers (`toEDT`, `localDateStr`, `localTimeStr`, `htmlToText`) from `../utils.ts`
 - Import types (`Row`, `ArtistDetailEntry`, `ArtistLink`) from `../../src/types.ts`
 - Sort rows: `date` → paid-first → venue order → `time`
 - For artists appearing multiple times: each appearance is its own row; `artist-details` entry written once
