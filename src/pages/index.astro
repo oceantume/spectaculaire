@@ -1,6 +1,0 @@
----
-import allFestivals from "../content/festivals.json";
-
-const festivals = import.meta.env.DEV ? allFestivals : allFestivals.filter((f) => !f.draft);
-return Astro.redirect(`/${festivals[0].slug}/`);
----
