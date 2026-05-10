@@ -48,7 +48,7 @@ The schedule is server-rendered in the page HTML (typically 200–400 KB). Look 
 - Detail page URL in the card's `<a href>`
 
 Fetch each detail page for description, full image, and social links.
-Use regex or `cheerio` for parsing.
+Use `node-html-parser` for parsing (already a devDependency).
 
 ## 2. Extract and map fields
 
@@ -99,11 +99,13 @@ Inside:
 - Sort rows: `date` → paid-first → venue order → `time`
 - For artists appearing multiple times: each appearance is its own row; `artist-details` entry written once
 
-Then register it in `scripts/update.ts` by importing and calling `run()`:
+Then register it in `scripts/update.ts` by adding an import and an entry to the `festivals` array. Set `lastUpdateDate` to the festival's final day — updates are skipped automatically after that date:
 
 ```ts
 import { run as runMyFestival } from "./festivals/{slug}.ts";
-await runMyFestival();
+
+// in the festivals array:
+{ slug: "{slug}", run: runMyFestival, lastUpdateDate: "YYYY-MM-DD" },
 ```
 
 The single npm script `"update": "node scripts/update.ts"` in `package.json` runs the orchestrator — no new npm scripts needed.
@@ -132,7 +134,7 @@ Add `"filter-quebec"` to `features` if country/origin data is available.
 
 ## 6. Verify
 
-1. `npm run update-{slug}` — check row count, no errors
+1. `npm run update` — check row count, no errors
 2. Spot-check 3–5 rows in `schedule.json` for correct date, time, venue, paid flag
 3. Spot-check `artist-details.json` for description, imageUrl, links
 4. `npm run check` — TypeScript + formatting

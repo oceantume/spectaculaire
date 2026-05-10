@@ -4,6 +4,20 @@ import { run as runFeq2026 } from "./festivals/feq-2026.ts";
 import { run as runFestif2026 } from "./festivals/festif-2026.ts";
 import { run as runFestivent2026 } from "./festivals/festivent-2026.ts";
 
-await runFeq2026();
-await runFestivent2026();
-await runFestif2026();
+// lastUpdateDate: last calendar day on which updates should run (YYYY-MM-DD).
+// Set to the final day of the festival. Add an entry here when adding a new festival.
+const festivals = [
+  { slug: "feq-2026", run: runFeq2026, lastUpdateDate: "2026-07-19" },
+  { slug: "festivent-2026", run: runFestivent2026, lastUpdateDate: "2026-08-02" },
+  { slug: "festif-2026", run: runFestif2026, lastUpdateDate: "2026-07-25" },
+];
+
+const today = new Date().toISOString().slice(0, 10);
+
+for (const { slug, run, lastUpdateDate } of festivals) {
+  if (today > lastUpdateDate) {
+    console.log(`[${slug}] Skipping — festival ended on ${lastUpdateDate}`);
+    continue;
+  }
+  await run();
+}
