@@ -78,17 +78,36 @@ function renderDialogContent(name: string, country: string | undefined, genre: s
   dialogContent.innerHTML = html;
 }
 
+function withDialogTransition(fn: () => void) {
+  if (!document.startViewTransition) {
+    fn();
+    return;
+  }
+  dialog.classList.add("dialog-animating");
+  document.documentElement.classList.add("dialog-transitioning");
+  const t = document.startViewTransition(fn);
+  t.finished.finally(() => {
+    dialog.classList.remove("dialog-animating");
+    document.documentElement.classList.remove("dialog-transitioning");
+  });
+}
+
 function openArtistDialog(name: string, country: string | undefined, genre: string) {
   currentArtistName = name;
   renderDialogContent(name, country, genre);
-  dialog.showModal();
-  document.body.style.overflow = "hidden";
+  withDialogTransition(() => {
+    dialog.showModal();
+    document.body.style.overflow = "hidden";
+  });
 }
 
 function closeArtistDialog() {
-  dialog.close();
-  currentArtistName = null;
-  document.body.style.overflow = "";
+  withDialogTransition(() => {
+    dialog.close();
+    dialogContent.innerHTML = "";
+    currentArtistName = null;
+    document.body.style.overflow = "";
+  });
 }
 
 function getVisibleRows(): HTMLElement[] {
@@ -108,8 +127,12 @@ function navigate(delta: -1 | 1) {
   const nextName = btn.dataset.artistOpen ?? "";
   const nextCountry = nextRow.dataset.country;
   const nextGenre = nextRow.dataset.genre ?? "";
-  renderDialogContent(nextName, nextCountry, nextGenre);
   currentArtistName = nextName;
+  if (document.startViewTransition) {
+    document.startViewTransition(() => renderDialogContent(nextName, nextCountry, nextGenre));
+  } else {
+    renderDialogContent(nextName, nextCountry, nextGenre);
+  }
 }
 
 document.addEventListener("click", (e) => {

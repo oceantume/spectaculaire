@@ -9,6 +9,10 @@
 </script>
 
 <style is:global>
+  #artist-dialog.dialog-animating {
+    view-transition-name: artist-dialog;
+  }
+
   #artist-dialog {
     border-radius: 0.75rem;
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
@@ -21,14 +25,66 @@
 
   #artist-dialog::backdrop {
     background-color: rgba(0, 0, 0, 0.5);
+    transition: background-color 0.2s ease-out;
+    @starting-style {
+      background-color: rgba(0, 0, 0, 0);
+    }
   }
 
   #artist-dialog-content {
+    view-transition-name: artist-dialog-content;
     display: flex;
     flex-direction: column;
     background-color: var(--bg-elevated);
     border-radius: 0.75rem;
     overflow: hidden;
+  }
+
+  @keyframes dialog-in {
+    from {
+      opacity: 0;
+      transform: scale(0.95) translateY(6px);
+    }
+  }
+
+  @keyframes dialog-out {
+    to {
+      opacity: 0;
+      transform: scale(0.95) translateY(6px);
+    }
+  }
+
+  ::view-transition-new(artist-dialog) {
+    animation: dialog-in 0.2s ease-out;
+  }
+
+  ::view-transition-old(artist-dialog) {
+    animation: dialog-out 0.15s ease-in forwards;
+  }
+
+  ::view-transition-old(artist-dialog-content),
+  ::view-transition-new(artist-dialog-content) {
+    animation-duration: 0.15s;
+  }
+
+  html.dialog-transitioning::view-transition-old(root),
+  html.dialog-transitioning::view-transition-new(root) {
+    animation: none;
+  }
+
+  html.dialog-transitioning tr[data-row] {
+    view-transition-name: none !important;
+  }
+
+  html.dialog-transitioning #artist-dialog-content {
+    view-transition-name: none;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    ::view-transition-new(artist-dialog),
+    ::view-transition-old(artist-dialog) {
+      animation: none;
+    }
   }
 
   .dialog-img-header {
