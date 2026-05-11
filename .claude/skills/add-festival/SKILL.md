@@ -1,6 +1,12 @@
+---
+description: Add a new festival by fetching its programmation page, writing an ingestion script in scripts/festivals/, and registering it in festivals.json.
+---
+
 # Add Festival
 
-Given a festival programmation URL, investigate the data source, write an ingestion script, and register the festival. Follow these steps in order.
+Festival programmation URL: $ARGUMENTS
+
+Investigate the data source for this URL and write an ingestion script, then register the festival. Follow these steps in order.
 
 ## 1. Reconnaissance — find the data source
 
@@ -90,14 +96,35 @@ Create `scripts/festivals/{slug}.ts`. It must export a single async function:
 export async function run(): Promise<void> { ... }
 ```
 
-Inside:
+Start the file with:
+
+```ts
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
+import { htmlToText, localDateStr, localTimeStr, toEDT, writeFestivalData } from "../utils.ts";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const dataDir = path.join(__dirname, "../../src/content/festivals/{slug}");
+```
+
+Inside `run()`:
 - Fetch and parse the data source
 - Build `Row[]` and `Record<string, ArtistDetailEntry>`
-- Write to `src/content/festivals/{slug}/schedule.json` and `artist-details.json`
-- Import shared helpers (`toEDT`, `localDateStr`, `localTimeStr`, `htmlToText`) from `../utils.ts`
-- Import types (`Row`, `ArtistDetailEntry`, `ArtistLink`) from `../../src/types.ts`
 - Sort rows: `date` → paid-first → venue order → `time`
+- Call `writeFestivalData(dataDir, rows, artistDetailsMap)` to write both JSON files
 - For artists appearing multiple times: each appearance is its own row; `artist-details` entry written once
+
+**Country data not available in the source?** Create `src/content/festivals/{slug}/field-overrides.json`:
+
+```json
+{
+  "Artist Name": { "country": "Québec" },
+  "Another Artist": { "country": "États-Unis" }
+}
+```
+
+Keys are matched case-insensitively at runtime. Use this for any `Row` field the ingestion script can't reliably extract.
 
 Then register it in `scripts/update.ts` by adding an import and an entry to the `festivals` array. Set `lastUpdateDate` to the festival's final day — updates are skipped automatically after that date:
 
@@ -129,6 +156,7 @@ Add to `src/content/festivals.json`:
 }
 ```
 
+Add `"all-paid"` to `features` if every show is paid (hides the paid/gratuit column entirely).
 Add `"filter-free"` to `features` if free/paid data is available.
 Add `"filter-quebec"` to `features` if country/origin data is available.
 
