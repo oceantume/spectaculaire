@@ -39,6 +39,19 @@
     "draft": true
   },
   {
+    "name": "Envol et Macadam 2026",
+    "shortName": "Envol et Macadam 2026",
+    "slug": "envol-et-macadam-2026",
+    "year": 2026,
+    "region": "Québec",
+    "features": ["filter-free", "filter-quebec", "no-genre"],
+    "dataDir": "envol-et-macadam-2026",
+    "sourceUrl": "https://envoletmacadam.com/fr/programmation-2025/horaire/",
+    "sourceLabel": "envoletmacadam.com",
+    "sourceAttribution": "Contenu appartenant au Festival Envol et Macadam",
+    "draft": true
+  },
+  {
     "name": "Festif 2026",
     "shortName": "Festif 2026",
     "slug": "festif-2026",

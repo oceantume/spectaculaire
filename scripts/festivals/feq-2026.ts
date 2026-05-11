@@ -1,4 +1,3 @@
-import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import vm from "node:vm";
@@ -35,7 +34,6 @@ interface MamData {
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataDir = path.join(__dirname, "../../src/content/festivals/feq-2026");
-const overridesPath = path.join(dataDir, "youtube-overrides.json");
 
 export async function run(): Promise<void> {
   const url = "https://www.feq.ca/fr/programmation";
@@ -103,22 +101,6 @@ export async function run(): Promise<void> {
   const raw = vm.runInNewContext(`(${jsLiteral})`, {}) as [unknown, { data: { mamData: MamData } }];
   console.log(`[feq-2026] Parsed successfully. Top-level entries: ${raw.length}`);
 
-  let youtubeOverrides: Record<string, string> = {};
-  try {
-    const overridesRaw = await fs.readFile(overridesPath, "utf-8");
-    youtubeOverrides = JSON.parse(overridesRaw) as Record<string, string>;
-    console.log(`[feq-2026] Loaded ${Object.keys(youtubeOverrides).length} YouTube overrides`);
-  } catch (err: unknown) {
-    if ((err as NodeJS.ErrnoException).code === "ENOENT") {
-      console.log("[feq-2026] No youtube-overrides.json found, skipping overrides");
-    } else {
-      throw err;
-    }
-  }
-  const youtubeOverridesNormalized = new Map(
-    Object.entries(youtubeOverrides).map(([name, url]) => [name.toLowerCase().trim(), url]),
-  );
-
   const { ci, ve, sw } = raw[1].data.mamData;
 
   const venueById = Object.fromEntries(ve.map((v) => [v.id, v]));
@@ -141,15 +123,6 @@ export async function run(): Promise<void> {
       const country = at.cy === "Montréal" ? "Québec" : at.cy;
       const genre = at.sc.name;
 
-      let links: ArtistLink[] = at.ls ?? [];
-      const overrideUrl = youtubeOverridesNormalized.get(at.te.toLowerCase().trim());
-      if (overrideUrl) {
-        links = [
-          ...links.filter((l) => !l.label.toLowerCase().includes("vidéo") && !l.label.toLowerCase().includes("video")),
-          { label: "Vidéo officielle", url: overrideUrl },
-        ];
-      }
-
       const row: Row = {
         date: localDateStr(edt),
         venue: venue.ln,
@@ -163,7 +136,7 @@ export async function run(): Promise<void> {
       const details: ArtistDetailEntry = {
         description: at.ds ? htmlToText(at.ds) : undefined,
         imageUrl: at.dl ? ci + at.dl : undefined,
-        links,
+        links: at.ls ?? [],
       };
 
       return { row, details };
