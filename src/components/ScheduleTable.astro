@@ -23,8 +23,6 @@ function formatDayHeader(date: string): string {
 const hasFreeFilter = features.includes("filter-free");
 const hasQuebecFilter = features.includes("filter-quebec");
 const hasAllPaid = features.includes("all-paid");
-
-let globalIndex = 0;
 ---
 
 <div data-schedule-wrapper data-schedule-slug={slug}>
@@ -79,9 +77,7 @@ let globalIndex = 0;
               {formatDayHeader(date)}
             </th>
           </tr>
-          {rows.map((row) => {
-            const idx = globalIndex++;
-            return (
+          {rows.map((row, idx) => (
               <tr
                 data-row
                 data-date={row.date}
@@ -92,7 +88,6 @@ let globalIndex = 0;
                 data-genre={row.genre}
                 data-original-index={idx}
                 class="sched-row"
-                style={`view-transition-name: row-${idx}`}
               >
                   <td class="sched-td sched-td-venue">{row.venue}</td>
                   {!hasAllPaid && (
@@ -122,8 +117,7 @@ let globalIndex = 0;
                   </td>
                   <td class="sched-td sched-td-genre">{row.genre}</td>
                 </tr>
-              );
-            })}
+            ))}
         </tbody>
       ))
     }
