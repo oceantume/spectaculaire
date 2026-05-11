@@ -26,6 +26,19 @@
     "draft": true
   },
   {
+    "name": "Programmation Chanson Tadoussac 2026",
+    "shortName": "Chanson Tadoussac 2026",
+    "slug": "chanson-tadoussac-2026",
+    "year": 2026,
+    "region": "Tadoussac",
+    "features": ["filter-free", "no-genre"],
+    "dataDir": "chanson-tadoussac-2026",
+    "sourceUrl": "https://chansontadoussac.com/programmation-2026/",
+    "sourceLabel": "chansontadoussac.com",
+    "sourceAttribution": "Contenu appartenant au Festival de la Chanson de Tadoussac",
+    "draft": true
+  },
+  {
     "name": "Programmation Festif 2026",
     "shortName": "Festif 2026",
     "slug": "festif-2026",

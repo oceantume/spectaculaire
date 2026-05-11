@@ -1,0 +1,380 @@
+[
+  {
+    "artist": "Lou-Adriane Cassidy",
+    "venue": "Jardin Hydro-Québec",
+    "paid": true,
+    "date": "2026-06-11",
+    "time": "21:30"
+  },
+  {
+    "artist": "We Are Wolves",
+    "venue": "Scène St-Pancrace",
+    "paid": true,
+    "date": "2026-06-11",
+    "time": "23:30"
+  },
+  {
+    "artist": "Pierre Lapointe",
+    "venue": "Scène Vidéotron",
+    "paid": true,
+    "date": "2026-06-11",
+    "time": "19:30"
+  },
+  {
+    "artist": "Coup d'envoi | El Balcón",
+    "venue": "Hall de l'Hôtel Tadoussac",
+    "paid": false,
+    "date": "2026-06-11",
+    "time": "18:00"
+  },
+  {
+    "artist": "Spectacle jeunesse | Bon Débarras",
+    "venue": "Jardin Hydro-Québec",
+    "paid": false,
+    "date": "2026-06-11",
+    "time": "13:30"
+  },
+  {
+    "artist": "Coup d'envoi | Les New Cackle Sisters",
+    "venue": "Le Gibard",
+    "paid": false,
+    "date": "2026-06-11",
+    "time": "20:00"
+  },
+  {
+    "artist": "Coup d'envoi | Sam Mallais",
+    "venue": "Pub de la Micro",
+    "paid": false,
+    "date": "2026-06-11",
+    "time": "19:00"
+  },
+  {
+    "artist": "Julie Doiron",
+    "venue": "Chapelle protestante",
+    "paid": true,
+    "date": "2026-06-12",
+    "time": "13:00"
+  },
+  {
+    "artist": "Les Chemins d'écriture | Le collectif du vendredi",
+    "venue": "Chapelle protestante",
+    "paid": true,
+    "date": "2026-06-12",
+    "time": "16:30"
+  },
+  {
+    "artist": "Veranda",
+    "venue": "Jardin Hydro-Québec",
+    "paid": true,
+    "date": "2026-06-12",
+    "time": "14:00"
+  },
+  {
+    "artist": "Arielle Soucy",
+    "venue": "Jardin Hydro-Québec",
+    "paid": true,
+    "date": "2026-06-12",
+    "time": "16:00"
+  },
+  {
+    "artist": "Mike Clay",
+    "venue": "Jardin Hydro-Québec",
+    "paid": true,
+    "date": "2026-06-12",
+    "time": "19:00"
+  },
+  {
+    "artist": "Alphonse Bisaillon",
+    "venue": "Jardin Hydro-Québec",
+    "paid": true,
+    "date": "2026-06-12",
+    "time": "20:00"
+  },
+  {
+    "artist": "Sarahmée",
+    "venue": "Jardin Hydro-Québec",
+    "paid": true,
+    "date": "2026-06-12",
+    "time": "23:00"
+  },
+  {
+    "artist": "Les Flambettes III",
+    "venue": "Scène Desjardins",
+    "paid": true,
+    "date": "2026-06-12",
+    "time": "22:00"
+  },
+  {
+    "artist": "Nüshu",
+    "venue": "Scène St-Pancrace",
+    "paid": true,
+    "date": "2026-06-12",
+    "time": "22:00"
+  },
+  {
+    "artist": "Étienne Coppée",
+    "venue": "Scène Vidéotron",
+    "paid": true,
+    "date": "2026-06-12",
+    "time": "18:00"
+  },
+  {
+    "artist": "Thomas Fersen",
+    "venue": "Scène Vidéotron",
+    "paid": true,
+    "date": "2026-06-12",
+    "time": "20:00"
+  },
+  {
+    "artist": "Philippe B",
+    "venue": "Les Cayes",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "17:30"
+  },
+  {
+    "artist": "Pop-up | Duo Fortin-Poirier",
+    "venue": "Lieux surprises",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "10:00"
+  },
+  {
+    "artist": "Pop-up | Burt Love and the Vibes",
+    "venue": "Lieux surprises",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "13:30"
+  },
+  {
+    "artist": "Pop-up | La dame Ovale",
+    "venue": "Lieux surprises",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "18:30"
+  },
+  {
+    "artist": "Duo des Chemins d'écriture | Embo/phlébite & Superchérie",
+    "venue": "Parvis de la petite chapelle",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "10:00"
+  },
+  {
+    "artist": "Duo des Chemins d'écriture | Brigitte Jardin & Claudie Létourneau",
+    "venue": "Parvis de la petite chapelle",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "12:00"
+  },
+  {
+    "artist": "Les Reynette",
+    "venue": "Plage Loto-Québec",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "17:00"
+  },
+  {
+    "artist": "Kat Pereira",
+    "venue": "Pub de la Micro",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "13:00"
+  },
+  {
+    "artist": "La veillée à Cyr",
+    "venue": "Scène Jean Gagnon",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "21:00"
+  },
+  {
+    "artist": "Traversier | El Balcón",
+    "venue": "Traversier STQ",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "11:40"
+  },
+  {
+    "artist": "Les Chemins d'écriture | Le collectif du samedi",
+    "venue": "Chapelle protestante",
+    "paid": true,
+    "date": "2026-06-13",
+    "time": "13:30"
+  },
+  {
+    "artist": "Ben Herbert-Larue",
+    "venue": "Chapelle protestante",
+    "paid": true,
+    "date": "2026-06-13",
+    "time": "16:00"
+  },
+  {
+    "artist": "Malaka",
+    "venue": "Jardin Hydro-Québec",
+    "paid": true,
+    "date": "2026-06-13",
+    "time": "15:00"
+  },
+  {
+    "artist": "Louis-Jean Cormier",
+    "venue": "Jardin Hydro-Québec",
+    "paid": true,
+    "date": "2026-06-13",
+    "time": "17:00"
+  },
+  {
+    "artist": "Gab Bouchard",
+    "venue": "Jardin Hydro-Québec",
+    "paid": true,
+    "date": "2026-06-13",
+    "time": "20:00"
+  },
+  {
+    "artist": "ANYMA ORA'",
+    "venue": "Jardin Hydro-Québec",
+    "paid": true,
+    "date": "2026-06-13",
+    "time": "23:30"
+  },
+  {
+    "artist": "Michel Robichaud",
+    "venue": "Scène Desjardins",
+    "paid": true,
+    "date": "2026-06-13",
+    "time": "19:30"
+  },
+  {
+    "artist": "Maude Audet",
+    "venue": "Scène Desjardins",
+    "paid": true,
+    "date": "2026-06-13",
+    "time": "21:30"
+  },
+  {
+    "artist": "Lemon Bucket Orkestra",
+    "venue": "Scène St-Pancrace",
+    "paid": true,
+    "date": "2026-06-13",
+    "time": "00:30"
+  },
+  {
+    "artist": "Douance",
+    "venue": "Scène St-Pancrace",
+    "paid": true,
+    "date": "2026-06-13",
+    "time": "23:00"
+  },
+  {
+    "artist": "Basia Bulat",
+    "venue": "Scène Vidéotron",
+    "paid": true,
+    "date": "2026-06-13",
+    "time": "18:30"
+  },
+  {
+    "artist": "Djely Tapa",
+    "venue": "Scène Vidéotron",
+    "paid": true,
+    "date": "2026-06-13",
+    "time": "21:30"
+  },
+  {
+    "artist": "Duo des Chemins d'écriture | Georges Ouel & Marie Amali",
+    "venue": "La Marina",
+    "paid": false,
+    "date": "2026-06-13",
+    "time": "11:30"
+  },
+  {
+    "artist": "Duo des Chemins d'écriture | Maude Sonier & Édouard Tremblay-Grenier",
+    "venue": "La Marina",
+    "paid": false,
+    "date": "2026-06-13",
+    "time": "16:00"
+  },
+  {
+    "artist": "Pop-up | To",
+    "venue": "Lieux surprises",
+    "paid": false,
+    "date": "2026-06-13",
+    "time": "14:30"
+  },
+  {
+    "artist": "FRIKITON",
+    "venue": "Plage Loto-Québec",
+    "paid": false,
+    "date": "2026-06-13",
+    "time": "18:30"
+  },
+  {
+    "artist": "Tour de l'Islet du samedi 1 | Brigitte Jardin & Veranda",
+    "venue": "Pointe de l'Islet",
+    "paid": false,
+    "date": "2026-06-13",
+    "time": "10:00"
+  },
+  {
+    "artist": "Tour de l'Islet du samedi 2 | Brigitte Jardin & Veranda",
+    "venue": "Pointe de l'Islet",
+    "paid": false,
+    "date": "2026-06-13",
+    "time": "10:30"
+  },
+  {
+    "artist": "BENEVOLE",
+    "venue": "Pub de la Micro",
+    "paid": false,
+    "date": "2026-06-13",
+    "time": "14:00"
+  },
+  {
+    "artist": "Concert pour toutes les oreilles | Alphonse Bisaillon",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "date": "2026-06-13",
+    "time": "10:00"
+  },
+  {
+    "artist": "Traversier | Bon Débarras",
+    "venue": "Traversier STQ",
+    "paid": false,
+    "date": "2026-06-13",
+    "time": "16:00"
+  },
+  {
+    "artist": "Match d'impro musicale",
+    "venue": "Jardin Hydro-Québec",
+    "paid": true,
+    "date": "2026-06-14",
+    "time": "13:00"
+  },
+  {
+    "artist": "Les Lunatiques",
+    "venue": "Scène St-Pancrace",
+    "paid": true,
+    "date": "2026-06-14",
+    "time": "00:30"
+  },
+  {
+    "artist": "Catherine Leduc",
+    "venue": "La Ferme",
+    "paid": false,
+    "date": "2026-06-14",
+    "time": "09:00"
+  },
+  {
+    "artist": "Tour de l'Islet du dimanche 1 | Ben Herbert Larue & Maude Sonier",
+    "venue": "Pointe de l'Islet",
+    "paid": false,
+    "date": "2026-06-14",
+    "time": "11:00"
+  },
+  {
+    "artist": "Tour de l'Islet du dimanche 2 | Ben Herbert Larue & Maude Sonier",
+    "venue": "Pointe de l'Islet",
+    "paid": false,
+    "date": "2026-06-14",
+    "time": "11:30"
+  }
+]

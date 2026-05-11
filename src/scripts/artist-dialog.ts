@@ -63,7 +63,7 @@ function renderDialogContent(
   }
 
   html += `<div class="dialog-genre-wrap">`;
-  html += `<span class="dialog-genre-badge">${escapeHtml(genre)}</span>`;
+  if (genre) html += `<span class="dialog-genre-badge">${escapeHtml(genre)}</span>`;
   html += `</div>`;
 
   if (details?.description) {

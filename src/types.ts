@@ -15,7 +15,7 @@ export type Row = {
   time: string;
   artist: string;
   country?: string;
-  genre: string;
+  genre?: string;
 };
 
 export type Festival = {

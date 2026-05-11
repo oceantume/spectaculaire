@@ -23,6 +23,7 @@ function formatDayHeader(date: string): string {
 const hasFreeFilter = features.includes("filter-free");
 const hasQuebecFilter = features.includes("filter-quebec");
 const hasAllPaid = features.includes("all-paid");
+const hasNoGenre = features.includes("no-genre");
 ---
 
 <div data-schedule-wrapper data-schedule-slug={slug}>
@@ -66,7 +67,7 @@ const hasAllPaid = features.includes("all-paid");
           <span data-sort-label style="view-transition-name: col-time">Début</span>
         </th>
         <th class="sched-th"><span style="view-transition-name: col-artist">Artiste</span></th>
-        <th class="sched-th sched-th-genre"><span style="view-transition-name: col-genre">Genre</span></th>
+        {!hasNoGenre && <th class="sched-th sched-th-genre"><span style="view-transition-name: col-genre">Genre</span></th>}
       </tr>
     </thead>
     {
@@ -115,7 +116,7 @@ const hasAllPaid = features.includes("all-paid");
                       )}
                     </button>
                   </td>
-                  <td class="sched-td sched-td-genre">{row.genre}</td>
+                  {!hasNoGenre && <td class="sched-td sched-td-genre">{row.genre}</td>}
                 </tr>
             ))}
         </tbody>
