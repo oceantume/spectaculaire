@@ -10,7 +10,11 @@ Investigate the data source for this URL and write an ingestion script, then reg
 
 ## 1. Reconnaissance — find the data source
 
-Try each approach in order, stop at the first that works.
+This is fully dependent on the website. Below are real examples to help guide the process.
+
+In any case, you should always prioritize finding the data-source from the programmation
+page which will almost always provide a path to it. There are some exceptions like well-known
+CMS platforms like below.
 
 **A. Gatsby static JSON**
 Fetch `{progUrl}` with the path replaced by the Gatsby page-data convention:
@@ -80,6 +84,8 @@ The schedule is server-rendered in the page HTML (typically 200–400 KB). Look 
 - Venue in `.c-card_subtitle`
 - Detail page URL in the card's `<a href>`
 
+Fall back to inference from context plus repetitive content and styling if nothing else works.
+
 Fetch each detail page for description, full image, and social links.
 Use `node-html-parser` for parsing (already a devDependency).
 
@@ -97,8 +103,6 @@ Use `node-html-parser` for parsing (already a devDependency).
 | `description` | bio / description — strip HTML, `<p>` → `\n\n` |
 | `imageUrl` | main image — use base URL, strip resize params |
 | `links` | social links array |
-
-Country normalization: "Montréal" → "Québec"; other Quebec cities → "Québec" if appropriate.
 
 **Genre not available?** Omit the `genre` field from rows (it is optional in `Row`). Add `"no-genre"` to the festival's `features` array in `festivals.json` to hide the genre column in the UI.
 
@@ -150,6 +154,9 @@ Inside `run()`:
 - Sort rows: `date` → paid-first → venue order → `time`
 - Call `writeFestivalData(dataDir, rows, artistDetailsMap)` to write both JSON files
 - For artists appearing multiple times: each appearance is its own row; `artist-details` entry written once
+
+Consider country normalization: "Montréal" → "Québec"; other Quebec cities → "Québec" to support
+the Quebec filtering features.
 
 **Country data not available in the source?** Create `src/content/festivals/{slug}/field-overrides.json`:
 

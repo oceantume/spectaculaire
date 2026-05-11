@@ -1,4 +1,4 @@
-name: Update schedule
+name: Update data
 
 on:
   schedule:
@@ -19,7 +19,7 @@ jobs:
           node-version: "22"
 
       - name: Fetch and transform schedule
-        run: node scripts/update-schedule.ts
+        run: node scripts/update.ts
 
       - name: Commit if changed
         run: |
