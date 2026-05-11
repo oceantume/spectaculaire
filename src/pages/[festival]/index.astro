@@ -2,12 +2,12 @@
 import ArtistDialog from "../../components/ArtistDialog.astro";
 import PageNav from "../../components/PageNav.astro";
 import ScheduleTable from "../../components/ScheduleTable.astro";
-import allFestivals from "../../content/festivals.json";
+import festivalData from "../../content/festivals.json";
 import Base from "../../layouts/Base.astro";
 import type { Festival, Row } from "../../types";
 
 export function getStaticPaths() {
-  const festivals = import.meta.env.DEV ? allFestivals : allFestivals.filter((f) => !f.draft);
+  const festivals = import.meta.env.DEV ? festivalData : festivalData.filter((f) => !f.draft);
   return festivals.map((f) => ({ params: { festival: f.slug }, props: { festival: f as Festival } }));
 }
 
@@ -48,14 +48,12 @@ for (const row of rawRows) {
   }
 }
 
-const otherFestivals = (import.meta.env.DEV ? allFestivals : allFestivals.filter((f) => !f.draft)).filter(
-  (f) => f.slug !== festival.slug,
-) as Festival[];
+const allFestivals = (import.meta.env.DEV ? festivalData : festivalData.filter((f) => !f.draft)) as Festival[];
 ---
 
 <Base title={festival.name} description={`Horaire de la programmation ${festival.name}`}>
   <main class="page-main">
-    <PageNav festival={festival} otherFestivals={otherFestivals} />
+    <PageNav festival={festival} allFestivals={allFestivals} />
     <ScheduleTable schedule={schedule} slug={festival.slug} features={festival.features} />
     <ArtistDialog src={`/${festival.slug}/artist-details.json`} />
     {
