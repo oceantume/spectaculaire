@@ -92,10 +92,12 @@ function renderDialogContent(
   }
 
   if (remainingLinks.length > 0) {
-    html += `<div class="dialog-links">`;
+    html += `<div class="dialog-links-wrap">`;
+    html += `<ul class="dialog-links">`;
     for (const link of remainingLinks) {
-      html += `<a href="${escapeAttr(link.url)}" target="_blank" rel="noopener noreferrer" class="dialog-link">${escapeHtml(labelForUrl(link.url, link.label))}</a>`;
+      html += `<li><a href="${escapeAttr(link.url)}" target="_blank" rel="noopener noreferrer" class="dialog-link">${escapeHtml(labelForUrl(link.url, link.label))}</a></li>`;
     }
+    html += `</ul>`;
     html += `</div>`;
   }
 

@@ -249,11 +249,32 @@ const { src } = Astro.props;
     margin: 0;
   }
 
+  .dialog-links-wrap {
+    padding: 0 1rem 1rem;
+  }
+
   .dialog-links {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem;
-    padding: 0 1rem 1rem;
+    align-items: baseline;
+    list-style: none;
+    margin: 0 0 0 -1.5rem;
+    clip-path: inset(0 0 0 1.5rem);
+    padding: 0;
+  }
+
+  .dialog-links li {
+    display: flex;
+    align-items: baseline;
+  }
+
+  .dialog-links li::before {
+    content: "·";
+    display: inline-block;
+    width: 1.5rem;
+    text-align: center;
+    color: var(--text-muted);
+    flex-shrink: 0;
   }
 
   .dialog-link {

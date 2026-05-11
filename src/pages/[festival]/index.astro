@@ -54,11 +54,7 @@ const otherFestivals = (import.meta.env.DEV ? allFestivals : allFestivals.filter
     {
       festival.sourceUrl && (
         <footer class="page-footer">
-          Données tirées de{" "}
-          <a href={festival.sourceUrl} target="_blank" rel="noopener noreferrer" class="page-footer-link">
-            {festival.sourceLabel}
-          </a>{" "}
-          · {festival.sourceAttribution}
+          Données tirées de <a href={festival.sourceUrl} target="_blank" rel="noopener noreferrer" class="page-footer-link">{festival.sourceLabel}</a> · {festival.sourceAttribution}
         </footer>
       )
     }
