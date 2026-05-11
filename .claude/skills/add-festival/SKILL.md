@@ -102,15 +102,20 @@ Country normalization: "Montréal" → "Québec"; other Quebec cities → "Québ
 
 ## 3. Social link label inference
 
-When links are bare URLs with no labels:
-- `facebook.com` → "Facebook"
+Use `inferLinkLabel(url)` from `scripts/utils.ts` — do not re-implement it per script. It handles:
+- `facebook.com`, `fb.com` → "Facebook"
 - `instagram.com` → "Instagram"
 - `tiktok.com` → "TikTok"
 - `spotify.com` → "Spotify"
-- `youtube.com` → "YouTube"
+- `youtube.com`, `youtu.be` → "YouTube"
+- `apple.com` (covers `music.apple.com`, `itunes.apple.com`) → "Apple Music"
+- `tidal.com` → "Tidal"
+- `deezer.com` → "Deezer"
 - `bandcamp.com` → "Bandcamp"
-- `music.apple.com` → "Apple Music"
 - `soundcloud.com` → "SoundCloud"
+- `mixcloud.com` → "Mixcloud"
+- `linktr.ee` → "Linktree"
+- `wikipedia.org` → "Wikipedia"
 - anything else → "Site officiel"
 
 YouTube IDs (bare string, no URL): prepend `https://www.youtube.com/watch?v=`. Label as "Vidéo officielle".

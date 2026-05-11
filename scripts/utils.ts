@@ -24,6 +24,28 @@ export function htmlToText(html: string): string {
   return root.textContent.trim().replace(/\n{3,}/g, "\n\n");
 }
 
+export function inferLinkLabel(url: string): string {
+  try {
+    const hostname = new URL(url).hostname.replace(/^www\./, "");
+    if (hostname.includes("facebook.com") || hostname === "fb.com") return "Facebook";
+    if (hostname.includes("instagram.com")) return "Instagram";
+    if (hostname.includes("tiktok.com")) return "TikTok";
+    if (hostname.includes("spotify.com")) return "Spotify";
+    if (hostname.includes("youtube.com") || hostname === "youtu.be") return "YouTube";
+    if (hostname.includes("apple.com")) return "Apple Music";
+    if (hostname.includes("tidal.com")) return "Tidal";
+    if (hostname.includes("deezer.com")) return "Deezer";
+    if (hostname.includes("bandcamp.com")) return "Bandcamp";
+    if (hostname.includes("soundcloud.com")) return "SoundCloud";
+    if (hostname.includes("mixcloud.com")) return "Mixcloud";
+    if (hostname === "linktr.ee") return "Linktree";
+    if (hostname.includes("wikipedia.org")) return "Wikipedia";
+    return "Site officiel";
+  } catch {
+    return "Site officiel";
+  }
+}
+
 export async function writeFestivalData(
   dataDir: string,
   rows: Row[],
@@ -32,8 +54,8 @@ export async function writeFestivalData(
   const schedulePath = path.join(dataDir, "schedule.json");
   const detailsPath = path.join(dataDir, "artist-details.json");
   await fs.mkdir(dataDir, { recursive: true });
-  await fs.writeFile(schedulePath, JSON.stringify(rows, null, 2));
+  await fs.writeFile(schedulePath, `${JSON.stringify(rows, null, 2)}\n`);
   console.log(`Written ${rows.length} rows to ${schedulePath}`);
-  await fs.writeFile(detailsPath, JSON.stringify(artistDetails, null, 2));
+  await fs.writeFile(detailsPath, `${JSON.stringify(artistDetails, null, 2)}\n`);
   console.log(`Written ${Object.keys(artistDetails).length} artist details to ${detailsPath}`);
 }

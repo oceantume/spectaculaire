@@ -1,7 +1,7 @@
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
-import { htmlToText, localDateStr, localTimeStr, toEDT, writeFestivalData } from "../utils.ts";
+import { htmlToText, inferLinkLabel, localDateStr, localTimeStr, toEDT, writeFestivalData } from "../utils.ts";
 
 interface PrismicText {
   text: string;
@@ -83,22 +83,6 @@ interface ArtistPageData {
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataDir = path.join(__dirname, "../../src/content/festivals/festif-2026");
 const BASE_URL = "https://lefestif.ca";
-
-function inferLinkLabel(url: string): string {
-  try {
-    const hostname = new URL(url).hostname.replace(/^www\./, "");
-    if (hostname.includes("facebook.com")) return "Facebook";
-    if (hostname.includes("instagram.com")) return "Instagram";
-    if (hostname.includes("spotify.com")) return "Spotify";
-    if (hostname.includes("youtube.com") || hostname.includes("youtu.be")) return "YouTube";
-    if (hostname.includes("apple.com")) return "Apple Music";
-    if (hostname.includes("tiktok.com")) return "TikTok";
-    if (hostname.includes("bandcamp.com")) return "Bandcamp";
-    return "Site officiel";
-  } catch {
-    return "Site officiel";
-  }
-}
 
 export async function run(): Promise<void> {
   const progUrl = `${BASE_URL}/page-data/programmation/page-data.json`;
