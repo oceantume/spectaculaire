@@ -10,10 +10,16 @@ const { festival, otherFestivals } = Astro.props;
 ---
 
 <div class="nav-bar">
-  <select class="nav-select" onchange="window.location.href = this.value">
-    <option value="" disabled selected>{festival.name}</option>
-    {otherFestivals.map((f) => <option value={`/${f.slug}/`}>{f.name}</option>)}
-  </select>
+  <div class="festival-picker">
+    <button type="button" class="festival-trigger" id="festival-trigger">
+      <span class="trigger-full">{festival.name}</span>
+      <span class="trigger-short">{festival.shortName}</span>
+    </button>
+    <select class="nav-select" id="festival-select" onchange="window.location.href = this.value" aria-label="Choisir un festival">
+      <option value="" disabled selected>{festival.name}</option>
+      {otherFestivals.map((f) => <option value={`/${f.slug}/`}>{f.name}</option>)}
+    </select>
+  </div>
   <button type="button" data-theme-toggle class="theme-btn" aria-label="Basculer le mode sombre">
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -50,6 +56,13 @@ const { festival, otherFestivals } = Astro.props;
 <script>
   import "../scripts/theme";
 </script>
+<script>
+  const trigger = document.getElementById("festival-trigger");
+  const select = document.getElementById("festival-select");
+  if (trigger && select) {
+    trigger.addEventListener("click", () => (select as HTMLSelectElement).showPicker());
+  }
+</script>
 
 <style>
   .nav-bar {
@@ -59,7 +72,12 @@ const { festival, otherFestivals } = Astro.props;
     margin-bottom: 1rem;
   }
 
-  .nav-select {
+  .festival-picker {
+    position: relative;
+  }
+
+  .festival-trigger {
+    display: block;
     font-size: 1.5rem;
     line-height: 2rem;
     font-weight: 700;
@@ -72,12 +90,38 @@ const { festival, otherFestivals } = Astro.props;
     margin: -0.25rem -0.5rem;
   }
 
-  .nav-select:hover {
+  .festival-trigger:hover {
     background-color: rgba(0, 0, 0, 0.05);
   }
 
-  :global(.dark) .nav-select:hover {
+  :global(.dark) .festival-trigger:hover {
     background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .trigger-full {
+    display: none;
+  }
+
+  .trigger-short {
+    display: inline;
+  }
+
+  @media (min-width: 480px) {
+    .trigger-full {
+      display: inline;
+    }
+
+    .trigger-short {
+      display: none;
+    }
+  }
+
+  .nav-select {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+    width: 0;
+    height: 0;
   }
 
   .theme-btn {
