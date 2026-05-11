@@ -105,14 +105,16 @@ const hasNoGenre = features.includes("no-genre");
                     <button type="button" data-artist-open={row.artist} class="artist-btn">
                       {row.country === "Québec" ? (
                         <>
-                          {row.artist.slice(0, row.artist.lastIndexOf(" ") + 1)}
-                          <span class="qc-nowrap">
-                            {row.artist.slice(row.artist.lastIndexOf(" ") + 1)}
-                            <img src="/qc.svg" alt="Québec" class="qc-flag-inline" />
+                          <span class="artist-name">
+                            {row.artist.slice(0, row.artist.lastIndexOf(" ") + 1)}
+                            <span class="qc-nowrap">
+                              {row.artist.slice(row.artist.lastIndexOf(" ") + 1)}
+                            </span>
                           </span>
+                          <img src="/qc.svg" alt="Québec" class="qc-flag-inline" />
                         </>
                       ) : (
-                        row.artist
+                        <span class="artist-name">{row.artist}</span>
                       )}
                     </button>
                   </td>
@@ -340,13 +342,19 @@ const hasNoGenre = features.includes("no-genre");
 
   .artist-btn {
     cursor: pointer;
-    text-decoration: underline;
     text-align: left;
     color: var(--text);
     background: none;
     border: none;
     padding: 0;
     font: inherit;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .artist-name {
+    text-decoration: underline;
   }
 
   .qc-nowrap {
@@ -356,9 +364,7 @@ const hasNoGenre = features.includes("no-genre");
   .qc-flag-inline {
     height: 1rem;
     width: 0.75rem;
-    display: inline-block;
-    vertical-align: middle;
-    margin-left: 0.25rem;
+    flex-shrink: 0;
   }
 
   [data-sort-by-start] [data-sort-label] {
