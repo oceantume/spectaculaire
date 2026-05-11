@@ -18,7 +18,7 @@
     "slug": "festivent-2026",
     "year": 2026,
     "region": "Lévis",
-    "features": ["all-paid"],
+    "features": ["all-paid", "filter-quebec"],
     "dataDir": "festivent-2026",
     "sourceUrl": "https://festivent.ca/programmation/",
     "sourceLabel": "festivent.ca",
