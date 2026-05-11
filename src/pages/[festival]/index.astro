@@ -17,18 +17,27 @@ const { festival } = Astro.props;
 const scheduleModules = import.meta.glob<{ default: Row[] }>("../../content/festivals/*/schedule.json", {
   eager: true,
 });
+const overrideModules = import.meta.glob<{ default: Record<string, Partial<Row>> }>(
+  "../../content/festivals/*/field-overrides.json",
+  { eager: true },
+);
 
 const scheduleKey = Object.keys(scheduleModules).find((k) => k.includes(`/${festival.dataDir}/`));
+const overridesKey = Object.keys(overrideModules).find((k) => k.includes(`/${festival.dataDir}/`));
 
 const rawRows: Row[] = scheduleKey ? scheduleModules[scheduleKey].default : [];
+const fieldOverrides = overridesKey ? overrideModules[overridesKey].default : {};
+const overridesByLower = Object.fromEntries(Object.entries(fieldOverrides).map(([k, v]) => [k.toLowerCase(), v]));
 
 const schedule = new Map<string, Row[]>();
 for (const row of rawRows) {
+  const override = overridesByLower[row.artist.toLowerCase()];
+  const resolvedRow = override ? { ...row, ...override } : row;
   const group = schedule.get(row.date);
   if (group) {
-    group.push(row);
+    group.push(resolvedRow);
   } else {
-    schedule.set(row.date, [row]);
+    schedule.set(row.date, [resolvedRow]);
   }
 }
 
