@@ -49,7 +49,7 @@ const otherFestivals = (import.meta.env.DEV ? allFestivals : allFestivals.filter
           <a href={festival.sourceUrl} target="_blank" rel="noopener noreferrer" class="page-footer-link">
             {festival.sourceLabel}
           </a>{" "}
-          · Contenu appartenant au {festival.sourceAttribution}
+          · {festival.sourceAttribution}
         </footer>
       )
     }

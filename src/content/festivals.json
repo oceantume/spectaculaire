@@ -9,7 +9,7 @@
     "dataDir": "feq-2026",
     "sourceUrl": "https://www.feq.ca/fr/programmation",
     "sourceLabel": "feq.ca",
-    "sourceAttribution": "Festival d'été de Québec",
+    "sourceAttribution": "Contenu appartenant au Festival d'été de Québec",
     "draft": false
   },
   {
@@ -22,7 +22,7 @@
     "dataDir": "festivent-2026",
     "sourceUrl": "https://festivent.ca/programmation/",
     "sourceLabel": "festivent.ca",
-    "sourceAttribution": "Festivent de Lévis",
+    "sourceAttribution": "Contenu appartenant au Festivent de Lévis",
     "draft": true
   },
   {
@@ -35,7 +35,7 @@
     "dataDir": "festif-2026",
     "sourceUrl": "https://lefestif.ca/programmation",
     "sourceLabel": "lefestif.ca",
-    "sourceAttribution": "Le Festif! de Baie-Saint-Paul",
+    "sourceAttribution": "Contenu appartenant au Festif! de Baie-Saint-Paul",
     "draft": true
   }
 ]
