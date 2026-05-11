@@ -38,8 +38,6 @@ const { title, description } = Astro.props;
   </head>
   <body>
     <slot />
-    <script>
-      import "../scripts/command-polyfill";
-    </script>
+    <script is:inline src="/command-polyfill.js" defer></script>
   </body>
 </html>

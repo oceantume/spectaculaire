@@ -181,11 +181,11 @@ const { festival, allFestivals } = Astro.props;
   }
 
   .festival-trigger:hover {
-    background-color: rgba(0, 0, 0, 0.05);
+    background-color: var(--overlay-hover);
   }
 
   .dark .festival-trigger:hover {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: var(--overlay-hover);
   }
 
   .trigger-full {
@@ -264,7 +264,7 @@ const { festival, allFestivals } = Astro.props;
   }
 
   .festival-dialog::backdrop {
-    background: rgba(0, 0, 0, 0.5);
+    background: var(--backdrop);
   }
 
   @media (min-width: 640px) {
@@ -302,17 +302,17 @@ const { festival, allFestivals } = Astro.props;
     }
 
     .festival-dialog::backdrop {
-      background-color: rgba(0, 0, 0, 0);
+      background-color: transparent;
       transition: background-color 0.25s ease-out;
     }
 
     .festival-dialog[open]::backdrop {
-      background-color: rgba(0, 0, 0, 0.5);
+      background-color: var(--backdrop);
     }
 
     @starting-style {
       .festival-dialog[open]::backdrop {
-        background-color: rgba(0, 0, 0, 0);
+        background-color: transparent;
       }
     }
   }
@@ -348,11 +348,11 @@ const { festival, allFestivals } = Astro.props;
 
   .festival-dialog-close:hover {
     color: var(--text);
-    background-color: rgba(0, 0, 0, 0.05);
+    background-color: var(--overlay-hover);
   }
 
   .dark .festival-dialog-close:hover {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: var(--overlay-hover);
   }
 
   .festival-list {
@@ -373,7 +373,7 @@ const { festival, allFestivals } = Astro.props;
   }
 
   .festival-item:hover {
-    background-color: rgba(0, 0, 0, 0.05);
+    background-color: var(--overlay-hover);
   }
 
   .dark .festival-item:hover {

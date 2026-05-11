@@ -22,10 +22,10 @@ const { src } = Astro.props;
   }
 
   #artist-dialog::backdrop {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: var(--backdrop);
     transition: background-color 0.2s ease-out;
     @starting-style {
-      background-color: rgba(0, 0, 0, 0);
+      background-color: transparent;
     }
   }
 
