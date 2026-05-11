@@ -42,27 +42,6 @@ function escapeHtml(str: string): string {
   return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
 
-function labelForUrl(url: string, stored: string): string {
-  if (stored !== "Site officiel") return stored;
-  try {
-    const hostname = new URL(url).hostname.replace(/^www\./, "");
-    if (hostname.includes("facebook.com") || hostname === "fb.com") return "Facebook";
-    if (hostname.includes("instagram.com")) return "Instagram";
-    if (hostname.includes("tiktok.com")) return "TikTok";
-    if (hostname.includes("spotify.com")) return "Spotify";
-    if (hostname.includes("youtube.com") || hostname === "youtu.be") return "YouTube";
-    if (hostname.includes("apple.com")) return "Apple Music";
-    if (hostname.includes("tidal.com")) return "Tidal";
-    if (hostname.includes("deezer.com")) return "Deezer";
-    if (hostname.includes("bandcamp.com")) return "Bandcamp";
-    if (hostname.includes("soundcloud.com")) return "SoundCloud";
-    if (hostname.includes("mixcloud.com")) return "Mixcloud";
-    if (hostname === "linktr.ee") return "Linktree";
-    if (hostname.includes("wikipedia.org")) return "Wikipedia";
-  } catch {}
-  return stored;
-}
-
 function renderDialogContent(
   name: string,
   country: string | undefined,
@@ -122,7 +101,7 @@ function renderDialogContent(
         <ul class="dialog-links">
           ${remainingLinks.map(
             (link) => html`
-            <li><a href="${link.url}" target="_blank" rel="noopener noreferrer" class="dialog-link">${labelForUrl(link.url, link.label)}</a></li>
+            <li><a href="${link.url}" target="_blank" rel="noopener noreferrer" class="dialog-link">${link.label}</a></li>
           `,
           )}
         </ul>
