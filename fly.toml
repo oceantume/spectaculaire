@@ -18,3 +18,7 @@ primary_region = 'yyz'
 [[vm]]
   size = 'shared-cpu-1x'
   memory = '256mb'
+
+[[mounts]]
+  source      = "analytics_data"
+  destination = "/data"
