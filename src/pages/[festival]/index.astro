@@ -21,18 +21,25 @@ const overrideModules = import.meta.glob<{ default: Record<string, Partial<Row>>
   "../../content/festivals/*/field-overrides.json",
   { eager: true },
 );
+const venueOverrideModules = import.meta.glob<{ default: Record<string, string> }>(
+  "../../content/festivals/*/venue-overrides.json",
+  { eager: true },
+);
 
 const scheduleKey = Object.keys(scheduleModules).find((k) => k.includes(`/${festival.dataDir}/`));
 const overridesKey = Object.keys(overrideModules).find((k) => k.includes(`/${festival.dataDir}/`));
+const venueOverridesKey = Object.keys(venueOverrideModules).find((k) => k.includes(`/${festival.dataDir}/`));
 
 const rawRows: Row[] = scheduleKey ? scheduleModules[scheduleKey].default : [];
 const fieldOverrides = overridesKey ? overrideModules[overridesKey].default : {};
+const venueOverrides = venueOverridesKey ? venueOverrideModules[venueOverridesKey].default : {};
 const overridesByLower = Object.fromEntries(Object.entries(fieldOverrides).map(([k, v]) => [k.toLowerCase(), v]));
 
 const schedule = new Map<string, Row[]>();
 for (const row of rawRows) {
   const override = overridesByLower[row.artist.toLowerCase()];
-  const resolvedRow = override ? { ...row, ...override } : row;
+  const resolvedVenue = venueOverrides[row.venue] ?? row.venue;
+  const resolvedRow = override ? { ...row, venue: resolvedVenue, ...override } : { ...row, venue: resolvedVenue };
   const group = schedule.get(row.date);
   if (group) {
     group.push(resolvedRow);
