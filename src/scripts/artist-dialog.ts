@@ -13,12 +13,33 @@ const artistDetailsPromise: Promise<ArtistDetailsByName> = fetch(dialog.dataset.
 
 let currentArtistName: string | null = null;
 
-function escapeHtml(str: string): string {
-  return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+class SafeHtml {
+  constructor(readonly value: string) {}
+  toString() {
+    return this.value;
+  }
 }
 
-function escapeAttr(str: string): string {
-  return str.replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+function html(strings: TemplateStringsArray, ...values: unknown[]): SafeHtml {
+  let result = strings[0];
+  for (let i = 0; i < values.length; i++) {
+    const v = values[i];
+    if (v instanceof SafeHtml) {
+      result += v.value;
+    } else if (Array.isArray(v)) {
+      result += v.map((item) => (item instanceof SafeHtml ? item.value : escapeHtml(String(item ?? "")))).join("");
+    } else if (v == null || v === false) {
+      // renders nothing
+    } else {
+      result += escapeHtml(String(v));
+    }
+    result += strings[i + 1];
+  }
+  return new SafeHtml(result);
+}
+
+function escapeHtml(str: string): string {
+  return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
 
 function labelForUrl(url: string, stored: string): string {
@@ -56,52 +77,59 @@ function renderDialogContent(
   const youtubeEmbed = officialVideoLink ? getYouTubeEmbed(officialVideoLink.url) : null;
   const remainingLinks = links.filter((l) => l !== officialVideoLink);
 
-  let html = "";
+  const header = details?.imageUrl
+    ? html`
+        <div class="dialog-img-header">
+          <img src="${details.imageUrl}" alt="" class="dialog-cover-img" />
+          <div class="dialog-img-overlay"></div>
+          <div class="dialog-img-caption">
+            <h2 class="dialog-title-onimg">${name}</h2>
+            ${country && html`<p class="dialog-subtitle-onimg">${country}</p>`}
+          </div>
+          <button type="button" data-dialog-close class="dialog-close-onimg" aria-label="Fermer">×</button>
+          ${
+            youtubeEmbed &&
+            html`
+            <button type="button" data-play-video
+              data-video-id="${youtubeEmbed.videoId}"
+              data-video-start="${youtubeEmbed.start ?? ""}"
+              data-video-url="${officialVideoLink?.url ?? ""}"
+              class="dialog-play-btn" aria-label="Jouer la vidéo officielle">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="dialog-play-icon" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+            </button>
+          `
+          }
+        </div>`
+    : html`
+        <div class="dialog-header">
+          <div class="dialog-header-main">
+            <h2 class="dialog-title">${name}</h2>
+            ${country && html`<p class="dialog-subtitle">${country}</p>`}
+          </div>
+          <button type="button" data-dialog-close class="dialog-close" aria-label="Fermer">×</button>
+        </div>`;
 
-  if (details?.imageUrl) {
-    html += `<div class="dialog-img-header">`;
-    html += `<img src="${escapeAttr(details.imageUrl)}" alt="" class="dialog-cover-img" />`;
-    html += `<div class="dialog-img-overlay"></div>`;
-    html += `<div class="dialog-img-caption">`;
-    html += `<h2 class="dialog-title-onimg">${escapeHtml(name)}</h2>`;
-    if (country) html += `<p class="dialog-subtitle-onimg">${escapeHtml(country)}</p>`;
-    html += `</div>`;
-    html += `<button type="button" data-dialog-close class="dialog-close-onimg" aria-label="Fermer">×</button>`;
-    if (youtubeEmbed) {
-      html += `<button type="button" data-play-video data-video-id="${escapeAttr(youtubeEmbed.videoId)}" data-video-start="${youtubeEmbed.start ?? ""}" data-video-url="${escapeAttr(officialVideoLink?.url ?? "")}" class="dialog-play-btn" aria-label="Jouer la vidéo officielle">`;
-      html += `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="dialog-play-icon" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>`;
-      html += `</button>`;
+  dialogContent.innerHTML = html`
+    ${header}
+    <div class="dialog-genre-wrap">
+      ${genre && html`<span class="dialog-genre-badge">${genre}</span>`}
+    </div>
+    ${details?.description && html`<p class="dialog-description">${details.description}</p>`}
+    ${
+      remainingLinks.length > 0 &&
+      html`
+      <div class="dialog-links-wrap">
+        <ul class="dialog-links">
+          ${remainingLinks.map(
+            (link) => html`
+            <li><a href="${link.url}" target="_blank" rel="noopener noreferrer" class="dialog-link">${labelForUrl(link.url, link.label)}</a></li>
+          `,
+          )}
+        </ul>
+      </div>
+    `
     }
-    html += `</div>`;
-  } else {
-    html += `<div class="dialog-header">`;
-    html += `<div class="dialog-header-main">`;
-    html += `<h2 class="dialog-title">${escapeHtml(name)}</h2>`;
-    if (country) html += `<p class="dialog-subtitle">${escapeHtml(country)}</p>`;
-    html += `</div>`;
-    html += `<button type="button" data-dialog-close class="dialog-close" aria-label="Fermer">×</button>`;
-    html += `</div>`;
-  }
-
-  html += `<div class="dialog-genre-wrap">`;
-  if (genre) html += `<span class="dialog-genre-badge">${escapeHtml(genre)}</span>`;
-  html += `</div>`;
-
-  if (details?.description) {
-    html += `<p class="dialog-description">${escapeHtml(details.description)}</p>`;
-  }
-
-  if (remainingLinks.length > 0) {
-    html += `<div class="dialog-links-wrap">`;
-    html += `<ul class="dialog-links">`;
-    for (const link of remainingLinks) {
-      html += `<li><a href="${escapeAttr(link.url)}" target="_blank" rel="noopener noreferrer" class="dialog-link">${escapeHtml(labelForUrl(link.url, link.label))}</a></li>`;
-    }
-    html += `</ul>`;
-    html += `</div>`;
-  }
-
-  dialogContent.innerHTML = html;
+  `.value;
 }
 
 function withDialogTransition(fn: () => void) {
