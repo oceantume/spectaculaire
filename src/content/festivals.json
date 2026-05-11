@@ -23,7 +23,7 @@
     "sourceUrl": "https://festivent.ca/programmation/",
     "sourceLabel": "festivent.ca",
     "sourceAttribution": "Contenu appartenant au Festivent de Lévis",
-    "draft": true
+    "draft": false
   },
   {
     "name": "Chanson Tadoussac 2026",
@@ -36,7 +36,7 @@
     "sourceUrl": "https://chansontadoussac.com/programmation-2026/",
     "sourceLabel": "chansontadoussac.com",
     "sourceAttribution": "Contenu appartenant au Festival de la Chanson de Tadoussac",
-    "draft": true
+    "draft": false
   },
   {
     "name": "Envol et Macadam 2026",
@@ -62,6 +62,6 @@
     "sourceUrl": "https://lefestif.ca/programmation",
     "sourceLabel": "lefestif.ca",
     "sourceAttribution": "Contenu appartenant au Festif! de Baie-Saint-Paul",
-    "draft": true
+    "draft": false
   }
 ]
