@@ -1027,10 +1027,6 @@
       {
         "label": "Instagram",
         "url": "https://www.instagram.com/zza.musique/"
-      },
-      {
-        "label": "Vidéo officielle",
-        "url": "https://www.youtube.com/watch?v=t4aH6_lL058"
       }
     ]
   },
@@ -2629,12 +2625,12 @@
         "url": "https://www.allisondaniels.ca/"
       },
       {
-        "label": "TikTok",
-        "url": "https://www.tiktok.com/@allisondanielstiktok?lang=en"
+        "label": "Vidéo officielle",
+        "url": "https://www.youtube.com/watch?v=ulHpBVks2mE"
       },
       {
-        "label": "Vidéo officielle",
-        "url": "https://www.youtube.com/watch?v=mISN9QyQh3o"
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@allisondanielstiktok?lang=en"
       }
     ]
   },

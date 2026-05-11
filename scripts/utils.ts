@@ -30,6 +30,7 @@ export function inferLinkLabel(url: string): string {
     if (hostname.includes("facebook.com") || hostname === "fb.com") return "Facebook";
     if (hostname.includes("instagram.com")) return "Instagram";
     if (hostname.includes("tiktok.com")) return "TikTok";
+    if (hostname === "x.com" || hostname.includes("twitter.com")) return "X";
     if (hostname.includes("spotify.com")) return "Spotify";
     if (hostname.includes("youtube.com") || hostname === "youtu.be") return "YouTube";
     if (hostname.includes("apple.com")) return "Apple Music";

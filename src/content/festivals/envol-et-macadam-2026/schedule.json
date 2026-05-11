@@ -1,0 +1,194 @@
+[
+  {
+    "date": "2026-09-10",
+    "venue": "L’Anti Bar & Spectacles",
+    "paid": true,
+    "time": "00:00",
+    "artist": "Pasteur Papillon",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-10",
+    "venue": "L’Anti Bar & Spectacles",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Vie de Quartier",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-10",
+    "venue": "Agora port de Québec",
+    "paid": false,
+    "time": "20:00",
+    "artist": "Orloge Simard",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-10",
+    "venue": "Agora port de Québec",
+    "paid": false,
+    "time": "21:30",
+    "artist": "Les Goules",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-11",
+    "venue": "Agora port de Québec",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Despised Icon",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-11",
+    "venue": "Agora port de Québec",
+    "paid": true,
+    "time": "21:30",
+    "artist": "Hatebreed",
+    "country": "États-Unis"
+  },
+  {
+    "date": "2026-09-11",
+    "venue": "La Source de la Martinière",
+    "paid": true,
+    "time": "00:00",
+    "artist": "Death By Stereo",
+    "country": "États-Unis"
+  },
+  {
+    "date": "2026-09-11",
+    "venue": "La Source de la Martinière",
+    "paid": true,
+    "time": "21:00",
+    "artist": "Have No Heroes",
+    "country": "Latvia"
+  },
+  {
+    "date": "2026-09-11",
+    "venue": "La Source de la Martinière",
+    "paid": true,
+    "time": "22:00",
+    "artist": "Fair Do’s",
+    "country": "UK"
+  },
+  {
+    "date": "2026-09-11",
+    "venue": "La Source de la Martinière",
+    "paid": true,
+    "time": "23:00",
+    "artist": "MakeWar",
+    "country": "États-Unis"
+  },
+  {
+    "date": "2026-09-11",
+    "venue": "Scanner Bistro",
+    "paid": true,
+    "time": "00:00",
+    "artist": "Poolgirl",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-11",
+    "venue": "Scanner Bistro",
+    "paid": true,
+    "time": "01:00",
+    "artist": "The Leftovers",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-11",
+    "venue": "Scanner Bistro",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Ruby Slipper",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "Agora port de Québec",
+    "paid": true,
+    "time": "15:00",
+    "artist": "Guttermouth",
+    "country": "États-Unis"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "Agora port de Québec",
+    "paid": true,
+    "time": "17:00",
+    "artist": "A Wilhelm Scream",
+    "country": "États-Unis"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "Agora port de Québec",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Mute",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "Agora port de Québec",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Satanic Surfers",
+    "country": "États-Unis"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "Agora port de Québec",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Teenage Bottlerocket",
+    "country": "États-Unis"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "Agora port de Québec",
+    "paid": true,
+    "time": "21:15",
+    "artist": "Bad Religion",
+    "country": "États-Unis"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "L’Anti Bar & Spectacles",
+    "paid": true,
+    "time": "00:00",
+    "artist": "Doghouse Rose",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "L’Anti Bar & Spectacles",
+    "paid": true,
+    "time": "22:00",
+    "artist": "For I Am",
+    "country": "Belgique"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "L’Anti Bar & Spectacles",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Killing Daisies",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "Scanner Bistro",
+    "paid": true,
+    "time": "01:00",
+    "artist": "Nova Spei",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "Scanner Bistro",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Fragmatik",
+    "country": "Canada"
+  }
+]

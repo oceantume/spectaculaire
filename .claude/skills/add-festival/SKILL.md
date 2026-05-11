@@ -93,12 +93,16 @@ Use `node-html-parser` for parsing (already a devDependency).
 | `venue` | stage / scene / scène / location |
 | `paid` | `!free` boolean, or ticketed/payant flag |
 | `country` | origin / from / pays / provenance |
-| `genre` | genre / style / category / tag |
+| `genre` | genre / style / category / tag — **optional**, omit if unavailable |
 | `description` | bio / description — strip HTML, `<p>` → `\n\n` |
 | `imageUrl` | main image — use base URL, strip resize params |
 | `links` | social links array |
 
 Country normalization: "Montréal" → "Québec"; other Quebec cities → "Québec" if appropriate.
+
+**Genre not available?** Omit the `genre` field from rows (it is optional in `Row`). Add `"no-genre"` to the festival's `features` array in `festivals.json` to hide the genre column in the UI.
+
+**Paid/free not determinable from the source?** Default `paid: true`. Look harder before giving up: check for per-venue or per-show free-entry markers in the HTML (e.g. "Entrée gratuite", "gratuit", "free"), inspect the festival's ticketing page, or look at venue descriptions — outdoor main stages are usually paid while bar/side-stage venues are often free. If all shows are definitively paid (no free tier at all), use `"all-paid"` instead of `"filter-free"` — this hides the paid/free column entirely. Use `field-overrides.json` to hard-code `paid` for individual artists when the source is ambiguous.
 
 ## 3. Social link label inference
 
@@ -189,8 +193,9 @@ Add to `src/content/festivals.json`:
 ```
 
 Add `"all-paid"` to `features` if every show is paid (hides the paid/gratuit column entirely).
-Add `"filter-free"` to `features` if free/paid data is available.
+Add `"filter-free"` to `features` if free/paid data is available and some shows are free.
 Add `"filter-quebec"` to `features` if country/origin data is available.
+Add `"no-genre"` to `features` if genre data is unavailable (hides the genre column).
 
 ## 6. Verify
 
