@@ -65,7 +65,7 @@ function renderDialogContent(
             <h2 class="dialog-title-onimg">${name}</h2>
             ${country && html`<p class="dialog-subtitle-onimg">${country}</p>`}
           </div>
-          <button type="button" data-dialog-close class="dialog-close-onimg" aria-label="Fermer">×</button>
+          <button type="button" commandfor="artist-dialog" command="close" class="dialog-close-onimg" aria-label="Fermer">×</button>
           ${
             youtubeEmbed &&
             html`
@@ -85,7 +85,7 @@ function renderDialogContent(
             <h2 class="dialog-title">${name}</h2>
             ${country && html`<p class="dialog-subtitle">${country}</p>`}
           </div>
-          <button type="button" data-dialog-close class="dialog-close" aria-label="Fermer">×</button>
+          <button type="button" commandfor="artist-dialog" command="close" class="dialog-close" aria-label="Fermer">×</button>
         </div>`;
 
   dialogContent.innerHTML = html`
@@ -111,37 +111,11 @@ function renderDialogContent(
   `.value;
 }
 
-function withDialogTransition(fn: () => void) {
-  if (!document.startViewTransition) {
-    fn();
-    return;
-  }
-  dialog.classList.add("dialog-animating");
-  document.documentElement.classList.add("dialog-transitioning");
-  const t = document.startViewTransition(fn);
-  t.finished.finally(() => {
-    dialog.classList.remove("dialog-animating");
-    document.documentElement.classList.remove("dialog-transitioning");
-  });
-}
-
 async function openArtistDialog(name: string, country: string | undefined, genre: string) {
   currentArtistName = name;
   const artistDetails = await artistDetailsPromise;
   renderDialogContent(name, country, genre, artistDetails);
-  withDialogTransition(() => {
-    dialog.showModal();
-    document.body.style.overflow = "hidden";
-  });
-}
-
-function closeArtistDialog() {
-  withDialogTransition(() => {
-    dialog.close();
-    dialogContent.innerHTML = "";
-    currentArtistName = null;
-    document.body.style.overflow = "";
-  });
+  dialog.showModal();
 }
 
 function getVisibleRows(): HTMLElement[] {
@@ -163,13 +137,14 @@ function navigate(delta: -1 | 1) {
   const nextGenre = nextRow.dataset.genre ?? "";
   currentArtistName = nextName;
   artistDetailsPromise.then((artistDetails) => {
-    if (document.startViewTransition) {
-      document.startViewTransition(() => renderDialogContent(nextName, nextCountry, nextGenre, artistDetails));
-    } else {
-      renderDialogContent(nextName, nextCountry, nextGenre, artistDetails);
-    }
+    renderDialogContent(nextName, nextCountry, nextGenre, artistDetails);
   });
 }
+
+dialog.addEventListener("close", () => {
+  dialogContent.innerHTML = "";
+  currentArtistName = null;
+});
 
 document.addEventListener("click", (e) => {
   const target = e.target as Element;
@@ -181,11 +156,6 @@ document.addEventListener("click", (e) => {
     const country = row?.dataset.country;
     const genre = row?.dataset.genre ?? "";
     openArtistDialog(name, country, genre);
-    return;
-  }
-
-  if (target.closest("[data-dialog-close]")) {
-    closeArtistDialog();
     return;
   }
 
@@ -203,15 +173,6 @@ document.addEventListener("click", (e) => {
     playBtn.closest(".dialog-img-header")?.replaceWith(iframe);
     return;
   }
-});
-
-dialog.addEventListener("click", (e) => {
-  if (e.target === dialog) closeArtistDialog();
-});
-
-dialog.addEventListener("cancel", (e) => {
-  e.preventDefault();
-  closeArtistDialog();
 });
 
 dialog.addEventListener("keydown", (e) => {

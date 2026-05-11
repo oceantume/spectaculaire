@@ -3,7 +3,7 @@ type Props = { src: string };
 const { src } = Astro.props;
 ---
 
-<dialog id="artist-dialog" data-src={src}>
+<dialog id="artist-dialog" data-src={src} closedby="any">
   <div id="artist-dialog-content"></div>
 </dialog>
 <script>
@@ -11,10 +11,6 @@ const { src } = Astro.props;
 </script>
 
 <style is:global>
-  #artist-dialog.dialog-animating {
-    view-transition-name: artist-dialog;
-  }
-
   #artist-dialog {
     border-radius: 0.75rem;
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
@@ -34,7 +30,6 @@ const { src } = Astro.props;
   }
 
   #artist-dialog-content {
-    view-transition-name: artist-dialog-content;
     display: flex;
     flex-direction: column;
     background-color: var(--bg-elevated);
@@ -42,54 +37,27 @@ const { src } = Astro.props;
     overflow: hidden;
   }
 
-  @keyframes dialog-in {
-    from {
+  @media (prefers-reduced-motion: no-preference) {
+    #artist-dialog {
       opacity: 0;
       transform: scale(0.95) translateY(6px);
+      transition:
+        opacity 0.2s ease-out,
+        transform 0.2s ease-out,
+        display 0.2s allow-discrete,
+        overlay 0.2s allow-discrete;
     }
-  }
 
-  @keyframes dialog-out {
-    to {
-      opacity: 0;
-      transform: scale(0.95) translateY(6px);
+    #artist-dialog[open] {
+      opacity: 1;
+      transform: scale(1);
     }
-  }
 
-  ::view-transition-new(artist-dialog) {
-    animation: dialog-in 0.2s ease-out;
-  }
-
-  ::view-transition-old(artist-dialog) {
-    animation: dialog-out 0.15s ease-in forwards;
-  }
-
-  ::view-transition-old(artist-dialog-content),
-  ::view-transition-new(artist-dialog-content) {
-    animation-duration: 0.15s;
-  }
-
-  html.dialog-transitioning::view-transition-old(root),
-  html.dialog-transitioning::view-transition-new(root) {
-    animation: none;
-  }
-
-  html.dialog-transitioning tr[data-row] {
-    view-transition-name: none !important;
-  }
-
-  html.dialog-transitioning thead span {
-    view-transition-name: none !important;
-  }
-
-  html.dialog-transitioning #artist-dialog-content {
-    view-transition-name: none;
-  }
-
-  @media (prefers-reduced-motion: reduce) {
-    ::view-transition-new(artist-dialog),
-    ::view-transition-old(artist-dialog) {
-      animation: none;
+    @starting-style {
+      #artist-dialog[open] {
+        opacity: 0;
+        transform: scale(0.95) translateY(6px);
+      }
     }
   }
 
