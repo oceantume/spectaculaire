@@ -130,7 +130,7 @@ const hasNoGenre = features.includes("no-genre");
   import "../scripts/schedule-filter";
 </script>
 
-<style>
+<style is:global>
   .filter-bar {
     display: flex;
     gap: 0.5rem;
@@ -209,8 +209,8 @@ const hasNoGenre = features.includes("no-genre");
     display: inline-block;
   }
 
-  :global(.dark) .qc-flag,
-  :global(.dark) .qc-flag-inline {
+  .dark .qc-flag,
+  .dark .qc-flag-inline {
     filter: brightness(1.5);
   }
 
