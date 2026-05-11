@@ -1,6 +1,6 @@
 [
   {
-    "name": "Programmation FEQ 2026",
+    "name": "Festival d'été de Québec 2026",
     "shortName": "FEQ 2026",
     "slug": "feq-2026",
     "year": 2026,
@@ -13,7 +13,7 @@
     "draft": false
   },
   {
-    "name": "Programmation Festivent 2026",
+    "name": "Festivent 2026",
     "shortName": "Festivent 2026",
     "slug": "festivent-2026",
     "year": 2026,
@@ -26,7 +26,7 @@
     "draft": true
   },
   {
-    "name": "Programmation Chanson Tadoussac 2026",
+    "name": "Chanson Tadoussac 2026",
     "shortName": "Chanson Tadoussac 2026",
     "slug": "chanson-tadoussac-2026",
     "year": 2026,
@@ -39,7 +39,7 @@
     "draft": true
   },
   {
-    "name": "Programmation Festif 2026",
+    "name": "Festif 2026",
     "shortName": "Festif 2026",
     "slug": "festif-2026",
     "year": 2026,
