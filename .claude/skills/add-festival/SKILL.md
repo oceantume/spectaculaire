@@ -43,7 +43,34 @@ Fetch `{siteOrigin}/wp-json/` and inspect:
 
 Caution: POST-only custom endpoints often serve user-favorites or ICS export features, not the full schedule. Verify by trying an empty POST body. If the response is an empty list or HTML, the REST API is not the data source — fall through to HTML.
 
-**E. HTML parsing (last resort)**
+**E. FestApp widget (Convex backend)**
+Search the page source for `festapp` or `api.sync.festapp.io`. If found, the schedule is served by a Convex backend and this approach gives full structured data including dates, times, venues, paid/free, bios, images, and links.
+
+**Find the edition ID:** Search the page HTML for `editionId` or a 32-character alphanumeric string near the widget initializer. Also look for `data-festapp-edition` attributes on widget container elements.
+
+**API endpoint:** `POST https://api.sync.festapp.io/api/query`
+
+**Fetch the schedule:**
+```json
+{ "path": "queries/widget:schedules", "args": { "editionId": "<id>" }, "format": "json" }
+```
+Response shape: `{ "status": "success", "value": [...] }`. Each item has:
+- `artist._id`, `artist.name`
+- `place.localized_fields[]` — venue name via `getLocalizedValue(fields, "name", "fr")`
+- `start_date` (YYYY-MM-DD), `start_time` (HH:MM) — already local time, no UTC conversion needed
+- `categories[]` with `localized_fields[]` — paid detection: `catNames.some(n => /passeport|billet/i.test(n))`; skip non-show items whose category name matches `"activités"`
+
+**Fetch artist details** (one per unique `artist._id`, add 100ms delay between requests):
+```json
+{ "path": "queries/widget:artist", "args": { "editionId": "<id>", "artistId": "<id>" }, "format": "json" }
+```
+Returns: `image.url`, `links[]` (bare URLs — apply `inferLinkLabel()`), `localized_fields[]` containing `biography` (HTML — apply `htmlToText()`).
+
+**Note on genre:** FestApp does not expose genre data. Use the `"no-genre"` feature flag in `festivals.json` to hide the genre column.
+
+**Reference implementation:** `scripts/festivals/chanson-tadoussac-2026.ts`
+
+**F. HTML parsing (last resort)**
 The schedule is server-rendered in the page HTML (typically 200–400 KB). Look for:
 - A repeating card/block element (e.g. `c-card`, `data-grid="item"`, `data-filters-item`)
 - `data-module-save="{id}"` — the WordPress post ID, useful for deduplication
