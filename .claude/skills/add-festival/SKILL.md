@@ -261,7 +261,7 @@ import { run as runMyFestival } from "./festivals/{slug}.ts";
 { slug: "{slug}", run: runMyFestival, lastUpdateDate: "YYYY-MM-DD" },
 ```
 
-The single npm script `"update": "node scripts/update.ts"` in `package.json` runs the orchestrator — no new npm scripts needed.
+The single npm script `"update": "node scripts/update.ts"` in `package.json` runs the orchestrator — no new npm scripts needed. During development you can pass a slug to run only that festival: `npm run update -- {slug}`.
 
 ## 5. Register the festival
 
@@ -289,7 +289,7 @@ Add `"no-genre"` to `features` if genre data is unavailable (hides the genre col
 
 ## 6. Verify
 
-1. `npm run update` — check row count, no errors
+1. `npm run update -- {slug}` — check row count, no errors
 2. Spot-check 3–5 rows in `schedule.json` for correct date, time, venue, paid flag
 3. Spot-check `artist-details.json` for description, imageUrl, links
 4. `npm run check` — TypeScript + formatting

@@ -20,7 +20,17 @@ const festivals = [
 
 const today = new Date().toISOString().slice(0, 10);
 
-for (const { slug, run, lastUpdateDate } of festivals) {
+const targetSlug = process.argv[2];
+
+if (targetSlug !== undefined && !festivals.some((f) => f.slug === targetSlug)) {
+  const available = festivals.map((f) => f.slug).join(", ");
+  console.error(`Unknown festival slug: "${targetSlug}". Available: ${available}`);
+  process.exit(1);
+}
+
+const toRun = targetSlug ? festivals.filter((f) => f.slug === targetSlug) : festivals;
+
+for (const { slug, run, lastUpdateDate } of toRun) {
   if (today > lastUpdateDate) {
     console.log(`[${slug}] Skipping — festival ended on ${lastUpdateDate}`);
     continue;
