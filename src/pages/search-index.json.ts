@@ -2,15 +2,13 @@ import type { APIRoute } from "astro";
 import festivalData from "../content/festivals.json";
 import type { Festival, Row } from "../types";
 
-type SearchEntry = {
-  artist: string;
-  normalizedArtist: string;
-  festivalSlug: string;
-  festivalName: string;
-  date: string;
-  time: string;
-  venue: string;
-  rowId: string;
+// [artist, festivalIdx, date, time, venueIdx, rowIdx]
+type CompactEntry = [string, number, string, string, number, number];
+
+type SearchIndex = {
+  festivals: [slug: string, name: string][];
+  venues: string[];
+  entries: CompactEntry[];
 };
 
 const scheduleModules = import.meta.glob<{ default: Row[] }>("../content/festivals/*/schedule.json", {
@@ -25,19 +23,16 @@ const venueOverrideModules = import.meta.glob<{ default: Record<string, string> 
   { eager: true },
 );
 
-function normalize(str: string): string {
-  return str
-    .normalize("NFD")
-    .replace(/\p{Diacritic}/gu, "")
-    .toLowerCase();
-}
-
 export const GET: APIRoute = () => {
   const festivals = (import.meta.env.DEV ? festivalData : festivalData.filter((f) => !f.draft)) as Festival[];
 
-  const entries: SearchEntry[] = [];
+  const festivalList: [string, string][] = festivals.map((f) => [f.slug, f.name]);
+  const venueList: string[] = [];
+  const venueIndex = new Map<string, number>();
+  const entries: CompactEntry[] = [];
 
-  for (const festival of festivals) {
+  for (let fi = 0; fi < festivals.length; fi++) {
+    const festival = festivals[fi];
     const scheduleKey = Object.keys(scheduleModules).find((k) => k.includes(`/${festival.dataDir}/`));
     const overridesKey = Object.keys(overrideModules).find((k) => k.includes(`/${festival.dataDir}/`));
     const venueKey = Object.keys(venueOverrideModules).find((k) => k.includes(`/${festival.dataDir}/`));
@@ -59,21 +54,21 @@ export const GET: APIRoute = () => {
         const override = overridesByLower[rawRow.artist.toLowerCase()];
         const resolvedVenue = venueOverrides[rawRow.venue] ?? rawRow.venue;
         const row = override ? { ...rawRow, venue: resolvedVenue, ...override } : { ...rawRow, venue: resolvedVenue };
-        entries.push({
-          artist: row.artist,
-          normalizedArtist: normalize(row.artist),
-          festivalSlug: festival.slug,
-          festivalName: festival.name,
-          date: row.date,
-          time: row.time,
-          venue: row.venue,
-          rowId: `row-${row.date}-${idx}`,
-        });
+
+        let vi = venueIndex.get(row.venue);
+        if (vi === undefined) {
+          vi = venueList.length;
+          venueList.push(row.venue);
+          venueIndex.set(row.venue, vi);
+        }
+
+        entries.push([row.artist, fi, row.date, row.time, vi, idx]);
       });
     }
   }
 
-  return new Response(JSON.stringify(entries), {
+  const index: SearchIndex = { festivals: festivalList, venues: venueList, entries };
+  return new Response(JSON.stringify(index), {
     headers: { "Content-Type": "application/json" },
   });
 };

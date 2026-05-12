@@ -1,5 +1,11 @@
 import { html } from "./html";
 
+type SearchIndex = {
+  festivals: [slug: string, name: string][];
+  venues: string[];
+  entries: [artist: string, festivalIdx: number, date: string, time: string, venueIdx: number, rowIdx: number][];
+};
+
 type SearchEntry = {
   artist: string;
   normalizedArtist: string;
@@ -8,7 +14,7 @@ type SearchEntry = {
   date: string;
   time: string;
   venue: string;
-  rowId: string;
+  rowIdx: number;
 };
 
 function normalize(str: string): string {
@@ -33,7 +39,20 @@ const statusEl = document.getElementById("search-status") as HTMLParagraphElemen
 
 let debounceTimer: ReturnType<typeof setTimeout>;
 
-const indexPromise: Promise<SearchEntry[]> = fetch("/search-index.json").then((r) => r.json());
+const indexPromise: Promise<SearchEntry[]> = fetch("/search-index.json")
+  .then((r) => r.json())
+  .then(({ festivals, venues, entries }: SearchIndex) =>
+    entries.map(([artist, fi, date, time, vi, rowIdx]) => ({
+      artist,
+      normalizedArtist: normalize(artist),
+      festivalSlug: festivals[fi][0],
+      festivalName: festivals[fi][1],
+      date,
+      time,
+      venue: venues[vi],
+      rowIdx,
+    })),
+  );
 
 async function renderResults(query: string) {
   const q = normalize(query.trim());
@@ -62,7 +81,7 @@ async function renderResults(query: string) {
   results.innerHTML = html`${displayed.map(
     (e) => html`
       <li class="search-result-item">
-        <a href="/${e.festivalSlug}/#${e.rowId}" class="search-result-link">
+        <a href="/${e.festivalSlug}/#row-${e.date}-${e.rowIdx}" class="search-result-link">
           <span class="search-result-artist">${e.artist}</span>
           <span class="search-result-meta">
             <span class="search-result-festival">${e.festivalName}</span>
