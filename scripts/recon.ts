@@ -243,7 +243,13 @@ async function printReport(
 
 async function runRecon(rawUrl: string): Promise<void> {
   const parsedUrl = new URL(rawUrl);
-  const reconDir = path.join(import.meta.dirname, ".recon", parsedUrl.hostname);
+  const pathParts = parsedUrl.pathname.split("/").filter(Boolean);
+  const reconDir = path.join(
+    import.meta.dirname,
+    ".recon",
+    parsedUrl.hostname,
+    ...(pathParts.length > 0 ? pathParts : ["root"]),
+  );
   const scriptsDir = path.join(reconDir, "scripts");
   const networkDir = path.join(reconDir, "network");
   await fs.mkdir(scriptsDir, { recursive: true });

@@ -11,10 +11,10 @@ Investigate the data source for this URL and write an ingestion script, then reg
 ## 0. Run the recon script first
 
 ```
-npm run recon <programmation-url>
+npm run recon -- <url>
 ```
 
-This is mandatory before proceeding. The script launches a headless browser, navigates to the URL, and captures every response (HTML, JS, JSON) to `scripts/.recon/<hostname>/`:
+This is mandatory before proceeding. The script launches a headless browser, navigates to the URL, and captures every response (HTML, JS, JSON). Each URL gets its own isolated folder mirroring the URL path — `scripts/.recon/<hostname>/<path>/` — so it is safe to run multiple times on different pages without overwriting:
 
 - `page.html` — the raw page HTML
 - `scripts/` — same-origin JavaScript files loaded during page init
@@ -27,7 +27,9 @@ It then auto-detects the data source and prints:
 
 Requires `npx playwright install chromium` once (after `npm install`).
 
-**Use the saved files for the rest of the process** — read from `scripts/.recon/<hostname>/` instead of re-fetching the live site. The JSON responses in `network/` are especially useful: inspect them to understand the data shape before writing the ingestion script.
+**Use the saved files for the rest of the process** — read from `scripts/.recon/<hostname>/<path>/` instead of re-fetching the live site. The JSON responses in `network/` are especially useful: inspect them to understand the data shape before writing the ingestion script.
+
+If detail pages are needed (e.g. artist bios, individual show pages), run it again on a sample detail URL before writing the fetch loop — the results will be saved alongside without affecting the main page capture.
 
 ## 1. Reconnaissance — find the data source
 
@@ -45,7 +47,7 @@ curl -sL "{siteOrigin}/page-data{pagePath}/page-data.json"
 If it returns JSON with a `result.data` key, you have clean structured data. Typical shape:
 - `allPrismicAppearances` / `allContentful*` for schedule entries
 - `allPrismicArtists` / `allPrismicStages` for supporting data
-- Individual artist details at `{siteOrigin}/page-data/artistes/{slug}/page-data.json`
+- Individual artist details at `{siteOrigin}/page-data/artistes/{slug}/page-data.json` — run `npm run recon -- {siteOrigin}/page-data/artistes/{any-slug}/page-data.json` to capture a sample and inspect the JSON shape before writing the artist detail loop
 
 **B. Next.js embedded JSON**
 Fetch the page HTML and look for:
@@ -153,6 +155,19 @@ The schedule is server-rendered in the page HTML (typically 200–400 KB). Look 
 - Detail page URL in the card's `<a href>`
 
 Fall back to inference from context plus repetitive content and styling if nothing else works.
+
+Before writing the detail-page fetch loop, run recon on one sample detail page URL to get a local copy of the HTML:
+
+```
+npm run recon -- <one-detail-page-url>
+```
+
+This saves to `scripts/.recon/<hostname>/<detail-path>/page.html`. Inspect the selectors there, then write the fetch loop with a 200ms throttle between requests:
+
+```typescript
+await new Promise((r) => setTimeout(r, 200));
+const res = await fetch(detailUrl);
+```
 
 Fetch each detail page for description, full image, and social links.
 Use `node-html-parser` for parsing (already a devDependency).
