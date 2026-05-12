@@ -49,8 +49,9 @@ export const GET: APIRoute = () => {
       else grouped.set(row.date, [row]);
     }
 
+    let globalIdx = 0;
     for (const [, dayRows] of grouped.entries()) {
-      dayRows.forEach((rawRow, idx) => {
+      for (const rawRow of dayRows) {
         const override = overridesByLower[rawRow.artist.toLowerCase()];
         const resolvedVenue = venueOverrides[rawRow.venue] ?? rawRow.venue;
         const row = override ? { ...rawRow, venue: resolvedVenue, ...override } : { ...rawRow, venue: resolvedVenue };
@@ -62,8 +63,8 @@ export const GET: APIRoute = () => {
           venueIndex.set(row.venue, vi);
         }
 
-        entries.push([row.artist, fi, row.date, row.time, vi, idx]);
-      });
+        entries.push([row.artist, fi, row.date, row.time, vi, globalIdx++]);
+      }
     }
   }
 

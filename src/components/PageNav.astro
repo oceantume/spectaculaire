@@ -35,7 +35,7 @@ const { festival, allFestivals } = Astro.props;
     </svg>
   </button>
   <div class="nav-right">
-    <a href="/search/" class="search-btn" aria-label="Rechercher un artiste">
+    <a href="/search" class="search-btn" aria-label="Rechercher un artiste">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="20"
@@ -151,7 +151,7 @@ const { festival, allFestivals } = Astro.props;
       allFestivals.map((f) => (
         <li>
           <a
-            href={`/${f.slug}/`}
+            href={`/${f.slug}`}
             class="festival-item"
             aria-current={f.slug === festival.slug ? "page" : undefined}
           >

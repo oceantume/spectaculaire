@@ -81,7 +81,7 @@ async function renderResults(query: string) {
   results.innerHTML = html`${displayed.map(
     (e) => html`
       <li class="search-result-item">
-        <a href="/${e.festivalSlug}/#row-${e.date}-${e.rowIdx}" class="search-result-link">
+        <a href="/${e.festivalSlug}#show-${e.rowIdx}" class="search-result-link">
           <span class="search-result-artist">${e.artist}</span>
           <span class="search-result-meta">
             <span class="search-result-festival">${e.festivalName}</span>

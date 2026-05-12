@@ -24,6 +24,12 @@ const hasFreeFilter = features.includes("filter-free");
 const hasQuebecFilter = features.includes("filter-quebec");
 const hasAllPaid = features.includes("all-paid");
 const hasNoGenre = features.includes("no-genre");
+
+const rowGlobalIdx = new Map<Row, number>();
+let gi = 0;
+for (const rows of schedule.values()) {
+  for (const row of rows) rowGlobalIdx.set(row, gi++);
+}
 ---
 
 <div data-schedule-wrapper data-schedule-slug={slug}>
@@ -80,7 +86,7 @@ const hasNoGenre = features.includes("no-genre");
           </tr>
           {rows.map((row, idx) => (
               <tr
-                id={`row-${row.date}-${idx}`}
+                id={`show-${rowGlobalIdx.get(row)}`}
                 data-row
                 data-date={row.date}
                 data-paid={String(row.paid)}
@@ -296,11 +302,20 @@ const hasNoGenre = features.includes("no-genre");
   :root {
     --row-flash-bg: #fef9c3;
     --row-flash-ring: #fde047;
+    --row-target-bg: #fefce8;
+    --row-target-ring: rgba(253, 224, 71, 0.35);
   }
 
   .dark {
     --row-flash-bg: #422006;
     --row-flash-ring: #92400e;
+    --row-target-bg: #1c1003;
+    --row-target-ring: rgba(120, 53, 15, 0.5);
+  }
+
+  .sched-row:target {
+    background-color: var(--row-target-bg);
+    box-shadow: inset 0 0 0 1px var(--row-target-ring);
   }
 
   @media (prefers-reduced-motion: no-preference) {
@@ -310,8 +325,8 @@ const hasNoGenre = features.includes("no-genre");
         box-shadow: inset 0 0 0 2px var(--row-flash-ring), inset 0 0 12px var(--row-flash-ring);
       }
       100% {
-        background-color: transparent;
-        box-shadow: inset 0 0 0 2px transparent, inset 0 0 12px transparent;
+        background-color: var(--row-target-bg);
+        box-shadow: inset 0 0 0 1px var(--row-target-ring);
       }
     }
 
