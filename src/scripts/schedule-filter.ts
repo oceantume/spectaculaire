@@ -58,4 +58,19 @@ wrapper.querySelector("[data-sort-toggle]")?.addEventListener("click", () => {
   transition(() => applySortOrder());
 });
 
-requestAnimationFrame(() => transition(() => applySortOrder()));
+if (sortByStart) {
+  wrapper.setAttribute("data-sort-pending", "");
+  requestAnimationFrame(() => {
+    applySortOrder();
+    const { hash } = window.location;
+    if (hash) {
+      try {
+        const el = document.querySelector(hash);
+        if (el?.matches("[data-row]")) {
+          el.scrollIntoView({ block: "start", behavior: "instant" });
+        }
+      } catch (_) {}
+    }
+    wrapper.removeAttribute("data-sort-pending");
+  });
+}

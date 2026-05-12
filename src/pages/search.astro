@@ -1,0 +1,136 @@
+---
+import Base from "../layouts/Base.astro";
+---
+
+<Base title="Recherche d'artistes" description="Rechercher un artiste parmi tous les festivals">
+  <main class="search-main">
+    <header class="search-header">
+      <a href="/" class="search-back">← Festivals</a>
+      <h1 class="search-title">Recherche d'artistes</h1>
+    </header>
+    <div class="search-input-wrap">
+      <input
+        id="search-input"
+        type="search"
+        placeholder="Nom d'artiste…"
+        class="search-input"
+        autocomplete="off"
+        autofocus
+      />
+    </div>
+    <p id="search-status" class="search-status" aria-live="polite"></p>
+    <ul id="search-results" class="search-results"></ul>
+  </main>
+</Base>
+
+<script>
+  import "../scripts/artist-search";
+</script>
+
+<style is:global>
+  .search-main {
+    padding: 1rem;
+    max-width: 48rem;
+    margin: 0 auto;
+    min-height: 100vh;
+    background-color: var(--bg);
+  }
+
+  .search-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .search-back {
+    color: var(--text-dim);
+    text-decoration: none;
+    font-size: 0.875rem;
+    white-space: nowrap;
+  }
+
+  .search-back:hover {
+    color: var(--text);
+  }
+
+  .search-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--text);
+    margin: 0;
+  }
+
+  .search-input-wrap {
+    margin-bottom: 1rem;
+  }
+
+  .search-input {
+    width: 100%;
+    padding: 0.625rem 0.75rem;
+    font-size: 1rem;
+    font-family: inherit;
+    color: var(--text);
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 0.5rem;
+    outline: none;
+    box-sizing: border-box;
+  }
+
+  .search-input:focus {
+    border-color: var(--border-muted);
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--text) 10%, transparent);
+  }
+
+  .search-status {
+    font-size: 0.8125rem;
+    color: var(--text-dim);
+    margin: 0 0 0.75rem;
+    min-height: 1.25rem;
+  }
+
+  .search-results {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .search-result-item {
+    border-bottom: 1px solid var(--border);
+  }
+
+  .search-result-item:first-child {
+    border-top: 1px solid var(--border);
+  }
+
+  .search-result-link {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 0.75rem 0.25rem;
+    text-decoration: none;
+    color: var(--text);
+  }
+
+  .search-result-link:hover {
+    background-color: var(--bg-hover);
+  }
+
+  .search-result-artist {
+    font-weight: 600;
+  }
+
+  .search-result-meta {
+    font-size: 0.8125rem;
+    color: var(--text-dim);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.375rem;
+    align-items: center;
+  }
+
+  .search-result-sep {
+    color: var(--border-muted);
+  }
+</style>

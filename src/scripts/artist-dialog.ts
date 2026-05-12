@@ -1,4 +1,5 @@
 import type { ArtistDetailsByName } from "../types";
+import { html } from "./html";
 import { getYouTubeEmbed } from "./youtube";
 
 const dialogEl = document.querySelector<HTMLDialogElement>("#artist-dialog");
@@ -12,35 +13,6 @@ const dialogContent = dialogContentEl;
 const artistDetailsPromise: Promise<ArtistDetailsByName> = fetch(dialog.dataset.src ?? "").then((r) => r.json());
 
 let currentArtistName: string | null = null;
-
-class SafeHtml {
-  constructor(readonly value: string) {}
-  toString() {
-    return this.value;
-  }
-}
-
-function html(strings: TemplateStringsArray, ...values: unknown[]): SafeHtml {
-  let result = strings[0];
-  for (let i = 0; i < values.length; i++) {
-    const v = values[i];
-    if (v instanceof SafeHtml) {
-      result += v.value;
-    } else if (Array.isArray(v)) {
-      result += v.map((item) => (item instanceof SafeHtml ? item.value : escapeHtml(String(item ?? "")))).join("");
-    } else if (v == null || v === false) {
-      // renders nothing
-    } else {
-      result += escapeHtml(String(v));
-    }
-    result += strings[i + 1];
-  }
-  return new SafeHtml(result);
-}
-
-function escapeHtml(str: string): string {
-  return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
-}
 
 function renderDialogContent(
   name: string,
