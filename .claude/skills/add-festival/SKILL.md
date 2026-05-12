@@ -8,6 +8,27 @@ Festival programmation URL: $ARGUMENTS
 
 Investigate the data source for this URL and write an ingestion script, then register the festival. Follow these steps in order.
 
+## 0. Run the recon script first
+
+```
+npm run recon <programmation-url>
+```
+
+This is mandatory before proceeding. The script launches a headless browser, navigates to the URL, and captures every response (HTML, JS, JSON) to `scripts/.recon/<hostname>/`:
+
+- `page.html` — the raw page HTML
+- `scripts/` — same-origin JavaScript files loaded during page init
+- `network/` — all JSON responses > 512 bytes (XHR, fetch, static JSON)
+
+It then auto-detects the data source and prints:
+- Which pattern (A–F) to follow, with confidence level
+- Extracted config values (e.g. FestApp editionId)
+- API call patterns found in the captured JavaScript
+
+Requires `npx playwright install chromium` once (after `npm install`).
+
+**Use the saved files for the rest of the process** — read from `scripts/.recon/<hostname>/` instead of re-fetching the live site. The JSON responses in `network/` are especially useful: inspect them to understand the data shape before writing the ingestion script.
+
 ## 1. Reconnaissance — find the data source
 
 This is fully dependent on the website. Below are real examples to help guide the process.
@@ -215,3 +236,13 @@ Add `"no-genre"` to `features` if genre data is unavailable (hides the genre col
 7. If `filter-quebec` enabled: test "Québécois" filter
 8. If `filter-free` enabled: test "Gratuit" filter
 9. Set `draft: false` when satisfied
+
+## 7. Update this skill
+
+After the festival is successfully added, review what you learned:
+
+1. **New pattern?** If the data source didn't match any of A–F, document it here with the same structure (detection signal, fetch approach, response shape, field mapping) and add a reference to the new festival script as an example.
+2. **New edge case?** If you found a technique or quirk within an existing pattern that would have helped avoid a dead end, add a note under that section.
+3. **Recon gap?** If the recon script missed a signal that would have identified the source faster, note what HTML/JS marker to add and update `detectFramework` in `scripts/recon.ts`.
+
+This ensures each festival added makes future ones faster.
