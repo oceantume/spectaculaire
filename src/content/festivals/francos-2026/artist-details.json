@@ -1,0 +1,1398 @@
+{
+  "Orelsan": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6vEuPqnqMdX7OtXsUwlYup/289404f895732b18bb380c7da35138b4/ff26_orelsan.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=tkrdvrf0W-k"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+      }
+    ]
+  },
+  "Laurent Voulzy": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4unmjcWnCLAAGags2KUnKL/373146708b362a6f320524bb663108c4/ff26_laurent_voulzy.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=07x2bCvkaN8"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+      }
+    ]
+  },
+  "Ingrid St-Pierre": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2EZSYrkXsBwlLwgINrSYCX/8466c8dda0933baaf793a473c2caf599/ff26-ingrid_st_pierre.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=4hbjvpLXkGk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+      }
+    ]
+  },
+  "Emilie-Claire Barlow ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4kHaP5mAdxVoe7hUxCrWOo/dd817aa944c0246c3ab6c69563d2d901/ff26_emilie_claire_barlow.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=3x2OjIyC2cM"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+      }
+    ]
+  },
+  "Julien Clerc": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7e4XrYJ4wx6QGHedypLtqq/16ae1b9e7f3e59e7bd336ef05a78d753/ff26_julien_clerc.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=65oY8QePnfc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+      }
+    ]
+  },
+  "Pierre Lapointe": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4QZmIPeHA7ANfqboEoWQ8T/5a9c21c539f15c46aff2f542aef1ff27/ff26_pierre_lapointe.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=LVGHHqWCv9A"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+      }
+    ]
+  },
+  "Cœur de Pirate ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7HBUN2KNvpCQHD20rWASNv/a81c8b8a43dc3ce7cf3e619d5860e97a/ff26_coeur_de_pirate.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=rQtHk1X722s"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+      }
+    ]
+  },
+  "Kassav'": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1ZX8Mhh0JJ9ZU6Vv7s7b0O/3417ed55905c4cacf4618c79ed92300f/ff26_kassav__3_.jpg",
+    "description": "Grand Événement",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=I4On7vHE09o"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj"
+      }
+    ]
+  },
+  "Ariane Roy": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4GRnp93BNwj2BABr36Xrkq/703ee81e4c36c6ad46b170aaffa3eaa0/ff26_ariane_roy.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=nMYIkjB0WVw"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+      }
+    ]
+  },
+  "Pour la suite du Dôme de Jean Leloup": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/10PCXTXTynkGgOA88RB4Ws/2588f09851e378319598265e093dcd0b/ff26_dome_jean_leloup.jpg",
+    "description": "Présenté par\n  \n\n  L’album « Le Dôme » de Jean Leloup a 30 ans cette année. Cette œuvre emblématique de la musique québécoise est truffée de classiques qui ont marqué toute une génération. Pour l'occasion, ICI Musique a réuni sur une même scène Lou-Adriane Cassidy, Les Louanges, Thierry Larose, Safia Nolin, Klô Pelgag, Rau_Ze, We Are Wolves et Zach Zoya pour revisiter ces titres.\n\n  En direct aussi sur les ondes nationales d’ICI Musique.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=pxYUB9SpMcI"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+      }
+    ]
+  },
+  "Gab Bouchard": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/72lMkxmbOAXVR4mkMf774o/5cb45fdc89ffffb566febd2dad7b5be8/ff26_gab_bouchard_2.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Hj-_7E4HIbo"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+      }
+    ]
+  },
+  "KORIASS": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3JKNLpSSuGAQjcHQNrQnbW/db2c4f17c7d195a1890ac7c75bc6a063/ff26_koriass.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=dnBUb_CNBD8"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+      }
+    ]
+  },
+  "Loud": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6D8du3nbf6an3sPynuwzqS/7c7ada7a31a1b0dd9e3324022aa91d91/ff26_loud__2_.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=dN1IWYd-jrQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+      }
+    ]
+  },
+  "Klô Pelgag ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3k7lWHXip7oDSby3dWBf4o/ea544d60cf950fc2ebdc32f1cc7e1d42/ff24_klo_pelgag.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=MoQT30HheZw"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+      }
+    ]
+  },
+  "disiz": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/QaeRjbX77Xj7lgKODSHNi/06a43f5bf9b3095ce7654fed90e967b1/ff26_disiz.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=bbJhu00Ekuk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+      }
+    ]
+  },
+  "Dee End": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/0pP0XnFcqmCXMxCi4H92r/64a67df3f6746927f445d17632534e6e/ff26_dee_end.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=S4rFi6aJ7eM"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+      }
+    ]
+  },
+  "Émile Bilodeau": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1J2ckY417iYLUpKDX2vTUk/ea8be1e0747a17a39d1ca6e30b8ff77b/ff26_emile_bilodeau.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ATJQHwYob5E"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
+      }
+    ]
+  },
+  "Lou-Adriane Cassidy ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/kdlx82paxcmLIV1OpXBgN/307c7565325dc88fc68e803c5c2078c5/ff26_lou_adriane_cassidy.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Mx_4yO9OWeY"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+      }
+    ]
+  },
+  "Marie-Mai": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/43GG5ibRI0c1KFEJmbJltC/952a176d718ea56a2972e416c14eefc4/ff26_marie_mai.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=HHjAhktNupk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
+      }
+    ]
+  },
+  "Mahéja": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2nFudiKYGGTs1Ygc2jUO4m/48ab54ac869b03f79931f6231207b54d/ff26_maheja.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=wSV2sQQEP_o"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+      }
+    ]
+  },
+  "Bobby Bazini": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4w3rSC0cvYkOGSUFBUORnO/0c4878ea942dc6dc87b470acd06c7c8e/ff26_bobby_bazini.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=lbLcg7lLRkk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+      }
+    ]
+  },
+  "Zélie": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7vMdkxew4k6v2iJ6eXFtp/46f3b673b1b27e5a31d7b7e863e1c6ec/ff26_zelie.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=77FsRoi3yqU"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+      }
+    ]
+  },
+  "Groovy Aardvark": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/jTDHOo50bBEC5a7aUHOUG/fba8a1e265171e6232c055c00531b778/ff26_groovy_aardvark.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=XaWE_5YLCbc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2gX3WD1qKF9l1FsW4t1Zjf"
+      }
+    ]
+  },
+  "Kinji00": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5u2zSqMy6ZiTgN5jkSemql/a57f24c8a067a24076553248de089562/ff26_kinji00.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=7gzhNdzDt1o"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
+      }
+    ]
+  },
+  "Antoine Corriveau": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/22BEEfqbBE6TviTPk6TO1A/1d9152d73f9f4d77be04ea851614c401/ff26_antoine_corriveau.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=OUomKVxH0jQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
+      }
+    ]
+  },
+  "Danyl ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4NWmlC9m6EgAaqvnF4DBf2/0ea479be291e3f2e1e02392a04f32c13/ff26_danyl.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=YkAuLDs--w8"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+      }
+    ]
+  },
+  "Étienne Coppée": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/27cRmBvpGddwEXarKRpuyt/3f11953f503add6064a8b56d36f0fc61/ff26_etienne_coppee.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=1Kyqx8ANaaM"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+      }
+    ]
+  },
+  "Trinix": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/75gdWocHb0my1aPY210jQu/0e0b99ac7a4f62cb228365d0e56e7c6f/ff26_trinix.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=xDRAeO712os"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+      }
+    ]
+  },
+  "TJ DTS ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/52jTMpDJqcsytzIe4wCjzc/bcb0f599c94430551a2ce4d9858e52b9/ff26_tj_dts_2.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=CBypPZgiuvs"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+      }
+    ]
+  },
+  "Ino Casablanca": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3Pw1iAFqGWfiaZ9bGKiYmY/aaf27142fb946b2fe814462780781c97/ff26_ino_casablanca.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ruR2Nv1kfX4"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+      }
+    ]
+  },
+  "Catherine Leduc": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6ShEpKPWFLeI27B5FImmOJ/9b227bfd1fe95866284df5e1dc126742/ff26_catherine_leduc.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=zl22torh81o"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4LxF9fwHDq7kISldOF8aKn"
+      }
+    ]
+  },
+  "Bekar": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4miBBVyEmWnGkoMLsBbykb/52bd1e581a65a77c1c9320858e2b9820/ff26_bekar_2.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=AeVcf_8hYqA"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+      }
+    ]
+  },
+  "La Bottine Souriante": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4MGX4nwHD8IuPWpjuOtBzp/0b6711e1050b186fe12d2b925a6a2af0/ff26_bottine_souriante.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=8p0A6spdegc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ"
+      }
+    ]
+  },
+  "Lorie": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7zt5eukiYRFpObj74vjAQB/f1c926fc63b5a04d93d82e90c03d429c/francos26_lorie_2.jpg",
+    "description": "Première Partie\n\n17 juin: Enola\n\n18 juin: Naomi",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=D7sx1GixOuQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM"
+      }
+    ]
+  },
+  "Marie-Pierre Arthur": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/436mzWiNdzGlm2WLPZ1cx/56d9cd3c3c5ce71e7d0bb39789f13566/ff26_marie_pierre_arthur.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=0Eyua3o6suk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+      }
+    ]
+  },
+  "Maude Audet": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4zpdozlDdf2r6OyJ2RQUSR/8b2b5baeb41cdf513b9fb0aeb7c4e3d1/ff26_maude_audet.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=oa2bcQ_qdFs"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+      }
+    ]
+  },
+  "Parazar": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5PUEmJm7kvb3BMNxEtoRZ5/bbc79420243938942c0e0be26bdb0f2c/ff26_parazar.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=GH409PA66Mw"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
+      }
+    ]
+  },
+  "Choses Sauvages": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4jzaHB3LYhQ8BcQ9fCo9Xb/273b4f9d1d57cb3704941c1aac9692f1/ff26_choses_sauvages.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=SnTaYm1ua3U"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9"
+      }
+    ]
+  },
+  "FUUDGE - Lancement d'album": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3DBOOObWRc5LhjjHKPAo3P/066800e7ec8013b041f30fa6fa1b1ab6/ff26_fuudge.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=AovuV5SMiVk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi"
+      }
+    ]
+  },
+  "ISHA & Limsa d'Aulnay": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6sfILeqQ4ZmfbTFONQiOjr/c1382d4b9596d36c774c4e1a3e948c4f/ff26_isha_limsa_daulnay.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=CczInLDzGX0"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo"
+      }
+    ]
+  },
+  "Rymz": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2kMKqFXsNiRezSsc3DFz6B/90663498928e3039d42f47c791a8f00a/ff26_rymz.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=XTihZWEjBI4"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+      }
+    ]
+  },
+  "Héron": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5zDaUyoLjdfogEeURvOa4k/add4942255a2b115e8de90c05c1e32b0/heron_2026.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=XrAS43k7pNs"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F"
+      }
+    ]
+  },
+  "Marie Céleste": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3kYcI5dCnz7pYPf4PKt7dw/4905f9483ad883640665d8c437a5e038/ff26_marie_celeste.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=98mH5JAnJhc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+      }
+    ]
+  },
+  "Georgio": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2ofigGVctpryECKof2Ph0a/9dacf7c462fa793bab0b0b63abbf3728/ff26_georgio.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=cJiomKthiQo"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
+      }
+    ]
+  },
+  "Québec Redneck Bluegrass Project ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/35WBajfPYm8i8FVE7BbLTw/cbfb9c15b7398d7f9854c97d3760c276/ff26_qc_redneck.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=_QijUvLhvQA"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz"
+      }
+    ]
+  },
+  "Dead Obies": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/bklfsyTh1bAH1FAUuffRH/23e764a74be8197303dad5390a1cbe69/ff26_dead_obies.jpg",
+    "description": "Présenté par",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=E9tdt-Re3Fc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
+      }
+    ]
+  },
+  "Paul Piché  ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1PjO1eDGe3rNiDpwAVKBeM/1d616d6302385345a99e148f17d820ce/ff26_paul_piche.jpg",
+    "description": "Un rendez-vous et une proximité unique avec l’auteur-compositeur-interprète, faisant cavalier seul sur scène, pour revisiter ses grands succès. Un spectacle festif et rassembleur pour toutes les générations ! Il célébrera, pour le plus grand plaisir du public, son œuvre vaste, ponctuée de titres immortels tels que Heureux d’un printemps, Y’a pas grand-chose dans l’ciel à soir, L’escalier, Un château de sable, J’appelle… Des œuvres qui n’ont pas pris une ride, une parole qui s’inscrit toujours dans l’actualité et qui ne cesse de trouver résonance.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=BSoQQBWOvfk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0XqIu5uDtNZLHPf1eC97ls"
+      }
+    ]
+  },
+  "Mandyspie": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/M6z9oMzlpQAJKgxpry2To/87197ed337aab7896a78f22510f1169b/ff26_mandyspie.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ZRf-ifwTes8"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1EKlBG4TgOac9aboMbphiM"
+      }
+    ]
+  },
+  "Aupinard": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/FF9rOK0jvgt9ZkPDjW31p/f42727fecdd804b48b02821f2f773c86/ff26_aupinard.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=CVzj0MkDHMQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+      }
+    ]
+  },
+  "Ariane Moffatt": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2Of3gMfdyIZihrt9VEtQtl/113589f3aca996ae310f5871861f8081/ff26_ariane_moffatt.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=6Oj_G4-Afgc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+      }
+    ]
+  },
+  "Lost": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5jKx5LiJwWsOg3brswwzSi/01d975bd3333e4e3d5dfd567f3983515/ff26_lost.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=7A23Lwlsz-M"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+      }
+    ]
+  },
+  "Malaimé Soleil": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/38IhICGrK5zRZirt0pcj91/0eaf53c70b9198a80a534f99545c91d9/ff26_malaime_soleil.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=JSMxdXDa0sU"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
+      }
+    ]
+  },
+  "LAF X OGB": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/0NrKyEJczKwLNvBTSecmn/56d6b56d9af15f63ce3c14ebdb01eedd/ff26_ogb_laf.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ZQRuWAbR-GY"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+      }
+    ]
+  },
+  "Alexe": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3QP90XE1H9t2rAerTQRWMF/55ee81b62492b3eafcb396a2fb5ee6ab/ff26_alexe.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=I1bCLFAfetc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/25OceRescHJwftJk284v8K"
+      }
+    ]
+  },
+  "Adib Alkhalidey": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6Xkt3hMVGLXUxP7ySJbqHs/b1c6942d9f4424ef4afe10eaed78d09e/ff26_adib_alkhalidey.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=898PykJoJgU"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L"
+      }
+    ]
+  },
+  "Eman ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/x0VdJEG2ohjk2QeZA9rip/4edbcc7f88d2302fdb9c4f71de793d55/ff26_eman.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=R3beeZmP-Bc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9"
+      }
+    ]
+  },
+  "Virginie B": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5VrQi1kZkJxtPRnb8gpVRy/d38a49010001fed55049feeed68846b4/ff26_virginie_b.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=-cEVCIzAYrk"
+      },
+      {
+        "label": "Site officiel",
+        "url": "5lKndZJCSUoXztCsyrhUut"
+      }
+    ]
+  },
+  "Grand Eugène": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/41MXG5pIJdTEnbDaSiZqi4/891670adb0959ecfc2c263a813c83236/ff26_grand_eugene.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=R6QGwOxggwA"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+      }
+    ]
+  },
+  "Les Breastfeeders": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/ArfZurLyUym96qDhDx3fc/9b139a674bff62e810273fba41f0efdc/ff26_breastfeeders.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=uTNlW5dZL4M"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
+      }
+    ]
+  },
+  "Piche": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5VUTYpkMb9EVENEXtFPRqm/a65d2e34929e4e1c71e59692620e5eed/ff26_piche.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=MvbdU7Jk278"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn"
+      }
+    ]
+  },
+  "Statzz": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/RHlQkkOaDe6ZJo8cBdi3C/fae5057506ce83f152a6bc087d8a5ad0/ff26_statzz.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=FQ0g8F-Bvwo"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+      }
+    ]
+  },
+  "Béton Armé": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/76W98PEuYOcZX7vYakGqeq/163992530a8250a4799f24b1357cc691/ff26_beton_arme.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=nIdSPq5G1QU"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7B9AYoMBJAGlHtB97cPt9z"
+      }
+    ]
+  },
+  "Wamen": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/59rLp7eUUMuhaKufXLdezL/6979c85bf0540339948ff3292fec42d4/ff26_wamen.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=yp_gkyE8xxE"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
+      }
+    ]
+  },
+  "Nawfal": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1xHFE5Dl4JLmuVNIJmkSYR/70c4703299436885a188afb27a0c7d9e/ff26_nawfal.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=xtW4XD7FPT8"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr"
+      }
+    ]
+  },
+  "Thomas Fersen": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4YjTTPm4HVMjRZa11uZI7o/9a69ee64b482aada04618176b99fe66a/ff26_thomas_fersen.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=TFiPDckhgbQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM"
+      }
+    ]
+  },
+  "Kamilou": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6i9ez2Cx2oKy2wVWHnJoDA/a9db252335a7e3ddcf5d247dc55a1394/ff26_kamilou.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ZiUv9-CCHJs"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2AGWEzhXzD8JhIYQdYRtr5"
+      }
+    ]
+  },
+  "Olkan & La Vipère Rouge": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7lzqFvrrMpV6CKQm2YkHly/5b2cd13161cfafdd29b8c792ee2db692/ff26_olkan_vipere_rouge.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=FRs1wfmOz-E"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7HhOFqVLUdzGOuLgazZhAC"
+      }
+    ]
+  },
+  "Vitrine Rendez-vous Pros des Francos ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3Jg6R8TdGlAnhzbpc8rkjI/97a2e3442e36dc22ec63213b2df6e9fd/ff26_generique.jpg",
+    "links": []
+  },
+  "Luiza": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2kgnAQpUO34MxpU6xNH6BY/44579f88fea5576d610aedb0c45ce2fb/ff26_luiza_2.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=nd8RD3tjNQE"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+      }
+    ]
+  },
+  "La Traversée": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3Kh0ZeVfBdTB5nVik3U6Ei/58f3f47ba5cfd8ca6b844f50d956126d/ff26_traversee.jpg",
+    "links": []
+  },
+  "Juste Shani": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2kITQRsBleoXEy8xegMNJD/9d00e5304e1e623d1aeb1a3ab4c97474/ff26_juste_shani.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=XGVyFM6qp8g"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR"
+      }
+    ]
+  },
+  "Violett Pi": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6EyhOJs0fzUELYV23VGRpu/d43b90f45a49d8b5b973f8715280a307/ff26_violettpi.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=5KQTq7fZAv0"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+      }
+    ]
+  },
+  "NA$-T": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/70tPPCoEekeXHG9di3Jp2Y/eab63f53f4847208dae4a24153710d38/ff26_nas_t.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=tahch_007_w"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3eIngzdlD3RwDe6ngF0BN4"
+      }
+    ]
+  },
+  "Soleil Launière": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6CC0df2xO11HwDApbMjAvg/1f625862b832960ab05f30d732e7d604/ff26_soleil_launiere.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=8I0iV3nQ39Y"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1IsyWHwpRxJdFMaJSr8pS1"
+      }
+    ]
+  },
+  "Franz Keloh ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5m5yxudILDtH9gBLZ2EmqL/78af8b297f7344d384235b83a5746384/ff26_franz_keloh.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=pLv7kqCcDG8"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO"
+      }
+    ]
+  },
+  "Baie": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4ZQcLNFvv6HCqKOiKoTMZl/cfd6d76a4a879bf45f78ff2d5044ea94/ff26_baie.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=rRXOeZWJxFY"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1abqJO9ACBpOLxU9jugbcW"
+      }
+    ]
+  },
+  "Mentana": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2DxV3FY7rG4kjTrmQCEXLa/9519acd23090f9c0b54c411d27e907a9/ff26_mentana.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=jAC9L95QXOc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u"
+      }
+    ]
+  },
+  "Guessmi": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4pt5Svb2OdqaI6IXEh87aL/51ab3b68c2c5dcee6f31c6657151a8a3/ff26_guessmi.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=2X6RduXDy2o"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
+      }
+    ]
+  },
+  "Bamby": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6P0VDllxKheoDMBUXoIKEl/15ce05ff8c63af992f9022b2d37407a6/ff26_bamby.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=NFYXVcRLaDQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+      }
+    ]
+  },
+  "Lostboy Carlos": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/14IdNsUzVus9Zpr8aTL2zE/8f8335516c1fa5968cc948de7f521b1d/ff26_lostboy_carlos__2_.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=WXFkcwS3iEY"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb"
+      }
+    ]
+  },
+  "Marilyne Léonard": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1Zehz6OKSyAzAw0zuX0ZDA/85bd784b69c936f52250ea9ccc7221f0/ff26_marilyne_leonard_2.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=jC-zXaPJ1ts"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+      }
+    ]
+  },
+  "Allô Fantôme": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3UZqzs9Z1BigdltpJ5jA9p/d4a03d813846befb7910f3850bf0b808/ff26_allo_fantome.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=24SJP_XpCk8"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+      }
+    ]
+  },
+  "Blynk": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4Ru75H7NN3aBPAc30A0eLA/88a70e5978c1c20af8159740d9a66666/ff26_blynk.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=_8MsjynHdOo"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+      }
+    ]
+  },
+  "LinLin": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/76jgmFlraCEJCfqDiqLC5J/edcd1b39aeee8abd5d0489d83c078445/ff26_linlin.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=og9D6Dpjg2w"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n"
+      }
+    ]
+  },
+  "Rowjay": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4R151IiSOg5RCKGqKDI6HP/d83ddac87bc1eb4e406e55913f1a33e1/ff26_rowjay.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=CMd8cXceIhQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+      }
+    ]
+  },
+  "Vanille": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4EwcK3ltuLV67OrnRpc77J/6018bbe9554328645946ca057b15bf3a/ff26_vanille.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ooUvK7Dy4eA"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+      }
+    ]
+  },
+  "Requin Chagrin": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/IvOsvtExNAxt186QYWlBe/64065151fa9f460bb8939f30f95b71c2/ff26_generique.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=SQS7bppEe8g"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g"
+      }
+    ]
+  },
+  "Yvnnis": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5Qg3zLo5LlMFiJNfhbLFrV/2d11f0461f05c72877a93096c2984ce9/ff26_yvnnis.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=LPKOtyKepcg"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb"
+      }
+    ]
+  },
+  "Bibi Club": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3BoAptIbDT6C6w2CQddeDm/2ea66c48c7d15b6816770eb0f2dcb977/BibiClub__1_.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=zWeC9su5HZ8"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+      }
+    ]
+  },
+  "Aleksi Campagne": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/47jXd4TVuOTPIAq0hSQr4p/11cda651b30c8a8ecbe1565cabafa21b/ff26_generique.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=KZrzYX0GXgA"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0FoOTBiKaDLqcwaMzpi3i3"
+      }
+    ]
+  },
+  "Robert Robert": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2rPDWuFsyOEP4cUslTLblN/6979b5089a496ae25ea989b23e810094/ff26_robert_robert.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Ans3C26yCzM"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+      }
+    ]
+  },
+  "KidCrayola": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6tRWZoy0LK9NZIU10loNx8/80d2798e5d60090da4d0ea7c9a92e383/ff26_kid_crayola.jpg",
+    "links": []
+  },
+  "Finissant.es de l’École nationale de la chanson": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/h00mUIjiqMHTLYN0tNm1C/f6db7610fdaea5e1ce9cd666a1db9792/ff26_finissants_enc.jpg",
+    "links": []
+  },
+  "Marco Ema": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1bb0CpVno9XHKdI2NtEQSK/961a7491eb575b13ee7013ed38901fe7/ff26_marco_ema.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=09ZUMOqgIgs"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+      }
+    ]
+  },
+  "Jupiter & Okwess": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/34i4FWn7Bfc5RRlb4p8Hzp/f240ea26170bcef80ff1f6807ce6baff/ff26_jupiter_okwess.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=-RnRAtMwOEY"
+      },
+      {
+        "label": "Site officiel",
+        "url": "2tujJgEWPfR8gdqVw183dT"
+      }
+    ]
+  },
+  "Malaka": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6bsFXvme4B5KYNfeEIBWmN/d751d6ed5f378c89a885b89fef931fb0/ff26_malaka.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=nTehvuvRnnc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4PlX6Cqeaju4O4zj1hH4yA"
+      }
+    ]
+  },
+  "St Graal": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/bO5H1a3Lj5K3WQ3jJJXXh/e95a1a205755692d45d151a21d066339/ff26_st_graal.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=-6tlzh3GnXs"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I"
+      }
+    ]
+  },
+  "Irdens Exantus": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5GlpejAU8U9Grl05tjnMaB/a6cd8687a3cbba67b642102e825d45ca/ff26_irdens_exantus.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=uZvdqU2jF_c"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4VjwwRk7cNv72B1okswQkz"
+      }
+    ]
+  },
+  "Myra": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/23dJ5PHawXOi6P2VZDdlVY/4d72a931f363aebf67f035952d3b42b5/ff26_myra.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=vwMXg7h37YQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE"
+      }
+    ]
+  },
+  "Adam El Mouna & Erika Hagen": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3ZWUy1iq9KwqGNgPPMLwK5/5796e17261f9d78d270dc6fb78814711/ff26_mouna_hagen.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=eYXq1AXpdjk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5syK2o9gP1nzpmZeftjlVc"
+      }
+    ]
+  },
+  "P.L.L": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3XS16Hb9KhxmWfg5bJ21bo/2cf5975fde4f7ea213b3b7263a50dedc/ff26_pll.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=c4ci1gCE4BQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
+      }
+    ]
+  },
+  "Thomé Young": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1dkWcfLgJRRJWkVstftflY/a73dd8e9d52e7ce54023c141cc93ae3e/ff26_thome_young.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=AuYGGl7lHYA"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk"
+      }
+    ]
+  },
+  "Kat Pereira": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3PvDunzbcwhSnNDj5fPh3s/ab87084c13a1f5c8a1353a5107077947/ff26_kat_pereira.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=8H48Eg8wywk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2zRBWsk11oPp7TrEgdwKC8"
+      }
+    ]
+  },
+  "Beat Sexü ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5hijHqzMuIyFghJBkVZpAf/ae70631ca8c6526a9bb0b1136cf017d8/ff26_beat_sexu.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=_FQUzEFnZ_4"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3cWR22THTKKRQnhA5o1Bjr"
+      }
+    ]
+  },
+  "Soraï": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/ihDJtWYbjmtTbNMqLz5KB/69a0b5e128cab2345b7fe97110444919/ff26_sorai.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=V0RpHN4WmCA"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL"
+      }
+    ]
+  },
+  "Alphonse Bisaillon": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1kTytZm0Z62If7Aj3TTVZG/1c3ca8964953cfd8b890416ce5f89290/ff26_alphonse_bisaillon.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=pc3ckXtGiz0"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt"
+      }
+    ]
+  },
+  "Jérôme 50": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3Ch7Cq5y4jWf9vj3N85c8u/346ad65efb3b81f5f43dac690f69b632/ff26_jerome_50.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=xamdgnaGpKU"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+      }
+    ]
+  },
+  "Grünt": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/51M1ZabV2UtX46puvyQlDT/6184f8a2c120f6ddd5418e89f701cebc/ff26_generique.jpg",
+    "links": []
+  },
+  "Bingo musical ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6yEblrmCTXQEIiLmT3GKKs/a1b582ee5e05e2aaf726350961b38dcf/0F_LundiFranco_VisuelSiteFranco.png",
+    "description": "Gratuit. Places limitées.\n\nPlongez dans La Trame sonore\ndu Québec lors d’un bingo musical festif et rassembleur dans le hall de la\nGrande Bibliothèque. Animé avec complicité par Eugénie Lépine‑Blondeau et Félix\nB. Desfossés, l’événement sera l’occasion de tester votre mémoire musicale.\n\nAu programme : extraits musicaux\ncultes, bingo, prix à gagner, entrevues et invités surprises. Une fête conviviale pour célébrer notre patrimoine sonore.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=MGTpE9B7Yww"
+      }
+    ]
+  },
+  "Léonie Pernet & Romane Santarelli": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2LQE8Pl6O0XdXdoq44DWZB/17ad9817e0ccbc68838bf4a7cb4c8c12/ff26_pernet_santarelli.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=yXGtwzZZmOE"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC"
+      }
+    ]
+  },
+  "Roland Cristal": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2CeasKrJZCNxFgs6r9l1XY/5c13dbe0b3bdc685d515cb95dfba93ed/ff26_roland_cristal.jpg",
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3JOPSnZYkyyM9pS1Dpswbf"
+      }
+    ]
+  }
+}

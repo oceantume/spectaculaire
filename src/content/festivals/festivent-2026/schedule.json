@@ -75,6 +75,14 @@
     "date": "2026-07-31",
     "venue": "Scène Loto-Québec",
     "paid": true,
+    "time": "18:30",
+    "artist": "Taxi Girls",
+    "genre": "Punk-rock"
+  },
+  {
+    "date": "2026-07-31",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
     "time": "21:30",
     "artist": "Papa Roach",
     "genre": "Rock-metal"

@@ -118,6 +118,29 @@ async function detectFramework(
     };
   }
 
+  // Evenko/Algolia — look for /api/algolia/search in captured network responses
+  for (const f of capturedJson) {
+    if (f.url.includes("/api/algolia/search")) {
+      let indexName: string | undefined;
+      try {
+        const urlObj = new URL(f.url.startsWith("http") ? f.url : `https://x${f.url}`);
+        const encoded = urlObj.searchParams.get("query");
+        if (encoded) {
+          const decoded = JSON.parse(Buffer.from(encoded, "base64").toString("utf8")) as Record<string, unknown>;
+          indexName = decoded["indexName"] as string | undefined;
+        }
+      } catch {
+        /* ignore parse errors */
+      }
+      return {
+        name: "Evenko/Algolia",
+        confidence: "HIGH",
+        skillSection: "pattern G",
+        extras: indexName ? { indexName } : undefined,
+      };
+    }
+  }
+
   // Gatsby — look for a page-data.json captured during navigation
   for (const f of capturedJson) {
     if (f.url.includes("/page-data/")) {

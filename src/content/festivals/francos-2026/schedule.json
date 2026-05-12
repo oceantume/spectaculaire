@@ -1,0 +1,832 @@
+[
+  {
+    "date": "2026-06-11",
+    "time": "20:00",
+    "venue": "Centre Bell",
+    "paid": true,
+    "artist": "Orelsan",
+    "genre": "Rap"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "19:00",
+    "venue": "Cinquième Salle — Place des Arts",
+    "paid": true,
+    "artist": "Émile Bilodeau",
+    "genre": "Chanson"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "20:00",
+    "venue": "MTELUS",
+    "paid": true,
+    "artist": "Lou-Adriane Cassidy ",
+    "genre": "Alternatif"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "19:30",
+    "venue": "Théâtre Maisonneuve — Place des Arts",
+    "paid": true,
+    "artist": "Laurent Voulzy",
+    "genre": "Chanson"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "23:59",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "KidCrayola"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "17:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Aleksi Campagne"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "22:30",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Robert Robert"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "20:00",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "Eman "
+  },
+  {
+    "date": "2026-06-12",
+    "time": "18:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Alexe"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "20:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Marie-Mai"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "19:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Dee End"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "21:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Kassav'"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "19:00",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "Adib Alkhalidey"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "21:30",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "Virginie B"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "19:00",
+    "venue": "Cinquième Salle — Place des Arts",
+    "paid": true,
+    "artist": "Bobby Bazini",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "18:00",
+    "venue": "Club Soda",
+    "paid": true,
+    "artist": "Mahéja",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "20:00",
+    "venue": "Le Studio TD",
+    "paid": true,
+    "artist": "Statzz",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "20:00",
+    "venue": "Théâtre Maisonneuve — Place des Arts",
+    "paid": true,
+    "artist": "Ingrid St-Pierre",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "16:45",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Finissant.es de l’École nationale de la chanson"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "19:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Marco Ema"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "22:30",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Jupiter & Okwess"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "20:00",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "Piche"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "22:30",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "Kinji00"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "18:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Grand Eugène"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "20:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Groovy Aardvark"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "19:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Zélie"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "21:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Ariane Roy"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "19:00",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "Les Breastfeeders"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "21:30",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "Béton Armé"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "20:00",
+    "venue": "Club Soda",
+    "paid": true,
+    "artist": "Trinix",
+    "genre": "Électronique"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "19:00",
+    "venue": "Le Studio TD",
+    "paid": true,
+    "artist": "Thomas Fersen",
+    "genre": "Chanson"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "20:00",
+    "venue": "Théâtre Jean-Duceppe",
+    "paid": true,
+    "artist": "Étienne Coppée",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "19:00",
+    "venue": "Théâtre Maisonneuve — Place des Arts",
+    "paid": true,
+    "artist": "Emilie-Claire Barlow ",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "17:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Malaka"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "19:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "St Graal"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "20:00",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "Kamilou"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "22:30",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "TJ DTS "
+  },
+  {
+    "date": "2026-06-14",
+    "time": "18:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Wamen"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "20:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Danyl "
+  },
+  {
+    "date": "2026-06-14",
+    "time": "19:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Antoine Corriveau"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "21:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Pour la suite du Dôme de Jean Leloup"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "19:00",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "Nawfal"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "21:30",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "Olkan & La Vipère Rouge"
+  },
+  {
+    "date": "2026-06-15",
+    "time": "20:00",
+    "venue": "Théâtre Jean-Duceppe",
+    "paid": true,
+    "artist": "Étienne Coppée",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-06-15",
+    "time": "17:00",
+    "venue": "Grande Bibliothèque",
+    "paid": false,
+    "artist": "Bingo musical "
+  },
+  {
+    "date": "2026-06-16",
+    "time": "20:00",
+    "venue": "Club Soda",
+    "paid": true,
+    "artist": "Ino Casablanca",
+    "genre": "Rap"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "20:00",
+    "venue": "Club Soda",
+    "paid": true,
+    "artist": "Bekar",
+    "genre": "Rap"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "20:00",
+    "venue": "Les Foufounes Electriques",
+    "paid": true,
+    "artist": "Marie-Pierre Arthur",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "20:00",
+    "venue": "MTELUS",
+    "paid": true,
+    "artist": "Lorie",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "14:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Vitrine Rendez-vous Pros des Francos "
+  },
+  {
+    "date": "2026-06-17",
+    "time": "17:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Irdens Exantus"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "19:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Myra"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "20:00",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "Juste Shani"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "18:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Luiza"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "20:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "La Bottine Souriante"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "19:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Catherine Leduc"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "21:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Gab Bouchard"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "19:00",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "La Traversée"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "21:30",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "Violett Pi"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "19:00",
+    "venue": "Cinquième Salle — Place des Arts",
+    "paid": true,
+    "artist": "Maude Audet",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "20:00",
+    "venue": "Club Soda",
+    "paid": true,
+    "artist": "ISHA & Limsa d'Aulnay",
+    "genre": "Rap"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "19:00",
+    "venue": "Le Studio TD",
+    "paid": true,
+    "artist": "Mentana",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "20:00",
+    "venue": "Les Foufounes Electriques",
+    "paid": true,
+    "artist": "FUUDGE - Lancement d'album",
+    "genre": "Rock"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "20:00",
+    "venue": "Maison symphonique de Montréal",
+    "paid": true,
+    "artist": "Pierre Lapointe"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "20:00",
+    "venue": "MTELUS",
+    "paid": true,
+    "artist": "Lorie",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "20:00",
+    "venue": "Salle Wilfrid-Pelletier — Place des Arts",
+    "paid": true,
+    "artist": "Julien Clerc",
+    "genre": "Chanson"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "17:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Adam El Mouna & Erika Hagen"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "22:30",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "P.L.L"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "18:00",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "NA$-T"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "18:35",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "Franz Keloh "
+  },
+  {
+    "date": "2026-06-18",
+    "time": "20:00",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "Guessmi"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "21:30",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "Lostboy Carlos"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "23:00",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "Rymz"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "18:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Soleil Launière"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "20:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Choses Sauvages"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "19:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Parazar"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "20:30",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "KORIASS"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "22:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Loud"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "19:00",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "Baie"
+  },
+  {
+    "date": "2026-06-18",
+    "time": "21:30",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "Bamby"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "19:00",
+    "venue": "Cinquième Salle — Place des Arts",
+    "paid": true,
+    "artist": "Héron",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "19:30",
+    "venue": "Club Soda",
+    "paid": true,
+    "artist": "Georgio",
+    "genre": "Rap"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "20:00",
+    "venue": "Le Studio TD",
+    "paid": true,
+    "artist": "Blynk",
+    "genre": "R&B/Soul"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "20:00",
+    "venue": "Maison symphonique de Montréal",
+    "paid": true,
+    "artist": "Pierre Lapointe"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "19:30",
+    "venue": "MTELUS",
+    "paid": true,
+    "artist": "Québec Redneck Bluegrass Project ",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "22:00",
+    "venue": "Newspeak",
+    "paid": true,
+    "artist": "Roland Cristal",
+    "genre": "Électronique"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "20:00",
+    "venue": "Salle Wilfrid-Pelletier — Place des Arts",
+    "paid": true,
+    "artist": "Cœur de Pirate "
+  },
+  {
+    "date": "2026-06-19",
+    "time": "22:00",
+    "venue": "SAT",
+    "paid": true,
+    "artist": "Léonie Pernet & Romane Santarelli",
+    "genre": "Électronique"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "20:00",
+    "venue": "Théâtre Jean-Duceppe",
+    "paid": true,
+    "artist": "Paul Piché  ",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "17:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Thomé Young"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "19:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Kat Pereira"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "22:30",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Beat Sexü "
+  },
+  {
+    "date": "2026-06-19",
+    "time": "20:00",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "LinLin"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "22:30",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "Mandyspie"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "18:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Marilyne Léonard"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "20:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Dead Obies"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "19:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Marie Céleste"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "21:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Klô Pelgag "
+  },
+  {
+    "date": "2026-06-19",
+    "time": "19:00",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "Allô Fantôme"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "21:30",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "Rowjay"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "20:00",
+    "venue": "Club Soda",
+    "paid": true,
+    "artist": "Malaimé Soleil",
+    "genre": "Alternatif"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "20:00",
+    "venue": "MTELUS",
+    "paid": true,
+    "artist": "Lost",
+    "genre": "Rap"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "23:59",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Grünt"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "17:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Soraï"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "19:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Alphonse Bisaillon"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "22:30",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Jérôme 50"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "20:00",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "Yvnnis"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "22:30",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "LAF X OGB"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "18:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Vanille"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "20:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Ariane Moffatt"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "19:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Aupinard"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "21:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "disiz"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "19:00",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "Requin Chagrin"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "21:30",
+    "venue": "Scène Spotify",
+    "paid": false,
+    "artist": "Bibi Club"
+  }
+]

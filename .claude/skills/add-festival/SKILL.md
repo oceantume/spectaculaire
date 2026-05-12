@@ -95,6 +95,53 @@ Returns: `image.url`, `links[]` (bare URLs — apply `inferLinkLabel()`), `local
 
 **Reference implementation:** `scripts/festivals/chanson-tadoussac-2026.ts`
 
+**G. Evenko/Algolia search API**
+The site proxies Algolia through its own backend. Detection signal: recon captures a response to `/api/algolia/search?query=<base64>` where the decoded JSON contains an `indexName` like `master_festival_Franco_fr-CA`.
+
+**Detect:** Look for `/api/algolia/search` in the network captures. The site is typically Next.js App Router (turbopack JS filenames, no `__NEXT_DATA__`). Artist detail pages return 404 when fetched without JS — do not attempt to scrape them.
+
+**Decode the captured query** to understand the exact `indexName` and filter structure:
+```ts
+Buffer.from(encodedQueryParam, "base64").toString("utf8")
+```
+
+**Replicate the request** in the ingestion script — base64-encode the full query JSON and pass it as `?query=`:
+```ts
+const query = {
+  filters: { type: ["evenko_show", "show"], announced: true, /* all other filters empty */ },
+  options: { hitsPerPage: 1000, page: 0 },
+  indexName: "master_festival_Franco_fr-CA",
+};
+const encoded = Buffer.from(JSON.stringify(query)).toString("base64");
+const url = `https://{site}/api/algolia/search?query=${encoded}`;
+```
+
+**Filter to shows only:** `h.entity_type === "show" || h.entity_type === "evenko_show"` (the response may include genres, locations, series).
+
+**Response shape per hit:**
+- `event_name` — artist name (use as-is, including collaborations like "ISHA & Limsa d'Aulnay")
+- `show_time` — Unix timestamp **in UTC** → convert with `toEDT()` after `new Date(ts * 1000).toISOString()`
+- `free` — boolean, reliable
+- `venues.name` — venue name
+- `genre[0].name` — first genre (available and accurate)
+- `thumbnail` — protocol-relative URL (`//images.ctfassets.net/...`) → prepend `https:`
+- `headliners[0].youtube` — YouTube embed URL (`https://www.youtube.com/embed/{id}`) → convert to watch URL by extracting the video ID after `/embed/`
+- `headliners[0].spotify` — full Spotify artist URL
+
+**YouTube embed → watch URL:**
+```ts
+function youtubeEmbedToWatch(embedUrl: string): string {
+  const videoId = embedUrl.split("/embed/")[1]?.split("?")[0];
+  return videoId ? `https://www.youtube.com/watch?v=${videoId}` : embedUrl;
+}
+```
+
+**Artist bios:** Not available from the Algolia API. The site's artist detail pages require JavaScript (Next.js App Router SSR), so they cannot be fetched with a plain HTTP client. Skip descriptions.
+
+**Country:** Not in the Algolia data. Omit `filter-quebec` unless you add a `field-overrides.json` with manual country entries.
+
+**Reference implementation:** `scripts/festivals/francos-2026.ts`
+
 **F. HTML parsing (last resort)**
 The schedule is server-rendered in the page HTML (typically 200–400 KB). Look for:
 - A repeating card/block element (e.g. `c-card`, `data-grid="item"`, `data-filters-item`)

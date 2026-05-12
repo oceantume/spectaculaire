@@ -1,7 +1,7 @@
 {
   "$schema": "https://biomejs.dev/schemas/2.4.6/schema.json",
   "files": {
-    "includes": ["src/**", "scripts/**", "astro.config.mjs", "biome.json", "tsconfig.json"]
+    "includes": ["src/**", "scripts/**", "astro.config.mjs", "biome.json", "tsconfig.json", "!**/*.recon"]
   },
   "formatter": {
     "lineWidth": 120,
