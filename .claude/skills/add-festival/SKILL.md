@@ -181,6 +181,25 @@ const res = await fetch(detailUrl);
 Fetch each detail page for description, full image, and social links.
 Use `node-html-parser` for parsing (already a devDependency).
 
+**G. Image-only schedule (Wix or other CMS, no structured data)**
+Detection signal: the programmation page HTML contains only `<img>` tags pointing to schedule PNG files (e.g. `HoraireJeudi.png`, `HoraireVendredi.png`) with no repeating artist elements or API calls in the network captures.
+
+This happens when a festival publishes its schedule as graphic design files rather than structured content. The Wix platform is a common host for this pattern.
+
+**Read the images directly** — Claude is multimodal and can extract text from schedule images. Download each PNG and use the `Read` tool:
+```
+curl -sL "<wixstatic-media-url>" -o /tmp/horaire_jeudi.png
+# then Read /tmp/horaire_jeudi.png
+```
+
+The images typically show: artist name (large bold text), time slot (e.g. `18h00 - 19h00`), and optionally the day header. There is usually no venue or stage name since it's single-stage.
+
+**Ingestion script:** hardcode the extracted data as a static array — no fetch calls needed. Use `"Scène principale"` as the venue for single-stage festivals. All shows will be `paid: true` (no free-tier data available). Use `field-overrides.json` for country data and set features `all-paid`, `no-genre`, and `filter-quebec` (if country data added via overrides).
+
+**Important:** This data does not auto-update from a live source — the script will re-write the same hardcoded data each run. The `lastUpdateDate` in `update.ts` should still be set to the festival's final day so updates stop after it ends. When the festival publishes an updated schedule image, you must re-read the image and update the hardcoded array manually.
+
+**Reference implementation:** `scripts/festivals/festival-generations-2026.ts`
+
 ## 2. Extract and map fields
 
 | Target field | Look for |

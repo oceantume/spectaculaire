@@ -78,6 +78,19 @@
     "draft": false
   },
   {
+    "name": "Festival Générations 2026",
+    "shortName": "Générations 2026",
+    "slug": "festival-generations-2026",
+    "year": 2026,
+    "region": "Nicolet",
+    "features": ["all-paid", "filter-quebec", "no-genre", "no-artist-dialog"],
+    "dataDir": "festival-generations-2026",
+    "sourceUrl": "https://www.festivalgenerations.com/programmation",
+    "sourceLabel": "festivalgenerations.com",
+    "sourceAttribution": "Contenu appartenant au Festival Générations",
+    "draft": true
+  },
+  {
     "name": "Francos de Montréal 2026",
     "shortName": "Francos 2026",
     "slug": "francos-2026",

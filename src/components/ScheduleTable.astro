@@ -24,6 +24,7 @@ const hasFreeFilter = features.includes("filter-free");
 const hasQuebecFilter = features.includes("filter-quebec");
 const hasAllPaid = features.includes("all-paid");
 const hasNoGenre = features.includes("no-genre");
+const hasNoArtistDialog = features.includes("no-artist-dialog");
 
 const rowGlobalIdx = new Map<Row, number>();
 let gi = 0;
@@ -109,21 +110,28 @@ for (const rows of schedule.values()) {
                   )}
                   <td class="sched-td sched-td-time">{row.time}</td>
                   <td class="sched-td sched-td-artist">
-                    <button type="button" data-artist-open={row.artist} class="artist-btn">
-                      {row.country === "Québec" ? (
-                        <>
-                          <span class="artist-name">
-                            {row.artist.slice(0, row.artist.lastIndexOf(" ") + 1)}
-                            <span class="qc-nowrap">
-                              {row.artist.slice(row.artist.lastIndexOf(" ") + 1)}
+                    {hasNoArtistDialog ? (
+                      <span class="artist-name-plain">
+                        {row.artist}
+                        {row.country === "Québec" && <img src="/qc.svg" alt="Québec" class="qc-flag-inline" />}
+                      </span>
+                    ) : (
+                      <button type="button" data-artist-open={row.artist} class="artist-btn">
+                        {row.country === "Québec" ? (
+                          <>
+                            <span class="artist-name">
+                              {row.artist.slice(0, row.artist.lastIndexOf(" ") + 1)}
+                              <span class="qc-nowrap">
+                                {row.artist.slice(row.artist.lastIndexOf(" ") + 1)}
+                              </span>
                             </span>
-                          </span>
-                          <img src="/qc.svg" alt="Québec" class="qc-flag-inline" />
-                        </>
-                      ) : (
-                        <span class="artist-name">{row.artist}</span>
-                      )}
-                    </button>
+                            <img src="/qc.svg" alt="Québec" class="qc-flag-inline" />
+                          </>
+                        ) : (
+                          <span class="artist-name">{row.artist}</span>
+                        )}
+                      </button>
+                    )}
                   </td>
                   {!hasNoGenre && <td class="sched-td sched-td-genre">{row.genre}</td>}
                 </tr>
@@ -406,6 +414,12 @@ for (const rows of schedule.values()) {
 
   .artist-name {
     text-decoration: underline;
+  }
+
+  .artist-name-plain {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
   }
 
   .qc-nowrap {

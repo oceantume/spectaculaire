@@ -5,6 +5,7 @@ import { run as runCigale2026 } from "./festivals/cigale-2026.ts";
 import { run as runEnvolEtMacadam2026 } from "./festivals/envol-et-macadam-2026.ts";
 import { run as runFeq2026 } from "./festivals/feq-2026.ts";
 import { run as runFestif2026 } from "./festivals/festif-2026.ts";
+import { run as runFestivalGenerations2026 } from "./festivals/festival-generations-2026.ts";
 import { run as runFestivent2026 } from "./festivals/festivent-2026.ts";
 import { run as runFrancos2026 } from "./festivals/francos-2026.ts";
 import { run as runPiknicElektronik2026 } from "./festivals/piknic-electronik-2026.ts";
@@ -18,6 +19,7 @@ const festivals = [
   { slug: "feq-2026", run: runFeq2026, lastUpdateDate: "2026-07-19" },
   { slug: "festivent-2026", run: runFestivent2026, lastUpdateDate: "2026-08-02" },
   { slug: "festif-2026", run: runFestif2026, lastUpdateDate: "2026-07-25" },
+  { slug: "festival-generations-2026", run: runFestivalGenerations2026, lastUpdateDate: "2026-07-25" },
   { slug: "francos-2026", run: runFrancos2026, lastUpdateDate: "2026-06-21" },
   { slug: "piknic-electronik-2026", run: runPiknicElektronik2026, lastUpdateDate: "2026-10-18" },
 ];
