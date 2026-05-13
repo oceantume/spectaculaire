@@ -1,6 +1,6 @@
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import type { ArtistDetailEntry, Row } from "../../src/types.ts";
+import type { Row } from "../../src/types.ts";
 import { writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -30,10 +30,6 @@ export async function run(): Promise<void> {
 
   rows.sort((a, b) => a.date.localeCompare(b.date) || a.time.localeCompare(b.time));
 
-  const artistDetailsMap: Record<string, ArtistDetailEntry> = Object.fromEntries(
-    rows.map((r) => [r.artist, { links: [] }]),
-  );
-
   console.log(`[festival-generations-2026] Built ${rows.length} rows`);
-  await writeFestivalData(dataDir, rows, artistDetailsMap);
+  await writeFestivalData(dataDir, rows, {});
 }
