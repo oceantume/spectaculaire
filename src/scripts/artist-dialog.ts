@@ -65,7 +65,11 @@ function renderDialogContent(
     <div class="dialog-genre-wrap">
       ${genre && html`<span class="dialog-genre-badge">${genre}</span>`}
     </div>
-    ${details?.description && html`<p class="dialog-description">${details.description}</p>`}
+    ${
+      details?.description
+        ? html`<p class="dialog-description">${details.description}</p>`
+        : html`<p class="dialog-description dialog-description--placeholder">Aucune biographie fournie.</p>`
+    }
     ${
       remainingLinks.length > 0 &&
       html`

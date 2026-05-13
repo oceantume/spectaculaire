@@ -76,5 +76,18 @@
     "sourceLabel": "francosmontreal.com",
     "sourceAttribution": "Contenu appartenant aux Francos de Montréal",
     "draft": true
+  },
+  {
+    "name": "Piknic Électronik 2026",
+    "shortName": "Piknic 2026",
+    "slug": "piknic-electronik-2026",
+    "year": 2026,
+    "region": "Montréal",
+    "features": ["all-paid", "no-genre"],
+    "dataDir": "piknic-electronik-2026",
+    "sourceUrl": "https://piknicelectronik.com/fr/prog-complete",
+    "sourceLabel": "piknicelectronik.com",
+    "sourceAttribution": "Contenu appartenant à Piknic Électronik",
+    "draft": true
   }
 ]

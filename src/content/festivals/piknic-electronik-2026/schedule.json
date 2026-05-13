@@ -1,0 +1,121 @@
+[
+  {
+    "date": "2026-05-17",
+    "venue": "SCÈNE BANQUE NATIONALE - AMPER",
+    "paid": true,
+    "time": "16:00",
+    "artist": "AMPER (NAB b2b Prïa b2b Zac Martel)"
+  },
+  {
+    "date": "2026-05-17",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Syana"
+  },
+  {
+    "date": "2026-05-17",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Jordan Gardner"
+  },
+  {
+    "date": "2026-05-17",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "20:00",
+    "artist": "MCRDJ (MCR-T b2b MRD b2b TDJ)"
+  },
+  {
+    "date": "2026-05-18",
+    "venue": "SCÈNE BANQUE NATIONALE - LA RAMA",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Gene Tellem b2b Kris Guilty"
+  },
+  {
+    "date": "2026-05-18",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Napo Lugo"
+  },
+  {
+    "date": "2026-05-18",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Brunello"
+  },
+  {
+    "date": "2026-05-18",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Josh Baker"
+  },
+  {
+    "date": "2026-05-21",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Solomun"
+  },
+  {
+    "date": "2026-05-29",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Laure"
+  },
+  {
+    "date": "2026-05-29",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Qrion"
+  },
+  {
+    "date": "2026-05-29",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Eric Prydz"
+  },
+  {
+    "date": "2026-05-31",
+    "venue": "SCÈNE BANQUE NATIONALE - HOMEGROWN HARVEST",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Traxence"
+  },
+  {
+    "date": "2026-05-31",
+    "venue": "SCÈNE BANQUE NATIONALE - HOMEGROWN HARVEST",
+    "paid": true,
+    "time": "17:30",
+    "artist": "CPR Annie"
+  },
+  {
+    "date": "2026-05-31",
+    "venue": "SCÈNE BANQUE NATIONALE - HOMEGROWN HARVEST",
+    "paid": true,
+    "time": "19:15",
+    "artist": "newfriend"
+  },
+  {
+    "date": "2026-05-31",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Arielle Roberge b2b Cece The Red"
+  },
+  {
+    "date": "2026-05-31",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Dombresky"
+  }
+]
