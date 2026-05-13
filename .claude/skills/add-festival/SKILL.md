@@ -144,6 +144,15 @@ function youtubeEmbedToWatch(embedUrl: string): string {
 
 **Reference implementation:** `scripts/festivals/francos-2026.ts`
 
+**H. Vue.js SPA with custom JSON REST API**
+Detection signal: `chunk-vendors.*.js` and `app.*.js` in the recon JS captures (Vue CLI SPA). All data is served from a custom REST API captured in `network/` by recon — no JS execution needed.
+
+**Detect:** Recon auto-labels the largest JSON response as "Likely data source". Confirm by inspecting the URL — typically `/api/{resource}.json`.
+
+**Fetch:** Plain `fetch()` on the API URL. Inspect the JSON shape in the recon `network/` folder and map fields accordingly.
+
+**Reference implementation:** `scripts/festivals/cigale-2026.ts`
+
 **F. HTML parsing (last resort)**
 The schedule is server-rendered in the page HTML (typically 200–400 KB). Look for:
 - A repeating card/block element (e.g. `c-card`, `data-grid="item"`, `data-filters-item`)

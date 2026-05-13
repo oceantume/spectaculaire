@@ -1,0 +1,164 @@
+[
+  {
+    "date": "2026-08-07",
+    "venue": "Scène Fizz",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Essentia B2B SQU4RE",
+    "country": "Italie",
+    "genre": "électro / techno"
+  },
+  {
+    "date": "2026-08-07",
+    "venue": "Scène Fizz",
+    "paid": true,
+    "time": "20:30",
+    "artist": "DJ Champion",
+    "country": "Québec",
+    "genre": "électro"
+  },
+  {
+    "date": "2026-08-07",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "19:30",
+    "artist": "CRi",
+    "country": "Québec",
+    "genre": "Dance"
+  },
+  {
+    "date": "2026-08-07",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "21:30",
+    "artist": "Benny Benassi",
+    "country": "Italie",
+    "genre": "House"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène Fizz",
+    "paid": true,
+    "time": "16:30",
+    "artist": "Julyan",
+    "country": "Québec",
+    "genre": "indie-pop"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène Fizz",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Qualité Motel",
+    "country": "Québec",
+    "genre": "électro"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène Fizz",
+    "paid": true,
+    "time": "20:30",
+    "artist": "Matt Hansen",
+    "country": "États-Unis",
+    "genre": "Indie-pop"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "15:30",
+    "artist": "Grand Eugène",
+    "country": "Québec",
+    "genre": "Indie"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "17:30",
+    "artist": "Darren Kiely",
+    "country": "Irlande",
+    "genre": "pop"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Men I Trust",
+    "country": "Québec",
+    "genre": "Électro pop"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "21:30",
+    "artist": "Milky Chance",
+    "country": "Allemagne",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-09",
+    "venue": "Scène Fizz",
+    "paid": true,
+    "time": "16:30",
+    "artist": "The Devil Makes Three",
+    "country": "États-Unis",
+    "genre": "Folk-rock"
+  },
+  {
+    "date": "2026-08-09",
+    "venue": "Scène Fizz",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Bon Enfant",
+    "country": "Québec",
+    "genre": "folk-rock"
+  },
+  {
+    "date": "2026-08-09",
+    "venue": "Scène Fizz",
+    "paid": true,
+    "time": "20:30",
+    "artist": "Dasha",
+    "country": "États-Unis",
+    "genre": "Country"
+  },
+  {
+    "date": "2026-08-09",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "15:30",
+    "artist": "Flower Face",
+    "country": "Québec",
+    "genre": "alternatif/indie"
+  },
+  {
+    "date": "2026-08-09",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "17:30",
+    "artist": "Billie Du Page",
+    "country": "Québec",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-09",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Tones & I",
+    "country": "Australie",
+    "genre": "Indie-pop"
+  },
+  {
+    "date": "2026-08-09",
+    "venue": "Scène Loto-Québec",
+    "paid": true,
+    "time": "21:30",
+    "artist": "Of Monsters and Men",
+    "country": "Islande",
+    "genre": "Pop"
+  }
+]
