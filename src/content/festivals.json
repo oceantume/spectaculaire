@@ -65,6 +65,19 @@
     "draft": false
   },
   {
+    "name": "Festival Cigale 2026",
+    "shortName": "Cigale 2026",
+    "slug": "cigale-2026",
+    "year": 2026,
+    "region": "Montréal",
+    "features": ["all-paid", "filter-quebec"],
+    "dataDir": "cigale-2026",
+    "sourceUrl": "https://cigalequebec.com/programmation",
+    "sourceLabel": "cigalequebec.com",
+    "sourceAttribution": "Contenu appartenant au Festival Cigale",
+    "draft": false
+  },
+  {
     "name": "Francos de Montréal 2026",
     "shortName": "Francos 2026",
     "slug": "francos-2026",
