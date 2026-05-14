@@ -5,6 +5,7 @@ import ScheduleTable from "../../components/ScheduleTable.astro";
 import festivalData from "../../content/festivals.json";
 import Base from "../../layouts/Base.astro";
 import type { Festival, Row } from "../../types";
+import { resolveVenue } from "../../types";
 
 export function getStaticPaths() {
   const festivals = import.meta.env.DEV ? festivalData : festivalData.filter((f) => !f.draft);
@@ -38,7 +39,7 @@ const overridesByLower = Object.fromEntries(Object.entries(fieldOverrides).map((
 const schedule = new Map<string, Row[]>();
 for (const row of rawRows) {
   const override = overridesByLower[row.artist.toLowerCase()];
-  const resolvedVenue = venueOverrides[row.venue] ?? row.venue;
+  const resolvedVenue = resolveVenue(row.venue, venueOverrides);
   const resolvedRow = override ? { ...row, venue: resolvedVenue, ...override } : { ...row, venue: resolvedVenue };
   const group = schedule.get(row.date);
   if (group) {

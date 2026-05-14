@@ -1,3 +1,11 @@
+export function resolveVenue(rawVenue: string, overrides: Record<string, string>): string {
+  if (rawVenue in overrides) return overrides[rawVenue];
+  for (const [key, value] of Object.entries(overrides)) {
+    if (key.startsWith("^") && new RegExp(key).test(rawVenue)) return value;
+  }
+  return rawVenue;
+}
+
 export type ArtistLink = { label: string; url: string };
 
 export type ArtistDetailEntry = {
@@ -16,6 +24,7 @@ export type Row = {
   artist: string;
   country?: string;
   genre?: string;
+  type?: string;
 };
 
 export type Festival = {

@@ -25,6 +25,13 @@ const hasQuebecFilter = features.includes("filter-quebec");
 const hasAllPaid = features.includes("all-paid");
 const hasNoGenre = features.includes("no-genre");
 const hasNoArtistDialog = features.includes("no-artist-dialog");
+const hasTypeColumn = features.includes("type-column");
+// Petit Piknic pill auto-appears once paid:false rows exist in the data (see scraper TODO in piknic-electronik-2026.ts)
+const hasPetitPiknic = hasTypeColumn && [...schedule.values()].flat().some((r) => !r.paid);
+
+function getRowType(row: Row): string {
+  return row.type ?? (row.paid ? "main" : "petit");
+}
 
 const rowGlobalIdx = new Map<Row, number>();
 let gi = 0;
@@ -42,6 +49,8 @@ for (const rows of schedule.values()) {
         if (JSON.parse(localStorage.getItem(slug + ':free'))) el.setAttribute('data-filter-free', '');
         if (JSON.parse(localStorage.getItem(slug + ':quebec'))) el.setAttribute('data-filter-quebec', '');
         if (JSON.parse(localStorage.getItem(slug + ':start'))) el.setAttribute('data-sort-by-start', '');
+        var type = JSON.parse(localStorage.getItem(slug + ':type') || 'null');
+        if (type) el.setAttribute('data-filter-type', type);
       } catch (_) {}
     })();
   </script>
@@ -65,11 +74,31 @@ for (const rows of schedule.values()) {
       </div>
     )
   }
+  {
+    hasTypeColumn && (
+      <div data-filter-bar class="filter-bar">
+        <button type="button" data-filter="all" class="filter-btn">
+          Tout
+        </button>
+        <button type="button" data-filter-type="main" class="filter-btn">
+          Piknic
+        </button>
+        <button type="button" data-filter-type="off" class="filter-btn">
+          OfF Piknic
+        </button>
+        {hasPetitPiknic && (
+          <button type="button" data-filter-type="petit" class="filter-btn">
+            Petit Piknic
+          </button>
+        )}
+      </div>
+    )
+  }
   <table class="sched-table" data-schedule-table>
     <thead>
       <tr class="sched-thead-row">
         <th class="sched-th">Lieu</th>
-        {!hasAllPaid && <th data-paid-header class="sched-th">Passe?</th>}
+        {hasTypeColumn ? <th class="sched-th">Type</th> : !hasAllPaid && <th data-paid-header class="sched-th">Passe?</th>}
         <th data-sort-toggle class="sched-th sched-th-sort">
           <span data-sort-label style="view-transition-name: col-time">Début</span>
         </th>
@@ -91,6 +120,7 @@ for (const rows of schedule.values()) {
                 data-row
                 data-date={row.date}
                 data-paid={String(row.paid)}
+                data-show-type={hasTypeColumn ? getRowType(row) : undefined}
                 data-country={row.country ?? ""}
                 data-non-quebec={row.country !== "Québec" ? "" : undefined}
                 data-time={row.time}
@@ -99,7 +129,12 @@ for (const rows of schedule.values()) {
                 class="sched-row"
               >
                   <td class="sched-td sched-td-venue">{row.venue}</td>
-                  {!hasAllPaid && (
+                  {hasTypeColumn ? (
+                    <td class="sched-td">
+                      {getRowType(row) === "off" && <span class="badge-type-off">OfF</span>}
+                      {getRowType(row) === "petit" && <span class="badge-type-petit">Gratuit</span>}
+                    </td>
+                  ) : !hasAllPaid && (
                     <td data-paid-cell class="sched-td">
                       {row.paid ? (
                         <span class="badge-paid">Payant</span>
@@ -171,7 +206,7 @@ for (const rows of schedule.values()) {
     background-color: var(--bg-hover);
   }
 
-  [data-schedule-wrapper]:not([data-filter-free]):not([data-filter-quebec])
+  [data-schedule-wrapper]:not([data-filter-free]):not([data-filter-quebec]):not([data-filter-type])
     [data-filter="all"].filter-btn {
     background-color: var(--filter-all-bg);
     color: var(--filter-all-text);
@@ -397,6 +432,66 @@ for (const rows of schedule.values()) {
     border-radius: 0.25rem;
     background-color: var(--badge-free-bg);
     color: var(--badge-free-text);
+  }
+
+  .badge-type-off,
+  .badge-type-petit {
+    font-size: 0.75rem;
+    line-height: 1rem;
+    padding: 0.125rem 0.375rem;
+    border-radius: 0.25rem;
+  }
+
+  .badge-type-off {
+    background-color: var(--badge-type-off-bg, #ede9fe);
+    color: var(--badge-type-off-text, #5b21b6);
+  }
+
+  .dark .badge-type-off {
+    background-color: var(--badge-type-off-bg, #2e1065);
+    color: var(--badge-type-off-text, #c4b5fd);
+  }
+
+  .badge-type-petit {
+    background-color: var(--badge-type-petit-bg, #dcfce7);
+    color: var(--badge-type-petit-text, #166534);
+  }
+
+  .dark .badge-type-petit {
+    background-color: var(--badge-type-petit-bg, #052e16);
+    color: var(--badge-type-petit-text, #86efac);
+  }
+
+  [data-filter-type="main"] [data-filter-type="main"].filter-btn,
+  [data-filter-type="off"] [data-filter-type="off"].filter-btn,
+  [data-filter-type="petit"] [data-filter-type="petit"].filter-btn {
+    background-color: var(--filter-all-bg);
+    color: var(--filter-all-text);
+    border-color: var(--filter-all-border);
+  }
+
+  [data-filter-type="main"] [data-row]:not([data-show-type="main"]) {
+    display: none;
+  }
+
+  [data-filter-type="off"] [data-row]:not([data-show-type="off"]) {
+    display: none;
+  }
+
+  [data-filter-type="petit"] [data-row]:not([data-show-type="petit"]) {
+    display: none;
+  }
+
+  [data-filter-type="main"] tbody:not(:has([data-row][data-show-type="main"])) {
+    display: none;
+  }
+
+  [data-filter-type="off"] tbody:not(:has([data-row][data-show-type="off"])) {
+    display: none;
+  }
+
+  [data-filter-type="petit"] tbody:not(:has([data-row][data-show-type="petit"])) {
+    display: none;
   }
 
   .artist-btn {

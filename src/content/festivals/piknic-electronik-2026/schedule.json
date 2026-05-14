@@ -4,118 +4,1095 @@
     "venue": "SCÈNE BANQUE NATIONALE - AMPER",
     "paid": true,
     "time": "16:00",
-    "artist": "AMPER (NAB b2b Prïa b2b Zac Martel)"
+    "artist": "AMPER (NAB b2b Prïa b2b Zac Martel)",
+    "series": "main"
   },
   {
     "date": "2026-05-17",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "16:00",
-    "artist": "Syana"
+    "artist": "Syana",
+    "series": "main"
   },
   {
     "date": "2026-05-17",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "18:00",
-    "artist": "Jordan Gardner"
+    "artist": "Jordan Gardner",
+    "series": "main"
   },
   {
     "date": "2026-05-17",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "20:00",
-    "artist": "MCRDJ (MCR-T b2b MRD b2b TDJ)"
+    "artist": "MCRDJ (MCR-T b2b MRD b2b TDJ)",
+    "series": "main"
   },
   {
     "date": "2026-05-18",
     "venue": "SCÈNE BANQUE NATIONALE - LA RAMA",
     "paid": true,
     "time": "16:00",
-    "artist": "Gene Tellem b2b Kris Guilty"
+    "artist": "Gene Tellem b2b Kris Guilty",
+    "series": "main"
   },
   {
     "date": "2026-05-18",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "16:00",
-    "artist": "Napo Lugo"
+    "artist": "Napo Lugo",
+    "series": "main"
   },
   {
     "date": "2026-05-18",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "18:00",
-    "artist": "Brunello"
+    "artist": "Brunello",
+    "series": "main"
   },
   {
     "date": "2026-05-18",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "19:30",
-    "artist": "Josh Baker"
+    "artist": "Josh Baker",
+    "series": "main"
   },
   {
     "date": "2026-05-21",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "17:00",
-    "artist": "Solomun"
+    "artist": "Solomun",
+    "series": "off"
   },
   {
     "date": "2026-05-29",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "17:00",
-    "artist": "Laure"
+    "artist": "Laure",
+    "series": "off"
   },
   {
     "date": "2026-05-29",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "18:30",
-    "artist": "Qrion"
+    "artist": "Qrion",
+    "series": "off"
   },
   {
     "date": "2026-05-29",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "20:00",
-    "artist": "Eric Prydz"
+    "artist": "Eric Prydz",
+    "series": "off"
   },
   {
     "date": "2026-05-31",
     "venue": "SCÈNE BANQUE NATIONALE - HOMEGROWN HARVEST",
     "paid": true,
     "time": "16:00",
-    "artist": "Traxence"
+    "artist": "Traxence",
+    "series": "main"
   },
   {
     "date": "2026-05-31",
     "venue": "SCÈNE BANQUE NATIONALE - HOMEGROWN HARVEST",
     "paid": true,
     "time": "17:30",
-    "artist": "CPR Annie"
+    "artist": "CPR Annie",
+    "series": "main"
   },
   {
     "date": "2026-05-31",
     "venue": "SCÈNE BANQUE NATIONALE - HOMEGROWN HARVEST",
     "paid": true,
     "time": "19:15",
-    "artist": "newfriend"
+    "artist": "newfriend",
+    "series": "main"
   },
   {
     "date": "2026-05-31",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "16:00",
-    "artist": "Arielle Roberge b2b Cece The Red"
+    "artist": "Arielle Roberge b2b Cece The Red",
+    "series": "main"
   },
   {
     "date": "2026-05-31",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "19:30",
-    "artist": "Dombresky"
+    "artist": "Dombresky",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-05",
+    "venue": "SCÈNE FIZZ - DEFECTED",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Edd",
+    "series": "off"
+  },
+  {
+    "date": "2026-06-05",
+    "venue": "SCÈNE FIZZ - DEFECTED",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Arielle Free",
+    "series": "off"
+  },
+  {
+    "date": "2026-06-05",
+    "venue": "SCÈNE FIZZ - DEFECTED",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Purple Disco Machine",
+    "series": "off"
+  },
+  {
+    "date": "2026-06-07",
+    "venue": "SCÈNE BANQUE NATIONALE - T.I.T.S.",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Boomy",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-07",
+    "venue": "SCÈNE BANQUE NATIONALE - T.I.T.S.",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Djeity",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-07",
+    "venue": "SCÈNE BANQUE NATIONALE - T.I.T.S.",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Alley Kay",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-07",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Tali Rose",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-07",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Tobiahs",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-07",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Marten Lou",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-12",
+    "venue": "SCÈNE FIZZ - CHASE & STATUS",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Chase & Status",
+    "series": "off"
+  },
+  {
+    "date": "2026-06-13",
+    "venue": "SCÈNE FIZZ - DIM MAK 30 TOUR",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Linney",
+    "series": "off"
+  },
+  {
+    "date": "2026-06-13",
+    "venue": "SCÈNE FIZZ - DIM MAK 30 TOUR",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Laidback Luke",
+    "series": "off"
+  },
+  {
+    "date": "2026-06-13",
+    "venue": "SCÈNE FIZZ - DIM MAK 30 TOUR",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Łaszewo",
+    "series": "off"
+  },
+  {
+    "date": "2026-06-13",
+    "venue": "SCÈNE FIZZ - DIM MAK 30 TOUR",
+    "paid": true,
+    "time": "20:15",
+    "artist": "Steve Aoki",
+    "series": "off"
+  },
+  {
+    "date": "2026-06-14",
+    "venue": "SCÈNE BANQUE NATIONALE - SWEET LIKE HONEY",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Po",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-14",
+    "venue": "SCÈNE BANQUE NATIONALE - SWEET LIKE HONEY",
+    "paid": true,
+    "time": "17:30",
+    "artist": "DJ Playgirl",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-14",
+    "venue": "SCÈNE BANQUE NATIONALE - SWEET LIKE HONEY",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Tokyo Mamii",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-14",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Mandiz",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-14",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Chus & Ceballos",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-21",
+    "venue": "SCÈNE BANQUE NATIONALE",
+    "paid": true,
+    "time": "16:00",
+    "artist": "BEAMSKII",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-21",
+    "venue": "SCÈNE BANQUE NATIONALE",
+    "paid": true,
+    "time": "18:00",
+    "artist": "D.Blavatsky",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-21",
+    "venue": "SCÈNE BANQUE NATIONALE",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Shadow Wizard Money Gang",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-21",
+    "venue": "SCÈNE FIZZ - SAINT JEAN",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Rebel Of Sleep",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-21",
+    "venue": "SCÈNE FIZZ - SAINT JEAN",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Hyunji-A",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-21",
+    "venue": "SCÈNE FIZZ - SAINT JEAN",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Sultan + Shepard (DJ Set)",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-23",
+    "venue": "SCÈNE FIZZ - COMPLET",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Black Coffee",
+    "series": "off"
+  },
+  {
+    "date": "2026-06-24",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Black Coffee",
+    "series": "off"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Four Tet",
+    "series": "off"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "SCÈNE BANQUE NATIONALE - HOMEBY6",
+    "paid": true,
+    "time": "16:00",
+    "artist": "TEYKIRISI",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "SCÈNE BANQUE NATIONALE - HOMEBY6",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Felix Patry",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "SCÈNE BANQUE NATIONALE - HOMEBY6",
+    "paid": true,
+    "time": "18:00",
+    "artist": "DJ Swisha",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Bea Hardy",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "17:15",
+    "artist": "Ash Lauryn",
+    "series": "main"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Jayda G",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène FIZZ",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Adam Port et &ME",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "SCÈNE FIZZ - ANJUNADEEP",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Marsh",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "SCÈNE FIZZ - ANJUNADEEP",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Christian Löffler (Live)",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "SCÈNE FIZZ - ANJUNADEEP",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Eric Luttrell b2b Jody Wisternoff",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "SCÈNE FIZZ - ANJUNADEEP",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Nicky Elisabeth",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "SCÈNE BANQUE NATIONALE - KNTC",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Duchesse",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "SCÈNE BANQUE NATIONALE - KNTC",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Dimitry",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "SCÈNE BANQUE NATIONALE - KNTC",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Vincent Lemieux",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Icky Magdala",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:30",
+    "artist": "ekitwanda",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "20:30",
+    "artist": "Nia Archives (DJ Set)",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-10",
+    "venue": "SCÈNE FIZZ - JOURNEY OF A LIFETIME",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Whethan",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-10",
+    "venue": "SCÈNE FIZZ - JOURNEY OF A LIFETIME",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Zeds Dead",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-11",
+    "venue": "SCÈNE FIZZ - HELLBENT",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Cloonee",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-12",
+    "venue": "SCÈNE BANQUE NATIONALE - FERIAS",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Andie",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-12",
+    "venue": "SCÈNE BANQUE NATIONALE - FERIAS",
+    "paid": true,
+    "time": "18:00",
+    "artist": "THe LYONZ (Live)",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-12",
+    "venue": "SCÈNE BANQUE NATIONALE - FERIAS",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Vasimolo b2b ARAM",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-12",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Gurafiku",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-12",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Tallandskiinny",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-12",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Zack Fox",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-18",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "17:00",
+    "artist": "TIZI",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-18",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Wes Mills",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-18",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "19:15",
+    "artist": "Cid",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-18",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "20:30",
+    "artist": "Kaskade",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-19",
+    "venue": "SCÈNE BANQUE NATIONALE - SHIFT RADIO",
+    "paid": true,
+    "time": "16:00",
+    "artist": "JASHIM",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-19",
+    "venue": "SCÈNE BANQUE NATIONALE - SHIFT RADIO",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Monsieurmadam",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-19",
+    "venue": "SCÈNE BANQUE NATIONALE - SHIFT RADIO",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Syd Woz",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-19",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "soria",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-19",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Elio Elia",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-19",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Mandragora",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "SCÈNE FIZZ - SOLÈY",
+    "paid": true,
+    "time": "17:00",
+    "artist": "DJ Bullet B2B DJ K9",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "SCÈNE FIZZ - SOLÈY",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Francis Mercier",
+    "series": "off"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "SCÈNE BANQUE NATIONALE - KARABA & FRIENDS",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Mansa",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "SCÈNE BANQUE NATIONALE - KARABA & FRIENDS",
+    "paid": true,
+    "time": "18:00",
+    "artist": "KidCrayola",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "SCÈNE BANQUE NATIONALE - KARABA & FRIENDS",
+    "paid": true,
+    "time": "19:30",
+    "artist": "KARABA",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "pleurire",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Raef",
+    "series": "main"
+  },
+  {
+    "date": "2026-07-26",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Daphni",
+    "series": "main"
+  },
+  {
+    "date": "2026-08-23",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Anaïs Ley",
+    "series": "main"
+  },
+  {
+    "date": "2026-08-23",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Jares",
+    "series": "main"
+  },
+  {
+    "date": "2026-08-23",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Worakls",
+    "series": "main"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Hernan Cattaneo",
+    "series": "off"
+  },
+  {
+    "date": "2026-08-30",
+    "venue": "SCÈNE BANQUE NATIONALE - MUTEK",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Artistes Surprise",
+    "series": "main"
+  },
+  {
+    "date": "2026-08-30",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Guillaume Michaud",
+    "series": "main"
+  },
+  {
+    "date": "2026-08-30",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Danny Tenaglia",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-05",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Sammy Virji",
+    "series": "off"
+  },
+  {
+    "date": "2026-09-06",
+    "venue": "SCÈNE BANQUE NATIONALE",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Raf Reza",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-06",
+    "venue": "SCÈNE BANQUE NATIONALE",
+    "paid": true,
+    "time": "18:00",
+    "artist": "mayalabae",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-06",
+    "venue": "SCÈNE BANQUE NATIONALE",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Dameer",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-06",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Ossifer",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-06",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Misstress Barbara",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-07",
+    "venue": "SCÈNE BANQUE NATIONALE - NO DIPLOMA RECORDS",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Nether",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-07",
+    "venue": "SCÈNE BANQUE NATIONALE - NO DIPLOMA RECORDS",
+    "paid": true,
+    "time": "17:30",
+    "artist": "Kay B",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-07",
+    "venue": "SCÈNE BANQUE NATIONALE - NO DIPLOMA RECORDS",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Teo2k",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-07",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Pyromane",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-07",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:30",
+    "artist": "No Police",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-07",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Cloudy",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-13",
+    "venue": "SCÈNE BANQUE NATIONALE - ROCHE MUSIQUE",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Cezaire",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-13",
+    "venue": "SCÈNE BANQUE NATIONALE - ROCHE MUSIQUE",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Didi Han",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-13",
+    "venue": "SCÈNE BANQUE NATIONALE - ROCHE MUSIQUE",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Cezaire b2b Didi Han",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-13",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Elles & U",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-13",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Julian Fijma",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-13",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Prospa",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-27",
+    "venue": "SCÈNE BANQUE NATIONALE - RÊVES",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Baby Bimbo",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-27",
+    "venue": "SCÈNE BANQUE NATIONALE - RÊVES",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Yume",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-27",
+    "venue": "SCÈNE BANQUE NATIONALE - RÊVES",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Lorenzi",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-27",
+    "venue": "SCÈNE BANQUE NATIONALE - RÊVES",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Aamourocean",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-27",
+    "venue": "SCÈNE BANQUE NATIONALE - RÊVES",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Isla Den (DJ Set)",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-27",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "livwutang",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-27",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Martyn Bootyspoon",
+    "series": "main"
+  },
+  {
+    "date": "2026-09-27",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Egyptian Lover",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-04",
+    "venue": "SCÈNE BANQUE NATIONALE - ETHER",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Runa b2b Sako",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-04",
+    "venue": "SCÈNE BANQUE NATIONALE - ETHER",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Asha b2b Technique Nado",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-04",
+    "venue": "SCÈNE BANQUE NATIONALE - ETHER",
+    "paid": true,
+    "time": "19:30",
+    "artist": "MIASALAV b2b Mui Mui",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-04",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "cori",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-04",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Lia Plutonic",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-04",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Eris Drew",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-11",
+    "venue": "SCÈNE BANQUE NATIONALE - NOREINER",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Ponsif",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-11",
+    "venue": "SCÈNE BANQUE NATIONALE - NOREINER",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Enamor",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-11",
+    "venue": "SCÈNE BANQUE NATIONALE - NOREINER",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Sumatra",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-11",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Lex Ferenda",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-11",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Demi Riquísimo",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-11",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Beltran",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-18",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "16:00",
+    "artist": "YVNNI",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-18",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:00",
+    "artist": "MVNGO",
+    "series": "main"
+  },
+  {
+    "date": "2026-10-18",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Eli Brown",
+    "series": "main"
   }
 ]

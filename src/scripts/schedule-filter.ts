@@ -8,6 +8,7 @@ const slug = wrapper.dataset.scheduleSlug ?? "";
 const freeKey = `${slug}:free`;
 const quebecKey = `${slug}:quebec`;
 const startKey = `${slug}:start`;
+const typeKey = `${slug}:type`;
 
 let sortByStart = getStored<boolean>(startKey, false);
 
@@ -17,15 +18,18 @@ function transition(fn: () => void) {
 }
 
 wrapper.querySelector("[data-filter-bar]")?.addEventListener("click", (e) => {
-  const btn = (e.target as Element).closest<HTMLElement>("[data-filter]");
+  const btn = (e.target as Element).closest<HTMLElement>("[data-filter], [data-filter-type]");
   if (!btn) return;
   const f = btn.dataset.filter;
+  const s = btn.dataset.filterType;
   transition(() => {
     if (f === "all") {
       wrapper.removeAttribute("data-filter-free");
       wrapper.removeAttribute("data-filter-quebec");
+      wrapper.removeAttribute("data-filter-type");
       setStored(freeKey, false);
       setStored(quebecKey, false);
+      setStored(typeKey, null);
     } else if (f === "free") {
       const next = !wrapper.hasAttribute("data-filter-free");
       wrapper.toggleAttribute("data-filter-free", next);
@@ -34,6 +38,15 @@ wrapper.querySelector("[data-filter-bar]")?.addEventListener("click", (e) => {
       const next = !wrapper.hasAttribute("data-filter-quebec");
       wrapper.toggleAttribute("data-filter-quebec", next);
       setStored(quebecKey, next);
+    } else if (s) {
+      const current = wrapper.getAttribute("data-filter-type");
+      if (current === s) {
+        wrapper.removeAttribute("data-filter-type");
+        setStored(typeKey, null);
+      } else {
+        wrapper.setAttribute("data-filter-type", s);
+        setStored(typeKey, s);
+      }
     }
   });
 });

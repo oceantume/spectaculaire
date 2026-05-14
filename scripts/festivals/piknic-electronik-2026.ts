@@ -2,67 +2,31 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { parse } from "node-html-parser";
 import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
-import { htmlToText, inferLinkLabel, writeFestivalData } from "../utils.ts";
+import { htmlToText, inferLinkLabel, localDateStr, localTimeStr, toEDT, writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataDir = path.join(__dirname, "../../src/content/festivals/piknic-electronik-2026");
 const BASE_URL = "https://piknicelectronik.com";
-const YEAR = 2026;
 
-const MONTH_MAP: Record<string, number> = {
-  // English
-  Jan: 0,
-  Feb: 1,
-  Mar: 2,
-  Apr: 3,
-  May: 4,
-  Jun: 5,
-  Jul: 6,
-  Aug: 7,
-  Sep: 8,
-  Oct: 9,
-  Nov: 10,
-  Dec: 11,
-  // French
-  janvier: 0,
-  février: 1,
-  mars: 2,
-  avril: 3,
-  mai: 4,
-  juin: 5,
-  juillet: 6,
-  août: 7,
-  septembre: 8,
-  octobre: 9,
-  novembre: 10,
-  décembre: 11,
-};
-
-function parseDate(text: string): string {
-  // English: "Sun, May 17"  →  month=May, day=17
-  // French:  "dim. 17 mai"  →  day=17, month=mai
-  const cleaned = text.trim();
-  const m = cleaned.match(/(\d+)\s+(\S+)$/) ?? cleaned.match(/(\w+)\s+(\d+)$/);
-  if (!m) throw new Error(`Cannot parse date: ${text}`);
-  let month: number;
-  let day: number;
-  if (/^\d+$/.test(m[1])) {
-    // French: "dim. 17 mai"  →  m[1]=17, m[2]=mai
-    day = parseInt(m[1], 10);
-    month = MONTH_MAP[m[2]];
-  } else {
-    // English: "Sun, May 17"  →  m[1]=May, m[2]=17
-    month = MONTH_MAP[m[1]];
-    day = parseInt(m[2], 10);
-  }
-  if (month === undefined) throw new Error(`Unknown month in: ${text}`);
-  const d = new Date(Date.UTC(YEAR, month, day));
-  return d.toISOString().slice(0, 10);
+interface SveltekitShow {
+  title: string;
+  startDate: string;
+  artists: { uri: string; image: { url: string }[] }[];
 }
 
-function parseTime(text: string): string {
-  // "20H00" → "20:00"
-  return text.trim().replace("H", ":").toLowerCase();
+interface SveltekitProgram {
+  startDate: string;
+  displayTitle: string;
+  shows: SveltekitShow[];
+}
+
+interface SveltekitEdition {
+  isOffPiknic: boolean;
+  programGroups: { programs: SveltekitProgram[] }[];
+}
+
+interface SveltekitProps {
+  entry: { editions: SveltekitEdition[] };
 }
 
 interface ShowEntry {
@@ -72,6 +36,7 @@ interface ShowEntry {
   time: string;
   imageUrl: string;
   slug: string;
+  type: string;
 }
 
 export async function run(): Promise<void> {
@@ -79,40 +44,40 @@ export async function run(): Promise<void> {
   const res = await fetch(`${BASE_URL}/fr/prog-complete`);
   if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
   const html = await res.text();
-  const root = parse(html);
+
+  // All 6 months are embedded as SvelteKit SSR hydration props — no JS interaction needed
+  const propsMatch = html.match(/<script[^>]*sveltekit:data-type="props"[^>]*>([\s\S]*?)<\/script>/);
+  if (!propsMatch) throw new Error("Could not find SvelteKit props script tag");
+  const props = JSON.parse(propsMatch[1]) as SveltekitProps;
 
   const shows: ShowEntry[] = [];
 
-  for (const details of root.querySelectorAll("details")) {
-    const dateText = details.querySelector(".py-20")?.textContent ?? "";
-    if (!dateText.trim()) continue;
-    const date = parseDate(dateText);
-
-    // Venue groups: each is a div.grid containing a venue name div (with opacity-70) and artist links
-    for (const venueGroup of details.querySelectorAll("div.grid")) {
-      const venueEl = venueGroup.querySelector("div[class*='opacity-70']");
-      if (!venueEl) continue;
-      const venue = venueEl.textContent.trim();
-
-      for (const card of venueGroup.querySelectorAll("a[href^='/fr/artistes/']")) {
-        const slug = card.getAttribute("href")?.replace("/fr/artistes/", "") ?? "";
-        const nameEl = card.querySelector("div[class*='font-extrabold']");
-        const timeEl = card.querySelector("div[class*='_right']");
-        const imgEl = card.querySelector("img");
-
-        if (!slug || !nameEl || !timeEl) continue;
-
-        shows.push({
-          date,
-          venue,
-          artistName: nameEl.textContent.trim(),
-          time: parseTime(timeEl.textContent),
-          imageUrl: imgEl?.getAttribute("src") ?? "",
-          slug,
-        });
+  for (const edition of props.entry.editions) {
+    const type = edition.isOffPiknic ? "off" : "main";
+    for (const group of edition.programGroups) {
+      for (const program of group.programs) {
+        const date = localDateStr(toEDT(program.startDate));
+        for (const show of program.shows) {
+          const artist = show.artists[0];
+          if (!artist) continue;
+          const slug = artist.uri.replace(/^artistes\//, "");
+          shows.push({
+            date,
+            venue: program.displayTitle,
+            artistName: show.title,
+            time: localTimeStr(toEDT(show.startDate)),
+            imageUrl: artist.image[0]?.url ?? "",
+            slug,
+            type,
+          });
+        }
       }
     }
   }
+
+  // TODO: Add Petit Piknic (free, noon–3pm) once dates are published at /fr/petit-piknic.
+  // Run `npm run recon -- https://piknicelectronik.com/fr/petit-piknic` first to discover
+  // the data structure, then add rows here with paid: false.
 
   console.log(`[piknic-electronik-2026] Found ${shows.length} shows`);
 
@@ -177,6 +142,7 @@ export async function run(): Promise<void> {
       paid: true,
       time: show.time,
       artist: show.artistName,
+      type: show.type,
     });
 
     if (!artistDetailsMap[show.artistName]) {

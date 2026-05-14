@@ -1,6 +1,7 @@
 import type { APIRoute } from "astro";
 import festivalData from "../content/festivals.json";
 import type { Festival, Row } from "../types";
+import { resolveVenue } from "../types";
 
 // [artist, festivalIdx, date, time, venueIdx, rowIdx]
 type CompactEntry = [string, number, string, string, number, number];
@@ -53,7 +54,7 @@ export const GET: APIRoute = () => {
     for (const [, dayRows] of grouped.entries()) {
       for (const rawRow of dayRows) {
         const override = overridesByLower[rawRow.artist.toLowerCase()];
-        const resolvedVenue = venueOverrides[rawRow.venue] ?? rawRow.venue;
+        const resolvedVenue = resolveVenue(rawRow.venue, venueOverrides);
         const row = override ? { ...rawRow, venue: resolvedVenue, ...override } : { ...rawRow, venue: resolvedVenue };
 
         let vi = venueIndex.get(row.venue);

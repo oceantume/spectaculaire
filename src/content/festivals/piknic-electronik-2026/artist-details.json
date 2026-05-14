@@ -54,32 +54,6 @@
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_05-18_GENE-TELLEM-B2B-KRIS-GUILTY.png",
     "links": []
   },
-  "Solomun": {
-    "description": "Pour Solomun, la musique n'est pas seulement un outil pour faire danser les gens. La musique est aussi diverse que la vie elle-même : de nombreuses nuances différentes, des moments et des souvenirs à créer. La musique déclenche des émotions et vice versa, et ce genre d'interrelation - avec Solomun représentant la musique et les émotions du public - est ce qui jette le sort autour de ses performances.\n\nSa résidence \"Solomun +1\" à Pacha Ibiza a commencé de manière assez décontractée - en faisant sa propre chose, en déplaçant la cabine du DJ au centre du club pour être proche des gens sur la piste de danse au lieu du podium habituel, et en introduisant un concept assez inconnu sur l'île : une soirée avec seulement un ami. Depuis son commencement en 2013, \"Solomun +1\" est depuis longtemps un nom familier à Ibiza, avec son dérivé \"Solomun +LIVE\" sur l'île et des éditions +1 partout dans le monde, que ce soit à Berlin, New York ou Tulum.\n\nLa même énergie a été à l'origine de la création de son label musical Diynamic en 2006 : un groupe de frères avec des idées similaires, un goût pour la musique et la volonté de se soutenir mutuellement. Et, avec le recul, Diynamic s'est avéré être la rampe de lancement de nombreuses carrières d'artistes.\n\nTout cela a commencé quelque part de petit, mais en étant lui-même, un animateur honnête au sens le plus vrai du terme, pas une persona de scène, Solomun est devenu tellement recherché. Il a prouvé que la musique est plus importante que le lieu où elle est jouée, car ses sets, remixes et productions rassemblent les gens. Et toujours, il envoie le même message : \"Personne n'est pas aimé.\"",
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_05-21_SOLOMUN_SOLOMUN.png",
-    "links": [
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/solomun"
-      },
-      {
-        "label": "SoundCloud",
-        "url": "https://soundcloud.com/solomun"
-      }
-    ]
-  },
-  "Eric Prydz": {
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_05-29_ERIC-PRYDZ_ERIC-PRYDZ.png",
-    "links": []
-  },
-  "Qrion": {
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_05-29_ERIC-PRYDZ_QRION.png",
-    "links": []
-  },
-  "Laure": {
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_05-29_ERIC-PRYDZ_LAURE.png",
-    "links": []
-  },
   "Dombresky": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_05-31_DOMBRESKY.png",
     "links": []
@@ -99,5 +73,883 @@
   "Traxence": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_05-31_TRAXENCE.png",
     "links": []
+  },
+  "Marten Lou": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-07_MARTEN-LOU.png",
+    "links": []
+  },
+  "Tobiahs": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-07_TOBIAHS.png",
+    "links": []
+  },
+  "Tali Rose": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-07_TALI-ROSE.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/taliirose/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/talirosedj"
+      }
+    ]
+  },
+  "Alley Kay": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-07_ALLEY-KAY.png",
+    "links": []
+  },
+  "Djeity": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-07_DJEITY.png",
+    "links": []
+  },
+  "Boomy": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-07_BOOMY.png",
+    "links": []
+  },
+  "Chus & Ceballos": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-14_CHUS-AND-CEBALLOS.png",
+    "links": []
+  },
+  "Mandiz": {
+    "description": "Mandiz, mieux connue sous le nom de « Queen of Booty Bass » [Tech House/Deep Tech] s'inspire principalement d'artistes tels que Gustaff, Tomi & Kesh, Jamie Jones, Manda Moor ainsi que de labels qui aiment la profondeur, la saleté et le groove tels que Nozzo Music, La Pera Records, Mood Child, Nervous Records et bien d'autres encore.\n--\nCanadienne d'origine libanaise, Mandiz s'est rapidement fait une place sur la scène House/Electronique de Montréal. Son style unique connu sous le nom de « Booty Bass », une fusion de voix funky, de percussions groovy et de lignes de basse subtiles, lui a valu des concerts exclusifs dans certains des meilleurs endroits de Montréal tels que STEREO [bar], Velvet, Newspeak, Salon Daome, New City Gas, Beachclub, etc. ainsi que dans des festivals de renommée mondiale accueillant des milliers de personnes par événement : Piknic Electronik, Igloofest, Osheaga et Ile Soniq. Elle a également fait entendre son son sur le territoire national et international en se produisant à Calgary, Fredericton, Toronto, Ottawa, Québec, Cayo Santa Maria, Miami, Tulum, Playa Del Carmen, Ibiza, Amman et dans deux villes (Split, Komiza) en Croatie pour YachtLife, qui est un concurrent direct de la Yacht Week. L'un des moments dont elle est le plus fière en 2022 est d'avoir eu l'occasion d'ouvrir et de fermer pour Tiesto le Beachclub, le plus grand club en plein air d'Amérique du Nord et le premier club du Canada.\n\nAvec plus de dix ans d'expérience, Mandiz est devenue une force à prendre en compte en soutenant des artistes comme Amine Edge & Dance, Carl Craig, Chris Lake, Claude VonStroke, Heidi, Manda Moor, Sacha Robotti, Sirus Hood, Sidepiece, Tiesto et bien d'autres encore.\n\nAlors qu'elle perfectionne son son en studio, elle aspire à porter son énergie hype à l'échelle internationale.\n\nRejoignez-la sur le dancefloor et préparez-vous à recevoir de la Booty Bass In Yo Face.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-14_MANDIZ.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mcmandiz/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/mcmandiz"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/mcmandiz"
+      }
+    ]
+  },
+  "Tokyo Mamii": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-14_TOKYO-MAMII.png",
+    "links": []
+  },
+  "DJ Playgirl": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-14_DJ-PLAYGIRL.png",
+    "links": []
+  },
+  "Po": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-14_PO.png",
+    "links": []
+  },
+  "Sultan + Shepard (DJ Set)": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-21_SULTAN-AND-SHEPARD.png",
+    "links": []
+  },
+  "Hyunji-A": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-21_HYUNJI-A.png",
+    "links": []
+  },
+  "Rebel Of Sleep": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-21_REBEL-OF-SLEEP.png",
+    "links": []
+  },
+  "Shadow Wizard Money Gang": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-21_SHADOW-WIZARD-MONEY-GANG.png",
+    "links": []
+  },
+  "D.Blavatsky": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-21_D-BLAVATSKY.png",
+    "links": []
+  },
+  "BEAMSKII": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-21_BEAMSKII.png",
+    "links": []
+  },
+  "Jayda G": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-28_JAYDA-G.png",
+    "links": []
+  },
+  "Ash Lauryn": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-28_ASH-LAURYN.png",
+    "links": []
+  },
+  "Bea Hardy": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-28_BEA-HARDY.png",
+    "links": []
+  },
+  "DJ Swisha": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-28_DJ-SWISHA.png",
+    "links": []
+  },
+  "Felix Patry": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-28_FELIX-PATRY.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/felixpatry_/"
+      }
+    ]
+  },
+  "TEYKIRISI": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-28_TEYKIRISI.png",
+    "links": []
+  },
+  "Nia Archives (DJ Set)": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-05_NIA-ARCHIVES.png",
+    "links": []
+  },
+  "ekitwanda": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-05_EKITWANDA.png",
+    "links": []
+  },
+  "Icky Magdala": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-05_ICKY-MAGDALA.png",
+    "links": []
+  },
+  "Vincent Lemieux": {
+    "description": "DJ, disquaire, programmateur à MUTEK, co-fondateur du label Musique Risquée, producteur, Vincent Lemieux est un grand passionné de musique. \n\nConnu pour son implication tous azimuts dans le milieu de la musique électronique Montréalais, Vincent Lemieux a débuté la production sous peu. Avec quelques sorties sur CCCLTD .CA en solo, quelques autres sous le nom de Flabbergast, duo avec Guillaume Coutu-Dumont et bientôt aussi sous le nom Brandy Snifter avec Stephen Beaupré, le catalogue s’agrandit lentement.\n\nDJ aux goûts irréprochables, Vincent Lemieux ne se cantonne pas dans un seul genre. Si la techno et la house demeurent son champ de prédilection, la disco, le funk, la soul, le hip-hop et autres dérivés groovy ne le laissent pas indifférent. À Montréal, on a pu le voir et l'entendre dans plusieurs clubs, bars et partys ou bien lors de ses fameuses Soirée Risquée et Disco Dessert. À l'étranger, Vincent Lemieux peut se targuer d'avoir une carte de visite bien remplie. Si on le retrouve à tous les ans depuis 2001 au Panorama Bar de Berlin pour les soirées Get Perlonized, il a aussi fait danser les clubbeurs et festivaliers du Chili, du Mexique, de la Colombie, de la Chine, du Japon, de l'Italie, de la Suisse, de la France, de la Belgique, du Danemark, du Brésil, de l'Argentine, des États-Unis, de l'Espagne, de la Russie, du Fabric de Londres et bien entendu un peu partout chez-lui au Québec et au Canada. Une longue liste qui ne cesse de s'allonger. \n \nQuand il ne fait pas tourner les disques, Vincent Lemieux collabore à la programmation de MUTEK. Depuis 2000, il a aidé à façonner le son et l'image de cet événement, devenu depuis plusieurs années un incontournable dans le circuit des festivals de musique électronique et d'arts numérique à travers le monde. \n\nDans son rôle de patron, A&R et homme à tout faire du label Musique Risquée, qu'il a fondé en compagnie Marc Leclair (Akufen) en 2003 Vincent Lemieux a toujours mis de l'avant le talent local; Guillaume & the Coutu-Dumonts, The Mole, Stephen Beaupré et Akufen ont tous trouvé une oreille attentive chez Musique Risqué, tout comme Bruno Pronsato, Jichael Mackson et Atom Tm.\n\nEn somme, le travail de Vincent Lemieux n'est motivé que par une seule chose, son amour immodéré pour la musique.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-05_VINCENT-LEMIEUX.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/_vincentlemieux_/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/vincent-lemieux-85964219"
+      }
+    ]
+  },
+  "Dimitry": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-05_DIMITRY.png",
+    "links": []
+  },
+  "Duchesse": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-05_DUCHESSE.png",
+    "links": []
+  },
+  "Zack Fox": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-12_ZACK-FOX.png",
+    "links": []
+  },
+  "Tallandskiinny": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-12_TALLANDSKIINNY.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/tallandskiinny/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/tallandskiinny"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/tallandskiinny"
+      }
+    ]
+  },
+  "Gurafiku": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-12_GURAFIKU.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/gurafiku__/"
+      }
+    ]
+  },
+  "Vasimolo b2b ARAM": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-12_VASIMOLO-B2B-ARAM.png",
+    "links": []
+  },
+  "THe LYONZ (Live)": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-12_THE-LYONZ.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/thelyonz/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/THeLYONZ"
+      },
+      {
+        "label": "Site officiel",
+        "url": "https://www.thelyonz.com/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/thelyonz"
+      }
+    ]
+  },
+  "Andie": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-12_ANDIE.png",
+    "links": []
+  },
+  "Mandragora": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-19_MANDRAGORA.png",
+    "links": []
+  },
+  "Elio Elia": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-19_ELIO-ELIA.png",
+    "links": []
+  },
+  "soria": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-19_SORIA.png",
+    "links": []
+  },
+  "Syd Woz": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-19_SYD-WOZ.png",
+    "links": []
+  },
+  "Monsieurmadam": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-19_MONSIEURMADAM.png",
+    "links": []
+  },
+  "JASHIM": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-19_JASHIM.png",
+    "links": []
+  },
+  "Daphni": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-26_DAPHNI.png",
+    "links": []
+  },
+  "Raef": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-26_RAEF.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/raefizm"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/raef100"
+      }
+    ]
+  },
+  "pleurire": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-26_PLEURIRE.png",
+    "links": []
+  },
+  "KARABA": {
+    "description": "La musique et le mouvement ont toujours défini la vie de Karaba. Karaba est né à Grenoble, en France, et à l'âge de sept ans, a déménagé à Montréal. Enfant, Karaba s'inscrit à la danse, qui deviendra la prochaine étape clé de son parcours artistique et son premier amour. Se décrivant comme une immigrée toute sa vie, Karaba a déménagé dans des marchés musicaux importants pour poursuivre ses études de danse, comme New York quand elle avait 20 ans, puis Los Angeles en 2014.\n\nPendant qu'elle était à Los Angeles, Karaba a dansé pour certains des plus gros noms de la musique pop tels que Drake, Camilla Cabello et Selena Gomez, et est apparue dans de nombreux vidéoclips et remises de prix. Lorsqu’une tournée majeure a été annulée en 2016, Karaba s’est sentie impuissante face à la prochaine étape de sa carrière. Elle s’est ensuite orientée vers le DJing et la production musicale, une pensée qui lui trottait dans la tête depuis un certain temps. En s'inscrivant à la DJ Scratch Academy de Los Angeles, elle dit qu'elle a\ntrouvé un objectif artistique renouvelé. \n\nDJ Karaba travaille actuellement sur son propre projet, un EP qui combinera son amour de la création et du mouvement pour les amateurs de musique, et son envie de maîtriser la production. Près de deux ans à travailler à temps plein sur ce projet, Karaba affirme qu’il s’agit d’une des choses les plus enrichissantes qu'elle ait jamais faites. \n\nLa musique de DJ Karaba est électrique et captivante. Il n’y a pas de moment de pause ou de ralentissement. Son intensité, son désir de voir les gens danser et de ressentir la musique comme elle la ressent, est ambitieuse et dévorante. Il y a une joie sans faille à une telle dévotion au son et à se laisser envelopper par sa\npassion.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-26_KARABA.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/djkaraba/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/djkaraba"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/djkaraba"
+      }
+    ]
+  },
+  "KidCrayola": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-26_KIDCRAYOLA.png",
+    "links": []
+  },
+  "Mansa": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-26_MANSA.png",
+    "links": []
+  },
+  "Worakls": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_08-23_WORAKLS.png",
+    "links": []
+  },
+  "Jares": {
+    "description": "DJ et producteur basé à Montréal, Jares tire son inspiration de sa conviction que des sonorités progressives profondes, combinées à un rythme détaillé, peuvent produire un état intérieur d'euphorie et de pleine conscience.\n\nSon style mélange des sons éthérés, orchestraux et progressifs qui explorent les nuances les plus profondes du spectre musical. Avec son son dynamique et son dévouement inébranlable à son métier, il a sorti de la musique sur des labels tels que Katermukke, UV, Beatfreak, UGENIUS, Deep Tales, Steyoyoke, Natura Viva, Harabe et Freegrant Music.\n\nLa musique de Jares est le reflet de son parcours personnel, et il cherche à se connecter avec son public à un niveau plus profond grâce à ses performances chargées d'émotion. Son travail lui a permis de présenter ses sons dans les meilleurs clubs du Canada, y compris le célèbre Stereo Afterhours, et de jouer aux côtés de légendes comme Oliver Koletzki, Eli & Fur, Franky Wah, Hannes Bieger, Miss Monique, Soul Button, Korolova, Henry Saiz et Dosem.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_08-23_JARES.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/jaresmusic/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/JaresMtl"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/jares1"
+      }
+    ]
+  },
+  "Anaïs Ley": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_08-23_ANAIS-LEY.png",
+    "links": []
+  },
+  "Danny Tenaglia": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_08-30_DANNY-TENAGLIA.png",
+    "links": []
+  },
+  "Guillaume Michaud": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_08-30_GUILLAUME-MICHAUD.png",
+    "links": []
+  },
+  "Artistes Surprise": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_ARTISTE-SURPRISE_2026.png",
+    "links": []
+  },
+  "Misstress Barbara": {
+    "description": "Établie dans les années 90, Misstress Barbara (jeu de mots entre Miss et Stress) est une DJ/ productrice pionnière et l'une des premières superstar DJ féminines qui a aidé à inspirer les générations futures avec ses sets Techno explosifs. Tout en étant en tête d'affiche des grands festivals et événements à travers le monde, il y a eu une période dans les années 2000 où elle a été régulièrement classée parmi les 100 meilleurs DJs par DJ Mag.\nNée en Italie, elle a déménagé au Canada à l'âge de 8 ans. Curieuse et passionnée par nature, elle aime explorer de nouveaux domaines et atteindre de nouveaux objectifs. Pour n'en citer que quelques-uns, elle est batteuse, elle détient une licence de pilote de planeur et de pilote privé, elle est diplômée de l'Université en Communications/Cinéma, elle est capitaine de bateau et instructrice de voile, et elle a également lancé sa propre marque de chocolat de fève à barre Barbon Chocolate, fabriquant tout elle-même à la main. Une femme aux nombreux talents en effet.\nMais parmi toutes ses passions, la musique a toujours été son principal centre d'intérêt depuis le début de sa remarquable carrière, qui lui a valu de multiples distinctions (Prix de la meilleure initiative musicale internationale de Montréal en 2001/Meilleur DJ révélation aux UK Underground Music Awards en 2002/Meilleur album électronique de l'année aux GAMIQ Awards en 2009 et nomination pour le meilleur album de danse de l'année aux JUNO Awards du Canada en 2010 pour \"I'm No Human\" / Meilleure DJ de Montréal aux MTL Awards en 2014, pour n'en citer que quelques-unes). Sa discographie extensive se trouve parmi les meilleurs labels Techno du monde, y compris le sien, lancé en 1999 sous le nom de Relentless, qui est devenu Iturnem en 2003. Barbara Brown était autrefois son alter-ego utilisé pour ses productions plus douces, mais elle sort maintenant toute sa musique sous son nom principal, quel que soit le style, comme elle l'a fait pour ses albums \"I'm No Human\" et \"Many Shades of Grey\". Cela pourrait dérouter ses fans de Techno les plus fidèles, bien qu'ils puissent être assurés qu'elle ne s'éloignera jamais de son premier amour véritable : la Techno.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-06_MISSTRESS-BARBARA.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/misstressbarbara"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MisstressBarbara"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/misstressbarbara"
+      }
+    ]
+  },
+  "Ossifer": {
+    "description": "Ossifer est un artiste de techno originaire de Montréal. Spécialisé dans les styles riches en polyrythmies et en harmoniques partielles, une grande partie de son inspiration est tirée des pratiques rituelles de diverses cultures et les états liminaires qu'elles encouragent. Il aime découvrir la musique électronique obscure de toutes les époques et commence à se faire connaître pour ses productions hypnotiques et atmosphériques.\n\nIl est co-directeur de North Of Nowhere Records et membre des collectifs vol. x, Exposé Noir et Homegrown Harvest.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-06_OSSIFER.png",
+    "links": []
+  },
+  "Dameer": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-06_DAMEER.png",
+    "links": []
+  },
+  "mayalabae": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-06_MAYALABAE.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mayalabae/?hl=en"
+      },
+      {
+        "label": "Site officiel",
+        "url": "https://alsocoolmag.com/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/mayanhas"
+      }
+    ]
+  },
+  "Raf Reza": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-06_RAF-REZA.png",
+    "links": []
+  },
+  "Cloudy": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-07_CLOUDY.png",
+    "links": []
+  },
+  "No Police": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-07_NO-POLICE.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/nopolicemusic/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/nopolicemusic"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/nopolicemusic"
+      }
+    ]
+  },
+  "Pyromane": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-07_PYROMANE.png",
+    "links": []
+  },
+  "Teo2k": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-07_TEO2K.png",
+    "links": []
+  },
+  "Kay B": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-07_KAY-B.png",
+    "links": []
+  },
+  "Nether": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/_AUTOxAUTO_crop_center-center_80_none/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-07_NETHER.png",
+    "links": []
+  },
+  "Prospa": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-13_PROSPA.png",
+    "links": []
+  },
+  "Julian Fijma": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-13_JULIAN-FIJMA.png",
+    "links": []
+  },
+  "Elles & U": {
+    "description": "Elles&U est un duo de DJ marocain basé à Montréal. Nées et élevées au sein d'une famille purement marocaine, elles ont passé leurs premières années à se familiariser avec les différents sons et rythmes que Mère Afrique offrait toujours. Leur son combine un mélange d'influences à la fois de leur patrie marocaine et de la diversité artistique et culturelle qu'elles ont découverte depuis leur installation à Montréal. Leur ouverture d’esprit les a conduites vers la musique électronique ; un univers qui leur a permis de se découvrir, de trouver une communauté et de percevoir la vie sous un autre angle. Le résultat est un son organique, progressif, mélodique et minimaliste qui distille leur histoire avec leur expérience de vie actuelle.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-13_ELLES-AND-U.png",
+    "links": [
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/ellesandu"
+      }
+    ]
+  },
+  "Cezaire b2b Didi Han": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-13_CEZAIRE-B2B-DIDI-HAN.png",
+    "links": []
+  },
+  "Didi Han": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-13_DIDI-HAN.png",
+    "links": []
+  },
+  "Cezaire": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-13_CEZAIRE.png",
+    "links": []
+  },
+  "Egyptian Lover": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-27_EGYPTIAN-LOVER.png",
+    "links": []
+  },
+  "Martyn Bootyspoon": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-27_MARTYN-BOOTYSPOON.png",
+    "links": []
+  },
+  "livwutang": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-27_LIVWUTANG.png",
+    "links": []
+  },
+  "Isla Den (DJ Set)": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-27_ISLA-DEN.png",
+    "links": []
+  },
+  "Aamourocean": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-27_AAMOUROCEAN.png",
+    "links": []
+  },
+  "Lorenzi": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-27_LORENZI.png",
+    "links": []
+  },
+  "Yume": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-27_YUME.png",
+    "links": []
+  },
+  "Baby Bimbo": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-27_BABY-BIMBO.png",
+    "links": []
+  },
+  "Eris Drew": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-04_ERIS-DREW.png",
+    "links": []
+  },
+  "Lia Plutonic": {
+    "description": "La DJ house en plein essor, Lia Plutonic, vous emmènera dans un voyage au cœur du son. Avec un catalogue en constante expansion des meilleurs rythmes et mélodies qu'elle peut trouver, sa sélection garantit de faire bouger les corps. Lia vous emportera avec une énergie débordante et des morceaux de danse intemporels choisis spécialement pour toucher votre âme.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-04_LIA-PLUTONIC.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/lia_plutonic/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/lialiyah"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/liaplutonic"
+      }
+    ]
+  },
+  "cori": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-04_CORI.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/corinitachocolat/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=100081999280251"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/corinitadj"
+      }
+    ]
+  },
+  "MIASALAV b2b Mui Mui": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-04_MIASALAV-B2B-MUI-MUI.png",
+    "links": []
+  },
+  "Asha b2b Technique Nado": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-04_ASHA-B2B-TECHNIQUE-NADO.png",
+    "links": []
+  },
+  "Runa b2b Sako": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-04_RUNA-B2B-SAKO.png",
+    "links": []
+  },
+  "Beltran": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-11_BELTRAN.png",
+    "links": []
+  },
+  "Demi Riquísimo": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-11_DEMI-RIQUISIMO.png",
+    "links": []
+  },
+  "Lex Ferenda": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-11_LEX-FERANDA.png",
+    "links": []
+  },
+  "Sumatra": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-11_SUMATRA.png",
+    "links": []
+  },
+  "Enamor": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-11_ENAMOR.png",
+    "links": []
+  },
+  "Ponsif": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-11_PONSIF.png",
+    "links": []
+  },
+  "Eli Brown": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-18_ELI-BROWN.png",
+    "links": []
+  },
+  "MVNGO": {
+    "description": "Ana Alexandra Coman, plus connue sous le nom de \"MVNGO\", est une DJ et productrice de musique roumaine et canadienne. Bien qu'elle se spécialise dans la musique house, son son est plus profond que n'importe quel genre. Son père était DJ en Roumanie, ce qui l'a exposée à la scène musicale underground européenne dès son plus jeune âge. Elle passait ses étés en Europe, ce qui l'a vraiment aidée à développer son son, inspiré par \"la fraîcheur, l'été et l'exotisme\". Qu'il s'agisse de faire la première partie de The Chainsmokers au Beachclub ou de remporter le concours de DJ de la 2022 Yacht Week en Croatie, on peut affirmer sans risque de se tromper que Mvngo est une artiste à surveiller sur la scène house montréalaise.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-18_MVNGO.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mvngothedj/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/mvngothedj"
+      }
+    ]
+  },
+  "YVNNI": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-18_YVNNI.png",
+    "links": []
+  },
+  "Solomun": {
+    "description": "Pour Solomun, la musique n'est pas seulement un outil pour faire danser les gens. La musique est aussi diverse que la vie elle-même : de nombreuses nuances différentes, des moments et des souvenirs à créer. La musique déclenche des émotions et vice versa, et ce genre d'interrelation - avec Solomun représentant la musique et les émotions du public - est ce qui jette le sort autour de ses performances.\n\nSa résidence \"Solomun +1\" à Pacha Ibiza a commencé de manière assez décontractée - en faisant sa propre chose, en déplaçant la cabine du DJ au centre du club pour être proche des gens sur la piste de danse au lieu du podium habituel, et en introduisant un concept assez inconnu sur l'île : une soirée avec seulement un ami. Depuis son commencement en 2013, \"Solomun +1\" est depuis longtemps un nom familier à Ibiza, avec son dérivé \"Solomun +LIVE\" sur l'île et des éditions +1 partout dans le monde, que ce soit à Berlin, New York ou Tulum.\n\nLa même énergie a été à l'origine de la création de son label musical Diynamic en 2006 : un groupe de frères avec des idées similaires, un goût pour la musique et la volonté de se soutenir mutuellement. Et, avec le recul, Diynamic s'est avéré être la rampe de lancement de nombreuses carrières d'artistes.\n\nTout cela a commencé quelque part de petit, mais en étant lui-même, un animateur honnête au sens le plus vrai du terme, pas une persona de scène, Solomun est devenu tellement recherché. Il a prouvé que la musique est plus importante que le lieu où elle est jouée, car ses sets, remixes et productions rassemblent les gens. Et toujours, il envoie le même message : \"Personne n'est pas aimé.\"",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_05-21_SOLOMUN_SOLOMUN.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/solomun"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/solomun"
+      }
+    ]
+  },
+  "Eric Prydz": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_05-29_ERIC-PRYDZ_ERIC-PRYDZ.png",
+    "links": []
+  },
+  "Qrion": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_05-29_ERIC-PRYDZ_QRION.png",
+    "links": []
+  },
+  "Laure": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_05-29_ERIC-PRYDZ_LAURE.png",
+    "links": []
+  },
+  "Purple Disco Machine": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-05_DEFECTED_PURPLE-DISCO-MACHINE.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/purple_disco_machine/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/purplediscomachine"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/purplediscomachine"
+      }
+    ]
+  },
+  "Arielle Free": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-05_DEFECTED_ARIELLE-FREE.png",
+    "links": []
+  },
+  "Edd": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-05_DEFECTED_EDD.png",
+    "links": []
+  },
+  "Chase & Status": {
+    "description": "Chase and Status sont Will Kennard et Saul Milton. Ils sont l'un des groupes britanniques les plus réussis de la dernière décennie. Leur premier album révolutionnaire \"More Than A Lot\" est certifié Or et a été suivi par l'album sophomore \"No More Idols\" - le deuxième album britannique le plus vendu au Royaume-Uni l'année de sa sortie. Ayant maintenant dépassé le statut de double platine, \"No More Idols\" incluait le succès \"Blind Faith\" classé dans le top 5 au Royaume-Uni avec Liam Bailey, ainsi que \"End Credits\" avec Plan B, classé dans le top 10 au Royaume-Uni. Le troisième album studio de Chase and Status, \"Brand New Machine\", a également fait ses débuts à la deuxième place des charts d'albums et a engendré deux singles du top 10 pour le groupe.\n\nJuste après une performance virale à la Boiler Room en 2023, le duo a sorti son LP de 10 titres \"2 Ruff Vol 1\". Le projet est sorti en trombe avec le single à succès \"Baddadan\", qui passe plus de 15 semaines dans le Top 10 des charts britanniques et est déjà certifié Or. Ils ont ensuite sorti \"Liquor & Cigarettes\", \"Say The Word\" et \"Selecta\". Parmi les artistes invités, on retrouve des noms tels que Stefflon Don, Arrdee et le chanteur nominé aux Grammy Awards Flowdan. IRAH et Takura font également leur retour sur plusieurs pistes de la mixtape. Le duo s'est également associé à des producteurs de gen D&B comme Bou, Mozey et Hedex. Ce qui a commencé comme un projet passionné pour le duo a fini par dominer les charts britanniques.\n\nAvec la sortie de \"2 Ruff Vol 1\", C&S ont également annoncé que leur spectacle live reviendrait en février 2024, avec une tournée britannique à guichets fermés. C&S feront escale à Cardiff, Londres et Manchester.\n\nCette incroyable nouvelle musique fait suite à \"What Came Before\", le sixième album studio de Chase and Status, qui s'est classé n°4 dans le classement officiel des albums britanniques. Composé de 13 pistes, \"What Came Before\" a distillé 15 ans d'expériences incomparables dans un album audacieux et revigorant; informé par des tournées mondiales, des spectacles en tête d'affiche à guichets fermés, cinq albums, de nombreux prix, du succès dans les charts, du respect underground, des collaborations et des remixes de haut niveau, et, surtout, cette énergie inébranlable sur la piste de danse qui reste aussi tangible et transformative maintenant qu'au tout début.\n\nPour les pionniers Chase & Status, faire de la musique est un processus constant de régénération et de raffinement qui revient à plein cercle, et ce nouveau single met en lumière leur présence inimitable dans la scène de la musique électronique britannique. Avec plus de 2 milliards de streams impressionnants, Will et Saul ne montrent aucun signe de ralentissement.\n\nCélébrant plus de 15 ans dans le jeu, Chase and Status sont un talent de premier plan dans la scène électronique britannique. Ils ont été le premier acte électronique britannique à être en tête d'affiche à l'O2 Arena, ont eu plus de 2 milliards de streams, 2,6 millions de ventes d'albums, vendu des millions de billets dans le monde entier, ont été nominés aux Brit Awards pour le meilleur groupe, ont été en tête d'affiche à Glastonbury sur la Other Stage, ont été en tête d'affiche à Reading & Leeds et ont collaboré avec des artistes comme Dizzee Rascal, Kano, Snoop Dogg, Rihanna, Rita Ora, Major Lazer, Nile Rogers, Slaves et bien d'autres encore.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-12_CHASE-STATUS_CHASE-STATUS.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/chaseandstatus/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/chaseandstatus"
+      },
+      {
+        "label": "Site officiel",
+        "url": "https://chaseandstatus.co.uk/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/chaseandstatus"
+      }
+    ]
+  },
+  "Steve Aoki": {
+    "description": "Avec près de 3 milliards de streams musicaux à son actif, Steve Aoki est un véritable visionnaire. Billboard a décrit ce producteur musical, artiste, créateur de mode, entrepreneur, pionnier des NFT et fondateur de Dim Mak Records, deux fois nominé aux Grammy Awards, comme « l’un des artistes les plus demandés au monde ». Détenteur du record du monde Guinness du « musicien ayant le plus voyagé au cours d’une même année civile », Aoki s’est produit dans presque tous les grands festivals du monde, notamment Coachella, l’Ultra Music Festival, Lollapalooza, le Fuji Rock Festival, Tomorrowland et l’Electric Daisy Carnival. Aoki a également fait la couverture des derniers numéros des magazines Entrepreneur, Success, Electronic Musician et Adweek en tant que « Visionnaire de l’année ».\n\nArtiste solo aux succès mondiaux et aux frontières musicales floues, Aoki a collaboré avec une liste impressionnante d’artistes aux styles variés, parmi lesquels BTS, Maluma, Snoop Dogg, Linkin Park, blink-182, Louis Tomlinson de One Direction, Machine Gun Kelly, Lil Uzi Vert, 2 Chainz et Daddy Yankee, sans compter la sortie de trois singles certifiés platine, six singles certifiés or et plus de dix titres classés dans le Top 10 des charts radio.\n\nAoki aborde chaque nouveau projet avec le même dévouement que celui dont il a fait preuve dans ses réalisations passées, notamment le documentaire Netflix I’ll Sleep When I’m Dead (2016), nominé aux Grammy Awards, et ses mémoires BLUE: The Color of Noise (2019). En 2012, il a également fondé THE AOKI FOUNDATION afin de soutenir les organisations actives dans le domaine des sciences du cerveau et de la recherche en la matière. Son influent label Dim Mak, qui a fêté son 25e anniversaire en 2021, est connu pour avoir servi de tremplin à la carrière d’artistes de premier plan tels que Bloc Party, The Chainsmokers, Bloody Beetroots, The Kills, Zedd et Diplo.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-13_STEVE-AOKI_STEVE-AOKI.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/steveaoki/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/steveaoki/"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+      }
+    ]
+  },
+  "Łaszewo": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-13_STEVE-AOKI_LASZEWO.png",
+    "links": []
+  },
+  "Laidback Luke": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-13_STEVE-AOKI_LAIDBACK-LUKE.png",
+    "links": []
+  },
+  "Linney": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-13_STEVE-AOKI_LINNEY.png",
+    "links": []
+  },
+  "Black Coffee": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-23_BLACK-COFFEE_BLACK-COFFEE.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/realblackcoffee/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/realblackcoffee"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/realblackcoffee"
+      }
+    ]
+  },
+  "Four Tet": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-26_FOUR-TET_FOUR-TET.png",
+    "links": []
+  },
+  "Adam Port et &ME": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_07-03_PRESS-PIC_AdamPort-and-ME.JPG",
+    "links": []
+  },
+  "Marsh": {
+    "description": "Certains artistes dégagent une passion totale et sans excuses pour leur métier. Une immersion totale, un dévouement absolu et un engagement complet ; un appel bien plus qu'une carrière, un amour bien plus qu'un travail, la réalisation d'une ambition de toute une vie.\nUne ambition comme celle de Tom Marshall. Chouchou sur la liste du célèbre label britannique Anjunadeep et l'une des stars montantes de la scène de la house mélodique, Marsh a sculpté un son distinctement chaleureux et émotionnel depuis ses débuts au milieu des années 2010. Inspiré par son amour adolescent pour le son de la trance émotionnellement riche du début des années 2000 et la musicalité d'actes de drum & bass transversaux comme Pendulum, il a distillé ces influences disparates dans un style signature captivant et soulful.\nMaintenant trois albums au compteur de sa carrière - son premier album \"Life On The Shore\" en 2017, le très acclamé album \"Lailonie\" chez Anjunadeep en 2020, suivi par son dernier opus, \"Endless\" en 2023. Tom a une série d'hymnes largement soutenus dans sa discographie, totalisant des millions de streams et recevant le soutien des plus grands artistes de la musique électronique, dont Joris Voorn, Cassian, Pete Tong, Diplo et RÜFÜS DU SOL.\nEn plus de se bâtir une réputation remarquable en tant que producteur, Tom s'est imposé comme l'un des nouveaux DJs de la nouvelle génération destinés à suivre les traces des pionniers de la house progressive tels qu'Eric Prydz et Sasha. Avec des sets mémorables en tête d'affiche dans des lieux prestigieux comme Printworks London et The Brooklyn Mirage déjà à son actif. Ajoutez à cela une série de spectacles complets, dont le London Electric Brixton et l'Exchange LA lors de sa récente tournée Endless Album Tour, c'est la vie vers laquelle Tom travaille depuis qu'il a fait ses premiers beats il y a dix ans.\nDepuis qu'il a quitté ses racines britanniques pour son domicile actuel en Amérique du Nord, et le mode de vie nomade et perpétuellement en tournée qui s'en est suivi, Tom diffuse des diffusions en direct tous les trimestres exclusivement sur sa chaîne YouTube, recueillant des millions de vues. Les lieux comprennent Seven Sisters au Royaume-Uni, Estes Park au Colorado, aux États-Unis et plus récemment au Castello Zamittello à Malte.\nÀ la recherche perpétuelle de son âme, son métier continue de l'aider à articuler ses émotions et à naviguer à travers les défis de la vie. Cet investissement émotionnel et cet engagement sincère envers son art, ses fans et la culture, incarnent Marsh, et se retrouvent dans tout ce qu'il fait. Et dans tout ce qu'il s'apprête à faire...",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-04_ANJUNADEEP_MARSH.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/marshmusician/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/marshmusician"
+      },
+      {
+        "label": "Site officiel",
+        "url": "https://www.marshmusician.com/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/marshmusician"
+      }
+    ]
+  },
+  "Christian Löffler (Live)": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-04_ANJUNADEEP_CHRISTIAN-LOFFLER.png",
+    "links": []
+  },
+  "Eric Luttrell b2b Jody Wisternoff": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-04_ANJUNADEEP_MARSH.png",
+    "links": []
+  },
+  "Nicky Elisabeth": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-04_ANJUNADEEP_NICKY-ELISABETH.png",
+    "links": []
+  },
+  "Zeds Dead": {
+    "description": "Zeds Dead illustre parfaitement l'esprit malicieusement hybride de l'EDM. Mélangeant hip-hop, jungle, house, bass et autres, la musique du duo torontois est un bécher regorgeant de composés inattendus. Après avoir commencé à faire du hip-hop sous le nom de Mass Productions en 2004, le duo s'est orienté vers un son plus électronique en 2009. Dès lors, ils se sont spécialisés dans la fusion d'electro house, de breaks et de dubstep sur des labels comme Mad Decent de Diplo et Dim Mak de Steve Aoki. Leur premier album n'arrivera que des années plus tard, alors qu'ils ont déjà participé à des festivals dans le monde entier et collaboré avec des artistes comme Omar Linx et Oliver Heldens. Mais Northern Lights a montré jusqu'où ils étaient capables de pousser leur son. Alors que le monde de l'EDM évoluait au fil des ans, Zed's Dead est resté fidèle à sa signature percutante, ce qui lui a valu une foule de fans dévoués aux quatre coins du monde.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-10_ZEDS-DEAD_ZEDS-DEAD.png",
+    "links": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/zedsdead"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/zedsdead/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/zedsdead"
+      },
+      {
+        "label": "Site officiel",
+        "url": "https://www.zedsdead.net"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/intl-fr/artist/67qogtRNI0GjUr8PlaG6Zh"
+      }
+    ]
+  },
+  "Whethan": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_07-10_PRESS-PIC_WHETHAN.jpg",
+    "links": []
+  },
+  "Cloonee": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_07-11_PRESS-PIC_CLOONEE-1.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/cloonee/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/clooneeuk/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/cloonee"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+      }
+    ]
+  },
+  "Kaskade": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-18_KASKADE_KASKADE.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/kaskade/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/kaskade"
+      }
+    ]
+  },
+  "Cid": {
+    "description": "L'artiste CID, basé à New York, est un producteur lauréat d'un Grammy et propriétaire d'un label dont le son illimité englobe tout, de la tech house de fin de journée aux hits dance crossover. L'un des DJ les plus demandés dans le domaine de la dance music aujourd'hui, il s'est produit dans des festivals internationaux, notamment EDC Las Vegas, Tomorrowland et Bonnaroo, et a été la tête d'affiche de clubs et de salles de spectacle dans le monde entier.\n En juin 2019, CID a lancé Night Service Only, son label indépendant en partenariat avec Spinnin' Records. Servant de la musique strictement centrée sur les clubs, l'empreinte est le canal de CID pour les réchauffeurs de fin de soirée et les hymnes de pointe.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-18_KASKADE_CID.png",
+    "links": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/CIDofficial"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/cidmusic/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/cidmusic"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/intl-fr/artist/4FCzCS0KEgb0rgySWINItO"
+      }
+    ]
+  },
+  "Wes Mills": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-18_KASKADE_WES-MILLS.png",
+    "links": []
+  },
+  "TIZI": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-18_KASKADE_TIZI.png",
+    "links": []
+  },
+  "Francis Mercier": {
+    "description": "Le DJ, producteur et propriétaire de label haïtien Francis Mercier est une véritable force musicale. Il trace des voies riches culturellement, mélodiques et pleines d’énergie dans la House music, en fusionnant percussions, fréquences spirituelles et influences du monde entier. Ses productions distinctives transcendent les cultures, les générations et les genres—lui valant un succès dans les palmarès et une résonance profonde auprès des publics internationaux.\n\nEn tant que fondateur de Deep Root Records et de Solèy, Francis allie art et entrepreneuriat. DRR a contribué au lancement de carrières d’artistes reconnus mondialement, totalisant plus de 500 millions d’écoutes et de tournées internationales. Solèy—“Soleil” en créole haïtien—est son hommage au multiculturalisme et aux sons rayonnants du Levant, de l’Afrique et des Caraïbes.\n\nQu’il se produise à Londres, Ibiza, Marrakech, New York ou Paris, Francis crée des expériences à la fois empreintes d’âme et électrisantes—invitation au lien, à la joie et au mouvement.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-25_FRANCIS-MERCIER_FRANCIS-MERCIER.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/francismercier/?hl=en"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/djfrancismercier/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/francis-mercier"
+      }
+    ]
+  },
+  "DJ Bullet B2B DJ K9": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-25_FRANCIS-MERCIER_DJBULLET-B2B-DJK9.png",
+    "links": []
+  },
+  "Hernan Cattaneo": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_08-29_HERNAN-CATTANEO_HERNAN-CATTANEO.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/djhernancattaneo/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/hernancattaneo"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/hernancattaneo"
+      }
+    ]
+  },
+  "Sammy Virji": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC24_OUTILS-COMM_SITE-WEB_VISUELS-ARTISTES_07-28_SAMMY-VIRJI.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/sammyvirji/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SammyVirjiUK"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/sammyvirji"
+      }
+    ]
   }
 }
