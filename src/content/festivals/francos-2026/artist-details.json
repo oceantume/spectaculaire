@@ -25,71 +25,6 @@
       }
     ]
   },
-  "Ingrid St-Pierre": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2EZSYrkXsBwlLwgINrSYCX/8466c8dda0933baaf793a473c2caf599/ff26-ingrid_st_pierre.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=4hbjvpLXkGk"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-      }
-    ]
-  },
-  "Emilie-Claire Barlow ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4kHaP5mAdxVoe7hUxCrWOo/dd817aa944c0246c3ab6c69563d2d901/ff26_emilie_claire_barlow.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=3x2OjIyC2cM"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-      }
-    ]
-  },
-  "Julien Clerc": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7e4XrYJ4wx6QGHedypLtqq/16ae1b9e7f3e59e7bd336ef05a78d753/ff26_julien_clerc.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=65oY8QePnfc"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-      }
-    ]
-  },
-  "Pierre Lapointe": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4QZmIPeHA7ANfqboEoWQ8T/5a9c21c539f15c46aff2f542aef1ff27/ff26_pierre_lapointe.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=LVGHHqWCv9A"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-      }
-    ]
-  },
-  "Cœur de Pirate ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7HBUN2KNvpCQHD20rWASNv/a81c8b8a43dc3ce7cf3e619d5860e97a/ff26_coeur_de_pirate.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=rQtHk1X722s"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-      }
-    ]
-  },
   "Kassav'": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1ZX8Mhh0JJ9ZU6Vv7s7b0O/3417ed55905c4cacf4618c79ed92300f/ff26_kassav__3_.jpg",
     "description": "Grand Événement",
@@ -104,6 +39,19 @@
       }
     ]
   },
+  "Ingrid St-Pierre": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2EZSYrkXsBwlLwgINrSYCX/8466c8dda0933baaf793a473c2caf599/ff26-ingrid_st_pierre.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=4hbjvpLXkGk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+      }
+    ]
+  },
   "Ariane Roy": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4GRnp93BNwj2BABr36Xrkq/703ee81e4c36c6ad46b170aaffa3eaa0/ff26_ariane_roy.jpg",
     "links": [
@@ -114,6 +62,19 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+      }
+    ]
+  },
+  "Emilie-Claire Barlow ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4kHaP5mAdxVoe7hUxCrWOo/dd817aa944c0246c3ab6c69563d2d901/ff26_emilie_claire_barlow.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=3x2OjIyC2cM"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
       }
     ]
   },
@@ -144,6 +105,32 @@
       }
     ]
   },
+  "Julien Clerc": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7e4XrYJ4wx6QGHedypLtqq/16ae1b9e7f3e59e7bd336ef05a78d753/ff26_julien_clerc.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=65oY8QePnfc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+      }
+    ]
+  },
+  "Pierre Lapointe": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4QZmIPeHA7ANfqboEoWQ8T/5a9c21c539f15c46aff2f542aef1ff27/ff26_pierre_lapointe.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=LVGHHqWCv9A"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+      }
+    ]
+  },
   "KORIASS": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3JKNLpSSuGAQjcHQNrQnbW/db2c4f17c7d195a1890ac7c75bc6a063/ff26_koriass.jpg",
     "links": [
@@ -167,6 +154,19 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+      }
+    ]
+  },
+  "Cœur de Pirate ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7HBUN2KNvpCQHD20rWASNv/a81c8b8a43dc3ce7cf3e619d5860e97a/ff26_coeur_de_pirate.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=rQtHk1X722s"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
       }
     ]
   },
@@ -262,7 +262,7 @@
     ]
   },
   "Bobby Bazini": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4w3rSC0cvYkOGSUFBUORnO/0c4878ea942dc6dc87b470acd06c7c8e/ff26_bobby_bazini.jpg",
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4w3rSC0cvYkOGSUFBUORnO/39e3a7c86da3ee9d83f51e424c5db4a5/ff26_bobby_bazini__2_.jpg",
     "links": [
       {
         "label": "YouTube",
@@ -1169,7 +1169,7 @@
       }
     ]
   },
-  "KidCrayola": {
+  "Boutcha Bwa + KidCrayola": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6tRWZoy0LK9NZIU10loNx8/80d2798e5d60090da4d0ea7c9a92e383/ff26_kid_crayola.jpg",
     "links": []
   },
@@ -1325,7 +1325,7 @@
     "links": [
       {
         "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=V0RpHN4WmCA"
+        "url": "https://www.youtube.com/watch?v=156Erx9a4Wc"
       },
       {
         "label": "Spotify",

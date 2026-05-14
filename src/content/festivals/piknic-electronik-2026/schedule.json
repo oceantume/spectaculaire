@@ -5,7 +5,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "AMPER (NAB b2b Prïa b2b Zac Martel)",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-05-17",
@@ -13,7 +13,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Syana",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-05-17",
@@ -21,7 +21,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Jordan Gardner",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-05-17",
@@ -29,7 +29,7 @@
     "paid": true,
     "time": "20:00",
     "artist": "MCRDJ (MCR-T b2b MRD b2b TDJ)",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-05-18",
@@ -37,7 +37,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Gene Tellem b2b Kris Guilty",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-05-18",
@@ -45,7 +45,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Napo Lugo",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-05-18",
@@ -53,7 +53,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Brunello",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-05-18",
@@ -61,7 +61,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Josh Baker",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-05-21",
@@ -69,7 +69,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Solomun",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-05-29",
@@ -77,7 +77,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Laure",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-05-29",
@@ -85,7 +85,7 @@
     "paid": true,
     "time": "18:30",
     "artist": "Qrion",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-05-29",
@@ -93,7 +93,7 @@
     "paid": true,
     "time": "20:00",
     "artist": "Eric Prydz",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-05-31",
@@ -101,7 +101,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Traxence",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-05-31",
@@ -109,7 +109,7 @@
     "paid": true,
     "time": "17:30",
     "artist": "CPR Annie",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-05-31",
@@ -117,7 +117,7 @@
     "paid": true,
     "time": "19:15",
     "artist": "newfriend",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-05-31",
@@ -125,7 +125,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Arielle Roberge b2b Cece The Red",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-05-31",
@@ -133,7 +133,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Dombresky",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-05",
@@ -141,7 +141,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Edd",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-06-05",
@@ -149,7 +149,7 @@
     "paid": true,
     "time": "18:30",
     "artist": "Arielle Free",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-06-05",
@@ -157,7 +157,7 @@
     "paid": true,
     "time": "20:00",
     "artist": "Purple Disco Machine",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-06-07",
@@ -165,7 +165,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Boomy",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-07",
@@ -173,7 +173,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Djeity",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-07",
@@ -181,7 +181,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Alley Kay",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-07",
@@ -189,7 +189,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Tali Rose",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-07",
@@ -197,7 +197,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Tobiahs",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-07",
@@ -205,7 +205,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Marten Lou",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-12",
@@ -213,7 +213,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Chase & Status",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-06-13",
@@ -221,7 +221,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Linney",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-06-13",
@@ -229,7 +229,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Laidback Luke",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-06-13",
@@ -237,7 +237,7 @@
     "paid": true,
     "time": "19:00",
     "artist": "Łaszewo",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-06-13",
@@ -245,7 +245,7 @@
     "paid": true,
     "time": "20:15",
     "artist": "Steve Aoki",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-06-14",
@@ -253,7 +253,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Po",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-14",
@@ -261,7 +261,7 @@
     "paid": true,
     "time": "17:30",
     "artist": "DJ Playgirl",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-14",
@@ -269,7 +269,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Tokyo Mamii",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-14",
@@ -277,7 +277,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Mandiz",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-14",
@@ -285,7 +285,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Chus & Ceballos",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-21",
@@ -293,7 +293,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "BEAMSKII",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-21",
@@ -301,7 +301,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "D.Blavatsky",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-21",
@@ -309,7 +309,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Shadow Wizard Money Gang",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-21",
@@ -317,7 +317,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Rebel Of Sleep",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-21",
@@ -325,7 +325,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Hyunji-A",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-21",
@@ -333,7 +333,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Sultan + Shepard (DJ Set)",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-23",
@@ -341,7 +341,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Black Coffee",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-06-24",
@@ -349,7 +349,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Black Coffee",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-06-26",
@@ -357,7 +357,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Four Tet",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-06-28",
@@ -365,7 +365,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "TEYKIRISI",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-28",
@@ -373,7 +373,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Felix Patry",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-28",
@@ -381,7 +381,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "DJ Swisha",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-28",
@@ -389,7 +389,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Bea Hardy",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-28",
@@ -397,7 +397,7 @@
     "paid": true,
     "time": "17:15",
     "artist": "Ash Lauryn",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-06-28",
@@ -405,7 +405,7 @@
     "paid": true,
     "time": "18:30",
     "artist": "Jayda G",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-03",
@@ -413,7 +413,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Adam Port et &ME",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-04",
@@ -421,7 +421,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Marsh",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-04",
@@ -429,7 +429,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Christian Löffler (Live)",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-04",
@@ -437,7 +437,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Eric Luttrell b2b Jody Wisternoff",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-04",
@@ -445,7 +445,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Nicky Elisabeth",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-05",
@@ -453,7 +453,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Duchesse",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-05",
@@ -461,7 +461,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Dimitry",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-05",
@@ -469,7 +469,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Vincent Lemieux",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-05",
@@ -477,7 +477,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Icky Magdala",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-05",
@@ -485,7 +485,7 @@
     "paid": true,
     "time": "18:30",
     "artist": "ekitwanda",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-05",
@@ -493,7 +493,7 @@
     "paid": true,
     "time": "20:30",
     "artist": "Nia Archives (DJ Set)",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-10",
@@ -501,7 +501,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Whethan",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-10",
@@ -509,7 +509,7 @@
     "paid": true,
     "time": "20:00",
     "artist": "Zeds Dead",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-11",
@@ -517,7 +517,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Cloonee",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-12",
@@ -525,7 +525,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Andie",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-12",
@@ -533,7 +533,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "THe LYONZ (Live)",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-12",
@@ -541,7 +541,7 @@
     "paid": true,
     "time": "19:00",
     "artist": "Vasimolo b2b ARAM",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-12",
@@ -549,7 +549,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Gurafiku",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-12",
@@ -557,7 +557,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Tallandskiinny",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-12",
@@ -565,7 +565,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Zack Fox",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-18",
@@ -573,7 +573,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "TIZI",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-18",
@@ -581,7 +581,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Wes Mills",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-18",
@@ -589,7 +589,7 @@
     "paid": true,
     "time": "19:15",
     "artist": "Cid",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-18",
@@ -597,7 +597,7 @@
     "paid": true,
     "time": "20:30",
     "artist": "Kaskade",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-19",
@@ -605,7 +605,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "JASHIM",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-19",
@@ -613,7 +613,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Monsieurmadam",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-19",
@@ -621,7 +621,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Syd Woz",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-19",
@@ -629,7 +629,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "soria",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-19",
@@ -637,7 +637,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Elio Elia",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-19",
@@ -645,7 +645,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Mandragora",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-25",
@@ -653,7 +653,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "DJ Bullet B2B DJ K9",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-25",
@@ -661,7 +661,7 @@
     "paid": true,
     "time": "18:30",
     "artist": "Francis Mercier",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-07-26",
@@ -669,7 +669,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Mansa",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-26",
@@ -677,7 +677,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "KidCrayola",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-26",
@@ -685,7 +685,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "KARABA",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-26",
@@ -693,7 +693,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "pleurire",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-26",
@@ -701,7 +701,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Raef",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-07-26",
@@ -709,7 +709,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Daphni",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-08-23",
@@ -717,7 +717,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Anaïs Ley",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-08-23",
@@ -725,7 +725,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Jares",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-08-23",
@@ -733,7 +733,7 @@
     "paid": true,
     "time": "20:00",
     "artist": "Worakls",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-08-29",
@@ -741,7 +741,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Hernan Cattaneo",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-08-30",
@@ -749,7 +749,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Artistes Surprise",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-08-30",
@@ -757,7 +757,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Guillaume Michaud",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-08-30",
@@ -765,7 +765,7 @@
     "paid": true,
     "time": "18:30",
     "artist": "Danny Tenaglia",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-05",
@@ -773,7 +773,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Sammy Virji",
-    "series": "off"
+    "type": "off"
   },
   {
     "date": "2026-09-06",
@@ -781,7 +781,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Raf Reza",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-06",
@@ -789,7 +789,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "mayalabae",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-06",
@@ -797,7 +797,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Dameer",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-06",
@@ -805,7 +805,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Ossifer",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-06",
@@ -813,7 +813,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Misstress Barbara",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-07",
@@ -821,7 +821,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Nether",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-07",
@@ -829,7 +829,7 @@
     "paid": true,
     "time": "17:30",
     "artist": "Kay B",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-07",
@@ -837,7 +837,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Teo2k",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-07",
@@ -845,7 +845,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Pyromane",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-07",
@@ -853,7 +853,7 @@
     "paid": true,
     "time": "18:30",
     "artist": "No Police",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-07",
@@ -861,7 +861,7 @@
     "paid": true,
     "time": "20:00",
     "artist": "Cloudy",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-13",
@@ -869,7 +869,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Cezaire",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-13",
@@ -877,7 +877,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Didi Han",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-13",
@@ -885,7 +885,7 @@
     "paid": true,
     "time": "20:00",
     "artist": "Cezaire b2b Didi Han",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-13",
@@ -893,7 +893,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Elles & U",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-13",
@@ -901,7 +901,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Julian Fijma",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-13",
@@ -909,7 +909,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Prospa",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-27",
@@ -917,7 +917,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Baby Bimbo",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-27",
@@ -925,7 +925,7 @@
     "paid": true,
     "time": "17:00",
     "artist": "Yume",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-27",
@@ -933,7 +933,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Lorenzi",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-27",
@@ -941,7 +941,7 @@
     "paid": true,
     "time": "19:00",
     "artist": "Aamourocean",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-27",
@@ -949,7 +949,7 @@
     "paid": true,
     "time": "20:00",
     "artist": "Isla Den (DJ Set)",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-27",
@@ -957,7 +957,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "livwutang",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-27",
@@ -965,7 +965,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Martyn Bootyspoon",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-09-27",
@@ -973,7 +973,7 @@
     "paid": true,
     "time": "20:00",
     "artist": "Egyptian Lover",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-04",
@@ -981,7 +981,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Runa b2b Sako",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-04",
@@ -989,7 +989,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Asha b2b Technique Nado",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-04",
@@ -997,7 +997,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "MIASALAV b2b Mui Mui",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-04",
@@ -1005,7 +1005,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "cori",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-04",
@@ -1013,7 +1013,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Lia Plutonic",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-04",
@@ -1021,7 +1021,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Eris Drew",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-11",
@@ -1029,7 +1029,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Ponsif",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-11",
@@ -1037,7 +1037,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Enamor",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-11",
@@ -1045,7 +1045,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Sumatra",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-11",
@@ -1053,7 +1053,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "Lex Ferenda",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-11",
@@ -1061,7 +1061,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "Demi Riquísimo",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-11",
@@ -1069,7 +1069,7 @@
     "paid": true,
     "time": "19:30",
     "artist": "Beltran",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-18",
@@ -1077,7 +1077,7 @@
     "paid": true,
     "time": "16:00",
     "artist": "YVNNI",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-18",
@@ -1085,7 +1085,7 @@
     "paid": true,
     "time": "18:00",
     "artist": "MVNGO",
-    "series": "main"
+    "type": "main"
   },
   {
     "date": "2026-10-18",
@@ -1093,6 +1093,6 @@
     "paid": true,
     "time": "19:30",
     "artist": "Eli Brown",
-    "series": "main"
+    "type": "main"
   }
 ]
