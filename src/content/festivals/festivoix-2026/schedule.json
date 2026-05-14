@@ -1,0 +1,828 @@
+[
+  {
+    "date": "2026-06-25",
+    "venue": "Scène de la Vieille Prison",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Stéphane Archambault"
+  },
+  {
+    "date": "2026-06-25",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "20:15",
+    "artist": "Jay Scøtt"
+  },
+  {
+    "date": "2026-06-25",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "21:55",
+    "artist": "Roxane Bruneau"
+  },
+  {
+    "date": "2026-06-25",
+    "venue": "Scène du Jardin",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Annie Villeneuve"
+  },
+  {
+    "date": "2026-06-25",
+    "venue": "Scène du Monastère",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Pierre Lapointe"
+  },
+  {
+    "date": "2026-06-25",
+    "venue": "Scène du Quai",
+    "paid": true,
+    "time": "23:15",
+    "artist": "Gab Bouchard"
+  },
+  {
+    "date": "2026-06-25",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Caïman Fu et invités"
+  },
+  {
+    "date": "2026-06-25",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Jane & Compagnie"
+  },
+  {
+    "date": "2026-06-25",
+    "venue": "Île de la famille",
+    "paid": false,
+    "time": "11:00",
+    "artist": "Basile Seni"
+  },
+  {
+    "date": "2026-06-25",
+    "venue": "Île de la famille",
+    "paid": false,
+    "time": "14:00",
+    "artist": "Basile Seni"
+  },
+  {
+    "date": "2026-06-25",
+    "venue": "Scènes éphémères",
+    "paid": false,
+    "time": "16:30",
+    "artist": "Fil Leclerc"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scène de la Cour",
+    "paid": true,
+    "time": "17:10",
+    "artist": "Tina Leon"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scène de la Vieille Prison",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Antoine Corriveau"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "20:15",
+    "artist": "Mike Demero"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "21:15",
+    "artist": "Cheat Codes"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "22:30",
+    "artist": "Lost Frequencies"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scène du Jardin",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Jonas & the Jaguar Moon"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scène du Monastère",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Cœur de Pirate"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scène du Quai",
+    "paid": true,
+    "time": "23:30",
+    "artist": "La Grand-Messe"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Mario2"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Flytz"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "B.A.R.F. et Sylvain De Carufel"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scènes éphémères",
+    "paid": true,
+    "time": "16:30",
+    "artist": "Jonas & the Jaguar Moon"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Île de la famille",
+    "paid": false,
+    "time": "11:00",
+    "artist": "Charlotte-Laure Gardien"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Île de la famille",
+    "paid": false,
+    "time": "14:00",
+    "artist": "Charlotte-Laure Gardien"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scène du Quai",
+    "paid": false,
+    "time": "18:00",
+    "artist": "Cece the red"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "Scènes éphémères",
+    "paid": false,
+    "time": "19:30",
+    "artist": "Cintho"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scène de la Cour",
+    "paid": true,
+    "time": "17:10",
+    "artist": "Kamilou"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scène de la Vieille Prison",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Gosier"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "20:15",
+    "artist": "Sarahmée"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "21:00",
+    "artist": "Koriass"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "22:30",
+    "artist": "Ice Cube"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scène du Jardin",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Daran"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scène du Monastère",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Nathalie Simard"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scène du Quai",
+    "paid": true,
+    "time": "23:30",
+    "artist": "Bran Van 3000 Elektrio"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Enfants Sauvages"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "DJ Manifest"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Alice Moore et Balcon sans Princesse"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scène de la Chapelle",
+    "paid": false,
+    "time": "10:00",
+    "artist": "Chorale l’Orphéon de Trois-Rivières"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scène du Quai",
+    "paid": false,
+    "time": "18:00",
+    "artist": "Calamine"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scènes éphémères",
+    "paid": false,
+    "time": "16:30",
+    "artist": "Alice Moore"
+  },
+  {
+    "date": "2026-06-27",
+    "venue": "Scènes éphémères",
+    "paid": false,
+    "time": "19:30",
+    "artist": "Ivanohé"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "Scène de la Vieille Prison",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Caracol"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "20:10",
+    "artist": "Marie-Mai"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "21:55",
+    "artist": "Wyclef Jean"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "Scène du Jardin",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Ron Artis II"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "Scène du Monastère",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Supertramp Memories"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "Scène du Quai",
+    "paid": true,
+    "time": "23:15",
+    "artist": "Radio Radio"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "Scènes éphémères",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Caracol"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "Scène de la Chapelle",
+    "paid": false,
+    "time": "10:00",
+    "artist": "Les Petits Chanteurs de Trois-Rivières"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "Scène du Quai",
+    "paid": false,
+    "time": "18:00",
+    "artist": "Grand Eugène"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "Scènes éphémères",
+    "paid": false,
+    "time": "16:30",
+    "artist": "Jim Déguédine"
+  },
+  {
+    "date": "2026-07-01",
+    "venue": "Scène de la Cour",
+    "paid": true,
+    "time": "17:10",
+    "artist": "Cindy Bédard"
+  },
+  {
+    "date": "2026-07-01",
+    "venue": "Scène de la Vieille Prison",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Ariane Simard"
+  },
+  {
+    "date": "2026-07-01",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "19:55",
+    "artist": "Andie Therio"
+  },
+  {
+    "date": "2026-07-01",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "20:35",
+    "artist": "Matt Lang"
+  },
+  {
+    "date": "2026-07-01",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "22:15",
+    "artist": "Ernest"
+  },
+  {
+    "date": "2026-07-01",
+    "venue": "Scène du Jardin",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Savannah Jade"
+  },
+  {
+    "date": "2026-07-01",
+    "venue": "Scène du Monastère",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Dave Fenley"
+  },
+  {
+    "date": "2026-07-01",
+    "venue": "Scène du Quai",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Les Frères Lemay & Les Frères Fellini"
+  },
+  {
+    "date": "2026-07-01",
+    "venue": "Scènes éphémères",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Cindy Bédard"
+  },
+  {
+    "date": "2026-07-01",
+    "venue": "Scène du Quai",
+    "paid": false,
+    "time": "18:00",
+    "artist": "Urban Science Brass Band"
+  },
+  {
+    "date": "2026-07-01",
+    "venue": "Scène Urbaine ABI",
+    "paid": false,
+    "time": "23:00",
+    "artist": "Jim Déguédine"
+  },
+  {
+    "date": "2026-07-01",
+    "venue": "Scènes éphémères",
+    "paid": false,
+    "time": "16:30",
+    "artist": "Basile Seni"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Scène de la Cour",
+    "paid": true,
+    "time": "17:10",
+    "artist": "Trio Nelligan Joue Miles Davis"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Scène de la Vieille Prison",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Caravane"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "20:00",
+    "artist": "The Flatliners"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "20:50",
+    "artist": "Streetlight Manifesto"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "22:15",
+    "artist": "Lagwagon"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Scène du Jardin",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Pascale Picard"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Scène du Monastère",
+    "paid": true,
+    "time": "19:00",
+    "artist": "France D’Amour"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Scène du Quai",
+    "paid": true,
+    "time": "23:15",
+    "artist": "Jérôme 50"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Thick Glasses"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Okapi"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Scènes éphémères",
+    "paid": true,
+    "time": "16:30",
+    "artist": "Pascale Picard"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Île de la famille",
+    "paid": false,
+    "time": "11:00",
+    "artist": "Valérie Milot"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Île de la famille",
+    "paid": false,
+    "time": "14:00",
+    "artist": "Valérie Milot"
+  },
+  {
+    "date": "2026-07-02",
+    "venue": "Scène du Quai",
+    "paid": false,
+    "time": "18:00",
+    "artist": "We Told You So"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène de la Cour",
+    "paid": true,
+    "time": "17:10",
+    "artist": "Boubé"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène de la Vieille Prison",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Ska Sound System"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "20:10",
+    "artist": "Deadly Apples"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "21:00",
+    "artist": "We Came As Romans"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "22:30",
+    "artist": "Papa Roach"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène du Jardin",
+    "paid": true,
+    "time": "18:00",
+    "artist": "IMA"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène du Monastère",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Zachary Richard"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène du Quai",
+    "paid": true,
+    "time": "23:30",
+    "artist": "Angine de Poitrine"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "MR.82"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Matteo Cole"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Major Lee et Mat&Marc"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Île de la famille",
+    "paid": false,
+    "time": "11:00",
+    "artist": "Colette Piroüette"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Île de la famille",
+    "paid": false,
+    "time": "14:00",
+    "artist": "Colette Piroüette"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène du Quai",
+    "paid": false,
+    "time": "18:00",
+    "artist": "Peer Pressure"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scènes éphémères",
+    "paid": false,
+    "time": "16:30",
+    "artist": "LaRedoux"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scènes éphémères",
+    "paid": false,
+    "time": "19:30",
+    "artist": "Franz Schuller"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scène de la Cour",
+    "paid": true,
+    "time": "17:10",
+    "artist": "Soleil Launière"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scène de la Vieille Prison",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Kinji00"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "20:10",
+    "artist": "DJ Montana"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "21:00",
+    "artist": "OMI"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "22:30",
+    "artist": "Taio Cruz"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scène du Jardin",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Basia Bulat"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scène du Monastère",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Paul Piché"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scène du Quai",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Caboose Wagon"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scène du Quai",
+    "paid": true,
+    "time": "23:30",
+    "artist": "Mahéja"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Aybee et Simon Roy"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Velours Velours"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scène de la Chapelle",
+    "paid": false,
+    "time": "10:00",
+    "artist": "Valérie Milot"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scènes éphémères",
+    "paid": false,
+    "time": "16:30",
+    "artist": "Mon premier FestiVoix"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "Scènes éphémères",
+    "paid": false,
+    "time": "19:30",
+    "artist": "Jessee Pépin"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "Scène de la Cour",
+    "paid": true,
+    "time": "17:10",
+    "artist": "Mônica Freire"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "Scène de la Vieille Prison",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Gabriel Fredette"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "20:30",
+    "artist": "Laura Niquay"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "Scène du Fleuve",
+    "paid": true,
+    "time": "21:25",
+    "artist": "Daniel Bélanger"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "Scène du Jardin",
+    "paid": true,
+    "time": "18:00",
+    "artist": "Catherine Leduc"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "Scène du Monastère",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Les Sœurs Boulay & Elliot Maginot"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "Scène de la Chapelle",
+    "paid": false,
+    "time": "10:00",
+    "artist": "Jessee Pépin"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "Scène du Quai",
+    "paid": false,
+    "time": "18:00",
+    "artist": "Coco Rose"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "Scènes éphémères",
+    "paid": false,
+    "time": "16:30",
+    "artist": "Elliot Maginot"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "Scènes éphémères",
+    "paid": false,
+    "time": "19:30",
+    "artist": "Catherine Alone"
+  }
+]

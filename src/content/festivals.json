@@ -104,6 +104,19 @@
     "draft": true
   },
   {
+    "name": "FestiVoix de Trois-Rivières 2026",
+    "shortName": "FestiVoix 2026",
+    "slug": "festivoix-2026",
+    "year": 2026,
+    "region": "Trois-Rivières",
+    "features": ["filter-free", "no-genre"],
+    "dataDir": "festivoix-2026",
+    "sourceUrl": "https://festivoix.com/fr/programmation/",
+    "sourceLabel": "festivoix.com",
+    "sourceAttribution": "Contenu appartenant au FestiVoix de Trois-Rivières",
+    "draft": true
+  },
+  {
     "name": "Piknic Électronik 2026",
     "shortName": "Piknic 2026",
     "slug": "piknic-electronik-2026",

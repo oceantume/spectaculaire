@@ -181,6 +181,10 @@ const res = await fetch(detailUrl);
 Fetch each detail page for description, full image, and social links.
 Use `node-html-parser` for parsing (already a devDependency).
 
+**Date in a parent container:** Some sites render items flat inside a day wrapper (e.g. `<div class="day"><h3>25 juin</h3>...<div class="item">`) where the date is on the ancestor, not inside the item. A date field inside the item may show the server's current date rather than the show date — always verify against what's rendered visually. Parse the date from the nearest ancestor that holds it.
+
+**Paid/free on detail pages:** When paid/free isn't in the listing HTML, check detail pages for a ticketing button whose text is "Billets" (paid) vs "Gratuit" (free). This is worth fetching since you're already getting bios and links. Also check venue/scene sub-pages — they sometimes state "gratuits à HH h et payants à HH h" for mixed-access stages.
+
 **G. Image-only schedule (no structured data)**
 Detection signal: the page HTML contains only `<img>` tags pointing to schedule PNG files with no repeating artist elements or API calls in the network captures.
 
