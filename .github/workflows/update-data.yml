@@ -18,6 +18,9 @@ jobs:
         with:
           node-version: "22"
 
+      - name: Install dependencies
+        run: npm ci
+
       - name: Fetch and transform schedule
         run: node scripts/update.ts
 
@@ -25,6 +28,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/schedule.json
-          git diff --cached --quiet || git commit -m "Automatically update schedule.json"
+          git add src/content/festivals/
+          git diff --cached --quiet || git commit -m "Automatically update festival data"
           git push
