@@ -141,5 +141,18 @@
     "sourceLabel": "piknicelectronik.com",
     "sourceAttribution": "Contenu appartenant à Piknic Électronik",
     "draft": true
+  },
+  {
+    "name": "Festival Musique du Bout du Monde 2026",
+    "shortName": "FMBM 2026",
+    "slug": "musique-du-bout-du-monde-2026",
+    "year": 2026,
+    "region": "Gaspé",
+    "features": ["filter-free", "no-genre"],
+    "dataDir": "musique-du-bout-du-monde-2026",
+    "sourceUrl": "https://musiqueduboutdumonde.com/programmation/",
+    "sourceLabel": "musiqueduboutdumonde.com",
+    "sourceAttribution": "Festival Musique du Bout du Monde",
+    "draft": false
   }
 ]

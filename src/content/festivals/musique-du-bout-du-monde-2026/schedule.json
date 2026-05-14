@@ -1,0 +1,191 @@
+[
+  {
+    "date": "2026-08-05",
+    "time": "21:00",
+    "venue": "Le Frontibus",
+    "paid": false,
+    "artist": "Kallisto"
+  },
+  {
+    "date": "2026-08-06",
+    "time": "23:30",
+    "venue": "Bistro-bar Le Brise Bise",
+    "paid": false,
+    "artist": "Marie Céleste"
+  },
+  {
+    "date": "2026-08-06",
+    "time": "23:30",
+    "venue": "Le Paquebot",
+    "paid": false,
+    "artist": "DJ P∅ptrt"
+  },
+  {
+    "date": "2026-08-06",
+    "time": "18:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Le Milieu"
+  },
+  {
+    "date": "2026-08-06",
+    "time": "20:00",
+    "venue": "Site du chapiteau Harbour - Scène Hydro-Québec sous le chapiteau",
+    "paid": true,
+    "artist": "Manhu"
+  },
+  {
+    "date": "2026-08-06",
+    "time": "21:30",
+    "venue": "Site du chapiteau Harbour - Scène Hydro-Québec sous le chapiteau",
+    "paid": true,
+    "artist": "Un coin du ciel par Alex Burger et invité·es : Mara Tremblay, Fred Fortin & Stephen Faulkner"
+  },
+  {
+    "date": "2026-08-07",
+    "time": "23:30",
+    "venue": "Bistro-bar Le Brise Bise",
+    "paid": false,
+    "artist": "Fovelle"
+  },
+  {
+    "date": "2026-08-07",
+    "time": "23:30",
+    "venue": "Le Paquebot",
+    "paid": false,
+    "artist": "Alliance SuPRM"
+  },
+  {
+    "date": "2026-08-07",
+    "time": "18:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Grèn Sémé"
+  },
+  {
+    "date": "2026-08-07",
+    "time": "16:30",
+    "venue": "Scène TELUS au sommet du Mont-Béchervaise",
+    "paid": true,
+    "artist": "Alysha Brilla"
+  },
+  {
+    "date": "2026-08-07",
+    "time": "20:00",
+    "venue": "Site du chapiteau Harbour - Scène Hydro-Québec sous le chapiteau",
+    "paid": true,
+    "artist": "Rau_ze"
+  },
+  {
+    "date": "2026-08-07",
+    "time": "21:30",
+    "venue": "Site du chapiteau Harbour - Scène Hydro-Québec sous le chapiteau",
+    "paid": true,
+    "artist": "Les Louanges"
+  },
+  {
+    "date": "2026-08-08",
+    "time": "16:00",
+    "venue": "Auberge sous les arbres",
+    "paid": false,
+    "artist": "Jeanne Côté"
+  },
+  {
+    "date": "2026-08-08",
+    "time": "23:30",
+    "venue": "Bistro-bar Le Brise Bise",
+    "paid": false,
+    "artist": "DJ Nalee"
+  },
+  {
+    "date": "2026-08-08",
+    "time": "08:00",
+    "venue": "Le Paquebot",
+    "paid": false,
+    "artist": "Poirier"
+  },
+  {
+    "date": "2026-08-08",
+    "time": "23:30",
+    "venue": "Le Paquebot",
+    "paid": false,
+    "artist": "DJ Sugarface Belfo"
+  },
+  {
+    "date": "2026-08-08",
+    "time": "13:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Caracol"
+  },
+  {
+    "date": "2026-08-08",
+    "time": "15:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Zalam Kao"
+  },
+  {
+    "date": "2026-08-08",
+    "time": "18:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Kelly Bado"
+  },
+  {
+    "date": "2026-08-08",
+    "time": "16:30",
+    "venue": "Scène TELUS au sommet du Mont-Béchervaise",
+    "paid": true,
+    "artist": "Waahli"
+  },
+  {
+    "date": "2026-08-08",
+    "time": "20:00",
+    "venue": "Site du chapiteau Harbour - Scène Hydro-Québec sous le chapiteau",
+    "paid": true,
+    "artist": "Kizaba"
+  },
+  {
+    "date": "2026-08-08",
+    "time": "21:30",
+    "venue": "Site du chapiteau Harbour - Scène Hydro-Québec sous le chapiteau",
+    "paid": true,
+    "artist": "Dowdeline"
+  },
+  {
+    "date": "2026-08-09",
+    "time": "10:00",
+    "venue": "Le Petit Café de L'Anse",
+    "paid": false,
+    "artist": "Tout feu"
+  },
+  {
+    "date": "2026-08-09",
+    "time": "13:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Coups de coeur FMBM 2026"
+  },
+  {
+    "date": "2026-08-09",
+    "time": "17:30",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Less Toches"
+  },
+  {
+    "date": "2026-08-09",
+    "time": "04:45",
+    "venue": "Lever du Soleil au Cap-Bon-Ami dans le parc national Forillon",
+    "paid": true,
+    "artist": "Aysanabee"
+  },
+  {
+    "date": "2026-08-09",
+    "time": "14:30",
+    "venue": "Scène TELUS au sommet du Mont-Béchervaise",
+    "paid": true,
+    "artist": "Maïa Barouh"
+  }
+]

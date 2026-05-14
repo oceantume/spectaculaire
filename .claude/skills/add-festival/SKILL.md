@@ -70,6 +70,8 @@ Fetch `{siteOrigin}/wp-json/` and inspect:
 
 Caution: POST-only custom endpoints often serve user-favorites or ICS export features, not the full schedule. Verify by trying an empty POST body. If the response is an empty list or HTML, the REST API is not the data source — fall through to HTML.
 
+Caution: Custom post types exposed via `wp/v2/types` may lack scheduling data (date, time, venue) — those fields are often only in the rendered HTML. If the REST endpoints return only post metadata and taxonomy IDs, fall through to HTML parsing (pattern F).
+
 **E. FestApp widget (Convex backend)**
 Search the page source for `festapp` or `api.sync.festapp.io`. If found, the schedule is served by a Convex backend and this approach gives full structured data including dates, times, venues, paid/free, bios, images, and links.
 
@@ -206,6 +208,11 @@ Download the images and use the `Read` tool — Claude can extract text from the
 | `description` | bio / description — strip HTML, `<p>` → `\n\n` |
 | `imageUrl` | main image — use base URL, strip resize params |
 | `links` | social links array |
+
+**Three fields to look hard for — don't skip them:**
+- **`paid`** — check detail pages, venue descriptions, or ticketing pages before giving up. Don't default to `true` without trying.
+- **`imageUrl`** — prefer artist portrait over event poster; check detail pages if listing only has thumbnails.
+- **YouTube link** — powers the in-app player. Check for embed URLs, watch URLs, or bare video IDs and convert as needed with `youtubeEmbedToWatch()`.
 
 **Genre not available?** Omit the `genre` field from rows (it is optional in `Row`). Add `"no-genre"` to the festival's `features` array in `festivals.json` to hide the genre column in the UI.
 
