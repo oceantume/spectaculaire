@@ -55,7 +55,7 @@ const allFestivals = (import.meta.env.DEV ? festivalData : festivalData.filter((
   <main class="page-main">
     <PageNav festival={festival} allFestivals={allFestivals} />
     <ScheduleTable schedule={schedule} slug={festival.slug} features={festival.features} />
-    <ArtistDialog src={`/${festival.slug}/artist-details.json`} />
+    {!festival.features.includes("no-artist-dialog") && <ArtistDialog src={`/${festival.slug}/artist-details.json`} />}
     {
       festival.sourceUrl && (
         <footer class="page-footer">

@@ -181,6 +181,13 @@ const res = await fetch(detailUrl);
 Fetch each detail page for description, full image, and social links.
 Use `node-html-parser` for parsing (already a devDependency).
 
+**G. Image-only schedule (no structured data)**
+Detection signal: the page HTML contains only `<img>` tags pointing to schedule PNG files with no repeating artist elements or API calls in the network captures.
+
+Download the images and use the `Read` tool — Claude can extract text from them directly. Hardcode the extracted data as a static array in the ingestion script (no fetch calls). Note that the data won't auto-update; the hardcoded array must be edited manually if the festival publishes a revised schedule image.
+
+**Reference implementation:** `scripts/festivals/festival-generations-2026.ts`
+
 ## 2. Extract and map fields
 
 | Target field | Look for |

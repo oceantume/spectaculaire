@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2026-07-23",
+    "time": "18:00",
+    "artist": "Cam Kahin",
+    "venue": "Scène principale",
+    "paid": true
+  },
+  {
+    "date": "2026-07-23",
+    "time": "19:45",
+    "artist": "Exterio",
+    "venue": "Scène principale",
+    "paid": true
+  },
+  {
+    "date": "2026-07-23",
+    "time": "21:30",
+    "artist": "Three Days Grace",
+    "venue": "Scène principale",
+    "paid": true
+  },
+  {
+    "date": "2026-07-24",
+    "time": "18:00",
+    "artist": "Classe Moyenne",
+    "venue": "Scène principale",
+    "paid": true
+  },
+  {
+    "date": "2026-07-24",
+    "time": "19:30",
+    "artist": "Kaïn",
+    "venue": "Scène principale",
+    "paid": true
+  },
+  {
+    "date": "2026-07-24",
+    "time": "21:30",
+    "artist": "Québec Redneck Bluegrass Project",
+    "venue": "Scène principale",
+    "paid": true
+  },
+  {
+    "date": "2026-07-25",
+    "time": "18:15",
+    "artist": "Billie du Page",
+    "venue": "Scène principale",
+    "paid": true
+  },
+  {
+    "date": "2026-07-25",
+    "time": "20:00",
+    "artist": "Mike Posner",
+    "venue": "Scène principale",
+    "paid": true
+  },
+  {
+    "date": "2026-07-25",
+    "time": "21:50",
+    "artist": "Wiz Khalifa",
+    "venue": "Scène principale",
+    "paid": true
+  }
+]
