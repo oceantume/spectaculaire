@@ -117,6 +117,19 @@
     "draft": true
   },
   {
+    "name": "Osheaga 2026",
+    "shortName": "Osheaga 2026",
+    "slug": "osheaga-2026",
+    "year": 2026,
+    "region": "Montréal",
+    "features": ["all-paid", "no-genre"],
+    "dataDir": "osheaga-2026",
+    "sourceUrl": "https://osheaga.com/fr/programmation/artistes",
+    "sourceLabel": "osheaga.com",
+    "sourceAttribution": "Contenu appartenant au Festival Osheaga",
+    "draft": true
+  },
+  {
     "name": "Piknic Électronik 2026",
     "shortName": "Piknic 2026",
     "slug": "piknic-electronik-2026",
