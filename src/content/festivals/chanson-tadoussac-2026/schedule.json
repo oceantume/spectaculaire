@@ -376,5 +376,68 @@
     "paid": false,
     "date": "2026-06-14",
     "time": "11:30"
+  },
+  {
+    "artist": "Viviane Audet",
+    "venue": "Chapelle protestante - soirées d'été au Jardin",
+    "paid": false,
+    "date": "2026-06-28",
+    "time": "15:00"
+  },
+  {
+    "artist": "Louise Latraverse",
+    "venue": "Jardin du Festival - soirées d'été au Jardin",
+    "paid": false,
+    "date": "2026-08-04",
+    "time": "20:00"
+  },
+  {
+    "artist": "Les Hay Babies",
+    "venue": "Jardin du Festival - soirées d'été au Jardin",
+    "paid": false,
+    "date": "2026-08-08",
+    "time": "20:00"
+  },
+  {
+    "artist": "Caroline Savoie",
+    "venue": "Jardin du Festival - soirées d'été au Jardin",
+    "paid": false,
+    "date": "2026-08-08",
+    "time": "20:00"
+  },
+  {
+    "artist": "Le Diable à Cinq",
+    "venue": "Jardin du Festival - soirées d'été au Jardin",
+    "paid": false,
+    "date": "2026-08-18",
+    "time": "19:30"
+  },
+  {
+    "artist": "Mauve fougère",
+    "venue": "Jardin du Festival - soirées d'été au Jardin",
+    "paid": false,
+    "date": "2026-08-18",
+    "time": "19:30"
+  },
+  {
+    "artist": "Vague de cirque",
+    "venue": "Stationnement de la plage",
+    "paid": false,
+    "date": "2026-08-20",
+    "time": "14:00"
+  },
+  {
+    "artist": "Coco Belliveau",
+    "venue": "Jardin du Festival - soirées d'été au Jardin",
+    "paid": false,
+    "date": "2026-08-28",
+    "time": "19:30"
+  },
+  {
+    "artist": "Banitsa",
+    "venue": "Jardin de l'Hôtel Tadoussac",
+    "paid": false,
+    "date": "2026-09-03",
+    "time": "17:00"
   }
 ]

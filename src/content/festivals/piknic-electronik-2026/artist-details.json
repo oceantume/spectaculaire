@@ -654,6 +654,24 @@
       }
     ]
   },
+  "Molyness": {
+    "description": "Molyness est une DJ et productrice marocaine basée à Montréal. Toujours inspirée par son éducation culturelle, Molyness apporte à la scène une fusion d'influences gnawa, subsahariennes, berlinesques et orchestrales. Elle décrit son style comme étant \"mélodique-techno\". L'essentiel de son évolution en tant qu'artiste vient de chacune de ses performances live - apprendre à jauger le public et l'espace est quelque chose qui demande une interaction avec l'énergie qui lui est donnée par son public. Des années après sa première performance, Molyness a affiné son art, développant un style expérimental qui l'encourage, ainsi que son public, à se laisser aller.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_05-21_SOLOMUN_SOLOMUN.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/molyness_/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/molyness99"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/molyness"
+      }
+    ]
+  },
   "Eric Prydz": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_05-29_ERIC-PRYDZ_ERIC-PRYDZ.png",
     "links": []

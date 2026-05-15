@@ -68,6 +68,14 @@
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "17:00",
+    "artist": "Molyness",
+    "type": "off"
+  },
+  {
+    "date": "2026-05-21",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "19:00",
     "artist": "Solomun",
     "type": "off"
   },

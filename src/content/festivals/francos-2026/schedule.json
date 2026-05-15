@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-06-10",
+    "time": "19:00",
+    "venue": "Monument-National",
+    "paid": true,
+    "artist": "Projection de YOROÏ"
+  },
+  {
     "date": "2026-06-11",
     "time": "20:00",
     "venue": "Centre Bell",
