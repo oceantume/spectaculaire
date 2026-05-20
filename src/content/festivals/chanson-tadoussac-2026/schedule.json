@@ -21,28 +21,28 @@
     "time": "19:30"
   },
   {
-    "artist": "Coup d'envoi | El Balcón",
+    "artist": "El Balcón | Coup d'envoi",
     "venue": "Hall de l'Hôtel Tadoussac",
     "paid": false,
     "date": "2026-06-11",
     "time": "18:00"
   },
   {
-    "artist": "Spectacle jeunesse | Bon Débarras",
+    "artist": "Bon Débarras | Spectacle jeunesse",
     "venue": "Jardin Hydro-Québec",
     "paid": false,
     "date": "2026-06-11",
     "time": "13:30"
   },
   {
-    "artist": "Coup d'envoi | Les New Cackle Sisters",
+    "artist": "Les New Cackle Sisters | Coup d'envoi",
     "venue": "Le Gibard",
     "paid": false,
     "date": "2026-06-11",
     "time": "20:00"
   },
   {
-    "artist": "Coup d'envoi | Sam Mallais",
+    "artist": "Sam Mallais | Coup d'envoi",
     "venue": "Pub de la Micro",
     "paid": false,
     "date": "2026-06-11",
@@ -126,6 +126,20 @@
     "time": "20:00"
   },
   {
+    "artist": "El Balcón",
+    "venue": "Gazebo de la promenade",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "11:30"
+  },
+  {
+    "artist": "Dany Placard",
+    "venue": "Le Gibard",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "22:00"
+  },
+  {
     "artist": "Philippe B",
     "venue": "Les Cayes",
     "paid": false,
@@ -187,13 +201,6 @@
     "paid": false,
     "date": "2026-06-12",
     "time": "21:00"
-  },
-  {
-    "artist": "Traversier | El Balcón",
-    "venue": "Traversier STQ",
-    "paid": false,
-    "date": "2026-06-12",
-    "time": "11:40"
   },
   {
     "artist": "Les Chemins d'écriture | Le collectif du samedi",
@@ -294,6 +301,20 @@
     "time": "16:00"
   },
   {
+    "artist": "Crachat",
+    "venue": "Le Gibard",
+    "paid": false,
+    "date": "2026-06-13",
+    "time": "22:00"
+  },
+  {
+    "artist": "Artiste Surprise",
+    "venue": "Lieux surprises",
+    "paid": false,
+    "date": "2026-06-13",
+    "time": "11:30"
+  },
+  {
     "artist": "Pop-up | To",
     "venue": "Lieux surprises",
     "paid": false,
@@ -308,14 +329,14 @@
     "time": "18:30"
   },
   {
-    "artist": "Tour de l'Islet du samedi 1 | Brigitte Jardin & Veranda",
+    "artist": "Brigitte Jardin & Veranda | Tour de l'Islet du samedi 1",
     "venue": "Pointe de l'Islet",
     "paid": false,
     "date": "2026-06-13",
     "time": "10:00"
   },
   {
-    "artist": "Tour de l'Islet du samedi 2 | Brigitte Jardin & Veranda",
+    "artist": "Brigitte Jardin & Veranda | Tour de l'Islet du samedi 2",
     "venue": "Pointe de l'Islet",
     "paid": false,
     "date": "2026-06-13",
@@ -329,18 +350,18 @@
     "time": "14:00"
   },
   {
-    "artist": "Concert pour toutes les oreilles | Alphonse Bisaillon",
+    "artist": "Alphonse Bisaillon | Concert pour toutes les oreilles",
     "venue": "Scène Desjardins",
     "paid": false,
     "date": "2026-06-13",
     "time": "10:00"
   },
   {
-    "artist": "Traversier | Bon Débarras",
-    "venue": "Traversier STQ",
+    "artist": "Bon Débarras | formule duo",
+    "venue": "Sentier de la Coupe",
     "paid": false,
     "date": "2026-06-13",
-    "time": "16:00"
+    "time": "15:00"
   },
   {
     "artist": "Match d'impro musicale",
@@ -364,14 +385,14 @@
     "time": "09:00"
   },
   {
-    "artist": "Tour de l'Islet du dimanche 1 | Ben Herbert Larue & Maude Sonier",
+    "artist": "Ben Herbert Larue & Maude Sonier | Tour de l'Islet du samedi 1",
     "venue": "Pointe de l'Islet",
     "paid": false,
     "date": "2026-06-14",
     "time": "11:00"
   },
   {
-    "artist": "Tour de l'Islet du dimanche 2 | Ben Herbert Larue & Maude Sonier",
+    "artist": "Ben Herbert Larue & Maude Sonier | Tour de l'Islet du samedi 2",
     "venue": "Pointe de l'Islet",
     "paid": false,
     "date": "2026-06-14",

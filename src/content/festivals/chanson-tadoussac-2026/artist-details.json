@@ -1,15 +1,15 @@
 {
-  "Spectacle jeunesse | Bon Débarras": {
+  "Bon Débarras | Spectacle jeunesse": {
     "description": "Bon Débarras est le fruit de la rencontre musicale entre Dominic Desrochers, Jean-François Dumas et Véronique Plasse. Récipiendaire du Félix Album de l’année – Traditionnel avec son opus Repères, le groupe se distingue par ses compositions originales et des climats musicaux alliant guitare, banjo, violon et harmonica sur des airs accentués de podorythmie, de gigue et de percussion corporelle. Bien ancré dans ses racines québécoises, ce trio montréalais se laisse aussi inspirer par ses voyages et ses rencontres pour offrir une musique grondeuse d’amour et berçante d’énergie.",
     "imageUrl": "https://gg.festapp.io/ebf70b4a-bfdd-44d0-9e42-3fef014f36be",
     "links": []
   },
-  "Coup d'envoi | El Balcón": {
+  "El Balcón | Coup d'envoi": {
     "description": "El Balcón est un groupe montréalais qui œuvre dans le métissage folklorique de différentes traditions musicales du monde. En résulte un nouveau genre de folklore vivant, une musique festive et dansante dans une esthétique traditionnelle qui fait rêver et voyager. On note dans leurs influences majeures les musiques traditionnelles du Mexique et de Cuba ainsi que celles de la Grèce et de la Turquie. Les violons, les cordes, les voix et la danse s’illustrent sous le rythme des percussions endiablées. Une expérience profonde et introspective de sonorités envoûtantes et puissantes qui ensorcellent, une célébration des musiques traditionnelles du monde.\nSur scène, le groupe est flamboyant, l’énergie du mélange des folklores basée sur l’improvisation crée des moments uniques et inoubliables. Lors de leurs performances, les pièces du groupe se renouvellent constamment grâce à la connexion entre les musicien.nes et le public, fidèles à l’héritage des musiques folkloriques qui ont cette fonction de partage et de communion.\nDans une poussée de développement international, suite à leur quatrième opus Errante, le groupe se produit dans divers festivals au Canada et en Europe ainsi qu’à certaines vitrines musicales de renom tels que Folk Alliance International, Pacific Contact, Folk Canada, MUZ et tant d’autres. Les membres du groupe se lancent maintenant dans une autre série de concerts pour présenter Errante au public et continuent leur chemin de création en faisant honneur aux musiques des traditions et pour amener un vent de fraîcheur au catalogue musical moderne des folklores du monde.",
     "imageUrl": "https://gg.festapp.io/9649e172-b339-42f2-86ba-f80a4395c250",
     "links": []
   },
-  "Coup d'envoi | Sam Mallais": {
+  "Sam Mallais | Coup d'envoi": {
     "description": "Sam Mallais est un artiste acadien qui électrise la scène avec un son rock-blues psychédélique. Son spectacle transporte le public dans un univers intense et rétro, porté par sa voix unique et ses compositions vibrantes.",
     "imageUrl": "https://gg.festapp.io/0081abe2-70ba-4514-b82a-8d3aa4a9adb1",
     "links": []
@@ -52,7 +52,7 @@
       }
     ]
   },
-  "Coup d'envoi | Les New Cackle Sisters": {
+  "Les New Cackle Sisters | Coup d'envoi": {
     "description": "Un spectacle tout en finesse, consacré au répertoire ahurissant et encore méconnu des De Zurik Sisters, devenues stars des premières émissions de musique country américaine à la radio dans les années 1940, grâce à un style de yodel incomparable.\nDeux sœurs-chanteuses d'un autre temps. Accompagnées à la guitare, leurs chansons sont de petites mécaniques merveilleuses qui répondent à une logique insaisissable. Elles se succèdent comme les pages d’un album-photo, donnant lieu à une série d’aventures poétiques aux minuscules rebondissements.",
     "imageUrl": "https://gg.festapp.io/a285571c-2d2c-4ef2-ad28-03346ac8e76f",
     "links": []
@@ -155,7 +155,7 @@
     "imageUrl": "https://gg.festapp.io/f4d9d885-59ea-4b95-8e85-1f2850f9ab65",
     "links": []
   },
-  "Traversier | El Balcón": {
+  "El Balcón": {
     "description": "El Balcón est un groupe montréalais qui œuvre dans le métissage folklorique de différentes traditions musicales du monde. En résulte un nouveau genre de folklore vivant, une musique festive et dansante dans une esthétique traditionnelle qui fait rêver et voyager. On note dans leurs influences majeures les musiques traditionnelles du Mexique et de Cuba ainsi que celles de la Grèce et de la Turquie. Les violons, les cordes, les voix et la danse s’illustrent sous le rythme des percussions endiablées. Une expérience profonde et introspective de sonorités envoûtantes et puissantes qui ensorcellent, une célébration des musiques traditionnelles du monde.\nSur scène, le groupe est flamboyant, l’énergie du mélange des folklores basée sur l’improvisation crée des moments uniques et inoubliables. Lors de leurs performances, les pièces du groupe se renouvellent constamment grâce à la connexion entre les musicien.nes et le public, fidèles à l’héritage des musiques folkloriques qui ont cette fonction de partage et de communion.\nDans une poussée de développement international, suite à leur quatrième opus Errante, le groupe se produit dans divers festivals au Canada et en Europe ainsi qu’à certaines vitrines musicales de renom tels que Folk Alliance International, Pacific Contact, Folk Canada, MUZ et tant d’autres. Les membres du groupe se lancent maintenant dans une autre série de concerts pour présenter Errante au public et continuent leur chemin de création en faisant honneur aux musiques des traditions et pour amener un vent de fraîcheur au catalogue musical moderne des folklores du monde.",
     "imageUrl": "https://gg.festapp.io/8959a803-dd11-4cc4-b6f7-c3c35463165b",
     "links": []
@@ -303,8 +303,8 @@
     ]
   },
   "Les Chemins d'écriture | Le collectif du vendredi": {
-    "description": "Les Chemins d’écriture - le collectif\nL’ensemble des artistes sont rassemblés à la Chapelle protestante et présentent tour à tour quelques chansons de leur répertoire.\nPossibilité de les voir avec les passeports La totale, Vidéotron, La tournée, La tournée du vendredi et/ou du samedi.\nPour une 23e année consécutive, huit artistes émergent·e·s seront également révélé·e·s au public grâce aux Chemins d’écriture : Brigitte Jardin - Édouard Tremblay-Grenier - Embo/Phlébite - Georges Ouel - Maude Sonier - Naïma Frank - Superchérie. C’est dans une volonté de soutenir la relève en chanson francophone que le Festival a mis sur pied en 2003 cette résidence de cinq jours en écriture de chanson. Au terme de ce séjour de création imaginé avec la complicité du musicien Xavier Lacouture, c’est ensemble qu’iels braveront la scène pour y présenter le fruit individuel et collectif de leur travail.\n \nCe projet a été rendu possible en partie grâce à Musicaction et au gouvernement du Canada.",
-    "imageUrl": "https://gg.festapp.io/8afc2d16-d7e2-4030-9278-3a1e5e6ebcc4",
+    "description": "Les Chemins d’écriture - le collectif\nL’ensemble des artistes sont rassemblés à la Chapelle protestante et présentent tour à tour quelques chansons de leur répertoire.\nPossibilité de les voir avec les passeports La totale, Vidéotron, La tournée, La tournée du vendredi et/ou du samedi.\nPour une 23e année consécutive, huit artistes émergent·e·s seront également révélé·e·s au public grâce aux Chemins d’écriture : Brigitte Jardin - Claudie Létourneau - Édouard Tremblay-Grenier - Embo/Phlébite - Georges Ouel - Marie Amali - Maude Sonier - Superchérie. C’est dans une volonté de soutenir la relève en chanson francophone que le Festival a mis sur pied en 2003 cette résidence de cinq jours en écriture de chanson. Au terme de ce séjour de création imaginé avec la complicité du musicien Xavier Lacouture, c’est ensemble qu’iels braveront la scène pour y présenter le fruit individuel et collectif de leur travail.\n \nCe projet a été rendu possible en partie grâce à Musicaction et au gouvernement du Canada.",
+    "imageUrl": "https://gg.festapp.io/94633ffb-e186-494b-ba5a-3104120b9e9d",
     "links": []
   },
   "Les Reynette": {
@@ -537,6 +537,40 @@
       }
     ]
   },
+  "Dany Placard": {
+    "description": "Depuis les années 2000, Dany Placard enchaîne les albums solos et les tournées un peu partout dans la province. De sa ville natale au Saguenay jusqu’à Montréal, ses textes poignants et ses mélodies folk accrocheuses ont résonné aux quatre coins du Québec depuis ses débuts au sein du groupe Plywood ¾. Qu’on pense à Rang de l’église (2005), Raccourci (2008), Placard (2010), Santa Maria (2014) et l’acclamé Full Face (2017), au fil du temps, ses albums ont tous été chaudement accueillis par la critique et le public.\n\nÀ sa carrière d’auteur-compositeur-interprète s’ajoute de la réalisation pour plusieurs artistes connus de la scène musicale québécoise. Notons entre autres Sara Dufour, Erika Hagen, Laura Sauvage, Douance et Guillaume Bordel. Placard rajoute une corde à son arc en 2015, alors qu’il signe la bande sonore du court-métrage Bleu tonnerre, réalisé par Philippe David Gagné et Jean-Marc E. Roy, en plus de faire le saut devant la caméra pour y tenir le premier rôle.\n\nAprès avoir exploré les ambiances psychédéliques avec les plus récents J’connais rien à l’astronomie (2020) et Astronomie(suite) (2021), c’est en compagnie de Julie Doiron avec qui il vit et tourne que Placard lance en duo l’album éponyme Julie et Dany (2022), enregistré dans leur maison au Nouveau-Brunswick.\n\nCette collaboration l’aura ramené vers ses racines folk, culminant avec la sortie, le 27 septembre 2024, d’un nouvel album salué pour sa grande sensibilité. Inspiré par la mélancolie hivernale, l’ennui des grands espaces et la perte de sa fidèle chienne Stormy, cet album intime et touchant confirme une fois de plus le talent de Dany Placard pour raconter l’humain avec justesse et chaleur.\n\nDans la foulée, un nouveau single intitulé Le soleil se lève à chaque matin paraîtra sous peu, accompagné d’un vidéoclip de style “slice of life” réalisé par Soufiane Benrqiq. Entouré de ses complices de longue date — Sara Dufour, Charles Guay et Paul Théorêt — Placard livre une pièce rock-folk lumineuse, qui marque un tournant plus clair dans sa trajectoire artistique, portée par l’espoir et l’envie de croire à l’été.",
+    "imageUrl": "https://gg.festapp.io/3c7099cc-de27-468e-9a28-802f6c1a02a9",
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5sjde1NFxsXN9EjZyMbhHp"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCjuTWJ1rPfK8myM0iAG0zZA"
+      },
+      {
+        "label": "Deezer",
+        "url": "https://www.deezer.com/en/artist/259397"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/danyplacard"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/dany_placard"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://itunes.apple.com/ca/artist/dany-placard/206477085"
+      },
+      {
+        "label": "Tidal",
+        "url": "https://tidal.com/browse/artist/4124078"
+      }
+    ]
+  },
   "Sarahmée": {
     "description": "Pour une deuxième année, Sarahmée poursuit sa tournée et présente son nouveau spectacle, marquant un retour puissant sur scène. Ce show s’inscrit dans la continuité de son style unique, mêlant afrobeat et rap. Elle offre une prestation dynamique et émotive qui reflète son évolution artistique depuis la sortie de son album *Poupée Russe*.\nConçu pour plonger le public dans son univers personnel, le spectacle aborde avec force les thèmes de l’identité, de la résilience et de la culture. Cette nouvelle production confirme la place de Sarahmée sur la scène musicale québécoise, en tant qu'artiste à la fois innovante et profondément connectée à ses racines",
     "imageUrl": "https://gg.festapp.io/17d1440a-e400-4c15-84e2-22d7dcc8770a",
@@ -609,17 +643,17 @@
       }
     ]
   },
-  "Tour de l'Islet du samedi 1 | Brigitte Jardin & Veranda": {
+  "Brigitte Jardin & Veranda | Tour de l'Islet du samedi 1": {
     "description": "Tour de l'Islet du samedi\n\nBrigitte Jardin\n\nHéritière imaginaire d’un improbable duo entre Loretta Lynn et Félix Leclerc, Brigitte Jardin tisse un paysage sonore distinct où la chanson francophone croise le country américain des années 60. Percussionniste aguerrie, elle nous offres ses histoires chantés touchantes et honnêtes en s’accompagnant à la batterie. Le sourire brillant comme des spotlights, Brigitte Jardin nous raconte l'amour, la famille et les nuances de sa dualité géographique entre le Québec et le Yukon avec un aplomb magnétique et rassembleur.\n\nVeranda\n\nNé en 2018 au Barfly, haut lieu du bluegrass à Montréal, Veranda réunit la comédienne Catherine-Audrey Lachapelle et le multi-instrumentiste Léandre Joly-Pelletier. Leur musique marie la sensibilité du vieux country à la virtuosité du bluegrass, offrant des mélodies riches et des harmonies soignées.\nDepuis un premier EP anglophone (2019) salué par ICI Musique jusqu’à Yodel bleu (2020), primé au GAMIQ, le duo a conquis public et critiques au Québec, au Canada et aux États-Unis, séduisant même les médias bluegrass américains pour l’originalité de leur approche francophone.\nAvec plus de 250 concerts au Québec, dans l’Ouest canadien, en France et ailleurs, et un album (Là-bas, 2022) cumulant cinq nominations (ADISQ, CFMA, Gala Country, GAMIQ), Veranda poursuit son ascension. Leur deuxième LP paraîtra à l’hiver 2026.\n____\n\nAu loin on entend déjà résonner violon, guitare, mandoline, banjo et contrebasse: la fête bat son plein dans la véranda du groupe folk-country-bluegrass, un endroit chaleureux où l’on est bien à l’abri du temps. Fort de plus de 250 spectacles d’un bout à l’autre du pays et en Europe, Veranda revient en force avec un tout nouveau spectacle qui vous fera vivre l’expérience énergisante et rassembleuse des bons vieux partys de cuisine. Il ne manque que vous pour compléter le portrait!",
     "imageUrl": "https://gg.festapp.io/3d40e01b-555e-4760-81d3-662ca0ae0f11",
     "links": []
   },
-  "Concert pour toutes les oreilles | Alphonse Bisaillon": {
+  "Alphonse Bisaillon | Concert pour toutes les oreilles": {
     "description": "L’année dernière, il disparut en lui-même pour écrire son premier album: « t.o.m. ou la trajectoire des perséides ». Et vous pouvez en croire ma parole de narrateur omniscient qu’Alphonse est désormais de retour, augmenté, décuplé par des protéines poétiques nouvelles et des mécanismes bioniques qui lui permettront d’amener la musique encore plus haut, encore plus loin, grâce à la puissance de l’amour, dans une deuxième saison épique remplie de batailles contre les forces du mal! Et il va bien leur foutre une raclée de mes deux à ces amibes! Me suis-je bien fait comprendre?\n\nAlphonse est une bête de scène et un poète. Il nous arrive avec un nouveau spectacle; t.o.m. ou la trajectoire des perséides, qui surprend et émeut, une plongée au cœur de son passé, de sa trajectoire de jeune garçon venant de la ruralité. C’est une épopée qui vous fera danser, mais aussi réfléchir sur notre époque et sur les modèles masculins qu’on offre aux jeunes hommes.\n\nLes Concerts pour toutes les oreilles sont des spectacles spécialement conçus pour être accessibles à tous les publics, des mélomanes curieux aux familles avec de jeunes enfants. Toujours présentés en journée, d’une durée de 60 minutes et avec un volume adapté pour une écoute en douceur, les Concerts pour toutes les oreilles éveillent le plaisir d’être réunis pour découvrir la musique dans une ambiance décontractée.",
     "imageUrl": "https://gg.festapp.io/a21cbf15-70a1-4851-ad1b-ca71ec875fb9",
     "links": []
   },
-  "Tour de l'Islet du samedi 2 | Brigitte Jardin & Veranda": {
+  "Brigitte Jardin & Veranda | Tour de l'Islet du samedi 2": {
     "description": "Tour de l'Islet du samedi\n\nBrigitte Jardin\n\nHéritière imaginaire d’un improbable duo entre Loretta Lynn et Félix Leclerc, Brigitte Jardin tisse un paysage sonore distinct où la chanson francophone croise le country américain des années 60. Percussionniste aguerrie, elle nous offres ses histoires chantés touchantes et honnêtes en s’accompagnant à la batterie. Le sourire brillant comme des spotlights, Brigitte Jardin nous raconte l'amour, la famille et les nuances de sa dualité géographique entre le Québec et le Yukon avec un aplomb magnétique et rassembleur.\n\nVeranda\n\nNé en 2018 au Barfly, haut lieu du bluegrass à Montréal, Veranda réunit la comédienne Catherine-Audrey Lachapelle et le multi-instrumentiste Léandre Joly-Pelletier. Leur musique marie la sensibilité du vieux country à la virtuosité du bluegrass, offrant des mélodies riches et des harmonies soignées.\nDepuis un premier EP anglophone (2019) salué par ICI Musique jusqu’à Yodel bleu (2020), primé au GAMIQ, le duo a conquis public et critiques au Québec, au Canada et aux États-Unis, séduisant même les médias bluegrass américains pour l’originalité de leur approche francophone.\nAvec plus de 250 concerts au Québec, dans l’Ouest canadien, en France et ailleurs, et un album (Là-bas, 2022) cumulant cinq nominations (ADISQ, CFMA, Gala Country, GAMIQ), Veranda poursuit son ascension. Leur deuxième LP paraîtra à l’hiver 2026.\n____\n\nAu loin on entend déjà résonner violon, guitare, mandoline, banjo et contrebasse: la fête bat son plein dans la véranda du groupe folk-country-bluegrass, un endroit chaleureux où l’on est bien à l’abri du temps. Fort de plus de 250 spectacles d’un bout à l’autre du pays et en Europe, Veranda revient en force avec un tout nouveau spectacle qui vous fera vivre l’expérience énergisante et rassembleuse des bons vieux partys de cuisine. Il ne manque que vous pour compléter le portrait!",
     "imageUrl": "https://gg.festapp.io/f73717a8-99ae-423e-b0c7-a71dd454ba07",
     "links": []
@@ -629,9 +663,18 @@
     "imageUrl": "https://gg.festapp.io/b73cff1f-8b08-4cff-adbf-54cb3ef84737",
     "links": []
   },
+  "Artiste Surprise": {
+    "description": "Aimez-nous sur l'application FEST pour avoir nos notifications. Ainsi, vous saurez qui c'est, et où ce sera ! Cet artiste est un véritable secret... jusqu'à deux heures avant son spectacle !",
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5BKMg8pFPa1pEO5ng4fPlX"
+      }
+    ]
+  },
   "Les Chemins d'écriture | Le collectif du samedi": {
-    "description": "Les Chemins d’écriture - le collectif\nL’ensemble des artistes sont rassemblés à la Chapelle protestante et présentent tour à tour quelques chansons de leur répertoire.\nPossibilité de les voir avec les passeports La totale, Vidéotron, La tournée, La tournée du vendredi et/ou du samedi.\nPour une 23e année consécutive, huit artistes émergent·e·s seront également révélé·e·s au public grâce aux Chemins d’écriture : Brigitte Jardin - Édouard Tremblay-Grenier - Embo/Phlébite - Georges Ouel - Maude Sonier - Naïma Frank - Superchérie. C’est dans une volonté de soutenir la relève en chanson francophone que le Festival a mis sur pied en 2003 cette résidence de cinq jours en écriture de chanson. Au terme de ce séjour de création imaginé avec la complicité du musicien Xavier Lacouture, c’est ensemble qu’iels braveront la scène pour y présenter le fruit individuel et collectif de leur travail.\n \nCe projet a été rendu possible en partie grâce à Musicaction et au gouvernement du Canada.",
-    "imageUrl": "https://gg.festapp.io/2231b324-1d6a-4e2c-accd-9a4cdbec39a9",
+    "description": "Les Chemins d’écriture - le collectif\nL’ensemble des artistes sont rassemblés à la Chapelle protestante et présentent tour à tour quelques chansons de leur répertoire.\nPossibilité de les voir avec les passeports La totale, Vidéotron, La tournée, La tournée du vendredi et/ou du samedi.\nPour une 23e année consécutive, huit artistes émergent·e·s seront également révélé·e·s au public grâce aux Chemins d’écriture : Brigitte Jardin - Claudie Létourneau - Édouard Tremblay-Grenier - Embo/Phlébite - Georges Ouel - Marie Amali - Maude Sonier - Superchérie. C’est dans une volonté de soutenir la relève en chanson francophone que le Festival a mis sur pied en 2003 cette résidence de cinq jours en écriture de chanson. Au terme de ce séjour de création imaginé avec la complicité du musicien Xavier Lacouture, c’est ensemble qu’iels braveront la scène pour y présenter le fruit individuel et collectif de leur travail.\n \nCe projet a été rendu possible en partie grâce à Musicaction et au gouvernement du Canada.",
+    "imageUrl": "https://gg.festapp.io/049ded64-027b-4dd9-85c4-59da09b47866",
     "links": []
   },
   "BENEVOLE": {
@@ -683,6 +726,11 @@
       }
     ]
   },
+  "Bon Débarras | formule duo": {
+    "description": "trad\n\nBon Débarras est le fruit de la rencontre musicale entre Dominic Desrochers, Jean-François Dumas et Véronique Plasse. Récipiendaire du Félix Album de l’année – Traditionnel avec son opus Repères, le groupe se distingue par ses compositions originales et des climats musicaux alliant guitare, banjo, violon et harmonica sur des airs accentués de podorythmie, de gigue et de percussion corporelle. Bien ancré dans ses racines québécoises, ce trio montréalais se laisse aussi inspirer par ses voyages et ses rencontres pour offrir une musique grondeuse d’amour et berçante d’énergie.",
+    "imageUrl": "https://gg.festapp.io/34050245-c086-4f2a-887c-616cf0e7910f",
+    "links": []
+  },
   "Ben Herbert-Larue": {
     "description": "Il nous avait promis qu’il reviendrait. Et il a tenu sa promesse. Juste lui. Sa voix rauque qu’on aime tant. Son accordéon et son ukulélé. Ben Herbert Larue, toujours sur le fil des émotions, amoureux de la musique des mots, joue en solo, à nu, sans filet. Un concert comme un souffle, un murmure partagé pour un moment suspendu. Des chansons tendres et cabossées, des poèmes griffonnés au cœur de la nuit, le vacarme de ses silences et un petit bateau en papier, pour partir tout en restant là. Comme une soirée au coin du feu qu'on partagerait avec un ami. Ce dont on est certain c’est qu’il y aura de la beauté, de l’humanité partagée, de la fragilité assumée.",
     "imageUrl": "https://gg.festapp.io/e1904856-dca7-4035-a5a7-67dd8c629503",
@@ -700,11 +748,6 @@
   "Duo des Chemins d'écriture | Maude Sonier & Édouard Tremblay-Grenier": {
     "description": "Duos : Les Chemins d'écriture présentés en formule duo ! Des vitrines d'environ 20 minutes pour découvrir deux artistes de la cohorte 2026.\n\nMaude Sonier \n\nGrâce à sa voix chaleureuse et son charisme vibrant, auteure-compositrice-interprète Maude Sonier fait son bout de chemin dans la scène acadienne et canadienne. Récemment demi-finaliste aux 29e Francouvertes à Montréal, elle se démarque par sa présence authentique et sincère en tant que fière acadienne.\n\nOriginaire de Miramichi au Nouveau-Brunswick, forte de multiples expériences de scène l’ayant menée de la Saskatchewan jusqu’à Terre-Neuve-et-Labrador, elle chante avec enthousiasme sa vingtaine mouvementée et ses histoires d’amour et d’amitié qui lui tiennent à cœur. En mars 2024, elle dévoile un premier EP intitulé Demi-tour. Il s’agit d’un pas assumé vers un univers pop alternatif à son image, réalisé par Katrine Noël (Les Hay Babies) et Mico Roy (Les Hôtesses d'Hilaire).\n\nÉdouard Tremblay-Grenier\n\nNé avec une passion innée pour la musique, Édouard Tremblay-Grenier fait ses premiers pas dans l’univers musical dès l’âge de 6 ans, développant rapidement son oreille et sa sensibilité artistique. À 13 ans, il compose sa première chanson, annonçant une carrière prometteuse et diversifiée. Son talent est rapidement reconnu lorsque le réalisateur Philippe Lesage choisit l’une de ses compositions pour son film Genèse, éveillant chez lui un profond intérêt pour la composition et le milieu artistique.\n\nAu fil des années, Édouard se forge une solide réputation sur la scène musicale québécoise. Il se distingue notamment comme guitariste aux côtés de Gab Bouchard et Valery Vaughn lors de la tournée soulignant les 20 ans de l’album Chihuahua de Mara Tremblay. Cette expérience marquante lui permet d’affiner son jeu scénique et de tisser un lien fort avec le public.\n\nInspiré par la richesse et la diversité de la culture québécoise, Édouard nourrit le désir de contribuer à son rayonnement. Son engagement se manifeste notamment en 2024, lorsqu’il rejoint le house band du spectacle de la Saint-Jean-Baptiste sur les Plaines d’Abraham, un événement emblématique célébrant l’identité québécoise.",
     "imageUrl": "https://gg.festapp.io/fed81d79-91f1-4f3c-936d-5a52251792f5",
-    "links": []
-  },
-  "Traversier | Bon Débarras": {
-    "description": "Bon Débarras est le fruit de la rencontre musicale entre Dominic Desrochers, Jean-François Dumas et Véronique Plasse. Récipiendaire du Félix Album de l’année – Traditionnel avec son opus Repères, le groupe se distingue par ses compositions originales et des climats musicaux alliant guitare, banjo, violon et harmonica sur des airs accentués de podorythmie, de gigue et de percussion corporelle. Bien ancré dans ses racines québécoises, ce trio montréalais se laisse aussi inspirer par ses voyages et ses rencontres pour offrir une musique grondeuse d’amour et berçante d’énergie.",
-    "imageUrl": "https://gg.festapp.io/b62f70f4-0981-4fc5-b2ee-e451fb99c556",
     "links": []
   },
   "Louis-Jean Cormier": {
@@ -941,6 +984,20 @@
       }
     ]
   },
+  "Crachat": {
+    "description": "Crachat est un trio punk rock à paillettes de la basse-ville de Québec. Mélangeant les influences stoner-psychédélique-surf, ces princesses à gros bras font rayonner des textes féministes et revendicateurs sous des chansons aux couleurs toujours plus rose bonbons.",
+    "imageUrl": "https://gg.festapp.io/831776a5-cbd2-4b3f-a15b-2dcc665ac981",
+    "links": [
+      {
+        "label": "Bandcamp",
+        "url": "https://crachatqc.bandcamp.com/album/fille-poup-e"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/crachat.band/"
+      }
+    ]
+  },
   "Douance": {
     "description": "Douance est une entité musicale s’entourant d’un univers grunge grandement inspiré des années 90 et de sa scène musicale underground. Son style est cru, lo-fi, sans prétention et viscéral.\nOriginaire du Saguenay, Alexandrine Rodrigue oeuvre sur la scène musicale québécoise depuis près de dix ans. Ses pièces évoquent l’amour et l’hésitation tout en étant teintées d’une mélancolie parfois lourde de sens. Sa singularité se trouve à l’intersection de cette lourdeur et d’une envie de ne pas trop la prendre au sérieux. Elle y interprète sur scène les pièces de À la prochaine, paru à l’automne 2025, ainsi que des extraits de son précédent album Monstre.\n\nÀ la prochaine a été composé principalement durant les derniers mois d’une relation amoureuse, puis dans la période qui a suivi sa fin. C’est un album profondément triste qui aborde l’une des épreuves les plus universelles et difficiles : la rupture. Ses paroles explorent l’amour, les regrets, la trahison, la reconstruction, la vulnérabilité, l’espoir et le deuil. On croit parfois tout savoir, tout avoir traversé, pour finalement se retrouver au plus bas et réaliser qu’on ne savait rien.",
     "imageUrl": "https://gg.festapp.io/f489400e-d2bf-443b-891c-9c85b76ab125",
@@ -1028,7 +1085,7 @@
     ]
   },
   "Catherine Leduc": {
-    "description": "Depuis une vingtaine d’années, Catherine Leduc ajoute – à un rythme sien – ses pierres à un édifice musical singulier, aux accents clairs-obscurs. D’abord connue comme moitié du duo folk-pop Tricot machine, elle officie en solo depuis 2014, déployant une dream pop vaste et bienveillante.\n\nSuite à Rookie (2014) et Un bras de distance avec le soleil (2017), Catherine revient – après huit ans – avec Les jours où il neige à tous les postes, un album assemblé en compagnie de son partenaire et collaborateur de toujours, Matthieu Beaumont. On y retrouve une autrice-compositrice fière de son périple de création, fière de sa détermination à continuer de créer pour se concevoir elle-même. On y retrouve, surtout, de somptueuses pièces qui bercent et élèvent, sondent et soutiennent : des pièces comme des nostalgies qui avancent dans l’horizon.",
+    "description": "Spectacle à la ferme 🐴\nIl y aura des croissants et du café sur place. 🥐\n\nDepuis une vingtaine d’années, Catherine Leduc ajoute – à un rythme sien – ses pierres à un édifice musical singulier, aux accents clairs-obscurs. D’abord connue comme moitié du duo folk-pop Tricot machine, elle officie en solo depuis 2014, déployant une dream pop vaste et bienveillante.\n\nSuite à Rookie (2014) et Un bras de distance avec le soleil (2017), Catherine revient – après huit ans – avec Les jours où il neige à tous les postes, un album assemblé en compagnie de son partenaire et collaborateur de toujours, Matthieu Beaumont. On y retrouve une autrice-compositrice fière de son périple de création, fière de sa détermination à continuer de créer pour se concevoir elle-même. On y retrouve, surtout, de somptueuses pièces qui bercent et élèvent, sondent et soutiennent : des pièces comme des nostalgies qui avancent dans l’horizon.",
     "imageUrl": "https://gg.festapp.io/1773081308_catherine_leduc.jpeg",
     "links": [
       {
@@ -1049,12 +1106,12 @@
       }
     ]
   },
-  "Tour de l'Islet du dimanche 1 | Ben Herbert Larue & Maude Sonier": {
+  "Ben Herbert Larue & Maude Sonier | Tour de l'Islet du samedi 1": {
     "description": "Tour de l'islet du dimanche\n\nBen Herbert Larue\n\nIl nous avait promis qu’il reviendrait. Et il a tenu sa promesse. Juste lui. Sa voix rauque qu’on aime tant. Son accordéon et son ukulélé. Ben Herbert Larue, toujours sur le fil des émotions, amoureux de la musique des mots, joue en solo, à nu, sans filet. Un concert comme un souffle, un murmure partagé pour un moment suspendu. Des chansons tendres et cabossées, des poèmes griffonnés au cœur de la nuit, le vacarme de ses silences et un petit bateau en papier, pour partir tout en restant là. Comme une soirée au coin du feu qu'on partagerait avec un ami. Ce dont on est certain c’est qu’il y aura de la beauté, de l’humanité partagée, de la fragilité assumée.\n\nMaude Sonier\n\nGrâce à sa voix chaleureuse et son charisme vibrant, auteure-compositrice-interprète Maude Sonier fait son bout de chemin dans la scène acadienne et canadienne. Récemment demi-finaliste aux 29e Francouvertes à Montréal, elle se démarque par sa présence authentique et sincère en tant que fière acadienne.\n\nOriginaire de Miramichi au Nouveau-Brunswick, forte de multiples expériences de scène l’ayant menée de la Saskatchewan jusqu’à Terre-Neuve-et-Labrador, elle chante avec enthousiasme sa vingtaine mouvementée et ses histoires d’amour et d’amitié qui lui tiennent à cœur. En mars 2024, elle dévoile un premier EP intitulé Demi-tour. Il s’agit d’un pas assumé vers un univers pop alternatif à son image, réalisé par Katrine Noël (Les Hay Babies) et Mico Roy (Les Hôtesses d'Hilaire).",
     "imageUrl": "https://gg.festapp.io/11ebb7d9-45b4-4a9c-a272-1476f156a64e",
     "links": []
   },
-  "Tour de l'Islet du dimanche 2 | Ben Herbert Larue & Maude Sonier": {
+  "Ben Herbert Larue & Maude Sonier | Tour de l'Islet du samedi 2": {
     "description": "Tour de l'islet du dimanche\n\nBen Herbert Larue\n\nIl nous avait promis qu’il reviendrait. Et il a tenu sa promesse. Juste lui. Sa voix rauque qu’on aime tant. Son accordéon et son ukulélé. Ben Herbert Larue, toujours sur le fil des émotions, amoureux de la musique des mots, joue en solo, à nu, sans filet. Un concert comme un souffle, un murmure partagé pour un moment suspendu. Des chansons tendres et cabossées, des poèmes griffonnés au cœur de la nuit, le vacarme de ses silences et un petit bateau en papier, pour partir tout en restant là. Comme une soirée au coin du feu qu'on partagerait avec un ami. Ce dont on est certain c’est qu’il y aura de la beauté, de l’humanité partagée, de la fragilité assumée.\n\nMaude Sonier\n\nGrâce à sa voix chaleureuse et son charisme vibrant, auteure-compositrice-interprète Maude Sonier fait son bout de chemin dans la scène acadienne et canadienne. Récemment demi-finaliste aux 29e Francouvertes à Montréal, elle se démarque par sa présence authentique et sincère en tant que fière acadienne.\n\nOriginaire de Miramichi au Nouveau-Brunswick, forte de multiples expériences de scène l’ayant menée de la Saskatchewan jusqu’à Terre-Neuve-et-Labrador, elle chante avec enthousiasme sa vingtaine mouvementée et ses histoires d’amour et d’amitié qui lui tiennent à cœur. En mars 2024, elle dévoile un premier EP intitulé Demi-tour. Il s’agit d’un pas assumé vers un univers pop alternatif à son image, réalisé par Katrine Noël (Les Hay Babies) et Mico Roy (Les Hôtesses d'Hilaire).",
     "imageUrl": "https://gg.festapp.io/64db3581-bc35-46fb-b580-21d1076090ae",
     "links": []
