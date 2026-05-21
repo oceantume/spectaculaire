@@ -953,10 +953,6 @@
       }
     ]
   },
-  "Adriatique": {
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26-ADRIATIQUE.png",
-    "links": []
-  },
   "Sammy Virji": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC24_OUTILS-COMM_SITE-WEB_VISUELS-ARTISTES_07-28_SAMMY-VIRJI.png",
     "links": [
@@ -973,5 +969,9 @@
         "url": "https://soundcloud.com/sammyvirji"
       }
     ]
+  },
+  "Ricardo Villalobos": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_09-26_PRESS-PIC_Ricardo-Villalobos.jpg",
+    "links": []
   }
 }

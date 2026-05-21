@@ -295,6 +295,13 @@
   },
   {
     "date": "2026-06-28",
+    "venue": "Scène de la Cour",
+    "paid": true,
+    "time": "17:10",
+    "artist": "Fabiola Toupin"
+  },
+  {
+    "date": "2026-06-28",
     "venue": "Scène de la Vieille Prison",
     "paid": true,
     "time": "17:00",
