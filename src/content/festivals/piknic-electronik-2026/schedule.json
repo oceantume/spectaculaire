@@ -744,6 +744,14 @@
     "type": "main"
   },
   {
+    "date": "2026-08-28",
+    "venue": "SCÈNE FIZZ - ADRIATIQUE",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Adriatique",
+    "type": "off"
+  },
+  {
     "date": "2026-08-29",
     "venue": "SCÈNE FIZZ",
     "paid": true,
@@ -923,7 +931,7 @@
     "date": "2026-09-26",
     "venue": "SCÈNE FIZZ",
     "paid": true,
-    "time": "17:00",
+    "time": "19:00",
     "artist": "Ricardo Villalobos",
     "type": "off"
   },
