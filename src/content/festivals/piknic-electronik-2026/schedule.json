@@ -220,6 +220,22 @@
     "venue": "SCÈNE FIZZ - CHASE & STATUS",
     "paid": true,
     "time": "17:00",
+    "artist": "Honeydrip",
+    "type": "off"
+  },
+  {
+    "date": "2026-06-12",
+    "venue": "SCÈNE FIZZ - CHASE & STATUS",
+    "paid": true,
+    "time": "19:15",
+    "artist": "Delta Heavy",
+    "type": "off"
+  },
+  {
+    "date": "2026-06-12",
+    "venue": "SCÈNE FIZZ - CHASE & STATUS",
+    "paid": true,
+    "time": "20:45",
     "artist": "Chase & Status",
     "type": "off"
   },
@@ -926,6 +942,14 @@
     "time": "19:30",
     "artist": "Prospa",
     "type": "main"
+  },
+  {
+    "date": "2026-09-26",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Maher Daniel",
+    "type": "off"
   },
   {
     "date": "2026-09-26",
