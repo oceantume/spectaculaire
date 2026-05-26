@@ -369,7 +369,7 @@
   },
   {
     "date": "2026-06-24",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - BLACK COFFEE 2",
     "paid": true,
     "time": "17:00",
     "artist": "Black Coffee",
@@ -377,9 +377,25 @@
   },
   {
     "date": "2026-06-26",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - FOUR TET",
     "paid": true,
     "time": "16:00",
+    "artist": "Dj Frog",
+    "type": "off"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "SCÈNE FIZZ - FOUR TET",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Loukeman",
+    "type": "off"
+  },
+  {
+    "date": "2026-06-26",
+    "venue": "SCÈNE FIZZ - FOUR TET",
+    "paid": true,
+    "time": "18:00",
     "artist": "Four Tet",
     "type": "off"
   },
@@ -444,22 +460,14 @@
     "venue": "SCÈNE FIZZ - ANJUNADEEP",
     "paid": true,
     "time": "17:00",
-    "artist": "Marsh",
+    "artist": "Nicky Elisabeth",
     "type": "off"
   },
   {
     "date": "2026-07-04",
     "venue": "SCÈNE FIZZ - ANJUNADEEP",
     "paid": true,
-    "time": "17:00",
-    "artist": "Christian Löffler (Live)",
-    "type": "off"
-  },
-  {
-    "date": "2026-07-04",
-    "venue": "SCÈNE FIZZ - ANJUNADEEP",
-    "paid": true,
-    "time": "17:00",
+    "time": "18:15",
     "artist": "Eric Luttrell b2b Jody Wisternoff",
     "type": "off"
   },
@@ -467,8 +475,16 @@
     "date": "2026-07-04",
     "venue": "SCÈNE FIZZ - ANJUNADEEP",
     "paid": true,
-    "time": "17:00",
-    "artist": "Nicky Elisabeth",
+    "time": "19:30",
+    "artist": "Christian Löffler (Live)",
+    "type": "off"
+  },
+  {
+    "date": "2026-07-04",
+    "venue": "SCÈNE FIZZ - ANJUNADEEP",
+    "paid": true,
+    "time": "20:30",
+    "artist": "Marsh",
     "type": "off"
   },
   {
