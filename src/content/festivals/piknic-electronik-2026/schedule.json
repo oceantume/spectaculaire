@@ -169,6 +169,14 @@
   },
   {
     "date": "2026-06-07",
+    "venue": "SCÈNE BANQUE NATIONALE - GABA COLLECTIVE",
+    "paid": true,
+    "time": "12:00",
+    "artist": "GABA Collective",
+    "type": "main"
+  },
+  {
+    "date": "2026-06-07",
     "venue": "SCÈNE BANQUE NATIONALE - T.I.T.S.",
     "paid": true,
     "time": "16:00",
@@ -425,6 +433,22 @@
   },
   {
     "date": "2026-06-28",
+    "venue": "SCÈNE BANQUE NATIONALE - QUEEN & QUEER",
+    "paid": true,
+    "time": "12:00",
+    "artist": "Sydney Sarayeva",
+    "type": "main"
+  },
+  {
+    "date": "2026-06-28",
+    "venue": "SCÈNE BANQUE NATIONALE - QUEEN & QUEER",
+    "paid": true,
+    "time": "13:30",
+    "artist": "PØPTRT",
+    "type": "main"
+  },
+  {
+    "date": "2026-06-28",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "16:00",
@@ -452,6 +476,14 @@
     "venue": "Scène FIZZ",
     "paid": true,
     "time": "17:00",
+    "artist": "Lara Bee",
+    "type": "off"
+  },
+  {
+    "date": "2026-07-03",
+    "venue": "Scène FIZZ",
+    "paid": true,
+    "time": "18:00",
     "artist": "Adam Port et &ME",
     "type": "off"
   },
@@ -509,6 +541,22 @@
     "paid": true,
     "time": "19:30",
     "artist": "Vincent Lemieux",
+    "type": "main"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "SCÈNE BANQUE NATIONALE - STICKY RICE",
+    "paid": true,
+    "time": "12:00",
+    "artist": "soratora b2b venus in bed",
+    "type": "main"
+  },
+  {
+    "date": "2026-07-05",
+    "venue": "SCÈNE BANQUE NATIONALE - STICKY RICE",
+    "paid": true,
+    "time": "14:00",
+    "artist": "DJ Hi Chew",
     "type": "main"
   },
   {
@@ -638,6 +686,22 @@
     "time": "20:30",
     "artist": "Kaskade",
     "type": "off"
+  },
+  {
+    "date": "2026-07-19",
+    "venue": "SCÈNE BANQUE NATIONALE",
+    "paid": true,
+    "time": "12:00",
+    "artist": "Dusty FingerZ",
+    "type": "main"
+  },
+  {
+    "date": "2026-07-19",
+    "venue": "SCÈNE BANQUE NATIONALE",
+    "paid": true,
+    "time": "13:30",
+    "artist": "Ruby Jane",
+    "type": "main"
   },
   {
     "date": "2026-07-19",
@@ -790,6 +854,14 @@
     "time": "17:00",
     "artist": "Hernan Cattaneo",
     "type": "off"
+  },
+  {
+    "date": "2026-08-30",
+    "venue": "SCÈNE BANQUE NATIONALE",
+    "paid": true,
+    "time": "12:00",
+    "artist": "Le LOOP",
+    "type": "main"
   },
   {
     "date": "2026-08-30",

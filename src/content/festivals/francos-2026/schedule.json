@@ -47,6 +47,22 @@
   },
   {
     "date": "2026-06-12",
+    "time": "18:00",
+    "venue": "Place Desjardins",
+    "paid": false,
+    "artist": "La fin des faibles ",
+    "genre": "Rap Battle"
+  },
+  {
+    "date": "2026-06-12",
+    "time": "23:30",
+    "venue": "Place Desjardins",
+    "paid": false,
+    "artist": "MS BABY",
+    "genre": "DJ Set"
+  },
+  {
+    "date": "2026-06-12",
     "time": "17:00",
     "venue": "Pub Brasseur de Montréal",
     "paid": false,
@@ -139,6 +155,22 @@
     "paid": true,
     "artist": "Ingrid St-Pierre",
     "genre": "Folk"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "18:00",
+    "venue": "Place Desjardins",
+    "paid": false,
+    "artist": "BATTLE DANSE - HIP HOP",
+    "genre": "BATTLE DANSE"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "23:30",
+    "venue": "Place Desjardins",
+    "paid": false,
+    "artist": "LAX",
+    "genre": "DJ Set"
   },
   {
     "date": "2026-06-13",
@@ -248,6 +280,22 @@
     "paid": true,
     "artist": "Emilie-Claire Barlow ",
     "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "18:00",
+    "venue": "Place Desjardins",
+    "paid": false,
+    "artist": "La fin des faibles ",
+    "genre": "Rap Battle"
+  },
+  {
+    "date": "2026-06-14",
+    "time": "23:30",
+    "venue": "Place Desjardins",
+    "paid": false,
+    "artist": "IVY",
+    "genre": "DJ Set"
   },
   {
     "date": "2026-06-14",
@@ -382,6 +430,22 @@
   },
   {
     "date": "2026-06-17",
+    "time": "18:00",
+    "venue": "Place Desjardins",
+    "paid": false,
+    "artist": "BATTLE DANSE - Popping/Boogaloo ",
+    "genre": "BATTLE DANSE"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "23:30",
+    "venue": "Place Desjardins",
+    "paid": false,
+    "artist": "Le Complot",
+    "genre": "DJ Set"
+  },
+  {
+    "date": "2026-06-17",
     "time": "17:00",
     "venue": "Pub Brasseur de Montréal",
     "paid": false,
@@ -461,14 +525,6 @@
   },
   {
     "date": "2026-06-18",
-    "time": "19:00",
-    "venue": "Le Studio TD",
-    "paid": true,
-    "artist": "Mentana",
-    "genre": "Folk"
-  },
-  {
-    "date": "2026-06-18",
     "time": "20:00",
     "venue": "Les Foufounes Electriques",
     "paid": true,
@@ -518,13 +574,6 @@
     "venue": "Scène Desjardins",
     "paid": false,
     "artist": "NA$-T"
-  },
-  {
-    "date": "2026-06-18",
-    "time": "18:35",
-    "venue": "Scène Desjardins",
-    "paid": false,
-    "artist": "Franz Keloh "
   },
   {
     "date": "2026-06-18",
@@ -632,7 +681,7 @@
     "time": "19:30",
     "venue": "MTELUS",
     "paid": true,
-    "artist": "Québec Redneck Bluegrass Project ",
+    "artist": "Québec Redneck Bluegrass Project  ",
     "genre": "Folk"
   },
   {
@@ -665,6 +714,22 @@
     "paid": true,
     "artist": "Paul Piché  ",
     "genre": "Folk"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "18:00",
+    "venue": "Place Desjardins",
+    "paid": false,
+    "artist": "La fin des faibles ",
+    "genre": "Rap Battle"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "23:30",
+    "venue": "Place Desjardins",
+    "paid": false,
+    "artist": "Soirée WAYBACK",
+    "genre": "DJ Set"
   },
   {
     "date": "2026-06-19",
@@ -765,6 +830,14 @@
     "venue": "Le Studio TD",
     "paid": false,
     "artist": "Grünt"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "18:00",
+    "venue": "Place Desjardins",
+    "paid": false,
+    "artist": "BATTLE DANSE - Afro",
+    "genre": "BATTLE DANSE"
   },
   {
     "date": "2026-06-20",
