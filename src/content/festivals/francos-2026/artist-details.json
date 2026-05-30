@@ -248,6 +248,19 @@
       }
     ]
   },
+  "Fallon ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/29dsKf3xvg6TkhznQy3BRz/98853a408c534a28c4b6c8ecff585e50/ff26_fallon.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=lntpRNws13g"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
+      }
+    ]
+  },
   "Mahéja": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2nFudiKYGGTs1Ygc2jUO4m/48ab54ac869b03f79931f6231207b54d/ff26_maheja.jpg",
     "links": [

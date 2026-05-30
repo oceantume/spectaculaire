@@ -806,6 +806,13 @@
   },
   {
     "date": "2026-07-05",
+    "venue": "Scène Urbaine ABI",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Jam Session avec Dominic « Rocky » Laroche"
+  },
+  {
+    "date": "2026-07-05",
     "venue": "Scène de la Chapelle",
     "paid": false,
     "time": "10:00",
