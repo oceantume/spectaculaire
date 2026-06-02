@@ -287,6 +287,13 @@
     "time": "21:30"
   },
   {
+    "artist": "Massothérapeute",
+    "venue": "Devant la Maison du Festival",
+    "paid": false,
+    "date": "2026-06-13",
+    "time": "12:00"
+  },
+  {
     "artist": "Duo des Chemins d'écriture | Georges Ouel & Marie Amali",
     "venue": "La Marina",
     "paid": false,
