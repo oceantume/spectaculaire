@@ -188,6 +188,13 @@
   },
   {
     "date": "2026-06-13",
+    "time": "18:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "URBANIA présente un Courrier recommandé devant public"
+  },
+  {
+    "date": "2026-06-13",
     "time": "19:00",
     "venue": "Pub Brasseur de Montréal",
     "paid": false,
@@ -594,7 +601,7 @@
     "time": "20:00",
     "venue": "Scène Desjardins",
     "paid": false,
-    "artist": "Guessmi"
+    "artist": "Ya Cetidon "
   },
   {
     "date": "2026-06-18",
@@ -731,7 +738,7 @@
   },
   {
     "date": "2026-06-19",
-    "time": "18:00",
+    "time": "17:30",
     "venue": "Place Desjardins",
     "paid": false,
     "artist": "La fin des faibles ",
@@ -751,6 +758,13 @@
     "venue": "Pub Brasseur de Montréal",
     "paid": false,
     "artist": "Thomé Young"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "18:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "L’échooo des luttes"
   },
   {
     "date": "2026-06-19",
@@ -859,6 +873,13 @@
     "venue": "Pub Brasseur de Montréal",
     "paid": false,
     "artist": "Soraï"
+  },
+  {
+    "date": "2026-06-20",
+    "time": "17:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "96.9 CKOI : Tatouages temporaires et reportages en direct "
   },
   {
     "date": "2026-06-20",

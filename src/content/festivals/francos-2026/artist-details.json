@@ -497,7 +497,7 @@
     ]
   },
   "Choses Sauvages": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4jzaHB3LYhQ8BcQ9fCo9Xb/273b4f9d1d57cb3704941c1aac9692f1/ff26_choses_sauvages.jpg",
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4jzaHB3LYhQ8BcQ9fCo9Xb/ce7c9c21fa2dbf7ce4c21fae50fb2680/Choses_Sauvages.jpg",
     "links": [
       {
         "label": "YouTube",
@@ -974,16 +974,16 @@
       }
     ]
   },
-  "Guessmi": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4pt5Svb2OdqaI6IXEh87aL/51ab3b68c2c5dcee6f31c6657151a8a3/ff26_guessmi.jpg",
+  "Ya Cetidon ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5M161YxW6Gyg1Lm5YUZ5lY/a5cadc27ed3115ea89f04d14961c8b48/ff26_ya_cetidon.jpg",
     "links": [
       {
         "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=2X6RduXDy2o"
+        "url": "https://www.youtube.com/watch?v=4EBSETwBCUI"
       },
       {
         "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
+        "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj?si=vegggo6TQkmvNilOMOFgg&nd=1  "
       }
     ]
   },
@@ -1157,7 +1157,7 @@
     ]
   },
   "Boutcha Bwa + KidCrayola": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6tRWZoy0LK9NZIU10loNx8/80d2798e5d60090da4d0ea7c9a92e383/ff26_kid_crayola.jpg",
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6tRWZoy0LK9NZIU10loNx8/94aaba3fda7c6fe2eeaad7dc900feb80/Boutcha_Bwa___KidCrayola.jpg",
     "links": []
   },
   "Finissant.es de l’École nationale de la chanson": {
@@ -1347,7 +1347,12 @@
     ]
   },
   "Grünt": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/51M1ZabV2UtX46puvyQlDT/6184f8a2c120f6ddd5418e89f701cebc/ff26_generique.jpg",
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/51M1ZabV2UtX46puvyQlDT/2a8a0c5ec74aa93cfcc93b2df890e30a/L_Apr%C3%A8s-Party_de_cl%C3%B4ture_des_Francos_sign%C3%A9_Gr%C3%BCnt.jpg",
+    "links": []
+  },
+  "URBANIA présente un Courrier recommandé devant public": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6xqdzGxcj1qPEWTbT63kYq/e84aee1bf06a86082793dd9ba92d9edb/URBANIA_CM_Francos__1___1_.jpg",
+    "description": "Notre format Courrier recommandé sort de son enveloppe habituelle pour une édition spéciale, avec deux artistes qu’on est très content·es de réunir : Paul Piché et Étienne Coppée. Au menu : une rencontre entre générations autour des mots, de la musique et de la langue française.",
     "links": []
   },
   "Émission en direct de CIBL 101,5": {
@@ -1358,6 +1363,15 @@
   "Pod’Casque": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/80mHgFYbGHuYka9uZhL3s/3d3e236105275d382c2753c3645bee00/ff26_onz.png",
     "description": "Pod’Casque est une émission animée par l’équipe d’ONZMTL qui explore l’univers du rap, de la culture urbaine, du sport et des enjeux qui façonnent la nouvelle génération francophone. À travers des entrevues approfondies, des discussions spontanées et des analyses culturelles, Le Onze, Jay Seven et leurs invités donnent une voix authentique à la scène montréalaise et internationale. Entre humour, réflexion et passion, Pod’Casque crée un espace où artistes, créateurs et personnalités peuvent raconter leur parcours sans filtre.",
+    "links": []
+  },
+  "L’échooo des luttes": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/ZdashCgM5L7PkPqpwyb8B/a4ce1931494b23eabdb659ebc72efed7/ff26_cism.jpg",
+    "description": "CISM 89,3 FM, la radio des étudiantes et des étudiants de l’Université de Montréal, descend de son perchoir dans la montagne le temps d’une soirée! L’animatrice Léonie Cabrol (L’échooo des luttes) sera pour l’occasion en direct devant public le temps de recevoir quelques-unes de ses artistes favorites de la programmation pendant une heure.",
+    "links": []
+  },
+  "96.9 CKOI : Tatouages temporaires et reportages en direct ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/47laZLbmEaReT9n8ExIxSB/467d5d613c68b2e19a59a2b4c1afbe62/ff26_969_ckoi.jpg",
     "links": []
   },
   "Projection de YOROÏ": {
@@ -1381,7 +1395,7 @@
   },
   "BATTLE DANSE - HIP HOP": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4r9BA5S03XlWB436cOLHMx/3d6f1914af4c18919f7d533dd754bac3/ff26_battle_danse.jpg",
-    "description": "Interactions Créatives est une série d’événements de street dance axés sur la créativité et l’authenticité. Cet événement invite le public à voyager dans l'univers de Forward Movements en leur proposant un battle interactif où danseurs·es de haut calibre doivent improviser à partir de jeux et de contraintes.\n\nDJ : Ridley Pierre\n\nMC: Shem G\n\nJUGE: Jaleesa \"TeaLeaf\" Coligny\n\nDanseur.euses:\n\nGaëlle \"99\" FabreChristopher \"C.Josey\" JosephAnaïs \"RISE\" GillesAnthony \"Palomecc\" PalomequeProfessor WORDBradley \" C.A.L.M.\" Auminio",
+    "description": "Forward Movements propose des ateliers de médiation de\nstreet dance axés sur la créativité et l’authenticité. Ces deux événements\ninvitent le public à voyager dans l'univers de la compagnie en leur proposant\ndes performances interactives ainsi qu'une initiation au street dance où\ndanseurs·es de haut calibre mettent en avant tout leur talent ! \n\nDJ : Ridley Pierre\n\nMC: Shem G\n\nJUGE: Jaleesa \"TeaLeaf\" Coligny\n\nDanseur.euses:\n\nGaëlle \"99\" FabreChristopher \"C.Josey\" JosephAnaïs \"RISE\" GillesAnthony \"Palomecc\" PalomequeProfessor WORDBradley \" C.A.L.M.\" Auminio",
     "links": []
   },
   "LAX": {
@@ -1404,7 +1418,7 @@
   },
   "BATTLE DANSE - Popping/Boogaloo ": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3NQ0XVbceYwvFt95G2dfqO/9c957b216e487739aefc0edb5a94d8b1/ff26_battle_danse.jpg",
-    "description": "Interactions Créatives est une série\nd’événements de street dance axés sur la créativité et l’authenticité. Cet\névénement invite le public à voyager dans l'univers de Forward Movements en\nleur proposant un battle interactif où danseurs·es de haut\ncalibre doivent improviser à partir de jeux et de contraintes.\n\nDJ: Mark The Magnanimous\n\nMC: Jonathan \"J Style\" Mukoma\n\nJUGE: Elie-Anne \"Rawss\" Ross\n\nDanseur.euses:\n\nJulian \"Helios\" WaxmanKemuel \"Shadow\" Jean-PierreFord \"The Mov3r\" Mckeown LaroseNina \"Willywonka\" ChatiRaphaëlle \"Hunter\" Ann Seal Martine \"Eclipse\" Castera",
+    "description": "Forward Movements propose des ateliers de médiation de street dance axés sur la créativité et l’authenticité. Ces deux événements invitent le public à voyager dans l'univers de la compagnie en leur proposant des performances interactives ainsi qu'une initiation au street dance où danseurs·es de haut calibre mettent en avant tout leur talent ! \n\nDJ: Mark The Magnanimous\n\nMC: Jonathan \"J Style\" Mukoma\n\nJUGE: Elie-Anne \"Rawss\" Ross\n\nDanseur.euses:\n\nJulian \"Helios\" WaxmanKemuel \"Shadow\" Jean-PierreFord \"The Mov3r\" Mckeown LaroseNina \"Willywonka\" ChatiRaphaëlle \"Hunter\" Ann Seal Martine \"Eclipse\" Castera",
     "links": []
   },
   "Le Complot": {
@@ -1439,7 +1453,7 @@
   },
   "BATTLE DANSE - Afro": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/Qn3ajR6CGnbdhdx5xS3IY/700efd865196f0bfee185a58f96c4615/ff26_battle_danse.jpg",
-    "description": "Interactions Créatives est une série\nd’événements de street dance axés sur la créativité et l’authenticité. Cet\névénement invite le public à voyager dans l'univers de Forward Movements en\nleur proposant un battle interactif où danseurs·es de haut\ncalibre doivent improviser à partir de jeux et de contraintes.\n\nDJ: Nina Fondop\n\nMC: Killian \"Kiki\" Eouani \n\nJUGE: Alliowe \"Alli-Ola\" Olanrewaju\n\nDanseur.euses:\n\n\"Monica\" Jane FrançoisTetuh Asi Richline \"Badgyal Riri\"\nPascale\"Leah\" Dangaa\"Byga\" FintsougabySerginho \"Gknow\" MaxiusJames \"Shvbba\" Belony",
+    "description": "Forward Movements propose des ateliers de médiation de street dance axés sur la créativité et l’authenticité. Ces deux événements invitent le public à voyager dans l'univers de la compagnie en leur proposant des performances interactives ainsi qu'une initiation au street dance où danseurs·es de haut calibre mettent en avant tout leur talent ! \n\nDJ: Nina Fondop\n\nMC: Killian \"Kiki\" Eouani \n\nJUGE: Alliowe \"Alli-Ola\" Olanrewaju\n\nDanseur.euses:\n\n\"Monica\" Jane FrançoisTetuh Asi Richline \"Badgyal Riri\"\nPascale\"Leah\" Dangaa\"Byga\" FintsougabySerginho \"Gknow\" MaxiusJames \"Shvbba\" Belony",
     "links": []
   }
 }
