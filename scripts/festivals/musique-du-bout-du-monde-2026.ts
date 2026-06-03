@@ -110,14 +110,14 @@ async function fetchArtistDetail(url: string): Promise<ArtistDetailEntry> {
     ...(socialSection?.querySelectorAll("a") ?? []),
   ]) {
     const href = aEl.getAttribute("href");
-    if (href && href.startsWith("http")) {
+    if (href?.startsWith("http")) {
       links.push({ label: inferLinkLabel(href), url: href });
     }
   }
 
   const col = root.querySelector("div.col-sm-8");
   const webSiteIdx = col?.innerHTML?.indexOf("artist-web-site") ?? -1;
-  const bioHtml = webSiteIdx >= 0 ? col!.innerHTML.slice(0, webSiteIdx) : (col?.innerHTML ?? "");
+  const bioHtml = webSiteIdx >= 0 ? (col?.innerHTML.slice(0, webSiteIdx) ?? "") : (col?.innerHTML ?? "");
   const bioRoot = parse(bioHtml);
   const paras = bioRoot
     .querySelectorAll("p")

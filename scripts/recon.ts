@@ -81,11 +81,11 @@ async function detectFramework(
   capturedJson: CapturedFile[],
 ): Promise<FrameworkMatch> {
   // Next.js
-  const hasNextData = await page.evaluate(() => !!(window as unknown as Record<string, unknown>)["__NEXT_DATA__"]);
+  const hasNextData = await page.evaluate(() => !!(window as unknown as Record<string, unknown>).__NEXT_DATA__);
   if (hasNextData) return { name: "Next.js", confidence: "HIGH", skillSection: "pattern B" };
 
   // Nuxt
-  const hasNuxt = await page.evaluate(() => !!(window as unknown as Record<string, unknown>)["__NUXT__"]);
+  const hasNuxt = await page.evaluate(() => !!(window as unknown as Record<string, unknown>).__NUXT__);
   if (hasNuxt) return { name: "Nuxt", confidence: "HIGH", skillSection: "pattern C" };
 
   // SvelteKit and FestApp — check saved HTML
@@ -127,7 +127,7 @@ async function detectFramework(
         const encoded = urlObj.searchParams.get("query");
         if (encoded) {
           const decoded = JSON.parse(Buffer.from(encoded, "base64").toString("utf8")) as Record<string, unknown>;
-          indexName = decoded["indexName"] as string | undefined;
+          indexName = decoded.indexName as string | undefined;
         }
       } catch {
         /* ignore parse errors */
@@ -166,7 +166,7 @@ async function detectFramework(
       return null;
     }
   });
-  if (wpResult && Array.isArray(wpResult["namespaces"])) {
+  if (wpResult && Array.isArray(wpResult.namespaces)) {
     return { name: "WordPress", confidence: "MEDIUM", skillSection: "pattern D (inspect custom routes)" };
   }
 
@@ -311,7 +311,7 @@ async function runRecon(rawUrl: string): Promise<void> {
           jsCount++;
         }
       } else if ((ct.includes("application/json") || responseUrl.includes(".json")) && body.length > 512) {
-        const filename = sanitizeFilename(responseUrl) + ".json";
+        const filename = `${sanitizeFilename(responseUrl)}.json`;
         const localPath = path.join(networkDir, filename);
         await fs.writeFile(localPath, body);
         capturedJson.push({ url: responseUrl, localPath, sizeBytes: body.length });
