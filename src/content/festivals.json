@@ -156,6 +156,19 @@
     "draft": true
   },
   {
+    "name": "Festival International de Jazz de Montréal 2026",
+    "shortName": "Jazz de Montréal 2026",
+    "slug": "montreal-jazz-2026",
+    "year": 2026,
+    "region": "Montréal",
+    "features": ["filter-free"],
+    "dataDir": "montreal-jazz-2026",
+    "sourceUrl": "https://montrealjazzfest.com/fr/programmation/artistes",
+    "sourceLabel": "montrealjazzfest.com",
+    "sourceAttribution": "Festival International de Jazz de Montréal",
+    "draft": true
+  },
+  {
     "name": "Festival Musique du Bout du Monde 2026",
     "shortName": "FMBM 2026",
     "slug": "musique-du-bout-du-monde-2026",

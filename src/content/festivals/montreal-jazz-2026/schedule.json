@@ -1,0 +1,2745 @@
+[
+  {
+    "date": "2026-06-25",
+    "time": "20:00",
+    "venue": "Cabaret Lion d'Or",
+    "paid": true,
+    "artist": "Robinson Khoury"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "20:00",
+    "venue": "Cinquième Salle — Place des Arts",
+    "paid": true,
+    "artist": "Kid Koala",
+    "genre": "Électronique"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "21:00",
+    "venue": "Club Soda",
+    "paid": true,
+    "artist": "DJ Jazzy Jeff",
+    "genre": "Hip-Hop R&B"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "21:30",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Lex French  \"Sketches of Miles\" 100 ans"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "18:00",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "Viviane Audet",
+    "genre": "Classique"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "22:30",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "Sullivan Fortner (solo)",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "18:00",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "The Rewind - RnB, Soul & Funk Classics"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "19:00",
+    "venue": "Maison symphonique de Montréal",
+    "paid": true,
+    "artist": "Marcus Miller",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "20:30",
+    "venue": "MTELUS",
+    "paid": true,
+    "artist": "Lila Downs",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "12:00",
+    "venue": "PHI",
+    "paid": true,
+    "artist": "Habitat Sonore : A Love Supreme — John Coltrane 100e"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "19:30",
+    "venue": "Salle Wilfrid-Pelletier — Place des Arts",
+    "paid": true,
+    "artist": "Max Richter",
+    "genre": "Classique"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "21:00",
+    "venue": "Théâtre Jean-Duceppe",
+    "paid": true,
+    "artist": "The Headhunters",
+    "genre": "Funk"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "19:00",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Steve Cardenas & John Cowherd Quartet avec Nicolas Bond et Christian Palermeau"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "21:30",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Steve Cardenas & John Cowherd Quartet avec Nicolas Bond et Christian Palermeau"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "18:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Sarah Neufeld, Richard Reed Parry, Rebecca Foon"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "20:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Sarah Neufeld, Richard Reed Parry, Rebecca Foon"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "23:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Ivan Boivin-Flamand"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "19:00",
+    "venue": "Dièse Onze",
+    "paid": false,
+    "artist": "Ben Charest Quintet"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "23:00",
+    "venue": "Le Balcon",
+    "paid": false,
+    "artist": "chiquitamagic & Justin Brown"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "18:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Les Royal Pickles"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "20:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "BSMNT Brass"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "20:50",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "BSMNT Brass"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "18:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Doxas Brothers"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "22:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Mohini Dey"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "23:00",
+    "venue": "PHONO, (2e étage du Studio TD)",
+    "paid": false,
+    "artist": "PHONO Présenté par Music Is My Sanctuary et Ferias"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "17:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Gentiane MG",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "19:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Gentiane MG",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "21:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Skylar Tang"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "17:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Annie & The Caldwells"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "19:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Annie & The Caldwells"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "21:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Ensemble Equinox"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "18:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Hannah Cohen"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "20:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Hannah Cohen"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "22:30",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Louis Cole Big Band"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "19:00",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Tiana Major9"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "21:30",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "The Barr Brothers"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "19:30",
+    "venue": "Cinéma du Musée",
+    "paid": true,
+    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "20:00",
+    "venue": "Cinquième Salle — Place des Arts",
+    "paid": true,
+    "artist": "Kid Koala",
+    "genre": "Électronique"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "19:00",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Jean-Marc Hébert Quartet"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "21:30",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Alex Leblanc et son Orchestre"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "18:00",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "Quinteto Astor Piazolla",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "22:30",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "David Binney Action Trio",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "18:00",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "Soul Motown Vibes"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "20:30",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "Hommage à Buena Vista Social Club et aux Grands classiques de la musique cubaine"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "19:00",
+    "venue": "Maison symphonique de Montréal",
+    "paid": true,
+    "artist": "Flore Laurentienne",
+    "genre": "Classique"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "20:30",
+    "venue": "MTELUS",
+    "paid": true,
+    "artist": "Ca7riel y Paco Amoroso",
+    "genre": "Électronique"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "12:00",
+    "venue": "PHI",
+    "paid": true,
+    "artist": "Habitat Sonore : A Love Supreme — John Coltrane 100e"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "19:30",
+    "venue": "Salle Wilfrid-Pelletier — Place des Arts",
+    "paid": true,
+    "artist": "Diana Krall",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "21:00",
+    "venue": "Théâtre Jean-Duceppe",
+    "paid": true,
+    "artist": "The Bad Plus",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "21:00",
+    "venue": "Théâtre Maisonneuve — Place des Arts",
+    "paid": true,
+    "artist": "Cécile McLorin Salvant",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "19:00",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Champian Fulton"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "21:30",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Champian Fulton"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "16:00",
+    "venue": "Cinquième Salle — Place des Arts",
+    "paid": false,
+    "artist": "Discussion avec KID KOALA"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "18:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Bel and quinn"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "20:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Salin"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "23:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Vibe Benders"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "23:00",
+    "venue": "Le Balcon",
+    "paid": false,
+    "artist": "chiquitamagic"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "18:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Coco Rose"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "20:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Lucky Chemistry"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "20:50",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Lucky Chemistry"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "18:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Dawn Tyler Watson"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "22:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "McKinley Dixon"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "23:00",
+    "venue": "PHONO, (2e étage du Studio TD)",
+    "paid": false,
+    "artist": "PHONO Présenté par Music Is My Sanctuary et Ferias"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "17:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "MA:Q"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "18:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Café"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "19:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "MA:Q"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "21:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Avishai Cohen"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "15:00",
+    "venue": "Salle Alanis-Obomsawin de l'ONF",
+    "paid": false,
+    "artist": "RUMBLE: The Indians Who Rocked the World"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "17:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "McGill Jazz Orchestra 1"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "19:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Leenalchi"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "21:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Leenalchi"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "18:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Campbell & Johnston"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "20:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Campbell & Johnston"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "22:30",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "anaiis & Grupo Cosmo"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "19:00",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Cymande"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "21:30",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "KOKOROKO"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "14:30",
+    "venue": "Cinéma du Musée",
+    "paid": true,
+    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "13:00",
+    "venue": "Cinéma du Parc",
+    "paid": true,
+    "artist": "Chasing Trane"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "15:15",
+    "venue": "Cinéma du Parc",
+    "paid": true,
+    "artist": "Miles Davis : Birth of cool"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "15:00",
+    "venue": "Cinquième Salle — Place des Arts",
+    "paid": true,
+    "artist": "Kid Koala",
+    "genre": "Électronique"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "20:00",
+    "venue": "Cinquième Salle — Place des Arts",
+    "paid": true,
+    "artist": "Kid Koala",
+    "genre": "Électronique"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "21:00",
+    "venue": "Club Soda",
+    "paid": true,
+    "artist": "The Halluci Nation",
+    "genre": "Électronique"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "19:00",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Nicolas Ferron Organ trio"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "21:30",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Al McLean Quartet Coltrane 100ans"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "18:00",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "Molly Johnson",
+    "genre": "Blues"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "11:30",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "Brunch Gospel"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "18:00",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "Fiesta Cubana"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "20:30",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "Back To The 80's"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "19:00",
+    "venue": "Maison symphonique de Montréal",
+    "paid": true,
+    "artist": "Charles Lloyd Quartet",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "11:00",
+    "venue": "PHI",
+    "paid": true,
+    "artist": "Habitat Sonore : A Love Supreme — John Coltrane 100e"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "19:30",
+    "venue": "Salle Wilfrid-Pelletier — Place des Arts",
+    "paid": true,
+    "artist": "Diana Krall",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "21:00",
+    "venue": "Théâtre Jean-Duceppe",
+    "paid": true,
+    "artist": "Lorraine Desmarais & Friends",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "20:00",
+    "venue": "Théâtre Maisonneuve — Place des Arts",
+    "paid": true,
+    "artist": "Dominique Fils-Aimé",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "19:00",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Camille Thurman avec Darrell Green Quartet"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "21:30",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Camille Thurman avec Darrell Green Quartet"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "18:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Will Scott III"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "20:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Klaus"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "23:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Klaus"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "23:00",
+    "venue": "Le Balcon",
+    "paid": false,
+    "artist": "Growve"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "12:15",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Early Jazz Band"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "13:15",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Montréal Dixie"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "15:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Early Jazz Band"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "16:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Montréal Dixie"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "18:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Lucky Chemistry"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "20:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Burning Brass Band"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "20:50",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Burning Brass Band"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "18:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Aron!"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "22:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Immanuel Wilkins"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "23:00",
+    "venue": "PHONO, (2e étage du Studio TD)",
+    "paid": false,
+    "artist": "PHONO Présenté par Music Is My Sanctuary et Ferias"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "17:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Jabfung"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "17:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Rythme 105.7 : Tatouages temporaires et reportages en direct"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "19:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Jabfung"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "21:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Marcus Gilmore"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "15:00",
+    "venue": "Salle Alanis-Obomsawin de l'ONF",
+    "paid": false,
+    "artist": "Maron - La piste créole en Amérique"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "17:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Massey-Vanier Jazz 5"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "19:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Los Mirlos"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "21:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Los Mirlos"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "18:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Brittany Davis"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "20:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Brittany Davis"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "22:30",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "KELS"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "19:00",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Adrian Quesada's Trio Asesino"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "21:30",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Angine de Poitrine"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "19:00",
+    "venue": "Cinéma du Musée",
+    "paid": true,
+    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "15:00",
+    "venue": "Cinquième Salle — Place des Arts",
+    "paid": true,
+    "artist": "Kid Koala",
+    "genre": "Électronique"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "20:00",
+    "venue": "Cinquième Salle — Place des Arts",
+    "paid": true,
+    "artist": "Kid Koala",
+    "genre": "Électronique"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "21:00",
+    "venue": "Club Soda",
+    "paid": true,
+    "artist": "Victor Wooten and The Wooten Brothers",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "19:00",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Coral Egan chante \"Shirley Horn with Horns\""
+  },
+  {
+    "date": "2026-06-28",
+    "time": "18:00",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "Soul Jazz & RnB Night"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "11:00",
+    "venue": "PHI",
+    "paid": true,
+    "artist": "Habitat Sonore : A Love Supreme — John Coltrane 100e"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "19:30",
+    "venue": "Salle Wilfrid-Pelletier — Place des Arts",
+    "paid": true,
+    "artist": "St. Vincent Symphonique",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "21:00",
+    "venue": "Théâtre Jean-Duceppe",
+    "paid": true,
+    "artist": "Dominique Fils-Aimé",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "20:00",
+    "venue": "Théâtre Maisonneuve — Place des Arts",
+    "paid": true,
+    "artist": "Hiromi",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "19:00",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Orrin Evans Trio"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "21:30",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Orrin Evans Trio"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "18:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Gäelle"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "20:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Ping Pong Go"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "23:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "G L O W Z I"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "21:30",
+    "venue": "Dièse Onze",
+    "paid": false,
+    "artist": "Jacques Kuba Séguin Lancement de Trilogie des odeurs"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "12:15",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Kutsi Merki"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "13:15",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Early Jazz Band"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "15:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Kutsi Merki"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "16:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Early Jazz Band"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "18:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "BSMNT Brass"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "20:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Coco Rose"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "20:50",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Coco Rose"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "18:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Jean-Michel Pilc Trio"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "22:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Emile Londonien"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "23:00",
+    "venue": "PHONO, (2e étage du Studio TD)",
+    "paid": false,
+    "artist": "PHONO Présenté par Music Is My Sanctuary et Ferias"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "17:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Sammy Jackson"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "19:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Sammy Jackson"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "21:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Tomoki Sanders"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "15:00",
+    "venue": "Salle Alanis-Obomsawin de l'ONF",
+    "paid": false,
+    "artist": "Mesdames et messieurs…Leonard Cohen"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "17:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Ottawa Junior Jazz band"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "19:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Son Little"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "21:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Son Little"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "18:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "D.K. Harrell"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "20:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "D.K. Harrell"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "22:30",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "MonoNeon"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "19:00",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Izzy Escobar"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "21:30",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Kamasi Washington"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "19:30",
+    "venue": "Cinéma du Musée",
+    "paid": true,
+    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "16:45",
+    "venue": "Cinéma du Parc",
+    "paid": true,
+    "artist": "Chasing Trane"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "21:00",
+    "venue": "Club Soda",
+    "paid": true,
+    "artist": "Nicholas Payton & Butcher Brown présentent A Supreme Blue",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "19:00",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Gentiane MG Trio"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "21:30",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Alex Bellegarde Latin Jazz Quartet"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "18:00",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "Laura Anglade",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "19:00",
+    "venue": "Monument-National",
+    "paid": true,
+    "artist": "UZEB en fusion"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "12:00",
+    "venue": "PHI",
+    "paid": true,
+    "artist": "Habitat Sonore : A Love Supreme — John Coltrane 100e"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "19:30",
+    "venue": "Salle Wilfrid-Pelletier — Place des Arts",
+    "paid": true,
+    "artist": "El Gran Combo de Puerto Rico",
+    "genre": "Latine"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "21:00",
+    "venue": "Théâtre Jean-Duceppe",
+    "paid": true,
+    "artist": "Lizz Wright",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "21:00",
+    "venue": "Théâtre Maisonneuve — Place des Arts",
+    "paid": true,
+    "artist": "Joshua Redman Group",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "19:00",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "The Ostara Project"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "21:30",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "The Ostara Project"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "18:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Marvin Caleb"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "20:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Zach Zoya & High Klassified"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "23:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "High Klassified"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "18:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Yordan & The Cuban Martinez Show"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "20:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Rara Soley"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "20:50",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Rara Soley"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "18:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Elysia Biro"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "22:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Brandee Younger"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "13:00",
+    "venue": "Monument-National",
+    "paid": false,
+    "artist": "Discussion avec Joshua Redman"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "15:00",
+    "venue": "Monument-National",
+    "paid": false,
+    "artist": "Classe de Maître avec Victor Wooten and the Wooten Brothers"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "23:00",
+    "venue": "PHONO, (2e étage du Studio TD)",
+    "paid": false,
+    "artist": "PHONO Présenté par Music Is My Sanctuary et Ferias"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "17:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Curtis Nowosad"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "19:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Curtis Nowosad"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "21:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Elena Pinderhughes"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "17:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Couleurs Cazz"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "19:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Fabiola Mendez"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "21:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Fabiola Mendez"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "18:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Cécile Doo-Kingué"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "20:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Cécile Doo-Kingué"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "22:30",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Nubiyan Twist"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "19:00",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Keyon Harrold"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "21:30",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Naïka"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "17:00",
+    "venue": "Cinéma du Musée",
+    "paid": true,
+    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "21:00",
+    "venue": "Club Soda",
+    "paid": true,
+    "artist": "Alchemist (DJ Set)",
+    "genre": "Hip-Hop R&B"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "19:00",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Joe Sullivan BigBand"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "21:30",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Alex Bellegarde Trio + Invité suivi du Jam Session"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "18:00",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "Michel Cusson",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "22:30",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "Okonski",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "20:30",
+    "venue": "MTELUS",
+    "paid": true,
+    "artist": "Father John Misty",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "12:00",
+    "venue": "PHI",
+    "paid": true,
+    "artist": "Habitat Sonore : A Love Supreme — John Coltrane 100e"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "21:00",
+    "venue": "Théâtre Jean-Duceppe",
+    "paid": true,
+    "artist": "Arielle Soucy",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "21:00",
+    "venue": "Théâtre Maisonneuve — Place des Arts",
+    "paid": true,
+    "artist": "Stacey Kent",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "19:00",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Nicholas Payton Trio"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "21:30",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Nicholas Payton Trio"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "18:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Hansom Eli"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "20:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "SAMANT"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "23:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "SAMANT"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "23:00",
+    "venue": "Le Balcon",
+    "paid": false,
+    "artist": "Growve"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "18:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Rara Soley"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "20:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Coco Rose"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "20:50",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Coco Rose"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "18:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Les Saxophones de l'Orchestre National de Jazz de Montréal"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "22:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Bricknasty"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "13:00",
+    "venue": "Monument-National",
+    "paid": false,
+    "artist": "Coltrane @ 100 : première mondiale d’extraits des mythiques « Tiberi Tapes » avec Ken Druker de Verve Records"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "15:00",
+    "venue": "Monument-National",
+    "paid": false,
+    "artist": "Discussion avec Alchemist"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "23:00",
+    "venue": "PHONO, (2e étage du Studio TD)",
+    "paid": false,
+    "artist": "PHONO Présenté par Music Is My Sanctuary et Ferias"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "17:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "GEORGE"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "18:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Émission en direct de CIBL 101,5"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "19:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "GEORGE"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "21:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Craig Taborn"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "17:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Jeremie Poitras and Friends"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "19:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Thanda Choir"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "21:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Thanda Choir"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "18:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Mei Semones"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "20:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Mei Semones"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "22:30",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Olive Jones"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "19:00",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Alfa Mist"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "21:30",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Willow"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "17:00",
+    "venue": "Cinéma du Musée",
+    "paid": true,
+    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "16:45",
+    "venue": "Cinéma du Parc",
+    "paid": true,
+    "artist": "Miles Davis : Birth of cool"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "19:00",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Yannick Rieu 100 Years of Coltrane"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "21:30",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Yannick Rieu 100 Years of Coltrane"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "18:00",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "Michel Cusson",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "18:00",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "Mercredis Live Jazz"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "20:30",
+    "venue": "MTELUS",
+    "paid": true,
+    "artist": "Ibrahim Maalouf",
+    "genre": "Classique"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "12:00",
+    "venue": "PHI",
+    "paid": true,
+    "artist": "Habitat Sonore : A Love Supreme — John Coltrane 100e"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "19:30",
+    "venue": "Salle Wilfrid-Pelletier — Place des Arts",
+    "paid": true,
+    "artist": "Melody Gardot",
+    "genre": "Blues"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "21:00",
+    "venue": "Théâtre Jean-Duceppe",
+    "paid": true,
+    "artist": "Chief Adjuah",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "20:00",
+    "venue": "Théâtre Maisonneuve — Place des Arts",
+    "paid": true,
+    "artist": "Béla Fleck, Edmar Castañeda & Antonio Sánchez",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "19:00",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "The Battle: Eric Alexander & Vincent Herring"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "21:30",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "The Battle: Eric Alexander & Vincent Herring"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "18:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Christine Jensen sextet"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "20:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Christine Jensen sextet"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "23:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "The Liquor Store"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "23:00",
+    "venue": "Le Balcon",
+    "paid": false,
+    "artist": "John Roney"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "12:15",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Swing Tonique Jazz Band"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "13:15",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Montréal Dixie"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "15:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Swing Tonique Jazz Band"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "16:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Montréal Dixie"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "18:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Burning Brass Band"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "20:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Les Royal Pickles"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "20:50",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Les Royal Pickles"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "18:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "SHEBAD"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "22:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "GENA"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "13:00",
+    "venue": "Monument-National",
+    "paid": false,
+    "artist": "Les scènes jazz autour du monde"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "15:00",
+    "venue": "Monument-National",
+    "paid": false,
+    "artist": "Classe de maÎtre avec Brandee Younger"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "23:00",
+    "venue": "PHONO, (2e étage du Studio TD)",
+    "paid": false,
+    "artist": "PHONO Présenté par Music Is My Sanctuary et Ferias"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "17:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Aretha Tillotson Quartet"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "18:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Pod’Casque"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "19:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Aretha Tillotson Quartet"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "21:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Kalia Vandever"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "17:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Visaj"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "19:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Yuuf"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "21:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Yuuf"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "18:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Ron Artis II"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "20:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Ron Artis II"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "22:30",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Gotts Street Park"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "19:00",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Destin Conrad"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "21:30",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Larkin Poe"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "17:00",
+    "venue": "Cinéma du Musée",
+    "paid": true,
+    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "19:00",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Ariane Racicot Trio"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "21:30",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Rémi-Jean Leblanc présente HEY DAY"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "22:30",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "Ciné-concert : Ascenseur pour l’échafaud revisité par Rémi Cormier Quintet",
+    "genre": "Autre"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "18:00",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "World of Soul"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "20:30",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "Hommage à Etta James"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "19:00",
+    "venue": "Maison symphonique de Montréal",
+    "paid": true,
+    "artist": "Taj Mahal & The Phantom Blues Band",
+    "genre": "Blues"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "12:00",
+    "venue": "PHI",
+    "paid": true,
+    "artist": "Habitat Sonore : A Love Supreme — John Coltrane 100e"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "19:30",
+    "venue": "Salle Wilfrid-Pelletier — Place des Arts",
+    "paid": true,
+    "artist": "Melody Gardot",
+    "genre": "Blues"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "21:00",
+    "venue": "Théâtre Maisonneuve — Place des Arts",
+    "paid": true,
+    "artist": "Tortoise",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "19:00",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Ranee Lee"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "21:30",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Ranee Lee"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "18:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "CHANCES"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "20:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Afrotronix"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "23:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Laylit"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "23:00",
+    "venue": "Le Balcon",
+    "paid": false,
+    "artist": "John Roney"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "18:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Yordan & The Cuban Martinez Show"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "20:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Sumak Brass Band"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "20:50",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Sumak Brass Band"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "18:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Kazdoura"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "23:00",
+    "venue": "PHONO, (2e étage du Studio TD)",
+    "paid": false,
+    "artist": "PHONO Présenté par Music Is My Sanctuary et Ferias"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "17:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Yvan Belleau"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "19:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Yvan Belleau"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "21:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Kassa Overall"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "17:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Big band de l'école de Jazz de Montréal"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "19:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Bayou"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "21:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "The Free Label"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "18:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Thee Marloes"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "20:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Thee Marloes"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "22:30",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "DOMi & JD Beck",
+    "genre": "Hip-Hop R&B"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "19:00",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Annahstasia"
+  },
+  {
+    "date": "2026-07-02",
+    "time": "21:30",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Saint Levant"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "19:00",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "François Bourassa Quartet"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "21:30",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Quiet Quintet - Légende du Hard Bob Kenny Dorham"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "18:00",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "Alain Caron trio avec le quatuor ESCA",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "22:30",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "Ron Di Lauro",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "18:00",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "Soul Jazz & RnB Night"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "20:30",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "Hommage à Celia Cruz"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "19:00",
+    "venue": "Maison symphonique de Montréal",
+    "paid": true,
+    "artist": "Sofiane Pamart",
+    "genre": "Rap"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "20:30",
+    "venue": "MTELUS",
+    "paid": true,
+    "artist": "Fridayy",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "12:00",
+    "venue": "PHI",
+    "paid": true,
+    "artist": "Habitat Sonore : A Love Supreme — John Coltrane 100e"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "19:30",
+    "venue": "Salle Wilfrid-Pelletier — Place des Arts",
+    "paid": true,
+    "artist": "Pink Martini",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "21:00",
+    "venue": "Théâtre Jean-Duceppe",
+    "paid": true,
+    "artist": "Isaiah Collier",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "21:00",
+    "venue": "Théâtre Maisonneuve — Place des Arts",
+    "paid": true,
+    "artist": "John Pizzarelli",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "19:00",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Billy Childs Trio"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "21:30",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Billy Childs Trio"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "18:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Afternoon Bike Ride"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "20:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "Afternoon Bike Ride"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "23:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "YOO II & Nolan Potter"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "23:00",
+    "venue": "Le Balcon",
+    "paid": false,
+    "artist": "John Roney"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "18:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "La Murga Ensamble"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "20:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Early Jazz Band"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "20:50",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Early Jazz Band"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "18:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Flore Benguigui & The Sensible Notes"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "22:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Fonville x Fribush"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "13:00",
+    "venue": "Monument-National",
+    "paid": false,
+    "artist": "Discussion avec Christian McBride"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "23:00",
+    "venue": "PHONO, (2e étage du Studio TD)",
+    "paid": false,
+    "artist": "PHONO Présenté par Music Is My Sanctuary et Ferias"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "17:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Rachel Therrien"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "19:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Rachel Therrien"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "21:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Anamaria Oramas"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "15:00",
+    "venue": "Salle Alanis-Obomsawin de l'ONF",
+    "paid": false,
+    "artist": "Le chat dans le sac"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "17:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Sortie 210"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "19:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Macario Martinez"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "21:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Macario Martinez"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "18:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Guy Bélanger"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "20:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Guy Bélanger"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "22:30",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Tanya Tagaq",
+    "genre": "Punk Rock"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "19:00",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Choir! Choir! Choir!"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "21:30",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Patrick Watson"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "21:00",
+    "venue": "Club Soda",
+    "paid": true,
+    "artist": "Billy Bragg",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "19:00",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Normand Guilbeault ensemble joue Mingus"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "21:30",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Normand Guilbeault ensemble joue Mingus"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "18:00",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "Alain Caron trio avec le quatuor ESCA",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "22:30",
+    "venue": "Gesù",
+    "paid": true,
+    "artist": "Resavoir",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "20:30",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "Disco Queen Live!"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "23:00",
+    "venue": "Le Balcon",
+    "paid": true,
+    "artist": "Voyage Funktastique"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "19:00",
+    "venue": "Maison symphonique de Montréal",
+    "paid": true,
+    "artist": "Hania Rani - Non Fiction",
+    "genre": "Classique"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "20:30",
+    "venue": "MTELUS",
+    "paid": true,
+    "artist": "GOAT",
+    "genre": "Afrobeats"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "11:00",
+    "venue": "PHI",
+    "paid": true,
+    "artist": "Habitat Sonore : A Love Supreme — John Coltrane 100e"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "19:30",
+    "venue": "Salle Wilfrid-Pelletier — Place des Arts",
+    "paid": true,
+    "artist": "Pink Martini",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "21:00",
+    "venue": "Théâtre Maisonneuve — Place des Arts",
+    "paid": true,
+    "artist": "Christian McBride & Julian Lage",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "19:00",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Billy Childs Trio"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "21:30",
+    "venue": "Upstairs Jazz Bar & Grill",
+    "paid": true,
+    "artist": "Billy Childs Trio"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "18:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "CHUNG"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "20:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "MIMS + FERIAS Block party"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "23:00",
+    "venue": "Club Montréal Loto-Québec",
+    "paid": false,
+    "artist": "MIMS + FERIAS Block party"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "12:15",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Kutsi Merki"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "13:15",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Swing Tonique Jazz Band"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "15:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Kutsi Merki"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "16:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Swing Tonique Jazz Band"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "18:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "Sumak Brass Band"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "20:00",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "La Murga Ensamble"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "20:50",
+    "venue": "Le Cabaret Havana Club",
+    "paid": false,
+    "artist": "La Murga Ensamble"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "18:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "NAJIB and the Alter Egos"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "22:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Aja Monet"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "23:00",
+    "venue": "PHONO, (2e étage du Studio TD)",
+    "paid": false,
+    "artist": "PHONO Présenté par Music Is My Sanctuary et Ferias"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "17:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Solarium"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "17:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "The Beat 92.5 : Tatouages temporaires et reportages en direct"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "19:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Solarium"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "21:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "corto.alto"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "15:00",
+    "venue": "Salle Alanis-Obomsawin de l'ONF",
+    "paid": false,
+    "artist": "Les Girls"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "17:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Stage band CJE 5"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "19:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Etran de L’Aïr"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "21:00",
+    "venue": "Scène Rio Tinto",
+    "paid": false,
+    "artist": "Etran de L’Aïr"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "18:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Sue Foley"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "20:00",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Sue Foley"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "22:30",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Chicha Libre"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "19:00",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Gabriel Jacoby"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "21:30",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Smino"
+  },
+  {
+    "date": "2026-07-05",
+    "time": "19:30",
+    "venue": "Centre Bell",
+    "paid": true,
+    "artist": "Lionel Richie and Earth, Wind & Fire",
+    "genre": "Funk"
+  }
+]
