@@ -1,0 +1,296 @@
+[
+  {
+    "date": "2026-06-19",
+    "time": "21:30",
+    "venue": "Bateau de Nuit",
+    "artist": "Panic Attack",
+    "paid": false
+  },
+  {
+    "date": "2026-06-19",
+    "time": "22:30",
+    "venue": "Bateau de Nuit",
+    "artist": "Les Toffes",
+    "paid": false
+  },
+  {
+    "date": "2026-06-19",
+    "time": "19:00",
+    "venue": "Scène du Parvis",
+    "artist": "Valery Vaungh",
+    "paid": false
+  },
+  {
+    "date": "2026-06-19",
+    "time": "20:00",
+    "venue": "Scène du Parvis",
+    "artist": "Cure-pipe",
+    "paid": false
+  },
+  {
+    "date": "2026-06-19",
+    "time": "21:00",
+    "venue": "Scène du Parvis",
+    "artist": "Louis-Charles",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "14:00",
+    "venue": "Scène du Parvis",
+    "artist": "Ensemble Afrovibes",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "15:00",
+    "venue": "Scène du Parvis",
+    "artist": "Dee Joyce",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "16:00",
+    "venue": "Scène du Parvis",
+    "artist": "Punch Michael",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "17:00",
+    "venue": "Scène du Parvis",
+    "artist": "Flore & Jade",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "18:00",
+    "venue": "Scène du Parvis",
+    "artist": "Maudit Vincent",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "19:00",
+    "venue": "Scène du Parvis",
+    "artist": "Vermeil",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "20:00",
+    "venue": "Scène du Parvis",
+    "artist": "Maman",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "21:00",
+    "venue": "Scène du Parvis",
+    "artist": "Vincent Khouni",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "22:00",
+    "venue": "Scène du Parvis",
+    "artist": "Mars DJ Set au Lit Double",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "13:00",
+    "venue": "Scène Passage Olympia",
+    "artist": "Les Nébuleuses",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "14:00",
+    "venue": "Scène Passage Olympia",
+    "artist": "Courtepointe",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "15:00",
+    "venue": "Scène Passage Olympia",
+    "artist": "Myriades",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "16:00",
+    "venue": "Scène Passage Olympia",
+    "artist": "After the Forest",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "13:30",
+    "venue": "Scène Saint-Jean-Baptiste",
+    "artist": "Approche Chromatique",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "14:30",
+    "venue": "Scène Saint-Jean-Baptiste",
+    "artist": "Rachel Dara",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "15:30",
+    "venue": "Scène Saint-Jean-Baptiste",
+    "artist": "Bonace",
+    "paid": false
+  },
+  {
+    "date": "2026-06-20",
+    "time": "16:30",
+    "venue": "Scène Saint-Jean-Baptiste",
+    "artist": "Erwan",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "15:00",
+    "venue": "Scène Attaboy",
+    "artist": "La Ola",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "16:00",
+    "venue": "Scène Attaboy",
+    "artist": "Pic-bois",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "17:00",
+    "venue": "Scène Attaboy",
+    "artist": "CRIAGE",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "13:00",
+    "venue": "Scène du Parvis",
+    "artist": "Wilting David Folk Trio",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "14:00",
+    "venue": "Scène du Parvis",
+    "artist": "Catherine Dagenais",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "15:00",
+    "venue": "Scène du Parvis",
+    "artist": "Blackmagic",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "16:00",
+    "venue": "Scène du Parvis",
+    "artist": "Mitaine",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "17:00",
+    "venue": "Scène du Parvis",
+    "artist": "Slim Tony",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "18:00",
+    "venue": "Scène du Parvis",
+    "artist": "Chaude Chaleur",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "19:00",
+    "venue": "Scène du Parvis",
+    "artist": "Bombe",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "20:00",
+    "venue": "Scène du Parvis",
+    "artist": "Roman",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "21:00",
+    "venue": "Scène du Parvis",
+    "artist": "Le Belladone",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "13:00",
+    "venue": "Scène Passage Olympia",
+    "artist": "À fleur de peau",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "14:00",
+    "venue": "Scène Passage Olympia",
+    "artist": "Fumigènes",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "15:00",
+    "venue": "Scène Passage Olympia",
+    "artist": "Chien Dog",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "16:00",
+    "venue": "Scène Passage Olympia",
+    "artist": "Framboise",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "13:30",
+    "venue": "Scène Saint-Jean-Baptiste",
+    "artist": "Jean-David Lavoie",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "14:30",
+    "venue": "Scène Saint-Jean-Baptiste",
+    "artist": "Marianne Gavin",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "15:30",
+    "venue": "Scène Saint-Jean-Baptiste",
+    "artist": "Le Roux",
+    "paid": false
+  },
+  {
+    "date": "2026-06-21",
+    "time": "16:30",
+    "venue": "Scène Saint-Jean-Baptiste",
+    "artist": "Vinciane",
+    "paid": false
+  }
+]

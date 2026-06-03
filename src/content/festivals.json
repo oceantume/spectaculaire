@@ -1,5 +1,18 @@
 [
   {
+    "name": "Fête de la Musique de Québec 2026",
+    "shortName": "FMQ 2026",
+    "slug": "fete-de-la-musique-de-quebec-2026",
+    "year": 2026,
+    "region": "Québec",
+    "features": ["no-genre", "all-free"],
+    "dataDir": "fete-de-la-musique-de-quebec-2026",
+    "sourceUrl": "https://fetedelamusiquedequebec.com/programmation/",
+    "sourceLabel": "fetedelamusiquedequebec.com",
+    "sourceAttribution": "Fête de la Musique de Québec",
+    "draft": false
+  },
+  {
     "name": "Festival d'été de Québec 2026",
     "shortName": "FEQ 2026",
     "slug": "feq-2026",

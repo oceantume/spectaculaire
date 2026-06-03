@@ -22,7 +22,7 @@ function formatDayHeader(date: string): string {
 
 const hasFreeFilter = features.includes("filter-free");
 const hasQuebecFilter = features.includes("filter-quebec");
-const hasAllPaid = features.includes("all-paid");
+const hasAllPaid = features.includes("all-paid") || features.includes("all-free");
 const hasNoGenre = features.includes("no-genre");
 const hasNoArtistDialog = features.includes("no-artist-dialog");
 const hasTypeColumn = features.includes("type-column");
