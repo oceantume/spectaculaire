@@ -1315,7 +1315,7 @@
     "time": "15:00",
     "venue": "Monument-National",
     "paid": false,
-    "artist": "Classe de Maître avec Victor Wooten and the Wooten Brothers"
+    "artist": "Classe de Maître avec Victor Wooten"
   },
   {
     "date": "2026-06-29",
@@ -2368,6 +2368,13 @@
     "venue": "Pub Molson",
     "paid": false,
     "artist": "Rachel Therrien"
+  },
+  {
+    "date": "2026-07-03",
+    "time": "18:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Entrevues Banane Banane"
   },
   {
     "date": "2026-07-03",

@@ -70,6 +70,13 @@
   },
   {
     "date": "2026-06-12",
+    "time": "18:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Dans les airs"
+  },
+  {
+    "date": "2026-06-12",
     "time": "22:30",
     "venue": "Pub Brasseur de Montréal",
     "paid": false,
@@ -162,6 +169,13 @@
     "paid": true,
     "artist": "Ingrid St-Pierre",
     "genre": "Folk"
+  },
+  {
+    "date": "2026-06-13",
+    "time": "23:59",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Shadow Wizard Money Gang X LB66 "
   },
   {
     "date": "2026-06-13",
@@ -467,6 +481,13 @@
   },
   {
     "date": "2026-06-17",
+    "time": "18:00",
+    "venue": "Pub Brasseur de Montréal",
+    "paid": false,
+    "artist": "Entrevues Banane Banane"
+  },
+  {
+    "date": "2026-06-17",
     "time": "19:00",
     "venue": "Pub Brasseur de Montréal",
     "paid": false,
@@ -667,6 +688,13 @@
     "artist": "Bamby"
   },
   {
+    "date": "2026-06-18",
+    "time": "23:59",
+    "venue": "Vino Disco",
+    "paid": false,
+    "artist": "Choses Sauvages"
+  },
+  {
     "date": "2026-06-19",
     "time": "19:00",
     "venue": "Cinquième Salle — Place des Arts",
@@ -735,6 +763,13 @@
     "paid": true,
     "artist": "Paul Piché  ",
     "genre": "Folk"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "23:59",
+    "venue": "Le Central",
+    "paid": false,
+    "artist": "Bonne Famille"
   },
   {
     "date": "2026-06-19",

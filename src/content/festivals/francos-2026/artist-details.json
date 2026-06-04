@@ -1190,6 +1190,15 @@
       }
     ]
   },
+  "Shadow Wizard Money Gang X LB66 ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4unwB5SMb5voajfc3pYEO3/214fce5a360db260b86a5be5152e6438/ff26_swmg_lb66.jpg",
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A"
+      }
+    ]
+  },
   "Malaka": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6bsFXvme4B5KYNfeEIBWmN/d751d6ed5f378c89a885b89fef931fb0/ff26_malaka.jpg",
     "links": [
@@ -1350,6 +1359,11 @@
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/51M1ZabV2UtX46puvyQlDT/2a8a0c5ec74aa93cfcc93b2df890e30a/L_Apr%C3%A8s-Party_de_cl%C3%B4ture_des_Francos_sign%C3%A9_Gr%C3%BCnt.jpg",
     "links": []
   },
+  "Dans les airs": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5W7MqJXyJtYMyCnkWSptmS/7300fdb6a5e4a932aa270c5aea4de284/Franco_Visuelweb_CHOQ.ca.jpg",
+    "description": "Dans les airs, c'est le magazine culturel de CHOQ.ca, pour voir et entendre la culture autrement. On vous amène un peu partout pour vous faire voir la métropole d'un œil différent. Animation de l’épisode par Renaud Vaillancourt et Tomy Tanguay.",
+    "links": []
+  },
   "URBANIA présente un Courrier recommandé devant public": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6xqdzGxcj1qPEWTbT63kYq/e84aee1bf06a86082793dd9ba92d9edb/URBANIA_CM_Francos__1___1_.jpg",
     "description": "Notre format Courrier recommandé sort de son enveloppe habituelle pour une édition spéciale, avec deux artistes qu’on est très content·es de réunir : Paul Piché et Étienne Coppée. Au menu : une rencontre entre générations autour des mots, de la musique et de la langue française.",
@@ -1358,6 +1372,11 @@
   "Émission en direct de CIBL 101,5": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/63VBtNYRk09PLSIa88zCOP/339dae5ca52fba23ca2d82e787526fbf/logo-cibl.jpg",
     "description": "CIBL 101,5 diffusera une émission culturelle spéciale en direct des Francos de Montréal pour faire vivre la frénésie de l'événement à ses auditeurs et pour recevoir les artistes en vedette sur les différentes scènes. Des entrevues de 5 à 8 minutes seront organisées avec eux pour parler de leur spectacle, de leur musique, de leur démarche artistique, de leur univers.",
+    "links": []
+  },
+  "Entrevues Banane Banane": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3kfheEfhNoLLD1dx5AbXhx/1994b2dba6bc5bdf51cae76ee82c7be3/ff26_culture_cible.jpg",
+    "description": "Le Canal Auditif, Sors-tu? et atuvu.ca unissent leurs forces et vous convient à des rencontres fortes en potassium! Dans une ambiance conviviale et fruitée, Camille Dehaene, Marc-André Mongrain et Louis-Philippe Labrèche discutent avec des artistes qui joueront en première partie de vedettes établies.  Mais pas que... Plusieurs autres surprises seront au menu lors de ces sessions enregistrées devant public en vue de diffusion balado.",
     "links": []
   },
   "Pod’Casque": {
@@ -1449,6 +1468,10 @@
   },
   "Soirée WAYBACK": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/73a4yovsgbMm7sF4KU0UHG/a64b5e2107770dd0c163427f3d893bba/ff26_wayback.jpg",
+    "links": []
+  },
+  "Bonne Famille": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2rtlaupPnrcyZlMsSdBMm5/773592b039c46cfaad20e87de600069b/FF26-generique-1104x767.jpg",
     "links": []
   },
   "BATTLE DANSE - Afro": {

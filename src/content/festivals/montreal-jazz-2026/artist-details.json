@@ -516,9 +516,9 @@
       }
     ]
   },
-  "Classe de Maître avec Victor Wooten and the Wooten Brothers": {
+  "Classe de Maître avec Victor Wooten": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/01frLLNtLuHuCpSBspcL9O/905ad6ef9d7788657b01b588f7a5099a/fijm26_victor_wooten.jpg",
-    "description": "Principalement connu pour son travail au sein de Bela Fleck & the Flecktones, Victor Wooten considéré parmi les meilleurs dix bassistes de tous les temps selon le magazine Rolling Stone. Accompagné de ses frères, le musicien, ayant gagné cinq GRAMMYs lors de sa carrière, nous présente le processus artistique qui constitue leur musique.\n\nLa discussion sera en anglais. Le festival met à disposition une application de traduction IA simultanée disponible sur celulaire vers toutes les langues.",
+    "description": "Principalement connu pour son travail au sein de Bela Fleck & the Flecktones, Victor Wooten considéré parmi les meilleurs dix bassistes de tous les temps selon le magazine Rolling Stone. Le musicien, ayant gagné cinq GRAMMYs lors de sa carrière, nous présente le processus artistique qui constitue leur musique.\n\nLa discussion sera en anglais. Le festival met à disposition une application de traduction IA simultanée disponible sur celulaire vers toutes les langues.",
     "links": [
       {
         "label": "YouTube",
@@ -2497,6 +2497,11 @@
         "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
       }
     ]
+  },
+  "Entrevues Banane Banane": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6vUz6cVYgSVxCPgvrqXP5f/caea9c1c2aa60bc0ae83ae3ab07b00de/ff26_culture_cible.jpg",
+    "description": "Le Canal Auditif, Sors-tu? et atuvu.ca unissent leurs forces et vous convient à des rencontres fortes en potassium! Dans une ambiance conviviale et fruitée, Camille Dehaene, Marc-André Mongrain et Louis-Philippe Labrèche discutent avec des artistes qui joueront en première partie de vedettes établies.  Mais pas que... Plusieurs autres surprises seront au menu lors de ces sessions enregistrées devant public en vue de diffusion balado.",
+    "links": []
   },
   "Flore Benguigui & The Sensible Notes": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/Rw81RSMXTEjzDyvyqbiQ4/5f54da32bf163304dee290e3a77b5f83/fijm26_flore_benguigui.jpg",
