@@ -1040,6 +1040,19 @@
       }
     ]
   },
+  "Fanclubwallet": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/46uIH4llMJOWqOYS518wIS/0080291af661a2e79fdec7bce9285b30/osh26_fanclubwallet.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=0usLlcNg62M"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+      }
+    ]
+  },
   "Laura Scavo": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6jv2IUQWtV9H7MkygJ1Cwo/6049a8a4d7af34520cc919c721578110/osh26_laura_scavo.jpg",
     "links": [
