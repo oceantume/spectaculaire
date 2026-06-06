@@ -1,16 +1,23 @@
 [
   {
     "date": "2026-06-19",
-    "time": "21:30",
+    "time": "20:45",
     "venue": "Bateau de Nuit",
-    "artist": "Panic Attack",
+    "artist": "Aster Ponceau",
     "paid": false
   },
   {
     "date": "2026-06-19",
-    "time": "22:30",
+    "time": "21:45",
     "venue": "Bateau de Nuit",
     "artist": "Les Toffes",
+    "paid": false
+  },
+  {
+    "date": "2026-06-19",
+    "time": "22:45",
+    "venue": "Bateau de Nuit",
+    "artist": "Panic Attack",
     "paid": false
   },
   {
