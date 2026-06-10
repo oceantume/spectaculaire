@@ -889,7 +889,7 @@
     ]
   },
   "Vitrine Rendez-vous Pros des Francos ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3Jg6R8TdGlAnhzbpc8rkjI/97a2e3442e36dc22ec63213b2df6e9fd/ff26_generique.jpg",
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/RyNphzQK0CvhjOJirNQ7I/58bcb7f89a4707ebf481c212153a2620/FF26-generique-1104x767.jpg",
     "links": []
   },
   "Luiza": {
@@ -1156,9 +1156,14 @@
       }
     ]
   },
-  "Boutcha Bwa + KidCrayola": {
+  "Kid Krayola + Boutcha Bwa": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6tRWZoy0LK9NZIU10loNx8/94aaba3fda7c6fe2eeaad7dc900feb80/Boutcha_Bwa___KidCrayola.jpg",
-    "links": []
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=vjBmwwKiugA"
+      }
+    ]
   },
   "Finissant.es de l’École nationale de la chanson": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/h00mUIjiqMHTLYN0tNm1C/f6db7610fdaea5e1ce9cd666a1db9792/ff26_finissants_enc.jpg",
@@ -1316,6 +1321,10 @@
       }
     ]
   },
+  "Bonne Famille": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2rtlaupPnrcyZlMsSdBMm5/ac0b334f017e0add6ef42ec3001397f8/mel26_bonne_famille__2_.jpg",
+    "links": []
+  },
   "Soraï": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/ihDJtWYbjmtTbNMqLz5KB/69a0b5e128cab2345b7fe97110444919/ff26_sorai.jpg",
     "links": [
@@ -1468,10 +1477,6 @@
   },
   "Soirée WAYBACK": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/73a4yovsgbMm7sF4KU0UHG/a64b5e2107770dd0c163427f3d893bba/ff26_wayback.jpg",
-    "links": []
-  },
-  "Bonne Famille": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2rtlaupPnrcyZlMsSdBMm5/773592b039c46cfaad20e87de600069b/FF26-generique-1104x767.jpg",
     "links": []
   },
   "BATTLE DANSE - Afro": {

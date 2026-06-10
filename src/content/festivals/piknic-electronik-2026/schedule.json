@@ -604,6 +604,22 @@
     "venue": "SCÈNE FIZZ - HELLBENT",
     "paid": true,
     "time": "17:00",
+    "artist": "Elliot Schooling & Liam Palmer",
+    "type": "off"
+  },
+  {
+    "date": "2026-07-11",
+    "venue": "SCÈNE FIZZ - HELLBENT",
+    "paid": true,
+    "time": "18:30",
+    "artist": "ChaseWest",
+    "type": "off"
+  },
+  {
+    "date": "2026-07-11",
+    "venue": "SCÈNE FIZZ - HELLBENT",
+    "paid": true,
+    "time": "20:00",
     "artist": "Cloonee",
     "type": "off"
   },
