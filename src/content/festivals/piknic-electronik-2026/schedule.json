@@ -908,6 +908,22 @@
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "17:00",
+    "artist": "kiju",
+    "type": "off"
+  },
+  {
+    "date": "2026-09-05",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Silva Bumpa",
+    "type": "off"
+  },
+  {
+    "date": "2026-09-05",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "20:00",
     "artist": "Sammy Virji",
     "type": "off"
   },

@@ -148,14 +148,6 @@
   },
   {
     "date": "2026-06-13",
-    "time": "18:00",
-    "venue": "Club Soda",
-    "paid": true,
-    "artist": "Mahéja",
-    "genre": "Pop"
-  },
-  {
-    "date": "2026-06-13",
     "time": "20:00",
     "venue": "Le Studio TD",
     "paid": true,
@@ -426,6 +418,14 @@
     "genre": "Rap"
   },
   {
+    "date": "2026-06-16",
+    "time": "21:30",
+    "venue": "Les Foufounes Electriques",
+    "paid": true,
+    "artist": "Lou-Adriane Cassidy ",
+    "genre": "Folk"
+  },
+  {
     "date": "2026-06-17",
     "time": "20:00",
     "venue": "Club Soda",
@@ -619,10 +619,17 @@
   },
   {
     "date": "2026-06-18",
-    "time": "20:00",
+    "time": "18:35",
     "venue": "Scène Desjardins",
     "paid": false,
     "artist": "Ya Cetidon "
+  },
+  {
+    "date": "2026-06-18",
+    "time": "20:00",
+    "venue": "Scène Desjardins",
+    "paid": false,
+    "artist": "Sensei H"
   },
   {
     "date": "2026-06-18",

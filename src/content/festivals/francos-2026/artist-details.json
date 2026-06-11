@@ -261,19 +261,6 @@
       }
     ]
   },
-  "Mahéja": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2nFudiKYGGTs1Ygc2jUO4m/48ab54ac869b03f79931f6231207b54d/ff26_maheja.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=wSV2sQQEP_o"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
-      }
-    ]
-  },
   "Bobby Bazini": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4w3rSC0cvYkOGSUFBUORnO/39e3a7c86da3ee9d83f51e424c5db4a5/ff26_bobby_bazini__2_.jpg",
     "links": [
@@ -961,6 +948,19 @@
       }
     ]
   },
+  "Ya Cetidon ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5M161YxW6Gyg1Lm5YUZ5lY/a5cadc27ed3115ea89f04d14961c8b48/ff26_ya_cetidon.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=4EBSETwBCUI"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj?si=vegggo6TQkmvNilOMOFgg&nd=1  "
+      }
+    ]
+  },
   "Baie": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4ZQcLNFvv6HCqKOiKoTMZl/cfd6d76a4a879bf45f78ff2d5044ea94/ff26_baie.jpg",
     "links": [
@@ -974,16 +974,16 @@
       }
     ]
   },
-  "Ya Cetidon ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5M161YxW6Gyg1Lm5YUZ5lY/a5cadc27ed3115ea89f04d14961c8b48/ff26_ya_cetidon.jpg",
+  "Sensei H": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3JBEpgKSoY6XAZVuTvE5Hi/5abcad891b8e74e7e37818df7a85e445/ff26-sensei_h.jpg",
     "links": [
       {
         "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=4EBSETwBCUI"
+        "url": "https://www.youtube.com/watch?v=yuwhWj9QeVo"
       },
       {
         "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj?si=vegggo6TQkmvNilOMOFgg&nd=1  "
+        "url": "https://open.spotify.com/artist/4rSSnUNsjRSMr0TbcjVgkN"
       }
     ]
   },
