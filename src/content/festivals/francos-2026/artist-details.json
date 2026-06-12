@@ -1453,6 +1453,19 @@
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/rU470qPkFAUxebYMCJptN/430abf8f36bc74ddbadce3f03b3b7e43/ff26_complot.jpg",
     "links": []
   },
+  "LVDV ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4o0KTkbaToJLjOU0IeeHPt/8351638d6b0d438411cf75fc5f7b49c8/ff26_lvdv.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ui0V8aQQfRc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2n7iOZlrkWOP9XWzgRhFkn"
+      }
+    ]
+  },
   "Léonie Pernet & Romane Santarelli": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2LQE8Pl6O0XdXdoq44DWZB/17ad9817e0ccbc68838bf4a7cb4c8c12/ff26_pernet_santarelli.jpg",
     "links": [

@@ -439,6 +439,13 @@
   },
   {
     "date": "2026-06-26",
+    "time": "20:00",
+    "venue": "Le Piano public du Groupe Maurice",
+    "paid": false,
+    "artist": "Lorraine Desmarais"
+  },
+  {
+    "date": "2026-06-26",
     "time": "18:00",
     "venue": "Le Studio TD",
     "paid": false,
@@ -770,6 +777,13 @@
   {
     "date": "2026-06-27",
     "time": "18:00",
+    "venue": "Le Piano public du Groupe Maurice",
+    "paid": false,
+    "artist": "Diane Bibaud"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "18:00",
     "venue": "Le Studio TD",
     "paid": false,
     "artist": "Aron!"
@@ -1052,6 +1066,13 @@
     "venue": "Le Cabaret Havana Club",
     "paid": false,
     "artist": "Coco Rose"
+  },
+  {
+    "date": "2026-06-28",
+    "time": "18:00",
+    "venue": "Le Piano public du Groupe Maurice",
+    "paid": false,
+    "artist": "Diane Bibaud"
   },
   {
     "date": "2026-06-28",
@@ -1581,13 +1602,6 @@
     "venue": "Monument-National",
     "paid": false,
     "artist": "Coltrane @ 100 : première mondiale d’extraits des mythiques « Tiberi Tapes » avec Ken Druker de Verve Records"
-  },
-  {
-    "date": "2026-06-30",
-    "time": "15:00",
-    "venue": "Monument-National",
-    "paid": false,
-    "artist": "Discussion avec Alchemist"
   },
   {
     "date": "2026-06-30",
@@ -2378,6 +2392,13 @@
   },
   {
     "date": "2026-07-03",
+    "time": "20:00",
+    "venue": "Le Piano public du Groupe Maurice",
+    "paid": false,
+    "artist": "Hilario Duran"
+  },
+  {
+    "date": "2026-07-03",
     "time": "18:00",
     "venue": "Le Studio TD",
     "paid": false,
@@ -2670,6 +2691,13 @@
     "venue": "Le Cabaret Havana Club",
     "paid": false,
     "artist": "La Murga Ensamble"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "18:00",
+    "venue": "Le Piano public du Groupe Maurice",
+    "paid": false,
+    "artist": "Hilario Duran"
   },
   {
     "date": "2026-07-04",

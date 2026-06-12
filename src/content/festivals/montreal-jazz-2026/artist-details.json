@@ -548,20 +548,6 @@
     "description": "À l’occasion du centenaire de John Coltrane, cette rencontre exceptionnelle propose une plongée au cœur de l’héritage du légendaire saxophoniste à travers une première mondiale d’extraits des mythiques « Tiberi Tapes », présentée par Ken Druker de Verve Records. La discussion reviendra sur les années charnières du début et du milieu des années 1960, période marquée par l’enregistrement des Tiberi Tapes et la création de l’album emblématique A Love Supreme.\nLe public découvrira également le lien méconnu entre Blue World et Montréal, à travers le cinéaste Gilles Groulx et National Film Board of Canada. Entre écoute, échange et réflexion, cette conversation explorera l’impact durable de Coltrane sur le jazz et les arts, ainsi que les raisons pour lesquelles sa musique continue d’inspirer et de résonner auprès des générations d’aujourd’hui. Une période de questions et réponses clôturera la rencontre. La discussion sera mené par Ken Druker de chez Verve Records. \n\nLa discussion sera en anglais. Le festival met à disposition une application de traduction IA simultanée disponible sur celulaire vers toutes les langues. Samuel Blais sera\nle modérateur.",
     "links": []
   },
-  "Discussion avec Alchemist": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3M2k9tBHPgSEM60ZTgoF2v/f4c142fad7e46862c210ea48a494147e/fijm26_alchemist.jpg",
-    "description": "Dans la culture du Hip Hop, Alchemist est une de ces figures qui profondément marqué la pratique de l'art. Ayant collaboré avec et produit pour des artistes tels que Mobb Deep, Eminem Freddie Gibbs, Erykah Badu.  Cet évenement est un aperçu en intimité de son travail et de son processus à travers une conversation modérée par Mario Reyes du collectif Loop Sessions\n\nLa discussion sera en anglais. Le festival met à disposition une application de traduction IA simultanée disponible sur celulaire vers toutes les langues.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=QZ3YgSmmjHU"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-      }
-    ]
-  },
   "Thanda Choir": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1IyA2I5qTd56q3Hk4OBfMb/0f8ffa9c6dc71324d2730bb80e5678bc/fijm26_thanda_choir.jpg",
     "links": [
@@ -1261,6 +1247,10 @@
       }
     ]
   },
+  "Lorraine Desmarais": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2wliV1pBarXJdn0OxyGUtC/de018a5ebca9bf7a8c45a63c3bf716d0/fijm26_lorraine_desmarais_2.jpg",
+    "links": []
+  },
   "Lucky Chemistry": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/LABV2cnMF6m7E5l7zOD30/5750cb790bcc26d00e35f2d1319bd230/fijm26_lucky_chemistry.jpg",
     "links": [
@@ -1470,6 +1460,10 @@
         "url": "https://open.spotify.com/artist/3sRxyZAJO726wjCXfXZYuB"
       }
     ]
+  },
+  "Diane Bibaud": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3FDh3jDWLgzEcdn7WFnOef/a65c26c6d308e570ea505d42d0d81c18/fijm26_diane_bibaud.jpg",
+    "links": []
   },
   "Molly Johnson": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/c4U78bvfetvA6Ho9aj8ge/e91dab05cdaefd5aa7dd241fd0a61327/fijm26_molly_johnson.jpg",
@@ -2549,6 +2543,10 @@
   "François Bourassa Quartet": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/30WxkMxKevVolvaPLRVln6/c3bcfb5e12d5a1e26317da5acc9b8eb2/FIJM26-generique-1104x767__1_.jpg",
     "description": "François Bourassa - PianoAndré Leroux - SaxophoneGuy Boisvert - ContrebasseGuillaume Pilote - Batterie",
+    "links": []
+  },
+  "Hilario Duran": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3z8bPMA6MLbzYp8F73kGSl/a9a3195bce68ab75bc0c1d1f03587ae3/fijm26_hilario_duran.jpg",
     "links": []
   },
   "Anamaria Oramas": {
