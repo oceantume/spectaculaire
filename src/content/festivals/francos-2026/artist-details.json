@@ -1,17 +1,4 @@
 {
-  "Orelsan": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6vEuPqnqMdX7OtXsUwlYup/289404f895732b18bb380c7da35138b4/ff26_orelsan.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=tkrdvrf0W-k"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
-      }
-    ]
-  },
   "Laurent Voulzy": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4unmjcWnCLAAGags2KUnKL/373146708b362a6f320524bb663108c4/ff26_laurent_voulzy.jpg",
     "links": [
@@ -38,6 +25,172 @@
         "url": "https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj"
       }
     ]
+  },
+  "Dee End": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/0pP0XnFcqmCXMxCi4H92r/64a67df3f6746927f445d17632534e6e/ff26_dee_end.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=S4rFi6aJ7eM"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+      }
+    ]
+  },
+  "Émile Bilodeau": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1J2ckY417iYLUpKDX2vTUk/ea8be1e0747a17a39d1ca6e30b8ff77b/ff26_emile_bilodeau.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ATJQHwYob5E"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
+      }
+    ]
+  },
+  "Lou-Adriane Cassidy ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/kdlx82paxcmLIV1OpXBgN/307c7565325dc88fc68e803c5c2078c5/ff26_lou_adriane_cassidy.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Mx_4yO9OWeY"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+      }
+    ]
+  },
+  "Marie-Mai": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/43GG5ibRI0c1KFEJmbJltC/952a176d718ea56a2972e416c14eefc4/ff26_marie_mai.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=HHjAhktNupk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
+      }
+    ]
+  },
+  "Fallon ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/29dsKf3xvg6TkhznQy3BRz/98853a408c534a28c4b6c8ecff585e50/ff26_fallon.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=lntpRNws13g"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
+      }
+    ]
+  },
+  "Alexe": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3QP90XE1H9t2rAerTQRWMF/55ee81b62492b3eafcb396a2fb5ee6ab/ff26_alexe.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=I1bCLFAfetc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/25OceRescHJwftJk284v8K"
+      }
+    ]
+  },
+  "Adib Alkhalidey": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6Xkt3hMVGLXUxP7ySJbqHs/b1c6942d9f4424ef4afe10eaed78d09e/ff26_adib_alkhalidey.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=898PykJoJgU"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L"
+      }
+    ]
+  },
+  "Eman ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/x0VdJEG2ohjk2QeZA9rip/4edbcc7f88d2302fdb9c4f71de793d55/ff26_eman.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=R3beeZmP-Bc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9"
+      }
+    ]
+  },
+  "Virginie B": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5VrQi1kZkJxtPRnb8gpVRy/d38a49010001fed55049feeed68846b4/ff26_virginie_b.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=-cEVCIzAYrk"
+      },
+      {
+        "label": "Site officiel",
+        "url": "5lKndZJCSUoXztCsyrhUut"
+      }
+    ]
+  },
+  "Aleksi Campagne": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/47jXd4TVuOTPIAq0hSQr4p/edef35d60a49066e4d5c16c0d875415a/ff26_aleksi_champagne.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=KZrzYX0GXgA"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0FoOTBiKaDLqcwaMzpi3i3"
+      }
+    ]
+  },
+  "Robert Robert": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2rPDWuFsyOEP4cUslTLblN/6979b5089a496ae25ea989b23e810094/ff26_robert_robert.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Ans3C26yCzM"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
+      }
+    ]
+  },
+  "Kid Krayola + Boutcha Bwa": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6tRWZoy0LK9NZIU10loNx8/94aaba3fda7c6fe2eeaad7dc900feb80/Boutcha_Bwa___KidCrayola.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=vjBmwwKiugA"
+      }
+    ]
+  },
+  "Dans les airs": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5W7MqJXyJtYMyCnkWSptmS/7300fdb6a5e4a932aa270c5aea4de284/Franco_Visuelweb_CHOQ.ca.jpg",
+    "description": "Dans les airs, c'est le magazine culturel de CHOQ.ca, pour voir et entendre la culture autrement. On vous amène un peu partout pour vous faire voir la métropole d'un œil différent. Animation de l’épisode par Renaud Vaillancourt et Tomy Tanguay.",
+    "links": []
+  },
+  "La fin des faibles ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/VTqfVpShE5e1hXDkA39r1/1068aa4cf83feebb2c818e184f6f5951/ff26_rap_battle_1.jpg",
+    "description": "Le MC Challenge End Of The Weak / La fin des faibles a été\nlancé en 2000 à New York. Il célèbre cette année ses 15 ans de présence au\nQuébec. Présent dans plusieurs pays sur 5 continents, il s’impose comme une\nréférence internationale.\n\nÀ la différence des battles traditionnels, le MC Challenge\nse veut un anti-battle : ici, pas d’insultes ni d’attaques personnelles, mais\nune mise en valeur du talent, du respect et de la créativité des artistes.\n\nChaque année, une finale internationale couronne une\nchampionne ou un champion du monde. Le concept a également été adapté pour la\ntélévision avec La fin des faibles, diffusée sur Télé-Québec.\n\nLa compétition se décline en 5 épreuves qui mettent en\nlumière toutes les facettes de l’art du rap :\n\n• Le texte libre\n\n• L’a cappella\n\n• L’improvisation\n\n• Le MC vs DJ\n\n• Le cercle\n\nLes performances sont évaluées selon 5 critères objectifs :\n\n• Les paroles et la qualité du texte\n\n• La créativité et l’originalité\n\n• La présence scénique et le charisme\n\n• Le flow et le débit\n\n• L’interaction avec l’environnement\n\nQui saura se démarquer et décrocher sa place en finale\nnationale?",
+    "links": []
+  },
+  "MS BABY": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2wVwltcouXXFCbHNILPpMb/4c29f5e0d9293728f83b5080dcce301b/ff26_ms_baby.jpg",
+    "links": []
   },
   "Ingrid St-Pierre": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2EZSYrkXsBwlLwgINrSYCX/8466c8dda0933baaf793a473c2caf599/ff26-ingrid_st_pierre.jpg",
@@ -193,71 +346,6 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-      }
-    ]
-  },
-  "Dee End": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/0pP0XnFcqmCXMxCi4H92r/64a67df3f6746927f445d17632534e6e/ff26_dee_end.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=S4rFi6aJ7eM"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
-      }
-    ]
-  },
-  "Émile Bilodeau": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1J2ckY417iYLUpKDX2vTUk/ea8be1e0747a17a39d1ca6e30b8ff77b/ff26_emile_bilodeau.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=ATJQHwYob5E"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
-      }
-    ]
-  },
-  "Lou-Adriane Cassidy ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/kdlx82paxcmLIV1OpXBgN/307c7565325dc88fc68e803c5c2078c5/ff26_lou_adriane_cassidy.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Mx_4yO9OWeY"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-      }
-    ]
-  },
-  "Marie-Mai": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/43GG5ibRI0c1KFEJmbJltC/952a176d718ea56a2972e416c14eefc4/ff26_marie_mai.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=HHjAhktNupk"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
-      }
-    ]
-  },
-  "Fallon ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/29dsKf3xvg6TkhznQy3BRz/98853a408c534a28c4b6c8ecff585e50/ff26_fallon.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=lntpRNws13g"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
       }
     ]
   },
@@ -693,58 +781,6 @@
       }
     ]
   },
-  "Alexe": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3QP90XE1H9t2rAerTQRWMF/55ee81b62492b3eafcb396a2fb5ee6ab/ff26_alexe.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=I1bCLFAfetc"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/25OceRescHJwftJk284v8K"
-      }
-    ]
-  },
-  "Adib Alkhalidey": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6Xkt3hMVGLXUxP7ySJbqHs/b1c6942d9f4424ef4afe10eaed78d09e/ff26_adib_alkhalidey.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=898PykJoJgU"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L"
-      }
-    ]
-  },
-  "Eman ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/x0VdJEG2ohjk2QeZA9rip/4edbcc7f88d2302fdb9c4f71de793d55/ff26_eman.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=R3beeZmP-Bc"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9"
-      }
-    ]
-  },
-  "Virginie B": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5VrQi1kZkJxtPRnb8gpVRy/d38a49010001fed55049feeed68846b4/ff26_virginie_b.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=-cEVCIzAYrk"
-      },
-      {
-        "label": "Site officiel",
-        "url": "5lKndZJCSUoXztCsyrhUut"
-      }
-    ]
-  },
   "Grand Eugène": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/41MXG5pIJdTEnbDaSiZqi4/891670adb0959ecfc2c263a813c83236/ff26_grand_eugene.jpg",
     "links": [
@@ -1130,41 +1166,6 @@
       }
     ]
   },
-  "Aleksi Campagne": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/47jXd4TVuOTPIAq0hSQr4p/edef35d60a49066e4d5c16c0d875415a/ff26_aleksi_champagne.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=KZrzYX0GXgA"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0FoOTBiKaDLqcwaMzpi3i3"
-      }
-    ]
-  },
-  "Robert Robert": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2rPDWuFsyOEP4cUslTLblN/6979b5089a496ae25ea989b23e810094/ff26_robert_robert.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Ans3C26yCzM"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3"
-      }
-    ]
-  },
-  "Kid Krayola + Boutcha Bwa": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6tRWZoy0LK9NZIU10loNx8/94aaba3fda7c6fe2eeaad7dc900feb80/Boutcha_Bwa___KidCrayola.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=vjBmwwKiugA"
-      }
-    ]
-  },
   "Finissant.es de l’École nationale de la chanson": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/h00mUIjiqMHTLYN0tNm1C/f6db7610fdaea5e1ce9cd666a1db9792/ff26_finissants_enc.jpg",
     "links": []
@@ -1368,11 +1369,6 @@
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/51M1ZabV2UtX46puvyQlDT/2a8a0c5ec74aa93cfcc93b2df890e30a/L_Apr%C3%A8s-Party_de_cl%C3%B4ture_des_Francos_sign%C3%A9_Gr%C3%BCnt.jpg",
     "links": []
   },
-  "Dans les airs": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5W7MqJXyJtYMyCnkWSptmS/7300fdb6a5e4a932aa270c5aea4de284/Franco_Visuelweb_CHOQ.ca.jpg",
-    "description": "Dans les airs, c'est le magazine culturel de CHOQ.ca, pour voir et entendre la culture autrement. On vous amène un peu partout pour vous faire voir la métropole d'un œil différent. Animation de l’épisode par Renaud Vaillancourt et Tomy Tanguay.",
-    "links": []
-  },
   "URBANIA présente un Courrier recommandé devant public": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6xqdzGxcj1qPEWTbT63kYq/e84aee1bf06a86082793dd9ba92d9edb/URBANIA_CM_Francos__1___1_.jpg",
     "description": "Notre format Courrier recommandé sort de son enveloppe habituelle pour une édition spéciale, avec deux artistes qu’on est très content·es de réunir : Paul Piché et Étienne Coppée. Au menu : une rencontre entre générations autour des mots, de la musique et de la langue française.",
@@ -1411,15 +1407,6 @@
         "url": "https://www.youtube.com/watch?v=iyGM4LdNJEk"
       }
     ]
-  },
-  "La fin des faibles ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/VTqfVpShE5e1hXDkA39r1/1068aa4cf83feebb2c818e184f6f5951/ff26_rap_battle_1.jpg",
-    "description": "Le MC Challenge End Of The Weak / La fin des faibles a été\nlancé en 2000 à New York. Il célèbre cette année ses 15 ans de présence au\nQuébec. Présent dans plusieurs pays sur 5 continents, il s’impose comme une\nréférence internationale.\n\nÀ la différence des battles traditionnels, le MC Challenge\nse veut un anti-battle : ici, pas d’insultes ni d’attaques personnelles, mais\nune mise en valeur du talent, du respect et de la créativité des artistes.\n\nChaque année, une finale internationale couronne une\nchampionne ou un champion du monde. Le concept a également été adapté pour la\ntélévision avec La fin des faibles, diffusée sur Télé-Québec.\n\nLa compétition se décline en 5 épreuves qui mettent en\nlumière toutes les facettes de l’art du rap :\n\n• Le texte libre\n\n• L’a cappella\n\n• L’improvisation\n\n• Le MC vs DJ\n\n• Le cercle\n\nLes performances sont évaluées selon 5 critères objectifs :\n\n• Les paroles et la qualité du texte\n\n• La créativité et l’originalité\n\n• La présence scénique et le charisme\n\n• Le flow et le débit\n\n• L’interaction avec l’environnement\n\nQui saura se démarquer et décrocher sa place en finale\nnationale?",
-    "links": []
-  },
-  "MS BABY": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2wVwltcouXXFCbHNILPpMb/4c29f5e0d9293728f83b5080dcce301b/ff26_ms_baby.jpg",
-    "links": []
   },
   "BATTLE DANSE - HIP HOP": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4r9BA5S03XlWB436cOLHMx/3d6f1914af4c18919f7d533dd754bac3/ff26_battle_danse.jpg",

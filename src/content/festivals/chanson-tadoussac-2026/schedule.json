@@ -126,8 +126,36 @@
     "time": "20:00"
   },
   {
+    "artist": "Pop-up | La dame Ovale",
+    "venue": "Café l’Abri Côtier",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "18:30"
+  },
+  {
+    "artist": "Duo des Chemins d'écriture | Embo/phlébite & Superchérie",
+    "venue": "CIMM (Centre d'Interprétation des Mammifères Marins)",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "10:00"
+  },
+  {
+    "artist": "Duo des Chemins d'écriture | Brigitte Jardin & Claudie Létourneau",
+    "venue": "CIMM (Centre d'Interprétation des Mammifères Marins)",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "12:00"
+  },
+  {
+    "artist": "Pop-up | Burt Love and the Vibes",
+    "venue": "Dépanneur - Chez Madame Ida",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "13:30"
+  },
+  {
     "artist": "El Balcón",
-    "venue": "Gazebo de la promenade",
+    "venue": "Le Gibard",
     "paid": false,
     "date": "2026-06-12",
     "time": "11:30"
@@ -140,46 +168,11 @@
     "time": "22:00"
   },
   {
-    "artist": "Philippe B",
-    "venue": "Les Cayes",
-    "paid": false,
-    "date": "2026-06-12",
-    "time": "17:30"
-  },
-  {
     "artist": "Pop-up | Duo Fortin-Poirier",
-    "venue": "Lieux surprises",
+    "venue": "Parvis de l'église",
     "paid": false,
     "date": "2026-06-12",
     "time": "10:00"
-  },
-  {
-    "artist": "Pop-up | Burt Love and the Vibes",
-    "venue": "Lieux surprises",
-    "paid": false,
-    "date": "2026-06-12",
-    "time": "13:30"
-  },
-  {
-    "artist": "Pop-up | La dame Ovale",
-    "venue": "Lieux surprises",
-    "paid": false,
-    "date": "2026-06-12",
-    "time": "18:30"
-  },
-  {
-    "artist": "Duo des Chemins d'écriture | Embo/phlébite & Superchérie",
-    "venue": "Parvis de la petite chapelle",
-    "paid": false,
-    "date": "2026-06-12",
-    "time": "10:00"
-  },
-  {
-    "artist": "Duo des Chemins d'écriture | Brigitte Jardin & Claudie Létourneau",
-    "venue": "Parvis de la petite chapelle",
-    "paid": false,
-    "date": "2026-06-12",
-    "time": "12:00"
   },
   {
     "artist": "Les Reynette",
@@ -194,6 +187,13 @@
     "paid": false,
     "date": "2026-06-12",
     "time": "13:00"
+  },
+  {
+    "artist": "Philippe B",
+    "venue": "Scène Jean Gagnon",
+    "paid": false,
+    "date": "2026-06-12",
+    "time": "17:30"
   },
   {
     "artist": "La veillée à Cyr",
