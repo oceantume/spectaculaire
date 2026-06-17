@@ -1064,6 +1064,14 @@
     "type": "main"
   },
   {
+    "date": "2026-09-19",
+    "venue": "SCÈNE FIZZ - Rupaul",
+    "paid": true,
+    "time": "17:00",
+    "artist": "FIZZ STAGE - RUPAUL",
+    "type": "off"
+  },
+  {
     "date": "2026-09-26",
     "venue": "SCÈNE FIZZ - Ricardo Villalobos",
     "paid": true,

@@ -406,7 +406,7 @@
     "time": "20:00",
     "venue": "Club Soda",
     "paid": true,
-    "artist": "Ino Casablanca",
+    "artist": "Ino Casablanca ",
     "genre": "Rap"
   },
   {
@@ -440,6 +440,14 @@
     "paid": true,
     "artist": "Lorie",
     "genre": "Pop"
+  },
+  {
+    "date": "2026-06-17",
+    "time": "22:30",
+    "venue": "Scène Desjardins",
+    "paid": true,
+    "artist": "Ino Casablanca ",
+    "genre": "Rap"
   },
   {
     "date": "2026-06-17",
@@ -578,7 +586,7 @@
     "time": "20:00",
     "venue": "Salle Wilfrid-Pelletier — Place des Arts",
     "paid": true,
-    "artist": "Julien Clerc",
+    "artist": "Julien Clerc ",
     "genre": "Chanson"
   },
   {

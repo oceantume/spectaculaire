@@ -1,24 +1,27 @@
 {
-  "Étienne Coppée": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7nvzmv0YppnU38hilpWxh8/9b77b981fc64e1b67fe68ae671bbd5cc/ff26_etienne_coppee.jpg",
+  "Ino Casablanca ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3Pw1iAFqGWfiaZ9bGKiYmY/aaf27142fb946b2fe814462780781c97/ff26_ino_casablanca.jpg",
     "links": [
       {
         "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=1Kyqx8ANaaM"
+        "url": "https://www.youtube.com/watch?v=ruR2Nv1kfX4"
       },
       {
         "label": "Spotify",
-        "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
       }
     ]
   },
-  "Bingo musical ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6yEblrmCTXQEIiLmT3GKKs/a1b582ee5e05e2aaf726350961b38dcf/0F_LundiFranco_VisuelSiteFranco.png",
-    "description": "Gratuit. Places limitées.\n\nPlongez dans La Trame sonore\ndu Québec lors d’un bingo musical festif et rassembleur dans le hall de la\nGrande Bibliothèque. Animé avec complicité par Eugénie Lépine‑Blondeau et Félix\nB. Desfossés, l’événement sera l’occasion de tester votre mémoire musicale.\n\nAu programme : extraits musicaux\ncultes, bingo, prix à gagner, entrevues et invités surprises. Une fête conviviale pour célébrer notre patrimoine sonore.",
+  "Lou-Adriane Cassidy ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/i8F8vQMHu8G9R9lnIZ9v0/5557b434b26e962e81bd9e456c29cca5/ff26_lou_adriane_cassidy.jpg",
     "links": [
       {
         "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=MGTpE9B7Yww"
+        "url": "https://www.youtube.com/watch?v=Mx_4yO9OWeY"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
       }
     ]
   },
@@ -35,7 +38,7 @@
       }
     ]
   },
-  "Julien Clerc": {
+  "Julien Clerc ": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7e4XrYJ4wx6QGHedypLtqq/16ae1b9e7f3e59e7bd336ef05a78d753/ff26_julien_clerc.jpg",
     "links": [
       {
@@ -123,19 +126,6 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-      }
-    ]
-  },
-  "Ino Casablanca": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3Pw1iAFqGWfiaZ9bGKiYmY/aaf27142fb946b2fe814462780781c97/ff26_ino_casablanca.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=ruR2Nv1kfX4"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
       }
     ]
   },
@@ -863,19 +853,6 @@
       }
     ]
   },
-  "Lou-Adriane Cassidy ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/i8F8vQMHu8G9R9lnIZ9v0/5557b434b26e962e81bd9e456c29cca5/ff26_lou_adriane_cassidy.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Mx_4yO9OWeY"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-      }
-    ]
-  },
   "BATTLE DANSE - Popping/Boogaloo ": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3NQ0XVbceYwvFt95G2dfqO/9c957b216e487739aefc0edb5a94d8b1/ff26_battle_danse.jpg",
     "description": "Forward Movements propose des ateliers de médiation de street dance axés sur la créativité et l’authenticité. Ces deux événements invitent le public à voyager dans l'univers de la compagnie en leur proposant des performances interactives ainsi qu'une initiation au street dance où danseurs·es de haut calibre mettent en avant tout leur talent ! \n\nDJ: Mark The Magnanimous\n\nMC: Jonathan \"J Style\" Mukoma\n\nJUGE: Elie-Anne \"Rawss\" Ross\n\nDanseur.euses:\n\nJulian \"Helios\" WaxmanKemuel \"Shadow\" Jean-PierreFord \"The Mov3r\" Mckeown LaroseNina \"Willywonka\" ChatiRaphaëlle \"Hunter\" Ann Seal Martine \"Eclipse\" Castera",
@@ -1358,6 +1335,19 @@
       }
     ]
   },
+  "Étienne Coppée": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/27cRmBvpGddwEXarKRpuyt/3f11953f503add6064a8b56d36f0fc61/ff26_etienne_coppee.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=1Kyqx8ANaaM"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+      }
+    ]
+  },
   "Trinix ": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/75gdWocHb0my1aPY210jQu/0e0b99ac7a4f62cb228365d0e56e7c6f/ff26_trinix.jpg",
     "links": [
@@ -1483,5 +1473,15 @@
   "IVY": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6VAl62h1H4or1DyOGZlZdD/ccfb5d2fc9e3575347f8b364bd730e5c/ff26_ivy.jpg",
     "links": []
+  },
+  "Bingo musical ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6yEblrmCTXQEIiLmT3GKKs/a1b582ee5e05e2aaf726350961b38dcf/0F_LundiFranco_VisuelSiteFranco.png",
+    "description": "Gratuit. Places limitées.\n\nPlongez dans La Trame sonore\ndu Québec lors d’un bingo musical festif et rassembleur dans le hall de la\nGrande Bibliothèque. Animé avec complicité par Eugénie Lépine‑Blondeau et Félix\nB. Desfossés, l’événement sera l’occasion de tester votre mémoire musicale.\n\nAu programme : extraits musicaux\ncultes, bingo, prix à gagner, entrevues et invités surprises. Une fête conviviale pour célébrer notre patrimoine sonore.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=MGTpE9B7Yww"
+      }
+    ]
   }
 }
