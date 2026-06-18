@@ -2146,6 +2146,13 @@
   },
   {
     "date": "2026-07-02",
+    "time": "22:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Hania Rani"
+  },
+  {
+    "date": "2026-07-02",
     "time": "23:00",
     "venue": "PHONO, (2e étage du Studio TD)",
     "paid": false,
