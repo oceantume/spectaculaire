@@ -1,170 +1,4 @@
 {
-  "Gab Bouchard": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/72lMkxmbOAXVR4mkMf774o/5cb45fdc89ffffb566febd2dad7b5be8/ff26_gab_bouchard_2.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Hj-_7E4HIbo"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
-      }
-    ]
-  },
-  "Catherine Leduc": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6ShEpKPWFLeI27B5FImmOJ/9b227bfd1fe95866284df5e1dc126742/ff26_catherine_leduc.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=zl22torh81o"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/4LxF9fwHDq7kISldOF8aKn"
-      }
-    ]
-  },
-  "Bekar": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4miBBVyEmWnGkoMLsBbykb/52bd1e581a65a77c1c9320858e2b9820/ff26_bekar_2.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=AeVcf_8hYqA"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
-      }
-    ]
-  },
-  "La Bottine Souriante": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4MGX4nwHD8IuPWpjuOtBzp/0b6711e1050b186fe12d2b925a6a2af0/ff26_bottine_souriante.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=8p0A6spdegc"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ"
-      }
-    ]
-  },
-  "Lorie": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7zt5eukiYRFpObj74vjAQB/f1c926fc63b5a04d93d82e90c03d429c/francos26_lorie_2.jpg",
-    "description": "Première Partie\n\n17 juin: Enola\n\n18 juin: Naomi",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=D7sx1GixOuQ"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM"
-      }
-    ]
-  },
-  "Marie-Pierre Arthur": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/436mzWiNdzGlm2WLPZ1cx/56d9cd3c3c5ce71e7d0bb39789f13566/ff26_marie_pierre_arthur.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=0Eyua3o6suk"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
-      }
-    ]
-  },
-  "Vitrine Rendez-vous Pros des Francos ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/RyNphzQK0CvhjOJirNQ7I/8e288c1171c7d4d0e49fcfddda48f20f/ff26_rdv_pros_2__1_.jpg",
-    "links": []
-  },
-  "Luiza": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2kgnAQpUO34MxpU6xNH6BY/44579f88fea5576d610aedb0c45ce2fb/ff26_luiza_2.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=nd8RD3tjNQE"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
-      }
-    ]
-  },
-  "La Traversée": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3Kh0ZeVfBdTB5nVik3U6Ei/58f3f47ba5cfd8ca6b844f50d956126d/ff26_traversee.jpg",
-    "links": []
-  },
-  "Juste Shani": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2kITQRsBleoXEy8xegMNJD/9d00e5304e1e623d1aeb1a3ab4c97474/ff26_juste_shani.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=XGVyFM6qp8g"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR"
-      }
-    ]
-  },
-  "Violett Pi": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6EyhOJs0fzUELYV23VGRpu/d43b90f45a49d8b5b973f8715280a307/ff26_violettpi.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=5KQTq7fZAv0"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
-      }
-    ]
-  },
-  "Irdens Exantus": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5GlpejAU8U9Grl05tjnMaB/a6cd8687a3cbba67b642102e825d45ca/ff26_irdens_exantus.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=uZvdqU2jF_c"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/4VjwwRk7cNv72B1okswQkz"
-      }
-    ]
-  },
-  "Myra": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/23dJ5PHawXOi6P2VZDdlVY/4d72a931f363aebf67f035952d3b42b5/ff26_myra.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=vwMXg7h37YQ"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE"
-      }
-    ]
-  },
-  "Entrevues Banane Banane": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3kfheEfhNoLLD1dx5AbXhx/1994b2dba6bc5bdf51cae76ee82c7be3/ff26_culture_cible.jpg",
-    "description": "Le Canal Auditif, Sors-tu? et atuvu.ca unissent leurs forces et vous convient à des rencontres fortes en potassium! Dans une ambiance conviviale et fruitée, Camille Dehaene, Marc-André Mongrain et Louis-Philippe Labrèche discutent avec des artistes qui joueront en première partie de vedettes établies.  Mais pas que... Plusieurs autres surprises seront au menu lors de ces sessions enregistrées devant public en vue de diffusion balado.",
-    "links": []
-  },
-  "BATTLE DANSE - Popping/Boogaloo ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3NQ0XVbceYwvFt95G2dfqO/9c957b216e487739aefc0edb5a94d8b1/ff26_battle_danse.jpg",
-    "description": "Forward Movements propose des ateliers de médiation de street dance axés sur la créativité et l’authenticité. Ces deux événements invitent le public à voyager dans l'univers de la compagnie en leur proposant des performances interactives ainsi qu'une initiation au street dance où danseurs·es de haut calibre mettent en avant tout leur talent ! \n\nDJ: Mark The Magnanimous\n\nMC: Jonathan \"J Style\" Mukoma\n\nJUGE: Elie-Anne \"Rawss\" Ross\n\nDanseur.euses:\n\nJulian \"Helios\" WaxmanKemuel \"Shadow\" Jean-PierreFord \"The Mov3r\" Mckeown LaroseNina \"Willywonka\" ChatiRaphaëlle \"Hunter\" Ann Seal Martine \"Eclipse\" Castera",
-    "links": []
-  },
-  "Le Complot": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/rU470qPkFAUxebYMCJptN/430abf8f36bc74ddbadce3f03b3b7e43/ff26_complot.jpg",
-    "links": []
-  },
   "Julien Clerc ": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7e4XrYJ4wx6QGHedypLtqq/16ae1b9e7f3e59e7bd336ef05a78d753/ff26_julien_clerc.jpg",
     "links": [
@@ -214,58 +48,6 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-      }
-    ]
-  },
-  "Cœur de Pirate ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7HBUN2KNvpCQHD20rWASNv/a81c8b8a43dc3ce7cf3e619d5860e97a/ff26_coeur_de_pirate.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=rQtHk1X722s"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-      }
-    ]
-  },
-  "Klô Pelgag ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3k7lWHXip7oDSby3dWBf4o/ea544d60cf950fc2ebdc32f1cc7e1d42/ff24_klo_pelgag.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=MoQT30HheZw"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
-      }
-    ]
-  },
-  "disiz": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/QaeRjbX77Xj7lgKODSHNi/06a43f5bf9b3095ce7654fed90e967b1/ff26_disiz.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=bbJhu00Ekuk"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-      }
-    ]
-  },
-  "Ino Casablanca ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/lNeJcW4tk33kHnqRpDS4a/634d05a8c8fac48d4c3e660957524a54/ff26_ino_casablanca.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=ruR2Nv1kfX4"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
       }
     ]
   },
@@ -334,6 +116,20 @@
       }
     ]
   },
+  "Lorie": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6ND5FZJW7X6jcbzxSJAV3W/4c0f04419d418984212c4d724118bcf4/francos26_lorie_2.jpg",
+    "description": "Première Partie\n\n17 juin: Enola\n\n18 juin: Naomi",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=D7sx1GixOuQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM"
+      }
+    ]
+  },
   "Rymz": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2kMKqFXsNiRezSsc3DFz6B/90663498928e3039d42f47c791a8f00a/ff26_rymz.jpg",
     "links": [
@@ -344,164 +140,6 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-      }
-    ]
-  },
-  "Héron": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5zDaUyoLjdfogEeURvOa4k/add4942255a2b115e8de90c05c1e32b0/heron_2026.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=XrAS43k7pNs"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F"
-      }
-    ]
-  },
-  "Marie Céleste": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3kYcI5dCnz7pYPf4PKt7dw/4905f9483ad883640665d8c437a5e038/ff26_marie_celeste.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=98mH5JAnJhc"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-      }
-    ]
-  },
-  "Georgio": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2ofigGVctpryECKof2Ph0a/9dacf7c462fa793bab0b0b63abbf3728/ff26_georgio.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=cJiomKthiQo"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
-      }
-    ]
-  },
-  "Québec Redneck Bluegrass Project  ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/35WBajfPYm8i8FVE7BbLTw/cbfb9c15b7398d7f9854c97d3760c276/ff26_qc_redneck.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=_QijUvLhvQA"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz"
-      }
-    ]
-  },
-  "Dead Obies": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/bklfsyTh1bAH1FAUuffRH/23e764a74be8197303dad5390a1cbe69/ff26_dead_obies.jpg",
-    "description": "Présenté par",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=E9tdt-Re3Fc"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
-      }
-    ]
-  },
-  "Paul Piché  ": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1PjO1eDGe3rNiDpwAVKBeM/1d616d6302385345a99e148f17d820ce/ff26_paul_piche.jpg",
-    "description": "Un rendez-vous et une proximité unique avec l’auteur-compositeur-interprète, faisant cavalier seul sur scène, pour revisiter ses grands succès. Un spectacle festif et rassembleur pour toutes les générations ! Il célébrera, pour le plus grand plaisir du public, son œuvre vaste, ponctuée de titres immortels tels que Heureux d’un printemps, Y’a pas grand-chose dans l’ciel à soir, L’escalier, Un château de sable, J’appelle… Des œuvres qui n’ont pas pris une ride, une parole qui s’inscrit toujours dans l’actualité et qui ne cesse de trouver résonance.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=BSoQQBWOvfk"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0XqIu5uDtNZLHPf1eC97ls"
-      }
-    ]
-  },
-  "Mandyspie": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/M6z9oMzlpQAJKgxpry2To/87197ed337aab7896a78f22510f1169b/ff26_mandyspie.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=ZRf-ifwTes8"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1EKlBG4TgOac9aboMbphiM"
-      }
-    ]
-  },
-  "Aupinard": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/FF9rOK0jvgt9ZkPDjW31p/f42727fecdd804b48b02821f2f773c86/ff26_aupinard.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=CVzj0MkDHMQ"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-      }
-    ]
-  },
-  "Ariane Moffatt": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2Of3gMfdyIZihrt9VEtQtl/113589f3aca996ae310f5871861f8081/ff26_ariane_moffatt.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=6Oj_G4-Afgc"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
-      }
-    ]
-  },
-  "Lost": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5jKx5LiJwWsOg3brswwzSi/01d975bd3333e4e3d5dfd567f3983515/ff26_lost.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=7A23Lwlsz-M"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-      }
-    ]
-  },
-  "Malaimé Soleil": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/38IhICGrK5zRZirt0pcj91/0eaf53c70b9198a80a534f99545c91d9/ff26_malaime_soleil.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=JSMxdXDa0sU"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
-      }
-    ]
-  },
-  "LAF X OGB": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/0NrKyEJczKwLNvBTSecmn/56d6b56d9af15f63ce3c14ebdb01eedd/ff26_ogb_laf.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=ZQRuWAbR-GY"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
       }
     ]
   },
@@ -593,6 +231,247 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb"
+      }
+    ]
+  },
+  "Adam El Mouna & Erika Hagen": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3ZWUy1iq9KwqGNgPPMLwK5/5796e17261f9d78d270dc6fb78814711/ff26_mouna_hagen.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=eYXq1AXpdjk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5syK2o9gP1nzpmZeftjlVc"
+      }
+    ]
+  },
+  "P.L.L": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3XS16Hb9KhxmWfg5bJ21bo/2cf5975fde4f7ea213b3b7263a50dedc/ff26_pll.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=c4ci1gCE4BQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
+      }
+    ]
+  },
+  "Pod’Casque": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/80mHgFYbGHuYka9uZhL3s/3d3e236105275d382c2753c3645bee00/ff26_onz.png",
+    "description": "Pod’Casque est une émission animée par l’équipe d’ONZMTL qui explore l’univers du rap, de la culture urbaine, du sport et des enjeux qui façonnent la nouvelle génération francophone. À travers des entrevues approfondies, des discussions spontanées et des analyses culturelles, Le Onze, Jay Seven et leurs invités donnent une voix authentique à la scène montréalaise et internationale. Entre humour, réflexion et passion, Pod’Casque crée un espace où artistes, créateurs et personnalités peuvent raconter leur parcours sans filtre.",
+    "links": []
+  },
+  "Cœur de Pirate ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7HBUN2KNvpCQHD20rWASNv/a81c8b8a43dc3ce7cf3e619d5860e97a/ff26_coeur_de_pirate.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=rQtHk1X722s"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+      }
+    ]
+  },
+  "Klô Pelgag ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3k7lWHXip7oDSby3dWBf4o/ea544d60cf950fc2ebdc32f1cc7e1d42/ff24_klo_pelgag.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=MoQT30HheZw"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+      }
+    ]
+  },
+  "disiz": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/QaeRjbX77Xj7lgKODSHNi/06a43f5bf9b3095ce7654fed90e967b1/ff26_disiz.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=bbJhu00Ekuk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+      }
+    ]
+  },
+  "Ino Casablanca ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/lNeJcW4tk33kHnqRpDS4a/634d05a8c8fac48d4c3e660957524a54/ff26_ino_casablanca.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ruR2Nv1kfX4"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+      }
+    ]
+  },
+  "Héron": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5zDaUyoLjdfogEeURvOa4k/add4942255a2b115e8de90c05c1e32b0/heron_2026.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=XrAS43k7pNs"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F"
+      }
+    ]
+  },
+  "Marie Céleste": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3kYcI5dCnz7pYPf4PKt7dw/4905f9483ad883640665d8c437a5e038/ff26_marie_celeste.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=98mH5JAnJhc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+      }
+    ]
+  },
+  "Georgio": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2ofigGVctpryECKof2Ph0a/9dacf7c462fa793bab0b0b63abbf3728/ff26_georgio.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=cJiomKthiQo"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
+      }
+    ]
+  },
+  "Dead Obies": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/bklfsyTh1bAH1FAUuffRH/23e764a74be8197303dad5390a1cbe69/ff26_dead_obies.jpg",
+    "description": "Présenté par",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=E9tdt-Re3Fc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA"
+      }
+    ]
+  },
+  "Paul Piché  ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1PjO1eDGe3rNiDpwAVKBeM/1d616d6302385345a99e148f17d820ce/ff26_paul_piche.jpg",
+    "description": "Un rendez-vous et une proximité unique avec l’auteur-compositeur-interprète, faisant cavalier seul sur scène, pour revisiter ses grands succès. Un spectacle festif et rassembleur pour toutes les générations ! Il célébrera, pour le plus grand plaisir du public, son œuvre vaste, ponctuée de titres immortels tels que Heureux d’un printemps, Y’a pas grand-chose dans l’ciel à soir, L’escalier, Un château de sable, J’appelle… Des œuvres qui n’ont pas pris une ride, une parole qui s’inscrit toujours dans l’actualité et qui ne cesse de trouver résonance.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=BSoQQBWOvfk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0XqIu5uDtNZLHPf1eC97ls"
+      }
+    ]
+  },
+  "Québec Redneck Bluegrass Project  ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/35WBajfPYm8i8FVE7BbLTw/cbfb9c15b7398d7f9854c97d3760c276/ff26_qc_redneck.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=_QijUvLhvQA"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz"
+      }
+    ]
+  },
+  "Mandyspie": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/M6z9oMzlpQAJKgxpry2To/87197ed337aab7896a78f22510f1169b/ff26_mandyspie.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ZRf-ifwTes8"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1EKlBG4TgOac9aboMbphiM"
+      }
+    ]
+  },
+  "Aupinard": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/FF9rOK0jvgt9ZkPDjW31p/f42727fecdd804b48b02821f2f773c86/ff26_aupinard.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=CVzj0MkDHMQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+      }
+    ]
+  },
+  "Ariane Moffatt": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2Of3gMfdyIZihrt9VEtQtl/113589f3aca996ae310f5871861f8081/ff26_ariane_moffatt.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=6Oj_G4-Afgc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+      }
+    ]
+  },
+  "Lost": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5jKx5LiJwWsOg3brswwzSi/01d975bd3333e4e3d5dfd567f3983515/ff26_lost.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=7A23Lwlsz-M"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+      }
+    ]
+  },
+  "Malaimé Soleil": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/38IhICGrK5zRZirt0pcj91/0eaf53c70b9198a80a534f99545c91d9/ff26_malaime_soleil.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=JSMxdXDa0sU"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
+      }
+    ]
+  },
+  "LAF X OGB": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/0NrKyEJczKwLNvBTSecmn/56d6b56d9af15f63ce3c14ebdb01eedd/ff26_ogb_laf.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ZQRuWAbR-GY"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
       }
     ]
   },
@@ -713,32 +592,6 @@
       }
     ]
   },
-  "Adam El Mouna & Erika Hagen": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3ZWUy1iq9KwqGNgPPMLwK5/5796e17261f9d78d270dc6fb78814711/ff26_mouna_hagen.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=eYXq1AXpdjk"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/5syK2o9gP1nzpmZeftjlVc"
-      }
-    ]
-  },
-  "P.L.L": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3XS16Hb9KhxmWfg5bJ21bo/2cf5975fde4f7ea213b3b7263a50dedc/ff26_pll.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=c4ci1gCE4BQ"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
-      }
-    ]
-  },
   "Thomé Young": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1dkWcfLgJRRJWkVstftflY/a73dd8e9d52e7ce54023c141cc93ae3e/ff26_thome_young.jpg",
     "links": [
@@ -825,11 +678,6 @@
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/51M1ZabV2UtX46puvyQlDT/2a8a0c5ec74aa93cfcc93b2df890e30a/L_Apr%C3%A8s-Party_de_cl%C3%B4ture_des_Francos_sign%C3%A9_Gr%C3%BCnt.jpg",
     "links": []
   },
-  "Pod’Casque": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/80mHgFYbGHuYka9uZhL3s/3d3e236105275d382c2753c3645bee00/ff26_onz.png",
-    "description": "Pod’Casque est une émission animée par l’équipe d’ONZMTL qui explore l’univers du rap, de la culture urbaine, du sport et des enjeux qui façonnent la nouvelle génération francophone. À travers des entrevues approfondies, des discussions spontanées et des analyses culturelles, Le Onze, Jay Seven et leurs invités donnent une voix authentique à la scène montréalaise et internationale. Entre humour, réflexion et passion, Pod’Casque crée un espace où artistes, créateurs et personnalités peuvent raconter leur parcours sans filtre.",
-    "links": []
-  },
   "L’échooo des luttes": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/ZdashCgM5L7PkPqpwyb8B/a4ce1931494b23eabdb659ebc72efed7/ff26_cism.jpg",
     "description": "CISM 89,3 FM, la radio des étudiantes et des étudiants de l’Université de Montréal, descend de son perchoir dans la montagne le temps d’une soirée! L’animatrice Léonie Cabrol (L’échooo des luttes) sera pour l’occasion en direct devant public le temps de recevoir quelques-unes de ses artistes favorites de la programmation pendant une heure.",
@@ -846,6 +694,19 @@
       {
         "label": "YouTube",
         "url": "https://www.youtube.com/watch?v=iyGM4LdNJEk"
+      }
+    ]
+  },
+  "Orelsan": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6vEuPqnqMdX7OtXsUwlYup/289404f895732b18bb380c7da35138b4/ff26_orelsan.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=tkrdvrf0W-k"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
       }
     ]
   },
@@ -891,6 +752,11 @@
   },
   "Soirée WAYBACK": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/73a4yovsgbMm7sF4KU0UHG/a64b5e2107770dd0c163427f3d893bba/ff26_wayback.jpg",
+    "links": []
+  },
+  "BATTLE DANSE - Afro": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/Qn3ajR6CGnbdhdx5xS3IY/700efd865196f0bfee185a58f96c4615/ff26_battle_danse.jpg",
+    "description": "Forward Movements propose des ateliers de médiation de street dance axés sur la créativité et l’authenticité. Ces deux événements invitent le public à voyager dans l'univers de la compagnie en leur proposant des performances interactives ainsi qu'une initiation au street dance où danseurs·es de haut calibre mettent en avant tout leur talent ! \n\nDJ: Nina Fondop\n\nMC: Killian \"Kiki\" Eouani \n\nJUGE: Alliowe \"Alli-Ola\" Olanrewaju\n\nDanseur.euses:\n\n\"Monica\" Jane FrançoisTetuh Asi Richline \"Badgyal Riri\"\nPascale\"Leah\" Dangaa\"Byga\" FintsougabySerginho \"Gknow\" MaxiusJames \"Shvbba\" Belony",
     "links": []
   },
   "Laurent Voulzy": {
@@ -1010,11 +876,6 @@
         "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
       }
     ]
-  },
-  "BATTLE DANSE - Afro": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/Qn3ajR6CGnbdhdx5xS3IY/700efd865196f0bfee185a58f96c4615/ff26_battle_danse.jpg",
-    "description": "Forward Movements propose des ateliers de médiation de street dance axés sur la créativité et l’authenticité. Ces deux événements invitent le public à voyager dans l'univers de la compagnie en leur proposant des performances interactives ainsi qu'une initiation au street dance où danseurs·es de haut calibre mettent en avant tout leur talent ! \n\nDJ: Nina Fondop\n\nMC: Killian \"Kiki\" Eouani \n\nJUGE: Alliowe \"Alli-Ola\" Olanrewaju\n\nDanseur.euses:\n\n\"Monica\" Jane FrançoisTetuh Asi Richline \"Badgyal Riri\"\nPascale\"Leah\" Dangaa\"Byga\" FintsougabySerginho \"Gknow\" MaxiusJames \"Shvbba\" Belony",
-    "links": []
   },
   "Bobby Bazini": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4w3rSC0cvYkOGSUFBUORnO/39e3a7c86da3ee9d83f51e424c5db4a5/ff26_bobby_bazini__2_.jpg",
@@ -1483,5 +1344,157 @@
         "url": "https://www.youtube.com/watch?v=MGTpE9B7Yww"
       }
     ]
+  },
+  "Gab Bouchard": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/72lMkxmbOAXVR4mkMf774o/5cb45fdc89ffffb566febd2dad7b5be8/ff26_gab_bouchard_2.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Hj-_7E4HIbo"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+      }
+    ]
+  },
+  "Catherine Leduc": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6ShEpKPWFLeI27B5FImmOJ/9b227bfd1fe95866284df5e1dc126742/ff26_catherine_leduc.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=zl22torh81o"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4LxF9fwHDq7kISldOF8aKn"
+      }
+    ]
+  },
+  "Bekar": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4miBBVyEmWnGkoMLsBbykb/52bd1e581a65a77c1c9320858e2b9820/ff26_bekar_2.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=AeVcf_8hYqA"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+      }
+    ]
+  },
+  "La Bottine Souriante": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4MGX4nwHD8IuPWpjuOtBzp/0b6711e1050b186fe12d2b925a6a2af0/ff26_bottine_souriante.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=8p0A6spdegc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ"
+      }
+    ]
+  },
+  "Marie-Pierre Arthur": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/436mzWiNdzGlm2WLPZ1cx/56d9cd3c3c5ce71e7d0bb39789f13566/ff26_marie_pierre_arthur.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=0Eyua3o6suk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+      }
+    ]
+  },
+  "Vitrine Rendez-vous Pros des Francos ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/RyNphzQK0CvhjOJirNQ7I/8e288c1171c7d4d0e49fcfddda48f20f/ff26_rdv_pros_2__1_.jpg",
+    "links": []
+  },
+  "Luiza": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2kgnAQpUO34MxpU6xNH6BY/44579f88fea5576d610aedb0c45ce2fb/ff26_luiza_2.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=nd8RD3tjNQE"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+      }
+    ]
+  },
+  "La Traversée": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3Kh0ZeVfBdTB5nVik3U6Ei/58f3f47ba5cfd8ca6b844f50d956126d/ff26_traversee.jpg",
+    "links": []
+  },
+  "Juste Shani": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2kITQRsBleoXEy8xegMNJD/9d00e5304e1e623d1aeb1a3ab4c97474/ff26_juste_shani.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=XGVyFM6qp8g"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR"
+      }
+    ]
+  },
+  "Violett Pi": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6EyhOJs0fzUELYV23VGRpu/d43b90f45a49d8b5b973f8715280a307/ff26_violettpi.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=5KQTq7fZAv0"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+      }
+    ]
+  },
+  "Irdens Exantus": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5GlpejAU8U9Grl05tjnMaB/a6cd8687a3cbba67b642102e825d45ca/ff26_irdens_exantus.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=uZvdqU2jF_c"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4VjwwRk7cNv72B1okswQkz"
+      }
+    ]
+  },
+  "Myra": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/23dJ5PHawXOi6P2VZDdlVY/4d72a931f363aebf67f035952d3b42b5/ff26_myra.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=vwMXg7h37YQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE"
+      }
+    ]
+  },
+  "Entrevues Banane Banane": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3kfheEfhNoLLD1dx5AbXhx/1994b2dba6bc5bdf51cae76ee82c7be3/ff26_culture_cible.jpg",
+    "description": "Le Canal Auditif, Sors-tu? et atuvu.ca unissent leurs forces et vous convient à des rencontres fortes en potassium! Dans une ambiance conviviale et fruitée, Camille Dehaene, Marc-André Mongrain et Louis-Philippe Labrèche discutent avec des artistes qui joueront en première partie de vedettes établies.  Mais pas que... Plusieurs autres surprises seront au menu lors de ces sessions enregistrées devant public en vue de diffusion balado.",
+    "links": []
+  },
+  "BATTLE DANSE - Popping/Boogaloo ": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3NQ0XVbceYwvFt95G2dfqO/9c957b216e487739aefc0edb5a94d8b1/ff26_battle_danse.jpg",
+    "description": "Forward Movements propose des ateliers de médiation de street dance axés sur la créativité et l’authenticité. Ces deux événements invitent le public à voyager dans l'univers de la compagnie en leur proposant des performances interactives ainsi qu'une initiation au street dance où danseurs·es de haut calibre mettent en avant tout leur talent ! \n\nDJ: Mark The Magnanimous\n\nMC: Jonathan \"J Style\" Mukoma\n\nJUGE: Elie-Anne \"Rawss\" Ross\n\nDanseur.euses:\n\nJulian \"Helios\" WaxmanKemuel \"Shadow\" Jean-PierreFord \"The Mov3r\" Mckeown LaroseNina \"Willywonka\" ChatiRaphaëlle \"Hunter\" Ann Seal Martine \"Eclipse\" Castera",
+    "links": []
+  },
+  "Le Complot": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/rU470qPkFAUxebYMCJptN/430abf8f36bc74ddbadce3f03b3b7e43/ff26_complot.jpg",
+    "links": []
   }
 }

@@ -933,6 +933,13 @@
   },
   {
     "date": "2026-06-28",
+    "time": "21:30",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Jacques Kuba Séguin Lancement de Trilogie des odeurs"
+  },
+  {
+    "date": "2026-06-28",
     "time": "22:00",
     "venue": "L'Entracte Jazz Club",
     "paid": true,
@@ -1010,13 +1017,6 @@
     "venue": "Club Montréal Loto-Québec",
     "paid": false,
     "artist": "G L O W Z I"
-  },
-  {
-    "date": "2026-06-28",
-    "time": "21:30",
-    "venue": "Dièse Onze",
-    "paid": false,
-    "artist": "Jacques Kuba Séguin Lancement de Trilogie des odeurs"
   },
   {
     "date": "2026-06-28",

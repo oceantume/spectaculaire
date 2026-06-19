@@ -7,6 +7,14 @@
     "artist": "Projection de YOROÏ"
   },
   {
+    "date": "2026-06-11",
+    "time": "20:00",
+    "venue": "Centre Bell",
+    "paid": true,
+    "artist": "Orelsan",
+    "genre": "Rap"
+  },
+  {
     "date": "2026-06-12",
     "time": "19:00",
     "venue": "Cinquième Salle — Place des Arts",
@@ -734,7 +742,7 @@
   },
   {
     "date": "2026-06-19",
-    "time": "19:30",
+    "time": "20:30",
     "venue": "MTELUS",
     "paid": true,
     "artist": "Québec Redneck Bluegrass Project  ",

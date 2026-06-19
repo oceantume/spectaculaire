@@ -1152,6 +1152,14 @@
     "type": "main"
   },
   {
+    "date": "2026-10-03",
+    "venue": "SCÈNE FIZZ - BTSM",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Black Tiger Sex Machine",
+    "type": "off"
+  },
+  {
     "date": "2026-10-04",
     "venue": "SCÈNE BANQUE NATIONALE - ETHER",
     "paid": true,
