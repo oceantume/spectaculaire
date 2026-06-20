@@ -372,6 +372,22 @@
     "venue": "SCÈNE FIZZ - BLACK COFFEE (COMPLET)",
     "paid": true,
     "time": "17:00",
+    "artist": "Pat Boogie",
+    "type": "off"
+  },
+  {
+    "date": "2026-06-23",
+    "venue": "SCÈNE FIZZ - BLACK COFFEE (COMPLET)",
+    "paid": true,
+    "time": "18:30",
+    "artist": "MoBlack",
+    "type": "off"
+  },
+  {
+    "date": "2026-06-23",
+    "venue": "SCÈNE FIZZ - BLACK COFFEE (COMPLET)",
+    "paid": true,
+    "time": "20:00",
     "artist": "Black Coffee",
     "type": "off"
   },
@@ -380,6 +396,22 @@
     "venue": "SCÈNE FIZZ - BLACK COFFEE (Supplémentaire)",
     "paid": true,
     "time": "17:00",
+    "artist": "Laura Scavo",
+    "type": "off"
+  },
+  {
+    "date": "2026-06-24",
+    "venue": "SCÈNE FIZZ - BLACK COFFEE (Supplémentaire)",
+    "paid": true,
+    "time": "18:30",
+    "artist": "The Neighbors",
+    "type": "off"
+  },
+  {
+    "date": "2026-06-24",
+    "venue": "SCÈNE FIZZ - BLACK COFFEE (Supplémentaire)",
+    "paid": true,
+    "time": "20:00",
     "artist": "Black Coffee",
     "type": "off"
   },
@@ -1060,12 +1092,12 @@
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "19:30",
-    "artist": "Prospa",
+    "artist": "Dean Turnley",
     "type": "main"
   },
   {
     "date": "2026-09-19",
-    "venue": "SCÈNE FIZZ - Rupaul",
+    "venue": "SCÈNE FIZZ - RuPaul",
     "paid": true,
     "time": "17:00",
     "artist": "FIZZ STAGE - RUPAUL",

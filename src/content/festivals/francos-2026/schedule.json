@@ -745,7 +745,7 @@
     "time": "20:30",
     "venue": "MTELUS",
     "paid": true,
-    "artist": "Québec Redneck Bluegrass Project  ",
+    "artist": "Québec Redneck Bluegrass Project    ",
     "genre": "Folk"
   },
   {
@@ -892,6 +892,13 @@
     "venue": "Scène Spotify",
     "paid": false,
     "artist": "Rowjay"
+  },
+  {
+    "date": "2026-06-19",
+    "time": "18:30",
+    "venue": "Sur les marches",
+    "paid": false,
+    "artist": "MANTISSE"
   },
   {
     "date": "2026-06-20",
