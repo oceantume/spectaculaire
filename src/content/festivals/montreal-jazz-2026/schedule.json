@@ -266,7 +266,8 @@
     "time": "19:30",
     "venue": "Cinéma du Musée",
     "paid": true,
-    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+    "artist": "AMADOU ET MARIAM : SONS DU MALI",
+    "genre": "Cinema"
   },
   {
     "date": "2026-06-26",
@@ -498,7 +499,8 @@
     "time": "15:00",
     "venue": "Salle Alanis-Obomsawin de l'ONF",
     "paid": false,
-    "artist": "RUMBLE: The Indians Who Rocked the World"
+    "artist": "RUMBLE: The Indians Who Rocked the World",
+    "genre": "Cinema"
   },
   {
     "date": "2026-06-26",
@@ -561,21 +563,24 @@
     "time": "14:30",
     "venue": "Cinéma du Musée",
     "paid": true,
-    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+    "artist": "AMADOU ET MARIAM : SONS DU MALI",
+    "genre": "Cinema"
   },
   {
     "date": "2026-06-27",
     "time": "13:00",
     "venue": "Cinéma du Parc",
     "paid": true,
-    "artist": "Chasing Trane"
+    "artist": "Chasing Trane",
+    "genre": "Cinema"
   },
   {
     "date": "2026-06-27",
     "time": "15:15",
     "venue": "Cinéma du Parc",
     "paid": true,
-    "artist": "Miles Davis : Birth of cool"
+    "artist": "Miles Davis : Birth of cool",
+    "genre": "Cinema"
   },
   {
     "date": "2026-06-27",
@@ -835,7 +840,8 @@
     "time": "15:00",
     "venue": "Salle Alanis-Obomsawin de l'ONF",
     "paid": false,
-    "artist": "Maron - La piste créole en Amérique"
+    "artist": "Maron - La piste créole en Amérique",
+    "genre": "Cinema"
   },
   {
     "date": "2026-06-27",
@@ -898,7 +904,8 @@
     "time": "19:00",
     "venue": "Cinéma du Musée",
     "paid": true,
-    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+    "artist": "AMADOU ET MARIAM : SONS DU MALI",
+    "genre": "Cinema"
   },
   {
     "date": "2026-06-28",
@@ -1121,7 +1128,8 @@
     "time": "15:00",
     "venue": "Salle Alanis-Obomsawin de l'ONF",
     "paid": false,
-    "artist": "Mesdames et messieurs…Leonard Cohen"
+    "artist": "Mesdames et messieurs…Leonard Cohen",
+    "genre": "Cinema"
   },
   {
     "date": "2026-06-28",
@@ -1184,14 +1192,16 @@
     "time": "19:30",
     "venue": "Cinéma du Musée",
     "paid": true,
-    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+    "artist": "AMADOU ET MARIAM : SONS DU MALI",
+    "genre": "Cinema"
   },
   {
     "date": "2026-06-29",
     "time": "16:45",
     "venue": "Cinéma du Parc",
     "paid": true,
-    "artist": "Chasing Trane"
+    "artist": "Chasing Trane",
+    "genre": "Cinema"
   },
   {
     "date": "2026-06-29",
@@ -1235,7 +1245,8 @@
     "time": "19:00",
     "venue": "Monument-National",
     "paid": true,
-    "artist": "UZEB en fusion"
+    "artist": "UZEB en fusion",
+    "genre": "Cinema"
   },
   {
     "date": "2026-06-29",
@@ -1441,7 +1452,8 @@
     "time": "17:00",
     "venue": "Cinéma du Musée",
     "paid": true,
-    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+    "artist": "AMADOU ET MARIAM : SONS DU MALI",
+    "genre": "Cinema"
   },
   {
     "date": "2026-06-30",
@@ -1699,14 +1711,16 @@
     "time": "17:00",
     "venue": "Cinéma du Musée",
     "paid": true,
-    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+    "artist": "AMADOU ET MARIAM : SONS DU MALI",
+    "genre": "Cinema"
   },
   {
     "date": "2026-07-01",
     "time": "16:45",
     "venue": "Cinéma du Parc",
     "paid": true,
-    "artist": "Miles Davis : Birth of cool"
+    "artist": "Miles Davis : Birth of cool",
+    "genre": "Cinema"
   },
   {
     "date": "2026-07-01",
@@ -1998,7 +2012,8 @@
     "time": "17:00",
     "venue": "Cinéma du Musée",
     "paid": true,
-    "artist": "AMADOU ET MARIAM : SONS DU MALI"
+    "artist": "AMADOU ET MARIAM : SONS DU MALI",
+    "genre": "Cinema"
   },
   {
     "date": "2026-07-02",
@@ -2465,7 +2480,8 @@
     "time": "15:00",
     "venue": "Salle Alanis-Obomsawin de l'ONF",
     "paid": false,
-    "artist": "Le chat dans le sac"
+    "artist": "Le chat dans le sac",
+    "genre": "Cinema"
   },
   {
     "date": "2026-07-03",
@@ -2760,7 +2776,8 @@
     "time": "15:00",
     "venue": "Salle Alanis-Obomsawin de l'ONF",
     "paid": false,
-    "artist": "Les Girls"
+    "artist": "Les Girls",
+    "genre": "Cinema"
   },
   {
     "date": "2026-07-04",
