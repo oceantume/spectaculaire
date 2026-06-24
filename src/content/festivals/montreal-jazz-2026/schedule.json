@@ -135,6 +135,13 @@
   },
   {
     "date": "2026-06-25",
+    "time": "16:00",
+    "venue": "Foil Gallery",
+    "paid": false,
+    "artist": "anaiis’ Devotion & the Black Divine Film"
+  },
+  {
+    "date": "2026-06-25",
     "time": "23:00",
     "venue": "Le Balcon",
     "paid": false,
@@ -189,6 +196,13 @@
     "paid": false,
     "artist": "Gentiane MG",
     "genre": "Jazz"
+  },
+  {
+    "date": "2026-06-25",
+    "time": "18:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Chi & Ri et Modern Melodies"
   },
   {
     "date": "2026-06-25",
@@ -409,6 +423,13 @@
     "venue": "Club Montréal Loto-Québec",
     "paid": false,
     "artist": "Vibe Benders"
+  },
+  {
+    "date": "2026-06-26",
+    "time": "08:30",
+    "venue": "Foil Gallery",
+    "paid": false,
+    "artist": "anaiis’ Devotion & the Black Divine Film"
   },
   {
     "date": "2026-06-26",
@@ -722,6 +743,13 @@
     "venue": "Club Montréal Loto-Québec",
     "paid": false,
     "artist": "Klaus"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "08:30",
+    "venue": "Foil Gallery",
+    "paid": false,
+    "artist": "anaiis’ Devotion & the Black Divine Film"
   },
   {
     "date": "2026-06-27",
@@ -1118,6 +1146,13 @@
   },
   {
     "date": "2026-06-28",
+    "time": "20:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Émission en direct de Hola Montreal"
+  },
+  {
+    "date": "2026-06-28",
     "time": "21:00",
     "venue": "Pub Molson",
     "paid": false,
@@ -1376,6 +1411,13 @@
     "venue": "Pub Molson",
     "paid": false,
     "artist": "Curtis Nowosad"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "18:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Dans les airs"
   },
   {
     "date": "2026-06-29",
@@ -2182,6 +2224,13 @@
   },
   {
     "date": "2026-07-02",
+    "time": "18:00",
+    "venue": "Pub Molson",
+    "paid": false,
+    "artist": "Émission en direct de CISM"
+  },
+  {
+    "date": "2026-07-02",
     "time": "19:00",
     "venue": "Pub Molson",
     "paid": false,
@@ -2560,7 +2609,7 @@
     "time": "21:30",
     "venue": "Dièse Onze",
     "paid": true,
-    "artist": "Normand Guilbeault ensemble joue Mingus"
+    "artist": "Marianne Trudel trio"
   },
   {
     "date": "2026-07-04",

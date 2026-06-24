@@ -620,6 +620,22 @@
     "venue": "SCÈNE FIZZ - JOURNEY OF A LIFETIME",
     "paid": true,
     "time": "17:00",
+    "artist": "Kat2Kat",
+    "type": "off"
+  },
+  {
+    "date": "2026-07-10",
+    "venue": "SCÈNE FIZZ - JOURNEY OF A LIFETIME",
+    "paid": true,
+    "time": "17:45",
+    "artist": "Axel Boy",
+    "type": "off"
+  },
+  {
+    "date": "2026-07-10",
+    "venue": "SCÈNE FIZZ - JOURNEY OF A LIFETIME",
+    "paid": true,
+    "time": "18:45",
     "artist": "Whethan",
     "type": "off"
   },

@@ -923,6 +923,11 @@
       }
     ]
   },
+  "Chi & Ri et Modern Melodies": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3vE9PHricTDz3lKS0QAdFN/c8c8d1dc478feb3295c123e20014b22e/Copy_of_Chi___Ri___Modern_Melodies__1104_x_767_px_.png",
+    "description": "Les deux meilleures émissions de jazz de CJLO s'associent pour vous emmener en direct du Festival international de jazz de Montréal ! Chi, Ri et Audrey vous présenteront tous leurs spectacles incontournables, mettant en vedette des entrevues avec des artistes du festival.\nÉcoutez-vous en direct de Jazzette et sur CJLO 1690 AM le 25 juin à 18 h! À ne pas manquer!",
+    "links": []
+  },
   "Doxas Brothers": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/CS9hoVu3p8CH6RipOYtSA/c32ebcf8104b3f4ffba657235d8d2030/fijm26_doxas_brothers.jpg",
     "links": [
@@ -1681,6 +1686,10 @@
       }
     ]
   },
+  "Émission en direct de Hola Montreal": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/32YVWmnpoOCyGS3ZWIwyqW/b2f0358b76983d66d357ff3b21682587/FIJM26-generique-1104x767__1_.jpg",
+    "links": []
+  },
   "Ping Pong Go": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4uYZeGcJvHYYDFOj1XF6u2/6390880fd7f79f78967934c77858c413/fijm26_ping_pon_go.jpg",
     "description": "Connaissez-vous le gamer jazz? C’est le style musical créé par et pour Ping Pong Go, duo aux ambitions démesurées de deux des musiciens les plus prolifiques de la scène québécoise, Vincent Gagnon et PE Beaudoin. Aperçus sur scènes avec Hubert Lenoir, Lou-Adriane Cassidy, Ariane Roy, Keith Kouna et des milliards d’autres artistes, ils ont présenté en 2022 leur délire musical instrumental et ludique avec un premier album sous popop records, ralliant finalement les nerds et les sportifs sous une seule bande sonore digne des jeux olympiques et des jeux vidéos vintage à la fois. Véritable ovni du monde jazz sur scène comme en disque, voici Ping Pong Go de retour avec un second album vaillamment nommé SMASH COMBAT. On leur souhaite toutes les médailles et trophées. Pour 2026, le duo vient d'annoncer la sortie de son nouvel album, Smash Combat! Le premier single « Sam Bozen », avec ses rythmes pianistiques olympiques, ouvre la voie à une nouvelle ère de gamer jazz, le style musical très unique de Ping Pong Go.",
@@ -1705,7 +1714,7 @@
     ]
   },
   "Jacques Kuba Séguin Lancement de Trilogie des odeurs": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/ikVlSpaylP4JNvkBOuWyM/716fef41de1472778966b3bbfefff303/FIJM26-generique-1104x767__1_.jpg",
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/ikVlSpaylP4JNvkBOuWyM/e1f9de5b17a4b5295931143f3cb6b334/fijm26_jacques_kuba_seguin.jpg",
     "description": "Jacques Kuba Séguin - Trompette et composJean-Michel Pilc - PianoMorgan Moore - ContrebasseKevin Warren - Batterieplus des invités surprises",
     "links": [
       {
@@ -1714,7 +1723,7 @@
       },
       {
         "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2aRiHW5NupcW8mXgEhsIs2 "
+        "url": "https://open.spotify.com/artist/2aRiHW5NupcW8mXgEhsIs2"
       }
     ]
   },
@@ -1784,6 +1793,11 @@
         "url": "https://open.spotify.com/artist/4EqH3EndyhTbds6S1ZzmdQ"
       }
     ]
+  },
+  "Dans les airs": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6BYA6XE3AGyVMulYYeZOe8/0ae7f10e95cff2f0f842187406be9177/Franco_Visuelweb_CHOQ.ca__1_.jpg",
+    "description": "Dans les airs, c'est le magazine culturel de CHOQ.ca, pour voir et entendre la culture autrement. On vous amène un peu partout pour vous faire voir la métropole d'un œil différent. Animation de l’épisode par Renaud Vaillancourt et Tomy Tanguay.",
+    "links": []
   },
   "Elysia Biro": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3WSK92qFgry4VpmgyrXy0B/2f4f16cc60e2b00bc8ef4fac311f7840/fijm26_elysia_biro__2_.jpg",
@@ -2330,6 +2344,10 @@
       }
     ]
   },
+  "Émission en direct de CISM": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3l5gssKRFvjYUUOTuQ2tYK/9dc9c4c8156d4142736a6c6948f635e6/FIJM26-generique-1104x767__1_.jpg",
+    "links": []
+  },
   "Kazdoura": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1GqsCIQdLRCEQeIaUTYlkZ/8d1263f5e2df2dd9245a62bff681abb1/fijm26_kazdoura.jpg",
     "links": [
@@ -2735,6 +2753,16 @@
       }
     ]
   },
+  "Marianne Trudel trio": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/72M600bg6HJGj8WY8IaeUh/084e1c9f94187ceabd6f9356c471296d/FIJM26-generique-1104x767__1_.jpg",
+    "description": "Marianne Trudel - PianoJohn Hollenbeck - BatterieMorgan Moore - Contrebasse",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=cagClts-1iU"
+      }
+    ]
+  },
   "Aja Monet": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6HHaoENvQJHcLhUcVUJ97S/5520954bd5ef1025c90a114d7db3f928/fijm26_aja_monet.jpg",
     "links": [
@@ -2777,6 +2805,16 @@
   "Habitat Sonore : A Love Supreme — John Coltrane 100e": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/TPkwqr6JdO8nRdCCFc3NM/5cc14ed16da4c8503abd57c562c67230/fijm26_habitat_sonore.jpg",
     "links": []
+  },
+  "anaiis’ Devotion & the Black Divine Film": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1BeVy9bEBNXvPvpqcR0mgG/e37d614b2ffd0d317c07dc486359c3bd/fijm26_feminae_fox.jpg",
+    "description": "En anglais\n\nFEMINAE NOX returns in partnership with Foil Gallery & Montreal\nInternational Jazz Festival to present the screening\nof Devotion & the Black Divine —\na cinematic universe co-directed by\nFrench-Senegalese artist, anaiis.\nIt is the expansion on the visual and sonic world from the 2025 album of the same\nname. \n\nDevotion & the\nBlack Divine is a cinematic meditation on new Black\nmotherhood and the spiritual upheaval it carries. Blending soul, gospel, and\nchamber pop, the album was recorded live to tape, a deliberate act of surrender\nto imperfection and presence. Its themes move through unconditional love,\nself-acceptance, Black heritage, and the quiet power of nurturing. The\naccompanying art film — shot in Jamaica — extends these themes into moving\nimage.\n\nThis event will kickoff anaiis + Grupo Cosmo performance at the Montreal International Jazz Festival's Rogers Stage\non June 26, 2026 @ 10:30 pm followed by anaiis' solo Montreal headline show on September 23, 2026 @ Le Ministere.\n\nJoin FEMINAE NOX, Foil Gallery, and Montreal International\nJazz Festival featuring programming curated by Mira Silvers (founder\nof FEMINAE NOX):\n\nOn June 25, 2026 at Foil Gallery (6560 Rue Waverly,\nMontréal, QC H2V 4M3)\n\n• 4:00 pm || Live Artist Talk between anaiis and artist G L O W Z I. \n\n• 5:00 pm || Networking and Artist ***Meet & Greet with anaiis. \n\n***anaiis will be signing vinyl records (available\nfor purchase on-site)\n\nRSVP via Waiting List here: https://www.universe.com/fn-anaiis-film\n\nOn June 26 and June 27 2026 at Foil Gallery\n(6560\nRue Waverly, Montréal, QC H2V 4M3) \n\n• 8:30 am - 5:40 pm || Screening of Devotion\n& the Black Divine \n\nRSVP Link: https://www.universe.com/fn-anaiis-filmscreening-only",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=89eO6sndg0I"
+      }
+    ]
   },
   "Robinson Khoury": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3HkDkOWxL7DgjN6iLbMoVv/562f2dc74874327bccaf084dd8688442/fijm26_robinson_khoury.jpg",
