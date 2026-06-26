@@ -24,6 +24,13 @@
   },
   {
     "date": "2026-06-25",
+    "time": "19:00",
+    "venue": "Dièse Onze",
+    "paid": true,
+    "artist": "Ben Charest Quintet"
+  },
+  {
+    "date": "2026-06-25",
     "time": "21:30",
     "venue": "Dièse Onze",
     "paid": true,
@@ -125,13 +132,6 @@
     "venue": "Club Montréal Loto-Québec",
     "paid": false,
     "artist": "Ivan Boivin-Flamand"
-  },
-  {
-    "date": "2026-06-25",
-    "time": "19:00",
-    "venue": "Dièse Onze",
-    "paid": false,
-    "artist": "Ben Charest Quintet"
   },
   {
     "date": "2026-06-25",
@@ -1149,7 +1149,7 @@
     "time": "20:00",
     "venue": "Pub Molson",
     "paid": false,
-    "artist": "Émission en direct de Hola Montreal"
+    "artist": "Émission en direct de Hola Montréal"
   },
   {
     "date": "2026-06-28",
@@ -2110,6 +2110,13 @@
   },
   {
     "date": "2026-07-02",
+    "time": "23:00",
+    "venue": "MTELUS",
+    "paid": true,
+    "artist": "Saint Levant X Abu Levant DJ Set"
+  },
+  {
+    "date": "2026-07-02",
     "time": "12:00",
     "venue": "PHI",
     "paid": true,
@@ -2508,7 +2515,7 @@
     "time": "18:00",
     "venue": "Pub Molson",
     "paid": false,
-    "artist": "Entrevues Banane Banane"
+    "artist": "Balado Plaque tournante"
   },
   {
     "date": "2026-07-03",
