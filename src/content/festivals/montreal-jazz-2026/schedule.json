@@ -560,7 +560,7 @@
   },
   {
     "date": "2026-06-26",
-    "time": "22:30",
+    "time": "23:00",
     "venue": "Scène Rogers",
     "paid": false,
     "artist": "anaiis & Grupo Cosmo"
@@ -813,6 +813,13 @@
     "venue": "Le Piano public du Groupe Maurice",
     "paid": false,
     "artist": "Diane Bibaud"
+  },
+  {
+    "date": "2026-06-27",
+    "time": "12:00",
+    "venue": "Le Studio TD",
+    "paid": false,
+    "artist": "Session live de McKinley Dixon"
   },
   {
     "date": "2026-06-27",
@@ -1676,7 +1683,7 @@
     "time": "18:00",
     "venue": "Pub Molson",
     "paid": false,
-    "artist": "Émission en direct de CIBL 101,5"
+    "artist": "Station Culture"
   },
   {
     "date": "2026-06-30",
@@ -1833,7 +1840,7 @@
   },
   {
     "date": "2026-07-01",
-    "time": "20:00",
+    "time": "21:00",
     "venue": "Théâtre Maisonneuve — Place des Arts",
     "paid": true,
     "artist": "Béla Fleck, Edmar Castañeda & Antonio Sánchez",
@@ -1929,6 +1936,13 @@
     "venue": "Le Cabaret Havana Club",
     "paid": false,
     "artist": "Les Royal Pickles"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "20:00",
+    "venue": "Le Piano public du Groupe Maurice",
+    "paid": false,
+    "artist": "Brian Dickinson"
   },
   {
     "date": "2026-07-01",
@@ -2234,7 +2248,7 @@
     "time": "18:00",
     "venue": "Pub Molson",
     "paid": false,
-    "artist": "Émission en direct de CISM"
+    "artist": "Rythmologie"
   },
   {
     "date": "2026-07-02",

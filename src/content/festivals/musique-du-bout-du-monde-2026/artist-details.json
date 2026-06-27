@@ -385,36 +385,6 @@
     ],
     "description": "Lauréat du Syli d’or de la musique du monde 2026, un concours propulsé par nos partenaires et ami·es de Festival International Nuits d’Afrique.\n\nGroupe d’amis avant tout, Zalam Kao pratique l’art de créer en communauté. Le quintette réunit Clovis Lamarre (Tchobis) à la production et au mixage, Antonio Dorsaint Manigat (Ogou Rayfé) au chant et rap, MoMo comme multi-instrumentiste jazz, Lucas Melo à la guitare, contrebasse et aux paroles, et Edaï Larobina à la composition et aux instruments. C’est en octobre 2025 que leur tout premier album Tou Lumin voit le jour.\n\nMêlant jazz, funk, soul et world beat, le quintette livre une expérience musicale chaleureuse qui capture l’essence culturelle de Montréal. Leur premier single Tout Pour Toi (Juin 2024) a conquis le public francophone et la presse canadienne, confirmant leur émergence sur la scène musicale nationale. Le succès de ce titre solaire établit Zalam Kao comme une voix distinctive de la nouvelle génération d’artistes québécois."
   },
-  "Jeanne Côté": {
-    "imageUrl": "https://musiqueduboutdumonde.com/wp-content/uploads/Jeanne2026_pic6_MarieveHarelMichon-1-1638x2048.jpg",
-    "links": [
-      {
-        "label": "Vidéo officielle",
-        "url": "https://www.youtube.com/watch?v=SwcscZ99Zro"
-      },
-      {
-        "label": "Site officiel",
-        "url": "https://www.jeannecote.ca/"
-      },
-      {
-        "label": "Facebook",
-        "url": "https://www.facebook.com/jeannecotemusique"
-      },
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/channel/UCaxYXLZ6fmdHp8fMVdTXOgg"
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/jeannecotemusique/?hl=en"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/intl-fr/artist/2dNYXvbpBSHNjYc8eAvQB7"
-      }
-    ],
-    "description": "Jeanne Côté arrive à l’aube de la trentaine avec le vent dans le dos. Gagnante des Francouvertes 2023 et finaliste du Prix Félix-Leclerc 2024, sa plume unique, son jeu de piano et un côté folk épuré lui ont permis de conquérir les cœurs dans les dernières années. Après Suite pour personne (2023), elle saisit l’opportunité d’un nouvel album, Nos routes pleines de branches, pour bifurquer un peu de ses racines gaspésiennes : l’album, plus dynamique et groovy, s’inspire des points de rupture et de rencontre qui dessinent les trajectoires humaines.\n\nEn formule solo au clavier, Jeanne Côté propose un spectacle épuré et habité, où sa présence, sa voix et son jeu délicat créent un moment suspendu, comme une traversée intime aux multiples nuances dont on ressort allégé."
-  },
   "Waahli": {
     "imageUrl": "https://musiqueduboutdumonde.com/wp-content/uploads/Waahli-carl-hungerbuehler_Face-1638x2048.jpg",
     "links": [
@@ -444,6 +414,36 @@
       }
     ],
     "description": "Waahli est un artiste montréalais d’origine haïtienne qui fusionne hip-hop, afrobeat, reggae et funk haïtien dans une démarche musicale unique, profondément enracinée dans ses origines. Reconnu pour son originalité, Waahli a été nommé Révélation Radio-Canada 2023-2024. En 2024, il reçoit des nominations prestigieuses, notamment au Gala de l’ADISQ pour Meilleur Album de l’Année – Multilingue et Autres Langues, ainsi qu’aux Juno Awards pour Meilleur Album de l’Année – Musique du Monde. En 2025, il poursuit son évolution artistique avec Seven Bubbles, un projet audacieux qui repousse les frontières esthétiques et sonores.  Sur scène, Waahli captive son public par son énergie contagieuse et ses performances interactives. Il offre un voyage musical riche en diversité culturelle. Ambassadeur du hip-hop alternatif et des sonorités haïtiennes, il continue de marquer la scène musicale internationale avec sa créativité et son engagement."
+  },
+  "Jeanne Côté": {
+    "imageUrl": "https://musiqueduboutdumonde.com/wp-content/uploads/Jeanne2026_pic6_MarieveHarelMichon-1-1638x2048.jpg",
+    "links": [
+      {
+        "label": "Vidéo officielle",
+        "url": "https://www.youtube.com/watch?v=SwcscZ99Zro"
+      },
+      {
+        "label": "Site officiel",
+        "url": "https://www.jeannecote.ca/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/jeannecotemusique"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCaxYXLZ6fmdHp8fMVdTXOgg"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/jeannecotemusique/?hl=en"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/intl-fr/artist/2dNYXvbpBSHNjYc8eAvQB7"
+      }
+    ],
+    "description": "Jeanne Côté arrive à l’aube de la trentaine avec le vent dans le dos. Gagnante des Francouvertes 2023 et finaliste du Prix Félix-Leclerc 2024, sa plume unique, son jeu de piano et un côté folk épuré lui ont permis de conquérir les cœurs dans les dernières années. Après Suite pour personne (2023), elle saisit l’opportunité d’un nouvel album, Nos routes pleines de branches, pour bifurquer un peu de ses racines gaspésiennes : l’album, plus dynamique et groovy, s’inspire des points de rupture et de rencontre qui dessinent les trajectoires humaines.\n\nEn formule solo au clavier, Jeanne Côté propose un spectacle épuré et habité, où sa présence, sa voix et son jeu délicat créent un moment suspendu, comme une traversée intime aux multiples nuances dont on ressort allégé."
   },
   "Kelly Bado": {
     "imageUrl": "https://musiqueduboutdumonde.com/wp-content/uploads/Kelly-Bado-8818-2048x1365.jpg",
