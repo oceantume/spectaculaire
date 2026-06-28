@@ -1247,14 +1247,6 @@
   },
   {
     "date": "2026-06-29",
-    "time": "21:00",
-    "venue": "Club Soda",
-    "paid": true,
-    "artist": "Nicholas Payton & Butcher Brown présentent A Supreme Blue",
-    "genre": "Jazz"
-  },
-  {
-    "date": "2026-06-29",
     "time": "19:00",
     "venue": "Dièse Onze",
     "paid": true,
@@ -1474,6 +1466,14 @@
     "venue": "Scène Rogers",
     "paid": false,
     "artist": "Cécile Doo-Kingué"
+  },
+  {
+    "date": "2026-06-29",
+    "time": "22:30",
+    "venue": "Scène Rogers",
+    "paid": false,
+    "artist": "Nicholas Payton & Butcher Brown présentent A Supreme Blue",
+    "genre": "Jazz"
   },
   {
     "date": "2026-06-29",
