@@ -1062,6 +1062,13 @@
   },
   {
     "date": "2026-06-28",
+    "time": "08:30",
+    "venue": "Foil Gallery",
+    "paid": false,
+    "artist": "anaiis’ Devotion & the Black Divine Film"
+  },
+  {
+    "date": "2026-06-28",
     "time": "12:15",
     "venue": "Le Cabaret Havana Club",
     "paid": false,
@@ -1350,6 +1357,13 @@
   },
   {
     "date": "2026-06-29",
+    "time": "08:30",
+    "venue": "Foil Gallery",
+    "paid": false,
+    "artist": "anaiis’ Devotion & the Black Divine Film"
+  },
+  {
+    "date": "2026-06-29",
     "time": "18:00",
     "venue": "Le Cabaret Havana Club",
     "paid": false,
@@ -1474,13 +1488,6 @@
     "paid": false,
     "artist": "Nicholas Payton & Butcher Brown présentent A Supreme Blue",
     "genre": "Jazz"
-  },
-  {
-    "date": "2026-06-29",
-    "time": "22:30",
-    "venue": "Scène Rogers",
-    "paid": false,
-    "artist": "Nubiyan Twist"
   },
   {
     "date": "2026-06-29",
@@ -1614,6 +1621,13 @@
     "venue": "Club Montréal Loto-Québec",
     "paid": false,
     "artist": "SAMANT"
+  },
+  {
+    "date": "2026-06-30",
+    "time": "08:30",
+    "venue": "Foil Gallery",
+    "paid": false,
+    "artist": "anaiis’ Devotion & the Black Divine Film"
   },
   {
     "date": "2026-06-30",
@@ -1880,6 +1894,13 @@
     "venue": "Club Montréal Loto-Québec",
     "paid": false,
     "artist": "The Liquor Store"
+  },
+  {
+    "date": "2026-07-01",
+    "time": "08:30",
+    "venue": "Foil Gallery",
+    "paid": false,
+    "artist": "anaiis’ Devotion & the Black Divine Film"
   },
   {
     "date": "2026-07-01",
