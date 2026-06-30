@@ -1291,13 +1291,6 @@
   },
   {
     "date": "2026-06-29",
-    "time": "12:00",
-    "venue": "PHI",
-    "paid": true,
-    "artist": "Habitat Sonore : A Love Supreme — John Coltrane 100e"
-  },
-  {
-    "date": "2026-06-29",
     "time": "19:30",
     "venue": "Salle Wilfrid-Pelletier — Place des Arts",
     "paid": true,
@@ -1563,13 +1556,6 @@
     "paid": true,
     "artist": "Father John Misty",
     "genre": "Folk"
-  },
-  {
-    "date": "2026-06-30",
-    "time": "12:00",
-    "venue": "PHI",
-    "paid": true,
-    "artist": "Habitat Sonore : A Love Supreme — John Coltrane 100e"
   },
   {
     "date": "2026-06-30",
@@ -2400,14 +2386,6 @@
     "paid": true,
     "artist": "Sofiane Pamart",
     "genre": "Rap"
-  },
-  {
-    "date": "2026-07-03",
-    "time": "20:30",
-    "venue": "MTELUS",
-    "paid": true,
-    "artist": "Fridayy",
-    "genre": "Pop"
   },
   {
     "date": "2026-07-03",
