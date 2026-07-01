@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026-08-27",
+    "venue": "Impérial Bell",
+    "paid": true,
+    "time": "21:00",
+    "artist": "MAGIC!",
+    "country": "Canada",
+    "genre": "Reggae"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Impérial Bell",
+    "paid": true,
+    "time": "21:00",
+    "artist": "Le Gong Show",
+    "country": "Québec",
+    "genre": "Humour"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Impérial Bell",
+    "paid": true,
+    "time": "21:00",
+    "artist": "Coeur de Pirate",
+    "country": "Québec",
+    "genre": "Indie pop"
+  }
+]

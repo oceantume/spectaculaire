@@ -14,6 +14,7 @@ import { run as runMontrealJazz2026 } from "./festivals/montreal-jazz-2026.ts";
 import { run as runMusiqueDuBoutDuMonde2026 } from "./festivals/musique-du-bout-du-monde-2026.ts";
 import { run as runOsheaga2026 } from "./festivals/osheaga-2026.ts";
 import { run as runPiknicElektronik2026 } from "./festivals/piknic-electronik-2026.ts";
+import { run as runStrochxp2026 } from "./festivals/strochxp-2026.ts";
 
 // lastUpdateDate: last calendar day on which updates should run (YYYY-MM-DD).
 // Set to the final day of the festival. Add an entry here when adding a new festival.
@@ -32,6 +33,7 @@ const festivals = [
   { slug: "osheaga-2026", run: runOsheaga2026, lastUpdateDate: "2026-08-02" },
   { slug: "musique-du-bout-du-monde-2026", run: runMusiqueDuBoutDuMonde2026, lastUpdateDate: "2026-08-09" },
   { slug: "piknic-electronik-2026", run: runPiknicElektronik2026, lastUpdateDate: "2026-10-18" },
+  { slug: "strochxp-2026", run: runStrochxp2026, lastUpdateDate: "2026-08-29" },
 ];
 
 const today = new Date().toISOString().slice(0, 10);
