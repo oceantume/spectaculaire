@@ -40,3 +40,17 @@ export type Festival = {
   sourceAttribution: string | null;
   draft: boolean;
 };
+
+export type ChangeDetail = { field: "time" | "venue" | "paid"; from: string; to: string };
+
+export type ScheduleChange = {
+  type: "added" | "removed" | "updated";
+  artist: string;
+  showDate: string;
+  time?: string;
+  details?: ChangeDetail[];
+};
+
+export type ChangelogCommit = { hash: string; date: string; changes: ScheduleChange[] };
+
+export type FestivalChangelog = ChangelogCommit[];

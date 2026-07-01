@@ -4,9 +4,11 @@ import type { Festival } from "../types";
 type Props = {
   festival: Festival;
   allFestivals: Festival[];
+  changesHref?: string;
+  recentChanges?: number;
 };
 
-const { festival, allFestivals } = Astro.props;
+const { festival, allFestivals, changesHref, recentChanges } = Astro.props;
 ---
 
 <div class="nav-bar">
@@ -35,6 +37,16 @@ const { festival, allFestivals } = Astro.props;
     </svg>
   </button>
   <div class="nav-right">
+    {
+      changesHref && (
+        <a href={changesHref} class={`changes-btn${recentChanges ? " changes-btn--dot" : ""}`} aria-label="Historique des changements" title={recentChanges ? `Historique des changements (${recentChanges} récent${recentChanges === 1 ? "" : "s"})` : "Historique des changements"}>
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="10"></circle>
+            <polyline points="12 6 12 12 16 14"></polyline>
+          </svg>
+        </a>
+      )
+    }
     <a href="/search" class="search-btn" aria-label="Rechercher un artiste">
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -187,7 +199,8 @@ const { festival, allFestivals } = Astro.props;
     gap: 0.125rem;
   }
 
-  .search-btn {
+  .search-btn,
+  .changes-btn {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -196,18 +209,34 @@ const { festival, allFestivals } = Astro.props;
     border-radius: 0.375rem;
     color: #d1d5db;
     transition: color 0.15s;
+    position: relative;
   }
 
-  .search-btn:hover {
+  .search-btn:hover,
+  .changes-btn:hover {
     color: #9ca3af;
   }
 
-  .dark .search-btn {
+  .dark .search-btn,
+  .dark .changes-btn {
     color: #9ca3af;
   }
 
-  .dark .search-btn:hover {
+  .dark .search-btn:hover,
+  .dark .changes-btn:hover {
     color: #e5e7eb;
+  }
+
+  .changes-btn--dot::after {
+    content: "";
+    position: absolute;
+    top: 0.1rem;
+    right: 0.1rem;
+    width: 0.45rem;
+    height: 0.45rem;
+    border-radius: 50%;
+    background-color: #4ade80;
+    border: 1.5px solid var(--bg);
   }
 
   .trigger-caret {
