@@ -54,8 +54,9 @@ export async function writeFestivalData(
 ): Promise<void> {
   const schedulePath = path.join(dataDir, "schedule.json");
   const detailsPath = path.join(dataDir, "artist-details.json");
+  const cleanedRows = rows.map((r) => ({ ...r, artist: r.artist.trim(), venue: r.venue.trim() }));
   await fs.mkdir(dataDir, { recursive: true });
-  await fs.writeFile(schedulePath, `${JSON.stringify(rows, null, 2)}\n`);
+  await fs.writeFile(schedulePath, `${JSON.stringify(cleanedRows, null, 2)}\n`);
   console.log(`Written ${rows.length} rows to ${schedulePath}`);
   await fs.writeFile(detailsPath, `${JSON.stringify(artistDetails, null, 2)}\n`);
   console.log(`Written ${Object.keys(artistDetails).length} artist details to ${detailsPath}`);
