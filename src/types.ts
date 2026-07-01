@@ -39,6 +39,8 @@ export type Festival = {
   sourceLabel: string | null;
   sourceAttribution: string | null;
   draft: boolean;
+  startDate: string;
+  endDate: string;
 };
 
 export type ChangeDetail = { field: "time" | "venue" | "paid"; from: string; to: string };

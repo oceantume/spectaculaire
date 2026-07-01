@@ -305,9 +305,13 @@ Add to `src/content/festivals.json`:
   "sourceUrl": "{programmation page URL}",
   "sourceLabel": "{domain without https://}",
   "sourceAttribution": "{Official festival full name}",
-  "draft": true
+  "draft": true,
+  "startDate": "{YYYY-MM-DD}",
+  "endDate": "{YYYY-MM-DD}"
 }
 ```
+
+`startDate`/`endDate` drive sorting and the active/upcoming/past grouping in the nav festival picker. Source them from the festival's officially announced dates (the programmation page usually states them) — don't derive from `schedule.json`, which may still be sparse or empty for a fresh draft. If the schedule later reveals a wider date range (e.g. satellite/pre-events), update these fields to match the actual min/max show dates once known.
 
 Add `"all-paid"` to `features` if every show is paid (hides the paid/gratuit column entirely).
 Add `"all-free"` to `features` if every show is free (hides the paid/gratuit column entirely).

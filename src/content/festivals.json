@@ -10,7 +10,9 @@
     "sourceUrl": "https://fetedelamusiquedequebec.com/programmation/",
     "sourceLabel": "fetedelamusiquedequebec.com",
     "sourceAttribution": "Fête de la Musique de Québec",
-    "draft": false
+    "draft": false,
+    "startDate": "2026-06-19",
+    "endDate": "2026-06-21"
   },
   {
     "name": "Festival d'été de Québec 2026",
@@ -23,7 +25,9 @@
     "sourceUrl": "https://www.feq.ca/fr/programmation",
     "sourceLabel": "feq.ca",
     "sourceAttribution": "Contenu appartenant au Festival d'été de Québec",
-    "draft": false
+    "draft": false,
+    "startDate": "2026-07-09",
+    "endDate": "2026-07-19"
   },
   {
     "name": "Festivent 2026",
@@ -36,7 +40,9 @@
     "sourceUrl": "https://festivent.ca/programmation/",
     "sourceLabel": "festivent.ca",
     "sourceAttribution": "Contenu appartenant au Festivent de Lévis",
-    "draft": false
+    "draft": false,
+    "startDate": "2026-07-29",
+    "endDate": "2026-08-02"
   },
   {
     "name": "Chanson Tadoussac 2026",
@@ -49,7 +55,9 @@
     "sourceUrl": "https://chansontadoussac.com/programmation-2026/",
     "sourceLabel": "chansontadoussac.com",
     "sourceAttribution": "Contenu appartenant au Festival de la Chanson de Tadoussac",
-    "draft": false
+    "draft": false,
+    "startDate": "2026-06-11",
+    "endDate": "2026-09-03"
   },
   {
     "name": "Envol et Macadam 2026",
@@ -62,7 +70,9 @@
     "sourceUrl": "https://envoletmacadam.com/fr/programmation-2025/horaire/",
     "sourceLabel": "envoletmacadam.com",
     "sourceAttribution": "Contenu appartenant au Festival Envol et Macadam",
-    "draft": false
+    "draft": false,
+    "startDate": "2026-09-10",
+    "endDate": "2026-09-12"
   },
   {
     "name": "Festif 2026",
@@ -75,7 +85,9 @@
     "sourceUrl": "https://lefestif.ca/programmation",
     "sourceLabel": "lefestif.ca",
     "sourceAttribution": "Contenu appartenant au Festif! de Baie-Saint-Paul",
-    "draft": false
+    "draft": false,
+    "startDate": "2026-07-22",
+    "endDate": "2026-07-26"
   },
   {
     "name": "Festival Cigale 2026",
@@ -88,7 +100,9 @@
     "sourceUrl": "https://cigalequebec.com/programmation",
     "sourceLabel": "cigalequebec.com",
     "sourceAttribution": "Contenu appartenant au Festival Cigale",
-    "draft": false
+    "draft": false,
+    "startDate": "2026-08-07",
+    "endDate": "2026-08-09"
   },
   {
     "name": "Festival Générations 2026",
@@ -101,7 +115,9 @@
     "sourceUrl": "https://www.festivalgenerations.com/programmation",
     "sourceLabel": "festivalgenerations.com",
     "sourceAttribution": "Contenu appartenant au Festival Générations",
-    "draft": false
+    "draft": false,
+    "startDate": "2026-07-23",
+    "endDate": "2026-07-25"
   },
   {
     "name": "Francos de Montréal 2026",
@@ -114,7 +130,9 @@
     "sourceUrl": "https://francosmontreal.com/fr/programmation/horaire",
     "sourceLabel": "francosmontreal.com",
     "sourceAttribution": "Contenu appartenant aux Francos de Montréal",
-    "draft": true
+    "draft": true,
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-20"
   },
   {
     "name": "FestiVoix de Trois-Rivières 2026",
@@ -127,7 +145,9 @@
     "sourceUrl": "https://festivoix.com/fr/programmation/",
     "sourceLabel": "festivoix.com",
     "sourceAttribution": "Contenu appartenant au FestiVoix de Trois-Rivières",
-    "draft": true
+    "draft": true,
+    "startDate": "2026-06-25",
+    "endDate": "2026-07-05"
   },
   {
     "name": "Osheaga 2026",
@@ -140,7 +160,9 @@
     "sourceUrl": "https://osheaga.com/fr/programmation/artistes",
     "sourceLabel": "osheaga.com",
     "sourceAttribution": "Contenu appartenant au Festival Osheaga",
-    "draft": true
+    "draft": true,
+    "startDate": "2026-07-31",
+    "endDate": "2026-08-02"
   },
   {
     "name": "Piknic Électronik 2026",
@@ -153,7 +175,9 @@
     "sourceUrl": "https://piknicelectronik.com/fr/prog-complete",
     "sourceLabel": "piknicelectronik.com",
     "sourceAttribution": "Contenu appartenant à Piknic Électronik",
-    "draft": true
+    "draft": true,
+    "startDate": "2026-05-17",
+    "endDate": "2026-10-18"
   },
   {
     "name": "Festival International de Jazz de Montréal 2026",
@@ -166,7 +190,9 @@
     "sourceUrl": "https://montrealjazzfest.com/fr/programmation/artistes",
     "sourceLabel": "montrealjazzfest.com",
     "sourceAttribution": "Festival International de Jazz de Montréal",
-    "draft": true
+    "draft": true,
+    "startDate": "2026-06-25",
+    "endDate": "2026-07-05"
   },
   {
     "name": "Festival Musique du Bout du Monde 2026",
@@ -179,6 +205,8 @@
     "sourceUrl": "https://musiqueduboutdumonde.com/programmation/",
     "sourceLabel": "musiqueduboutdumonde.com",
     "sourceAttribution": "Festival Musique du Bout du Monde",
-    "draft": false
+    "draft": false,
+    "startDate": "2026-08-05",
+    "endDate": "2026-08-09"
   }
 ]
