@@ -1,291 +1,4 @@
 {
-  "Willow": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4WZGOBWf3BbZM5LsxqsCW/4311650c159abf13f3e8c7fa911746bd/fijm26_willow.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=AfGPYMgj4-8"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-      }
-    ]
-  },
-  "Stacey Kent": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/40y0EJamqdeNysAb3dkuRy/5aead17bdfc05c7449e2d33d0306e829/fijm26_stacey_kent.jpg",
-    "description": "Stacey Kent est une chanteuse de jazz américaine dans la lignée des plus grands, avec une légion de fans et une multitude de distinctions et de récompenses, dont une nomination aux Grammy Awards et, plus récemment, le Prix Ella Fitzgerald du Festival de jazz de Montréal. Avec des albums certifiés platine et or qui ont atteint plusieurs fois le sommet des classements et plus d'un demi-milliard d'écoutes sur Spotify, elle s'est constitué un vaste public international grâce à ses interprétations délicatement nuancées de standards, de chansons, de bossa nova et de compositions originales. Son répertoire multilingue unique comprend des compositions originales écrites par l'auteur Kazuo Ishiguro, lauréat du prix Nobel, en collaboration avec son mari, le saxophoniste, producteur, compositeur et arrangeur Jim Tomlinson. Leur première chanson, The Ice Hotel, a remporté le premier prix dans la catégorie jazz de l'International Songwriting Competition. Stacey a également enregistré avec les légendes brésiliennes Marcos Valle, Roberto Menescal et Danilo Caymmi, ainsi qu'avec le célèbre quatuor à cordes français Quatuor Ébène. \n\nLe nouvel album de Kent, A TIME FOR LOVE, sortira en octobre 2025. Il reprendra sa collaboration en trio avec le pianiste Art Hirahara et Jim Tomlinson, dans une collection éclectique de chansons. Son précédent album, SUMMER ME, WINTER ME, s'est immédiatement hissé en tête des charts jazz. Summer Me, Winter Me était une compilation de titres choisis par les fans, comprenant trois chansons originales : Postcard Lovers, coécrite avec Kazuo Ishiguro, et deux autres joyaux dont les paroles ont été écrites par Cliff Goldmacher, auteur de la chanson titre de l'album orchestral de Stacey, I KNOW I DREAM. À côté de ces titres, on trouve un certain nombre de standards de jazz très appréciés, dont les versions anglaise et française de If You Go Away (Ne Me Quitte Pas) de Jacques Brel.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=PYdrhTL3VBk"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-      }
-    ]
-  },
-  "Coltrane @ 100 : première mondiale d’extraits des mythiques « Tiberi Tapes » avec Ken Druker de Verve Records": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/751WLEJkvCVn17xDbGgj2q/08bc8f2026b69e1167cddaca176d1891/fijm26_academie_coltrane.jpg",
-    "description": "À l’occasion du centenaire de John Coltrane, cette rencontre exceptionnelle propose une plongée au cœur de l’héritage du légendaire saxophoniste à travers une première mondiale d’extraits des mythiques « Tiberi Tapes », présentée par Ken Druker de Verve Records. La discussion reviendra sur les années charnières du début et du milieu des années 1960, période marquée par l’enregistrement des Tiberi Tapes et la création de l’album emblématique A Love Supreme.\nLe public découvrira également le lien méconnu entre Blue World et Montréal, à travers le cinéaste Gilles Groulx et National Film Board of Canada. Entre écoute, échange et réflexion, cette conversation explorera l’impact durable de Coltrane sur le jazz et les arts, ainsi que les raisons pour lesquelles sa musique continue d’inspirer et de résonner auprès des générations d’aujourd’hui. Une période de questions et réponses clôturera la rencontre. La discussion sera mené par Ken Druker de chez Verve Records. \n\nLa discussion sera en anglais. Le festival met à disposition une application de traduction IA simultanée disponible sur celulaire vers toutes les langues. Samuel Blais sera\nle modérateur.",
-    "links": []
-  },
-  "Thanda Choir": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1IyA2I5qTd56q3Hk4OBfMb/0f8ffa9c6dc71324d2730bb80e5678bc/fijm26_thanda_choir.jpg",
-    "links": [
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a"
-      }
-    ]
-  },
-  "Father John Misty": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1u6mBJh5WzBTFBj2R1oK3E/6444fcfef1c6403ae5a3202abc3e64ce/fijm26_father_john_misty.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=pVzu0M0LWTM"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-      }
-    ]
-  },
-  "Nicholas Payton Trio": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2IJUIs8cHJeqzjUsAyAqCx/11ddfebb7a1ce5c53ea4da0854ac7ad9/fijm26_nicholas_payton.jpg",
-    "links": []
-  },
-  "Alchemist (DJ Set)": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/QCyTE26bWIeXmfRwWdG1H/5ad338e90b2cbd4eca61fce4fbe27120/fijm26_alchemist.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=QZ3YgSmmjHU"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-      }
-    ]
-  },
-  "AMADOU ET MARIAM : SONS DU MALI": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/56blfQ1nFIzxz0TvHlY4ZD/cd12057221e96930fc62ec016abaf906/fijm26_amadou_mariam.jpg",
-    "description": "Horaire\n\nSous-titres FR\n\nVendredi 26 juin - 19h30\n\nDimanche 28 juin - 19h00\n\nMardi 30 juin - 17h00\n\nMercredi 1 juillet - 17h00\n\nSous-titres AN\n\nSamedi 27 juin - 14h30\n\nLundi 29 juin - 19h30\n\nJeudi 2 juillet - 17h00\n\nDepuis les années 1980, Amadou & Mariam se sont imposé·es comme des figures majeures de la musique ouest-africaine contemporaine, touchant des millions de personnes à travers le monde avec un style immédiatement identifiable. Tous deux aveugles, ils ont développé une manière unique d’appréhender la musique, fondée sur l’écoute, le geste et l’intuition.\n\nLe film suit les artistes alors qu’ils travaillent sur un nouvel album et préparent un grand concert de retour dans leur pays natal. Entre séances de studio, répétitions et moments de vie en tournée, le film dessine le portrait d’un duo animé par une joie communicative et une foi inébranlable dans le pouvoir du son à rassembler.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=RdxBA9mur4g"
-      }
-    ]
-  },
-  "GEORGE": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7z3RHiklzT2YLkemEZ2yTE/ca199a78312168a62da4d7ee84d51b3a/fijm26_george.jpg",
-    "description": "Anna Webber-tenor sax/flute Sarah Rossy-voice/keyboards Chiquita Magic-keyboards/voice John Hollenbeck-drums/piano/composition \n\nJohn Hollenbeck a formé GEORGE pendant la pandémie de COVID-19. Il a réuni trois musiciens exceptionnels qu’il admirait depuis longtemps. Même si la plupart des membres ne s’étaient jamais rencontrés auparavant, Hollenbeck était convaincu, grâce à sa connaissance personnelle de chacun, que le groupe serait immédiatement, comme le dit l’un des membres, « tight » (c’est-à-dire « très cool »).\nLe son du groupe échappe volontairement à toute catégorie ou étiquette. Ils ont d’abord enregistré à distance une sorte de « preuve de concept » en mars 2021, puis se sont rencontrés en personne en janvier 2022 à Montréal, au Canada, où ils ont enregistré Letters to George, paru en vinyle, CD et numérique chez Out Of Your Head Records le 27 janvier 2023.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=NkvuEwfwc1A"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3fmiUaaO5sa8bpnA0Kaz44"
-      }
-    ]
-  },
-  "Jeremie Poitras and Friends": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3uSp1JRUkMYivxvvzrM2sf/743536b2e5c747c27277ab4bd167bf42/fijm26_jeremie_poitras.jpg",
-    "links": []
-  },
-  "Station Culture": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5oVfYHvaEzuUwnjzodRFRN/d6f79b8d58a97edbb52e6328f447cf91/fijm26_cibl_jazzette.jpg",
-    "description": "La vie culturelle montréalaise est bouillante et inspirante. STATION CULTURE en est le porte-voix du lundi au jeudi, de 13 h à 14 h. Festivals, spectacles à grand déploiement, performances de ruelle éphémères, théâtre, musées, activités de quartier, projections dans les parcs, arts de rue… rien n’échappe à l’équipe de journalistes de STATION CULTURE. Sa mission : couvrir les événements incontournables qui font vibrer la métropole, voir l’art autrement et accéder à ses coulisses. À ne pas manquer sur les ondes de CIBL 101,5.",
-    "links": []
-  },
-  "Hansom Eli": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/bdw695I2TKh1jM9o8DFq4/81f3c3bb3c51ede13d11e37f4faf68d7/fijm26_hansom_eli.jpg",
-    "description": "Hansom Ēli est un duo formé en 2019 à Montréal par les frère et sœur Camille et Alexy Guérer. Camille signe les paroles et la voix, tandis qu’Alexy, multi-instrumentiste et producteur, compose les mélodies.\n\nLeur musique, à la croisée du folk, du R&B, du funk et de l’indie-pop, évoque des influences comme Feist et Christine and the Queens. Bilingues (français/anglais) et parfois hispanophones, ils créent de façon intuitive, souvent par improvisation.\n\nLeur nom, inspiré du mot « handsome », reflète une volonté de dépasser les codes de genre. Engagés dans un mode de vie écologique, leurs valeurs se retrouvent aussi dans leur musique, marquée par le voyage et la nature.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=h2XRoBeq5_o"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
-      }
-    ]
-  },
-  "Les Saxophones de l'Orchestre National de Jazz de Montréal": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/12cuIdFxfHuAxzgmkwVlPT/590be83b0716ea091355273b49dc3e2d/fijm26_saxophones_onj.jpg",
-    "links": []
-  },
-  "Mei Semones": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1qfICWaBkmd7TLFK3WQWb8/fdfe7597e1c83e3b9b810dc488503e5e/fijm26_mei_semones.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=ZeycZRRZM3Y"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-      }
-    ]
-  },
-  "Michel Cusson": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/49FCuuuXhY8X81Lka6ASKV/5362bca6e348b90f957adae4f8ebabb8/fijm26_michel_cusson.jpg",
-    "description": "Michel Cusson est un guitariste virtuose et compositeur reconnu internationalement, fondateur du groupe jazz-rock UZEB. Après avoir marqué la scène musicale, il se tourne dès les années 1990 vers la composition pour le cinéma et la télévision. \nSur scène, il a donné des milliers de concerts dans 22 pays et propose son nouveau projet, le trio VOLTAGE au FIJM. Son œuvre lui a valu de nombreuses distinctions, dont plusieurs Félix et SOCAN, ainsi qu’une nomination comme membre de l’Ordre du Canada.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Ot3szzsMtJA"
-      },
-      {
-        "label": "Site officiel",
-        "url": "0sr8isXfaYaHEZ5NBMWRP0"
-      }
-    ]
-  },
-  "Rara Soley": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/51Sbu5sKBBuVvYlAs4e5GI/49f62961f3946afaf4206cc3281b95af/FIJM26-generique-1104x767__1_.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=2qRgooOXG68"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/6Q22qyiwJzmynZxkjXur1b"
-      }
-    ]
-  },
-  "Alfa Mist": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4aCipXf1BFgjYkqvnMgB0X/0e8da4f380be6d4e8c06ca6cf66618ef/fijm26_alfa_mist.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=O8AKyIF8wt8"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-      }
-    ]
-  },
-  "Joe Sullivan BigBand": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6zlkv7QSYm27Mk9J7FfElt/0f68c7c61fa1dae893f29bea75af49e3/FIJM26-generique-1104x767__1_.jpg",
-    "description": "Joe Sullivan Compos et Arrangements17 musiciens sur scène",
-    "links": []
-  },
-  "Coco Rose": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5TFFt106KN8KC07O4tzphP/a6b14a5dff5e39baaa21e7f0805481cc/fijm26_coco_rose.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=l3YTYvR8Dyw"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/7xCW1CZFidLxN51xIPitsl"
-      }
-    ]
-  },
-  "SAMANT": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6xMt8XsspH0FWBYj4nEsG8/25a9e180ae3cf6be0e00654696fa4e0b/fijm26_samant.jpg",
-    "description": "Samant est un compositeur et producteur polyvalent basé à Montréal, reconnu pour créer des univers sonores distinctifs naviguant entre le R&B, le hip-hop, la pop et la musique alternative. Avec une approche intuitive et collaborative, il façonne des mondes sonores uniques adaptés à chaque artiste et projet, en privilégiant toujours l’émotion, l’expérimentation et l’authenticité.\nAlors que sa présence continue de grandir sur la scène musicale canadienne, Samant prépare actuellement la sortie de son premier album, ATMANS. Le projet est introduit par les singles RUFFRIDE avec Lou Val et HEARTLESS avec Topaz Jones, offrant un premier aperçu de son univers musical aux frontières des genres.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=-NeL6isq9eQ"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
-      }
-    ]
-  },
-  "Arielle Soucy": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/72aHDW3EWl7TVVsBubw17F/dea5c3027769c736ec6cc7e98ed4b62d/fijm26_arielle_soucy.jpg",
-    "description": "Arielle Soucy est une autrice-compositrice-interprète originaire de Montréal qui s’impose comme une figure montante de la musique québécoise. Son premier album, Il n’y a rien que je ne suis pas (2023), a été acclamé comme meilleur album de l’année par Le Devoir, CISM, Bandcamp, Exclaim!, et plusieurs autres médias. Cet opus a également figuré sur la Long List du prix Polaris, confirmant l’impact de son approche folk organique et minimaliste. \n\nAvec six nominations aux ADISQ 2024, dont celles pour Révélation de l’année et Album folk de l’année, et les prix de Révélation de l’année et Album folk de l’année aux GAMIQ, Arielle Soucy récolte les honneurs pour sa capacité à marier sensibilité et créativité. En tournée, elle a présenté plus de 70 spectacles partout au Québec et partagé la scène avec des artistes renommés comme Philippe B, Philippe Brach, Comment Debord, et Vanille. \n\nÀ travers son écriture introspective, ses mélodies lumineuses et ses arrangements raffinés, Arielle Soucy transporte son public dans un univers où tradition et modernité s’entrelacent avec audace et émotion. Suivez-la dans un nouveau chapitre de sa carrière alors qu’elle pousse encore plus loin ses expérimentations folk sur de nouvelles chansons.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=171WwFkns3s"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
-      }
-    ]
-  },
-  "Craig Taborn": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/568SC9sCs6v5bn2Ih16BGX/8bc417270bcc0f2222168c143ce46b5a/fijm26_craig_taborn.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=qUxnD9GMm8Y"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77"
-      }
-    ]
-  },
-  "Alex Bellegarde Trio + Invité suivi du Jam Session": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4hAIk31RuYndoZ8lJ12dcL/78211c95e1beee6ddc08f965cb4268e1/FIJM26-generique-1104x767__1_.jpg",
-    "description": "Alex Bellegarde Contrebasse Éric St-Jean PianoMartin Auguste Batterie",
-    "links": []
-  },
-  "Bricknasty": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2siM5QKSOlh2irCly6GFKV/75699ca26ecfb150010c06f0dc2e13b7/fijm26_bricknasty.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=gp2KENEqphA"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
-      }
-    ]
-  },
-  "Okonski": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5M80J1zFb9CNEtf5cuLyOf/5fc66ad6cde4ddcfa26c7f99d1f6b48a/fijm26_okonski.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=TeWT-b4Gq00"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
-      }
-    ]
-  },
-  "Olive Jones": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5AlW4VnPrQe4YAPFhPH8Ne/eac7522044cc4d7806df8510df1cfca8/fijm26_olive_jones.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=PL4LhYOSLss"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-      }
-    ]
-  },
-  "Growve": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/17o0iyGBqCQLYc4JlX1Oti/5a845ef96e887be98811f94a2d626227/fijm26_growve.jpg",
-    "links": []
-  },
-  "PHONO Présenté par Music Is My Sanctuary et Ferias": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4mh1XDScbcvZ1LZ3gQL0tz/03fdeaa575b8e5266c39172bbe1643af/fijm26_mims_6.jpg",
-    "description": "Voir la porgrammation complète de l'After Jazz au PHONO",
-    "links": []
-  },
   "Larkin Poe": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5OscHyutT9d068VFA6N4d4/fe4d3d37bc3f89142cd75fe6347ca493/fijm26_larkin_poe.jpg",
     "links": [
@@ -298,6 +11,355 @@
         "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
       }
     ]
+  },
+  "Melody Gardot": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4gYMF9HYqXREHYp2CulcsF/fb85a352c0aee1c1457399a90158ce05/fijm26_melody_gardot__2_.jpg",
+    "description": "Melody Gardot est une musicienne dotée d'une sensibilité et d'un équilibre rare et remarquable. C'est une chanteuse dont la voix est immédiatement reconnaissable, caractérisée par une délicatesse envoûtante et une précision émotionnelle pénétrante. C'est une compositrice dont les mélodies définissent un équilibre entre économie lyrique et ampleur luxuriante et passionnée.  \n\nC'est une artiste qui maîtrise l'utilisation du studio, se forgeant une identité musicale tout en expérimentant diverses approches d'enregistrement et styles musicaux, produisant des albums d'une cohérence étonnante — une réussite qui a commencé dès le tout début de sa carrière.  \n\nParmi les innombrables chanteurs présents sur la scène musicale actuelle, seuls quelques-uns ont atteint ces trois sommets musicaux.  \n\nVingt ans après avoir lancé sa carrière, Melody Gardot fait aujourd'hui partie du cercle très fermé de ces artistes rares, dont la musique a eu un impact populaire et  a séduit le grand public.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Bgs8S67xx2Q"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+      }
+    ]
+  },
+  "Béla Fleck, Edmar Castañeda & Antonio Sánchez": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7AvU6sp8gbJQLfzkGI8Pve/d03eff38eddb5249cf244ca6d0586be7/fijm26_fleck_castaneda_sanchez.jpg",
+    "description": "Béla Fleck, Edmar Castañeda, Antonio Sánchez Trio Béla Fleck, 18 fois lauréat d'un Grammy Award, est le plus grand virtuose mondial du banjo et un aventurier musical célèbre. Il a exploré l'histoire complexe de son instrument à travers le monde et en a révélé tout le potentiel. Depuis plus de 30 ans, il dirige Béla Fleck & The Flecktones, un quatuor révolutionnaire inspiré par le jazz, le funk, le bluegrass et bien d'autres genres musicaux. Il a composé et interprété trois concertos pour banjo et retracé les origines africaines de cet instrument dans le documentaire primé Throw Down Your Heart, sorti en 2009. Il a collaboré avec Abigail Washburn, le Brooklyn Rider String Quartet, Chris Thile, The Blind Boys of Alabama, McCoy Tyner, Zakir Hussain, Edgar Meyer et Rakesh Chaurasia. Fleck revient au Virginia Arts Festival avec son dernier projet, mettant en vedette le harpiste de renom Edmar Castañeda et le batteur Antonio Sanchez pour une fusion innovante et dynamique de sons.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=KdVWPgMpl5Y"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+      }
+    ]
+  },
+  "Les scènes jazz autour du monde": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/pdqRIqDWK0oHDfYEOOVMr/9efaaeaf26df54803b3f9465f1ed4255/fijm26_jazz_autour_du_monde.jpg",
+    "description": "Discussion autour des scènes jazz dans le monde avec André Marmot,\nagent chez Earth Agency au Royaume-Uni, Alejandro Ayala du label International\nAnthem, basé à Chicago, Yousef Hilmy de Minaret Records à Los Angeles, Rainbow\nRobert directrice de Jazz Festival Canada et Brice Rosenbloom, directeur\nartistique du Winter Jazz Festival à NYC.\n\nLa discussion sera en anglais. Le festival met à disposition une application de traduction IA simultanée disponible sur celulaire vers toutes les langues.",
+    "links": []
+  },
+  "Classe de maÎtre avec Brandee Younger": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4W5dDnGN1dGS98tIFIHwfA/bcdf7061576027292548c1a1f967974e/fijm26_brandee_younger.jpg",
+    "description": "Véritable pionnière de sa génération, Brandee Younger, a fait sa place dans en étant la porte étendard de la harpe dans l'esthétique du jazz. Younger a collaboré avec des artistes comme Lauryn Hill, The Roots, Pharaoah Sanders et Ravi Coltrane. Dans le cadre de l'Académie elle vient nous montrer comment elle exploite les sonorités diverses de son instrument dans sa musique.\n\nLa discussion sera en anglais. Le festival met à disposition une application de traduction IA simultanée disponible sur celulaire vers toutes les langues.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=FTsGi7SS0lw"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+      }
+    ]
+  },
+  "Yuuf": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7fHcohRpRAY7MQnXQY3Ziq/937414d66485d10c32fc862c7abeb52f/fijm26_yuuf_2.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=nFF17oL8ykY"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+      }
+    ]
+  },
+  "Ibrahim Maalouf": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4qCyHkSq9yVrLMDxq2aE7j/e2bfd5ba051f0a8402504be8abba05d5/fijm26_ibrahim_maalouf_2.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=dRHrCN6W_Zg"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+      }
+    ]
+  },
+  "The Battle: Eric Alexander & Vincent Herring": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/30CRDg7HGlQm8jxfdpfH0z/587979f58dcd2a9e9444216b5bf9c379/fijm26_herring_alexander.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Of_bslZM7zs"
+      }
+    ]
+  },
+  "Swing Tonique Jazz Band": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6YANVB3swObZrWU9ZwWF63/d82683edac6945554854f87d80504725/FIJM26-generique-1104x767__1_.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=aYjBB6hCDqA"
+      }
+    ]
+  },
+  "Montréal Dixie": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5R8x8r00hJJc2oMz9y65eA/1dc63027dbb8b81d17e23d3376dc6583/fijm26_mtl_dixie.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=RdFeTES6PbM"
+      }
+    ]
+  },
+  "Miles Davis : Birth of cool": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/qEL4dNyenWDU0NeIpmULq/a0833181ee26ea12dfde0a310ae828c9/fijm26_miles_davis_boc.jpg",
+    "description": "Une évocation de la vie et la carrière de l’immense musicien et icône culturelle Miles Davis, un compositeur visionnaire et innovateur qui défia toute catégorisation et incarna à lui seul le « cool ». Le fil conducteur de son existence a toujours été sa détermination sans faille à casser les codes, à se renouveler continuellement et à vivre intensément sa vie comme il le souhaitait. Il est devenu un monument de la musique au fil des années, mais aussi un artiste versatile avec qui il était difficile de vivre au quotidien, surtout pour ceux qui l’aimaient le plus.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=edbeyKJgza4"
+      }
+    ]
+  },
+  "AMADOU ET MARIAM : SONS DU MALI": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5DBryGvLQXhZL5iOGb4gm4/91e407d68afd5570dc24de78da55ac2b/fijm26_amadou_mariam.jpg",
+    "description": "Horaire\n\nSous-titres FR\n\nVendredi 26 juin - 19h30\n\nDimanche 28 juin - 19h00\n\nMardi 30 juin - 17h00\n\nMercredi 1 juillet - 17h00\n\nSous-titres AN\n\nSamedi 27 juin - 14h30\n\nLundi 29 juin - 19h30\n\nJeudi 2 juillet - 17h00\n\nDepuis les années 1980, Amadou & Mariam se sont imposé·es comme des figures majeures de la musique ouest-africaine contemporaine, touchant des millions de personnes à travers le monde avec un style immédiatement identifiable. Tous deux aveugles, ils ont développé une manière unique d’appréhender la musique, fondée sur l’écoute, le geste et l’intuition.\n\nLe film suit les artistes alors qu’ils travaillent sur un nouvel album et préparent un grand concert de retour dans leur pays natal. Entre séances de studio, répétitions et moments de vie en tournée, le film dessine le portrait d’un duo animé par une joie communicative et une foi inébranlable dans le pouvoir du son à rassembler.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=RdxBA9mur4g"
+      }
+    ]
+  },
+  "Aretha Tillotson Quartet": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4IewdaPER5n3nfPmX2C2Fp/2a31651cff9c06249ca7c2a793015a72/fijm26_aretha_tillotson.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=hyJuVU2LFpM"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0HkNnXhFvDKjQ0GPGSh7Nu"
+      }
+    ]
+  },
+  "Visaj": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5CEXCLtxqEFSCPT8s5STnT/8c27b5dfc513a9fca9bed581a81c6595/fijm26_visaj.jpg",
+    "links": []
+  },
+  "Burning Brass Band": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5FJKAcGJ5TE0KLZvvb08Iy/422682e75844265008018dca673b2dd3/fijm26_burning_brass_band.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=mq2koCdD9JI"
+      }
+    ]
+  },
+  "Christine Jensen sextet": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5RN8FCuajFu0tFW62Ju6J0/8ca1197315c58c6442363b2d67acdd52/fijm26_christine_jensen.jpg",
+    "description": "Christine Jensen est une saxophoniste et compositrice canadienne de premier plan dont la voix façonne le jazz créatif depuis plus de vingt‑cinq ans. Ses ensembles acclamés mettent en valeur son écriture lyrique et son improvisation audacieuse, entendues récemment sur Harbour (2024), son troisième album pour jazz orchestra, créé en première mondiale au Unity Festival au Jazz at Lincoln Center (2025).\nLauréate de plusieurs prix JUNO et reconnue au DownBeat Critics Poll, elle poursuit l’expansion de sa démarche artistique à travers des projets tels que Day Moon avec son quartet et Code Red du CODE Quartet. Le Christine Jensen Jazz Orchestra s’est produit à la conférence JEN à La Nouvelle‑Orléans en 2026. Elle est la directrice artistique fondatrice de l’Orchestre national de jazz du Canada et enseigne la composition jazz tout en dirigeant l’Eastman Jazz Ensemble.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=6hL3bZFoSe4"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu"
+      }
+    ]
+  },
+  "Michel Cusson": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/hgOCZoenk6SQPhrkmGefS/58f6368b2a41520cda33f0ef2949270e/fijm26_michel_cusson.jpg",
+    "description": "Michel Cusson est un guitariste virtuose et compositeur reconnu internationalement, fondateur du groupe jazz-rock UZEB. Après avoir marqué la scène musicale, il se tourne dès les années 1990 vers la composition pour le cinéma et la télévision. \nSur scène, il a donné des milliers de concerts dans 22 pays et propose son nouveau projet, le trio VOLTAGE au FIJM. Son œuvre lui a valu de nombreuses distinctions, dont plusieurs Félix et SOCAN, ainsi qu’une nomination comme membre de l’Ordre du Canada.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Ot3szzsMtJA"
+      },
+      {
+        "label": "Site officiel",
+        "url": "0sr8isXfaYaHEZ5NBMWRP0"
+      }
+    ]
+  },
+  "Pod’Casque": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/sj4zCL4dNoviq3g1tiHyv/edb1ef11d05a7418f430811d314db2e1/ff26_onz.png",
+    "description": "Pod’Casque est une émission animée par l’équipe d’ONZMTL qui explore l’univers du rap, de la culture urbaine, du sport et des enjeux qui façonnent la nouvelle génération francophone. À travers des entrevues approfondies, des discussions spontanées et des analyses culturelles, Le Onze, Jay Seven et leurs invités donnent une voix authentique à la scène montréalaise et internationale. Entre humour, réflexion et passion, Pod’Casque crée un espace où artistes, créateurs et personnalités peuvent raconter leur parcours sans filtre.",
+    "links": []
+  },
+  "Ron Artis II": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6v4wrLJ0dtDPG0bCjooOln/8305e78a58c7e8df65b39e1c86f6e654/fijm26_ron_artis.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=YIU9uMJ44F0"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3u8dOa0zveymreEFH7Yo5C"
+      }
+    ]
+  },
+  "SHEBAD": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4Z8YJ3qHcP71d4piqy4pEk/498152e2c99909d1584e7221e504682d/fijm26_shebad.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=mmt91kcux6o"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK"
+      }
+    ]
+  },
+  "Destin Conrad": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/lqJC7R0jpy9b8IoOvejlH/6a94d36aa5c22397de74088865c7fce8/fijm26_destin_conrad.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=b9MZLrVU3EQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+      }
+    ]
+  },
+  "Yannick Rieu 100 Years of Coltrane": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5MJkLZpZtNj1IOHa3sm6sp/64fa3a9a445e381e0fe1bfaeb9529d28/FIJM26-generique-1104x767__1_.jpg",
+    "description": "Yannick Rieu - SaxophoneJonathan Cayer -PianoMike De Masi - Contrebasse Alain Bourgeois - Batterie",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=lMKKH1Pjsc8"
+      },
+      {
+        "label": "Spotify",
+        "url": " https://open.spotify.com/artist/5IOIq5SDF7ti0W7lrGztb4"
+      }
+    ]
+  },
+  "Les Royal Pickles": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2zFuKT51DRxgu3wC4OJgsb/181d8fed2a3238290c494f42763bdbab/FIJM26-generique-1104x767__1_.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=j--nEgmDEz0"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/17TVfyl46tK0TIDLyVlgAK"
+      }
+    ]
+  },
+  "Chief Adjuah": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3NYS3BJ15xqJM61hSNtzOJ/f852a81bedce0eea47fbbc17eb026393/fijm26_chief_adjuah.jpg",
+    "description": "Chief Xian aTunde Adjuah [anciennement Christian Scott] a remporté deux fois le prix Edison, a été nominé six fois aux Grammy Awards et a reçu le prix Doris Duke dans la catégorie Arts. Il est architecte sonore, trompettiste, multi-instrumentiste, compositeur, producteur, concepteur de technologies innovantes et d'instruments de musique.  \n\n  Depuis 2001, Adjuah a sorti treize albums studio acclamés par la critique, quatre albums live et une compilation de ses plus grands succès.  \n\n Il a collaboré avec de nombreux artistes de renom, notamment Prince, Thom Yorke, McCoy Tyner, Marcus Miller, Flea, Eddie Palmieri, Robert Glasper, les rappeurs Mos Def (Yasin Bey) et Talib Kweli, ainsi que le célèbre poète et musicien Saul Williams.  \n\n Depuis ses débuts, Adjuah est un fervent défenseur des droits de l'homme et un critique infatigable des injustices dans le monde.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=mVJjmyFfuts"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+      }
+    ]
+  },
+  "Kalia Vandever": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5JvmenjcvWkWqeIktm5jQC/4339baba9c25204509c7357413d90860/fijm26_kalia_vandever.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=G32tejPN5_o"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL"
+      }
+    ]
+  },
+  "GENA": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7zkE55T1ncvrhOZQzRKTY/e1e56b1cf34c108592d75e6f778632e8/fijm26_gena.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=5Yr2-THkvmk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
+      }
+    ]
+  },
+  "Gotts Street Park": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3nnae50lrKJ5dRl1yju9hq/ef19c9815d1b2794748a9c44e19fb809/fijm26_gotts_street_park.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=WhY_XF9t20A"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+      }
+    ]
+  },
+  "John Roney": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6opXwSysfJHG2b50oWWsJY/ad33daf5c4fbc936c2dcd382c2fbab00/fijm26_john_roney.jpg",
+    "links": []
+  },
+  "PHONO Présenté par Music Is My Sanctuary et Ferias": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1JrV1e1nrxW1TepaiURHyU/f62b0f7c135618a91dcce71142160cde/fijm26_mims_7.jpg",
+    "description": "Voir la porgrammation complète de l'After Jazz au PHONO",
+    "links": []
+  },
+  "The Liquor Store": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7tLWPfQ816yIwxSgIjqn9w/deef361d5c3d44960be7c5b671f3a7b0/fijm26_liquor_store.jpg",
+    "description": "Né de la rencontre de six musiciens indépendants de Montréal, The Liquor Store rassemble des artistes qui reviennent sans cesse à leur essence créative pour façonner une musique à leur image : vibrante, élégante et originale. Que ce soit à travers leur collaboration sur « NightDrive » (lauréat du GAMIQ 2020 dans la catégorie Album de jazz de l’année), leur album progressif « Colossus » (nominé pour l’Album de jazz de l’année aux ADISQ) ou leur explosif « The Liquor Store Big Band Vol. 1 », leur son est en constante évolution, tant sur scène qu’en studio. The Liquor Store vient de sortir son quatrième album de soul-pop-R&B, « Right Place Wrong Time ». Le groupe entame un nouveau chapitre, plus raffiné et épuré, alliant son amour des grooves profonds et des sons captivants aux visions rafraîchissantes de chanteurs invités.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=9_-bkH5C9qc"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1wTJHudeVpwXvplnDjtdRX"
+      }
+    ]
+  },
+  "Brian Dickinson": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3p1qitfFMmbc8voOU0gtbs/79147878d874b4648550c1c53bcddfcf/fijm26_brian_dickinson.jpg",
+    "links": []
+  },
+  "anaiis’ Devotion & the Black Divine Film": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5tVkxxEJ3BD65Q93zFmZ0b/e35f9902e39ce2b3f25d661a6c1c6ca7/fijm26_feminae_fox.jpg",
+    "description": "En anglais\n\nFEMINAE NOX returns in partnership with Foil Gallery & Montreal\nInternational Jazz Festival to present the screening\nof Devotion & the Black Divine —\na cinematic universe co-directed by\nFrench-Senegalese artist, anaiis.\nIt is the expansion on the visual and sonic world from the 2025 album of the same\nname. \n\nDevotion & the\nBlack Divine is a cinematic meditation on new Black\nmotherhood and the spiritual upheaval it carries. Blending soul, gospel, and\nchamber pop, the album was recorded live to tape, a deliberate act of surrender\nto imperfection and presence. Its themes move through unconditional love,\nself-acceptance, Black heritage, and the quiet power of nurturing. The\naccompanying art film — shot in Jamaica — extends these themes into moving\nimage.\n\nThis event will kickoff anaiis + Grupo Cosmo performance at the Montreal International Jazz Festival's Rogers Stage\non June 26, 2026 @ 10:30 pm followed by anaiis' solo Montreal headline show on September 23, 2026 @ Le Ministere.\n\nJoin FEMINAE NOX, Foil Gallery, and Montreal International\nJazz Festival featuring programming curated by Mira Silvers (founder\nof FEMINAE NOX):\n\nOn June 25, 2026 at Foil Gallery (6560 Rue Waverly,\nMontréal, QC H2V 4M3)\n\n• 4:00 pm || Live Artist Talk between anaiis and artist G L O W Z I. \n\n• 5:00 pm || Networking and Artist ***Meet & Greet with anaiis. \n\n***anaiis will be signing vinyl records (available\nfor purchase on-site)\n\nRSVP via Waiting List here: https://www.universe.com/fn-anaiis-film\n\nOn June 26 and June 27 2026 at Foil Gallery\n(6560\nRue Waverly, Montréal, QC H2V 4M3) \n\n• 8:30 am - 5:40 pm || Screening of Devotion\n& the Black Divine \n\nRSVP Link: https://www.universe.com/fn-anaiis-filmscreening-only",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=89eO6sndg0I"
+      }
+    ]
+  },
+  "Habitat Sonore : A Love Supreme — John Coltrane 100e": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/ArOSQzlg2Iqxq3JeUWcT4/6a9dfd27459f7121246ee6307130d39d/fijm26_habitat_sonore.jpg",
+    "links": []
+  },
+  "Mercredis Live Jazz": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4v0fFqyBZro5T2llC3V7fi/c0d597076815ce71b39ac42b4cbdaa6d/fijm26_mercredis_jazz.jpg",
+    "description": "Bienvenue aux Mercredis Live Jazz, une véritable immersion au cœur des grandes voix et des émotions intemporelles du jazz et du blues. Sur scène, l’incomparable Mary Grace interprète avec intensité, élégance et raffinement un répertoire jazz populaire empreint d’âme et de passion. Sa voix profonde et habitée fait revivre les chansons emblématiques qui ont marqué l’histoire de la musique, ravivant l’esprit des grandes divas du jazz dans une performance à la fois vibrante, chaleureuse et inoubliable.\n\nTarif : Sièges réservés à 10$    \n\nHoraires spectacle : 18h à 22h30",
+    "links": []
+  },
+  "Série Compositeurs Jazz": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1h440t6k9j5FJXapruDldR/e06e0ea364d535f24379d165cf7925d7/fijm26_jazz_composers_series.jpg",
+    "description": "28 Juin: Adam Goulet - GuitarSam Bags - SaxSimone Leblanc - SaxMarcelo Luiz Barbosa - BassAlex Johnson - Drums\n\n29 Juin Samuel Blais - SaxGabriel Genest - SaxCamila Cortila - Piano (NYC)Nicolas Bond - BassMatys Colpron - Drums\n30 Juin Marie Jeanne Paquet - Voice Trevor Turla - Trombone (NYC)Matt De Leon - Trombone (NYC)Jean Philippe Grégoire - GuitarDave Watts - BassAaron Dolman - Drums\n1er Juillet Rachel Therrien - Trompette Adèle Levayer - Flute Guillaume Carpentier - SaxAriane Racicot - PianoHugo Blouin - BassKulusé Souriant - Drums\n2 Juillet Bill Mahar - Trumpet Brookyn Wood - ViolonDavid Ryshpan - PianoSean Burke - BassValérie Lacombe - Drums\n\n3 Juillet Christine Jensen - Sax Claire Devlin - SaxAndrés Vial - PianoDan Martinez - Bass (NYC)Karina Colis - Drums (NYC)",
+    "links": []
   },
   "Saint Levant": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/Nn0Wfo0KFWEEYjmjIswB6/89f3d4019063573787d5ff94bf0c7fdb/fijm26_saint_levant.jpg",
@@ -338,20 +400,6 @@
       }
     ]
   },
-  "Melody Gardot": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4gYMF9HYqXREHYp2CulcsF/fb85a352c0aee1c1457399a90158ce05/fijm26_melody_gardot__2_.jpg",
-    "description": "Melody Gardot est une musicienne dotée d'une sensibilité et d'un équilibre rare et remarquable. C'est une chanteuse dont la voix est immédiatement reconnaissable, caractérisée par une délicatesse envoûtante et une précision émotionnelle pénétrante. C'est une compositrice dont les mélodies définissent un équilibre entre économie lyrique et ampleur luxuriante et passionnée.  \n\nC'est une artiste qui maîtrise l'utilisation du studio, se forgeant une identité musicale tout en expérimentant diverses approches d'enregistrement et styles musicaux, produisant des albums d'une cohérence étonnante — une réussite qui a commencé dès le tout début de sa carrière.  \n\nParmi les innombrables chanteurs présents sur la scène musicale actuelle, seuls quelques-uns ont atteint ces trois sommets musicaux.  \n\nVingt ans après avoir lancé sa carrière, Melody Gardot fait aujourd'hui partie du cercle très fermé de ces artistes rares, dont la musique a eu un impact populaire et  a séduit le grand public.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Bgs8S67xx2Q"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-      }
-    ]
-  },
   "Pink Martini": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/34lSddNciH2d2HSpzRKcJ2/5d90cdb439ed8664bb6605e0fcd37da2/fijm26_pink_martini.jpg",
     "description": "Depuis maintenant 31 ans, Pink Martini est un moteur inépuisable de joie qui continue de porter la mission de son fondateur Thomas Lauderdale, à savoir la connexion multiculturelle et l'inclusion, sur les scènes légendaires des six continents. Mêlant pop old school entraînante, couleurs du monde, rythmes big band et glamour hollywoodien, le célèbre « petit orchestre » de l'Oregon joue une musique qui séduit tout le monde, quel que soit l'âge ou l'origine. Le groupe compte une douzaine de musiciens qui interprètent des chansons dans plus de 25 langues et collabore avec une grande variété de chanteurs talentueux lors de ses concerts et sur ses 10 albums studio.",
@@ -363,20 +411,6 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-      }
-    ]
-  },
-  "Béla Fleck, Edmar Castañeda & Antonio Sánchez": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7AvU6sp8gbJQLfzkGI8Pve/d03eff38eddb5249cf244ca6d0586be7/fijm26_fleck_castaneda_sanchez.jpg",
-    "description": "Béla Fleck, Edmar Castañeda, Antonio Sánchez Trio Béla Fleck, 18 fois lauréat d'un Grammy Award, est le plus grand virtuose mondial du banjo et un aventurier musical célèbre. Il a exploré l'histoire complexe de son instrument à travers le monde et en a révélé tout le potentiel. Depuis plus de 30 ans, il dirige Béla Fleck & The Flecktones, un quatuor révolutionnaire inspiré par le jazz, le funk, le bluegrass et bien d'autres genres musicaux. Il a composé et interprété trois concertos pour banjo et retracé les origines africaines de cet instrument dans le documentaire primé Throw Down Your Heart, sorti en 2009. Il a collaboré avec Abigail Washburn, le Brooklyn Rider String Quartet, Chris Thile, The Blind Boys of Alabama, McCoy Tyner, Zakir Hussain, Edgar Meyer et Rakesh Chaurasia. Fleck revient au Virginia Arts Festival avec son dernier projet, mettant en vedette le harpiste de renom Edmar Castañeda et le batteur Antonio Sanchez pour une fusion innovante et dynamique de sons.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=KdVWPgMpl5Y"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
       }
     ]
   },
@@ -464,38 +498,6 @@
       }
     ]
   },
-  "Les scènes jazz autour du monde": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/pdqRIqDWK0oHDfYEOOVMr/9efaaeaf26df54803b3f9465f1ed4255/fijm26_jazz_autour_du_monde.jpg",
-    "description": "Discussion autour des scènes jazz dans le monde avec André Marmot,\nagent chez Earth Agency au Royaume-Uni, Alejandro Ayala du label International\nAnthem, basé à Chicago, Yousef Hilmy de Minaret Records à Los Angeles, Rainbow\nRobert directrice de Jazz Festival Canada et Brice Rosenbloom, directeur\nartistique du Winter Jazz Festival à NYC.\n\nLa discussion sera en anglais. Le festival met à disposition une application de traduction IA simultanée disponible sur celulaire vers toutes les langues.",
-    "links": []
-  },
-  "Classe de maÎtre avec Brandee Younger": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4W5dDnGN1dGS98tIFIHwfA/bcdf7061576027292548c1a1f967974e/fijm26_brandee_younger.jpg",
-    "description": "Véritable pionnière de sa génération, Brandee Younger, a fait sa place dans en étant la porte étendard de la harpe dans l'esthétique du jazz. Younger a collaboré avec des artistes comme Lauryn Hill, The Roots, Pharaoah Sanders et Ravi Coltrane. Dans le cadre de l'Académie elle vient nous montrer comment elle exploite les sonorités diverses de son instrument dans sa musique.\n\nLa discussion sera en anglais. Le festival met à disposition une application de traduction IA simultanée disponible sur celulaire vers toutes les langues.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=FTsGi7SS0lw"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
-      }
-    ]
-  },
-  "Yuuf": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7fHcohRpRAY7MQnXQY3Ziq/937414d66485d10c32fc862c7abeb52f/fijm26_yuuf_2.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=nFF17oL8ykY"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
-      }
-    ]
-  },
   "Bayou": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4wPvY5N72OeUnw9ifbTgr/85a3c904198286600cbc6370de221657/fijm26_bayou.jpg",
     "links": [
@@ -562,19 +564,6 @@
       }
     ]
   },
-  "Ibrahim Maalouf": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4qCyHkSq9yVrLMDxq2aE7j/e2bfd5ba051f0a8402504be8abba05d5/fijm26_ibrahim_maalouf_2.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=dRHrCN6W_Zg"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-      }
-    ]
-  },
   "Saint Levant X Abu Levant DJ Set": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4Y01mkXykzG9dgwHgcfVfH/fa147a1b0dbd8d58eb0c2bdbe06d8fa7/fijm26_saint_levant.jpg",
     "links": [
@@ -598,15 +587,6 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-      }
-    ]
-  },
-  "The Battle: Eric Alexander & Vincent Herring": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/30CRDg7HGlQm8jxfdpfH0z/587979f58dcd2a9e9444216b5bf9c379/fijm26_herring_alexander.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Of_bslZM7zs"
       }
     ]
   },
@@ -642,220 +622,6 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
-      }
-    ]
-  },
-  "Swing Tonique Jazz Band": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6YANVB3swObZrWU9ZwWF63/d82683edac6945554854f87d80504725/FIJM26-generique-1104x767__1_.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=aYjBB6hCDqA"
-      }
-    ]
-  },
-  "Montréal Dixie": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5R8x8r00hJJc2oMz9y65eA/1dc63027dbb8b81d17e23d3376dc6583/fijm26_mtl_dixie.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=RdFeTES6PbM"
-      }
-    ]
-  },
-  "Miles Davis : Birth of cool": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/qEL4dNyenWDU0NeIpmULq/a0833181ee26ea12dfde0a310ae828c9/fijm26_miles_davis_boc.jpg",
-    "description": "Une évocation de la vie et la carrière de l’immense musicien et icône culturelle Miles Davis, un compositeur visionnaire et innovateur qui défia toute catégorisation et incarna à lui seul le « cool ». Le fil conducteur de son existence a toujours été sa détermination sans faille à casser les codes, à se renouveler continuellement et à vivre intensément sa vie comme il le souhaitait. Il est devenu un monument de la musique au fil des années, mais aussi un artiste versatile avec qui il était difficile de vivre au quotidien, surtout pour ceux qui l’aimaient le plus.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=edbeyKJgza4"
-      }
-    ]
-  },
-  "Aretha Tillotson Quartet": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4IewdaPER5n3nfPmX2C2Fp/2a31651cff9c06249ca7c2a793015a72/fijm26_aretha_tillotson.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=hyJuVU2LFpM"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0HkNnXhFvDKjQ0GPGSh7Nu"
-      }
-    ]
-  },
-  "Visaj": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5CEXCLtxqEFSCPT8s5STnT/8c27b5dfc513a9fca9bed581a81c6595/fijm26_visaj.jpg",
-    "links": []
-  },
-  "Burning Brass Band": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5FJKAcGJ5TE0KLZvvb08Iy/422682e75844265008018dca673b2dd3/fijm26_burning_brass_band.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=mq2koCdD9JI"
-      }
-    ]
-  },
-  "Christine Jensen sextet": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5RN8FCuajFu0tFW62Ju6J0/8ca1197315c58c6442363b2d67acdd52/fijm26_christine_jensen.jpg",
-    "description": "Christine Jensen est une saxophoniste et compositrice canadienne de premier plan dont la voix façonne le jazz créatif depuis plus de vingt‑cinq ans. Ses ensembles acclamés mettent en valeur son écriture lyrique et son improvisation audacieuse, entendues récemment sur Harbour (2024), son troisième album pour jazz orchestra, créé en première mondiale au Unity Festival au Jazz at Lincoln Center (2025).\nLauréate de plusieurs prix JUNO et reconnue au DownBeat Critics Poll, elle poursuit l’expansion de sa démarche artistique à travers des projets tels que Day Moon avec son quartet et Code Red du CODE Quartet. Le Christine Jensen Jazz Orchestra s’est produit à la conférence JEN à La Nouvelle‑Orléans en 2026. Elle est la directrice artistique fondatrice de l’Orchestre national de jazz du Canada et enseigne la composition jazz tout en dirigeant l’Eastman Jazz Ensemble.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=6hL3bZFoSe4"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu"
-      }
-    ]
-  },
-  "Pod’Casque": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/sj4zCL4dNoviq3g1tiHyv/edb1ef11d05a7418f430811d314db2e1/ff26_onz.png",
-    "description": "Pod’Casque est une émission animée par l’équipe d’ONZMTL qui explore l’univers du rap, de la culture urbaine, du sport et des enjeux qui façonnent la nouvelle génération francophone. À travers des entrevues approfondies, des discussions spontanées et des analyses culturelles, Le Onze, Jay Seven et leurs invités donnent une voix authentique à la scène montréalaise et internationale. Entre humour, réflexion et passion, Pod’Casque crée un espace où artistes, créateurs et personnalités peuvent raconter leur parcours sans filtre.",
-    "links": []
-  },
-  "Ron Artis II": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6v4wrLJ0dtDPG0bCjooOln/8305e78a58c7e8df65b39e1c86f6e654/fijm26_ron_artis.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=YIU9uMJ44F0"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3u8dOa0zveymreEFH7Yo5C"
-      }
-    ]
-  },
-  "SHEBAD": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4Z8YJ3qHcP71d4piqy4pEk/498152e2c99909d1584e7221e504682d/fijm26_shebad.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=mmt91kcux6o"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK"
-      }
-    ]
-  },
-  "Destin Conrad": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/lqJC7R0jpy9b8IoOvejlH/6a94d36aa5c22397de74088865c7fce8/fijm26_destin_conrad.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=b9MZLrVU3EQ"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-      }
-    ]
-  },
-  "Yannick Rieu 100 Years of Coltrane": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5MJkLZpZtNj1IOHa3sm6sp/64fa3a9a445e381e0fe1bfaeb9529d28/FIJM26-generique-1104x767__1_.jpg",
-    "description": "Yannick Rieu - SaxophoneJonathan Cayer -PianoMike De Masi - Contrebasse Alain Bourgeois - Batterie",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=lMKKH1Pjsc8"
-      },
-      {
-        "label": "Spotify",
-        "url": " https://open.spotify.com/artist/5IOIq5SDF7ti0W7lrGztb4"
-      }
-    ]
-  },
-  "Brian Dickinson": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3p1qitfFMmbc8voOU0gtbs/79147878d874b4648550c1c53bcddfcf/fijm26_brian_dickinson.jpg",
-    "links": []
-  },
-  "Les Royal Pickles": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2zFuKT51DRxgu3wC4OJgsb/181d8fed2a3238290c494f42763bdbab/FIJM26-generique-1104x767__1_.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=j--nEgmDEz0"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/17TVfyl46tK0TIDLyVlgAK"
-      }
-    ]
-  },
-  "Chief Adjuah": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3NYS3BJ15xqJM61hSNtzOJ/f852a81bedce0eea47fbbc17eb026393/fijm26_chief_adjuah.jpg",
-    "description": "Chief Xian aTunde Adjuah [anciennement Christian Scott] a remporté deux fois le prix Edison, a été nominé six fois aux Grammy Awards et a reçu le prix Doris Duke dans la catégorie Arts. Il est architecte sonore, trompettiste, multi-instrumentiste, compositeur, producteur, concepteur de technologies innovantes et d'instruments de musique.  \n\n  Depuis 2001, Adjuah a sorti treize albums studio acclamés par la critique, quatre albums live et une compilation de ses plus grands succès.  \n\n Il a collaboré avec de nombreux artistes de renom, notamment Prince, Thom Yorke, McCoy Tyner, Marcus Miller, Flea, Eddie Palmieri, Robert Glasper, les rappeurs Mos Def (Yasin Bey) et Talib Kweli, ainsi que le célèbre poète et musicien Saul Williams.  \n\n Depuis ses débuts, Adjuah est un fervent défenseur des droits de l'homme et un critique infatigable des injustices dans le monde.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=mVJjmyFfuts"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
-      }
-    ]
-  },
-  "Kalia Vandever": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5JvmenjcvWkWqeIktm5jQC/4339baba9c25204509c7357413d90860/fijm26_kalia_vandever.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=G32tejPN5_o"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL"
-      }
-    ]
-  },
-  "GENA": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7zkE55T1ncvrhOZQzRKTY/e1e56b1cf34c108592d75e6f778632e8/fijm26_gena.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=5Yr2-THkvmk"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
-      }
-    ]
-  },
-  "Gotts Street Park": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3nnae50lrKJ5dRl1yju9hq/ef19c9815d1b2794748a9c44e19fb809/fijm26_gotts_street_park.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=WhY_XF9t20A"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-      }
-    ]
-  },
-  "John Roney": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6opXwSysfJHG2b50oWWsJY/ad33daf5c4fbc936c2dcd382c2fbab00/fijm26_john_roney.jpg",
-    "links": []
-  },
-  "The Liquor Store": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7tLWPfQ816yIwxSgIjqn9w/deef361d5c3d44960be7c5b671f3a7b0/fijm26_liquor_store.jpg",
-    "description": "Né de la rencontre de six musiciens indépendants de Montréal, The Liquor Store rassemble des artistes qui reviennent sans cesse à leur essence créative pour façonner une musique à leur image : vibrante, élégante et originale. Que ce soit à travers leur collaboration sur « NightDrive » (lauréat du GAMIQ 2020 dans la catégorie Album de jazz de l’année), leur album progressif « Colossus » (nominé pour l’Album de jazz de l’année aux ADISQ) ou leur explosif « The Liquor Store Big Band Vol. 1 », leur son est en constante évolution, tant sur scène qu’en studio. The Liquor Store vient de sortir son quatrième album de soul-pop-R&B, « Right Place Wrong Time ». Le groupe entame un nouveau chapitre, plus raffiné et épuré, alliant son amour des grooves profonds et des sons captivants aux visions rafraîchissantes de chanteurs invités.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=9_-bkH5C9qc"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1wTJHudeVpwXvplnDjtdRX"
       }
     ]
   },
@@ -1295,16 +1061,17 @@
       }
     ]
   },
-  "Gabriel Jacoby": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3RJ5cc9G8JTqVNTdUNMrMK/28e5eab377677337bd4d0370a7fdb2d0/fijm26_gabriel_jacoby__2_.jpg",
+  "The Barr Brothers": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3GKUvXoxiiEXZn8me8Mo9b/b874f3c58386bb74e675d1fdc5e7b169/fijm26-barr_brothers.jpg",
+    "description": "Cela fait huit ans que le groupe montréalais The Barr Brothers n’avait pas sorti d’album complet. Durant cette période, la vie les a menés dans de nouvelles directions — personnelles et professionnelles — transformant profondément leur manière de faire de la musique ensemble.\n\nLeur quatrième album studio, Let it Hiss, n’est pas seulement une nouvelle collection de chansons. C’est un document de transformation. Sa création marque un tournant décisif : une pause pour réfléchir, une confrontation à la vulnérabilité, et une reconnexion entre les deux frères qui font de la musique côte à côte depuis plus de trente ans.\n\n« En 2022, nous étions arrivés à un point de rupture », explique Brad Barr, guitariste, chanteur et principal auteur du groupe. « Il était clair que quelque chose devait changer. La véritable histoire de cet album, c’est celle de ce changement et de tout ce qui a suivi. »\n\n« Let it Hiss, c’est ce qui s’est passé quand nous avons arrêté de faire semblant que tout allait bien et que nous avons enfin commencé à écouter ce qui se passait réellement », ajoute Andrew.",
     "links": [
       {
         "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=aaiPK3jfa4g"
+        "url": "https://www.youtube.com/watch?v=MXDc2otIutA"
       },
       {
         "label": "Spotify",
-        "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
       }
     ]
   },
@@ -1379,30 +1146,6 @@
       }
     ]
   },
-  "anaiis’ Devotion & the Black Divine Film": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5tVkxxEJ3BD65Q93zFmZ0b/e35f9902e39ce2b3f25d661a6c1c6ca7/fijm26_feminae_fox.jpg",
-    "description": "En anglais\n\nFEMINAE NOX returns in partnership with Foil Gallery & Montreal\nInternational Jazz Festival to present the screening\nof Devotion & the Black Divine —\na cinematic universe co-directed by\nFrench-Senegalese artist, anaiis.\nIt is the expansion on the visual and sonic world from the 2025 album of the same\nname. \n\nDevotion & the\nBlack Divine is a cinematic meditation on new Black\nmotherhood and the spiritual upheaval it carries. Blending soul, gospel, and\nchamber pop, the album was recorded live to tape, a deliberate act of surrender\nto imperfection and presence. Its themes move through unconditional love,\nself-acceptance, Black heritage, and the quiet power of nurturing. The\naccompanying art film — shot in Jamaica — extends these themes into moving\nimage.\n\nThis event will kickoff anaiis + Grupo Cosmo performance at the Montreal International Jazz Festival's Rogers Stage\non June 26, 2026 @ 10:30 pm followed by anaiis' solo Montreal headline show on September 23, 2026 @ Le Ministere.\n\nJoin FEMINAE NOX, Foil Gallery, and Montreal International\nJazz Festival featuring programming curated by Mira Silvers (founder\nof FEMINAE NOX):\n\nOn June 25, 2026 at Foil Gallery (6560 Rue Waverly,\nMontréal, QC H2V 4M3)\n\n• 4:00 pm || Live Artist Talk between anaiis and artist G L O W Z I. \n\n• 5:00 pm || Networking and Artist ***Meet & Greet with anaiis. \n\n***anaiis will be signing vinyl records (available\nfor purchase on-site)\n\nRSVP via Waiting List here: https://www.universe.com/fn-anaiis-film\n\nOn June 26 and June 27 2026 at Foil Gallery\n(6560\nRue Waverly, Montréal, QC H2V 4M3) \n\n• 8:30 am - 5:40 pm || Screening of Devotion\n& the Black Divine \n\nRSVP Link: https://www.universe.com/fn-anaiis-filmscreening-only",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=89eO6sndg0I"
-      }
-    ]
-  },
-  "Habitat Sonore : A Love Supreme — John Coltrane 100e": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/ArOSQzlg2Iqxq3JeUWcT4/6a9dfd27459f7121246ee6307130d39d/fijm26_habitat_sonore.jpg",
-    "links": []
-  },
-  "Mercredis Live Jazz": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4v0fFqyBZro5T2llC3V7fi/c0d597076815ce71b39ac42b4cbdaa6d/fijm26_mercredis_jazz.jpg",
-    "description": "Bienvenue aux Mercredis Live Jazz, une véritable immersion au cœur des grandes voix et des émotions intemporelles du jazz et du blues. Sur scène, l’incomparable Mary Grace interprète avec intensité, élégance et raffinement un répertoire jazz populaire empreint d’âme et de passion. Sa voix profonde et habitée fait revivre les chansons emblématiques qui ont marqué l’histoire de la musique, ravivant l’esprit des grandes divas du jazz dans une performance à la fois vibrante, chaleureuse et inoubliable.\n\nTarif : Sièges réservés à 10$    \n\nHoraires spectacle : 18h à 22h30",
-    "links": []
-  },
-  "Série Compositeurs Jazz": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1h440t6k9j5FJXapruDldR/e06e0ea364d535f24379d165cf7925d7/fijm26_jazz_composers_series.jpg",
-    "description": "28 Juin: Adam Goulet - GuitarSam Bags - SaxSimone Leblanc - SaxMarcelo Luiz Barbosa - BassAlex Johnson - Drums\n\n29 Juin Samuel Blais - SaxGabriel Genest - SaxCamila Cortila - Piano (NYC)Nicolas Bond - BassMatys Colpron - Drums\n30 Juin Marie Jeanne Paquet - Voice Trevor Turla - Trombone (NYC)Matt De Leon - Trombone (NYC)Jean Philippe Grégoire - GuitarDave Watts - BassAaron Dolman - Drums\n1er Juillet Rachel Therrien - Trompette Adèle Levayer - Flute Guillaume Carpentier - SaxAriane Racicot - PianoHugo Blouin - BassKulusé Souriant - Drums\n2 Juillet Bill Mahar - Trumpet Brookyn Wood - ViolonDavid Ryshpan - PianoSean Burke - BassValérie Lacombe - Drums\n\n3 Juillet Christine Jensen - Sax Claire Devlin - SaxAndrés Vial - PianoDan Martinez - Bass (NYC)Karina Colis - Drums (NYC)",
-    "links": []
-  },
   "World of Soul": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6scspRnMIyNReZy0LtCP2n/ac8365497ec8f0316652ffd2c87692ab/fijm26_wordl_of_soul.jpg",
     "description": "Plongez dans un monde groovy où la soul et le R’n’B se rencontrent avec élégance. Only The Righteous vous propose une signature musicale unique, mêlant habilement soul, funk, influences afro et sonorités caribéennes pour créer une ambiance à la fois chaleureuse et irrésistiblement dansante.\nLe groupe revisite avec passion des classiques incontournables, tout en intégrant ses propres compositions, offrant ainsi un équilibre dynamique entre reprises et créations originales. Chaque performance est pensée pour faire bouger le public, portée par une énergie contagieuse et des rythmes chauds.\nTarif : Sièges réservés à 10$    \n\nHoraires spectacle : 18h à 22h30",
@@ -1437,20 +1180,6 @@
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/68V5o3svNIZn47LPq0YOBx/481474f5daea222d7552007104838766/fijm26_funktastique.jpg",
     "description": "Pour une fin de soirée endiablée aux rythmes Boogie, Modern et Jazz Funk,  rejoignez la piste de danse XXL du duo de DJ montréalais Voyage Funktastique. Depuis plus de 13 ans, cet évènement mensuel reconnu mondialement attire les meilleurs danseurs de la ville grâce à la sélection de vyniles vintage de Walla P et Dr. Mad.\n\nLors de cette édition spéciale du Festival International de Jazz de Montréal jusqu'à 4h du matin, attendez vous à un hommage aux influences jazz via une sélection fusion Brit-Funk, Jazz Disco, Jazz-Funk japonais et plus encore!\n\nEXPÉRIENCE SPECTACLE\n\nTarifs : 20$\n\nHoraires spectacle : 23h à 4h",
     "links": []
-  },
-  "The Barr Brothers": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3GKUvXoxiiEXZn8me8Mo9b/b874f3c58386bb74e675d1fdc5e7b169/fijm26-barr_brothers.jpg",
-    "description": "Cela fait huit ans que le groupe montréalais The Barr Brothers n’avait pas sorti d’album complet. Durant cette période, la vie les a menés dans de nouvelles directions — personnelles et professionnelles — transformant profondément leur manière de faire de la musique ensemble.\n\nLeur quatrième album studio, Let it Hiss, n’est pas seulement une nouvelle collection de chansons. C’est un document de transformation. Sa création marque un tournant décisif : une pause pour réfléchir, une confrontation à la vulnérabilité, et une reconnexion entre les deux frères qui font de la musique côte à côte depuis plus de trente ans.\n\n« En 2022, nous étions arrivés à un point de rupture », explique Brad Barr, guitariste, chanteur et principal auteur du groupe. « Il était clair que quelque chose devait changer. La véritable histoire de cet album, c’est celle de ce changement et de tout ce qui a suivi. »\n\n« Let it Hiss, c’est ce qui s’est passé quand nous avons arrêté de faire semblant que tout allait bien et que nous avons enfin commencé à écouter ce qui se passait réellement », ajoute Andrew.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=MXDc2otIutA"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-      }
-    ]
   },
   "KOKOROKO": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3NNXIFacqOgXyuu6BEDnem/98dab43ba3cfb7d5324b9fd0653a50ec/fijm26_kokoroko.jpg",
@@ -1516,6 +1245,19 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+      }
+    ]
+  },
+  "Willow": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4WZGOBWf3BbZM5LsxqsCW/4311650c159abf13f3e8c7fa911746bd/fijm26_willow.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=AfGPYMgj4-8"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
       }
     ]
   },
@@ -1624,6 +1366,20 @@
       {
         "label": "YouTube",
         "url": "https://www.youtube.com/watch?v=oEf3bjLZ_UE"
+      }
+    ]
+  },
+  "Stacey Kent": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/40y0EJamqdeNysAb3dkuRy/5aead17bdfc05c7449e2d33d0306e829/fijm26_stacey_kent.jpg",
+    "description": "Stacey Kent est une chanteuse de jazz américaine dans la lignée des plus grands, avec une légion de fans et une multitude de distinctions et de récompenses, dont une nomination aux Grammy Awards et, plus récemment, le Prix Ella Fitzgerald du Festival de jazz de Montréal. Avec des albums certifiés platine et or qui ont atteint plusieurs fois le sommet des classements et plus d'un demi-milliard d'écoutes sur Spotify, elle s'est constitué un vaste public international grâce à ses interprétations délicatement nuancées de standards, de chansons, de bossa nova et de compositions originales. Son répertoire multilingue unique comprend des compositions originales écrites par l'auteur Kazuo Ishiguro, lauréat du prix Nobel, en collaboration avec son mari, le saxophoniste, producteur, compositeur et arrangeur Jim Tomlinson. Leur première chanson, The Ice Hotel, a remporté le premier prix dans la catégorie jazz de l'International Songwriting Competition. Stacey a également enregistré avec les légendes brésiliennes Marcos Valle, Roberto Menescal et Danilo Caymmi, ainsi qu'avec le célèbre quatuor à cordes français Quatuor Ébène. \n\nLe nouvel album de Kent, A TIME FOR LOVE, sortira en octobre 2025. Il reprendra sa collaboration en trio avec le pianiste Art Hirahara et Jim Tomlinson, dans une collection éclectique de chansons. Son précédent album, SUMMER ME, WINTER ME, s'est immédiatement hissé en tête des charts jazz. Summer Me, Winter Me était une compilation de titres choisis par les fans, comprenant trois chansons originales : Postcard Lovers, coécrite avec Kazuo Ishiguro, et deux autres joyaux dont les paroles ont été écrites par Cliff Goldmacher, auteur de la chanson titre de l'album orchestral de Stacey, I KNOW I DREAM. À côté de ces titres, on trouve un certain nombre de standards de jazz très appréciés, dont les versions anglaise et française de If You Go Away (Ne Me Quitte Pas) de Jacques Brel.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=PYdrhTL3VBk"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
       }
     ]
   },
@@ -1790,6 +1546,20 @@
       }
     ]
   },
+  "Coltrane @ 100 : première mondiale d’extraits des mythiques « Tiberi Tapes » avec Ken Druker de Verve Records": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/751WLEJkvCVn17xDbGgj2q/08bc8f2026b69e1167cddaca176d1891/fijm26_academie_coltrane.jpg",
+    "description": "À l’occasion du centenaire de John Coltrane, cette rencontre exceptionnelle propose une plongée au cœur de l’héritage du légendaire saxophoniste à travers une première mondiale d’extraits des mythiques « Tiberi Tapes », présentée par Ken Druker de Verve Records. La discussion reviendra sur les années charnières du début et du milieu des années 1960, période marquée par l’enregistrement des Tiberi Tapes et la création de l’album emblématique A Love Supreme.\nLe public découvrira également le lien méconnu entre Blue World et Montréal, à travers le cinéaste Gilles Groulx et National Film Board of Canada. Entre écoute, échange et réflexion, cette conversation explorera l’impact durable de Coltrane sur le jazz et les arts, ainsi que les raisons pour lesquelles sa musique continue d’inspirer et de résonner auprès des générations d’aujourd’hui. Une période de questions et réponses clôturera la rencontre. La discussion sera mené par Ken Druker de chez Verve Records. \n\nLa discussion sera en anglais. Le festival met à disposition une application de traduction IA simultanée disponible sur celulaire vers toutes les langues. Samuel Blais sera\nle modérateur.",
+    "links": []
+  },
+  "Thanda Choir": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1IyA2I5qTd56q3Hk4OBfMb/0f8ffa9c6dc71324d2730bb80e5678bc/fijm26_thanda_choir.jpg",
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a"
+      }
+    ]
+  },
   "Lila Downs": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3GzikjQP7XTXUskYruK3Pn/2951022b8c3484dc5bae749d165aaad0/fijm26_lila_downs.jpg",
     "links": [
@@ -1813,6 +1583,19 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+      }
+    ]
+  },
+  "Father John Misty": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1u6mBJh5WzBTFBj2R1oK3E/6444fcfef1c6403ae5a3202abc3e64ce/fijm26_father_john_misty.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=pVzu0M0LWTM"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
       }
     ]
   },
@@ -1916,6 +1699,23 @@
       {
         "label": "YouTube",
         "url": "https://www.youtube.com/watch?v=YDtQK2_XaM4"
+      }
+    ]
+  },
+  "Nicholas Payton Trio": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2IJUIs8cHJeqzjUsAyAqCx/11ddfebb7a1ce5c53ea4da0854ac7ad9/fijm26_nicholas_payton.jpg",
+    "links": []
+  },
+  "Alchemist (DJ Set)": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/QCyTE26bWIeXmfRwWdG1H/5ad338e90b2cbd4eca61fce4fbe27120/fijm26_alchemist.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=QZ3YgSmmjHU"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
       }
     ]
   },
@@ -2182,6 +1982,19 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/2paLqu4bJmpdxQzN6ADejn"
+      }
+    ]
+  },
+  "Coco Rose": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2ciqEhWj979oXqqq3W8R6S/1e99981fa2fa7d56eb4c732c9857d32e/fijm26_coco_rose.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=l3YTYvR8Dyw"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7xCW1CZFidLxN51xIPitsl"
       }
     ]
   },
@@ -2527,6 +2340,10 @@
       }
     ]
   },
+  "Growve": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/mA36vCtR7D5OizGjhgtdR/966ba3242bea136c91ab0df434dbfffd/fijm26_growve.jpg",
+    "links": []
+  },
   "Mesdames et messieurs…Leonard Cohen": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2vjV9DNq9MuN0gCfJkbNGw/de14af0ea7e316591bdcb97b499cd343/CineJazz_Leonard_Cohen_1104x767.jpg",
     "description": "Mesdames et messieurs, M.\nLeonard Cohen\n\nDonald\nBrittain et Don Owen, 1965, 44 minutes\n\nCe documentaire réalisé en 1965 brosse un portrait décontracté du poète, romancier et auteur-compositeur Leonard Cohen. On le voit tantôt lisant sa poésie devant un public qui boit ses paroles, tantôt seul ou en compagnie de sa famille et de ses amis. \n\nEn anglais avec sous-titres en français\n\nEn première partie: OscarMarie-Josée Saint-Pierre, 2016, 12 minutes\n\nMélangeant séquences animées et extraits d’archives, Oscar est un portrait touchant du pianiste virtuose Oscar Peterson. Des débuts du jeune prodige de la Petite-Bourgogne à ses triomphes sur la scène internationale, ce documentaire de Marie-Josée Saint-Pierre aborde la profonde solitude de l’artiste constamment en tournée. Au son de sa musique tantôt entraînante, tantôt teintée de mélancolie, le film raconte avec émotion une vie dans le jazz.",
@@ -2781,6 +2598,19 @@
       }
     ]
   },
+  "Rara Soley": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/66dWduYK5rYBikvNWzsUXH/9bbf67fb5fdfa265a0edcdb1f2ccfdb2/FIJM26-generique-1104x767__1_.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=2qRgooOXG68"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6Q22qyiwJzmynZxkjXur1b"
+      }
+    ]
+  },
   "Zach Zoya & High Klassified": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/49D4CoPFXGnqIwVzAT2NMF/1c59f85c8aef6adfb3d14d2457a91b37/fijm26_zach_zoya_high_klass.jpg",
     "description": "Originaire de Rouyn-Noranda, Zach Zoya a grandi à la croisée des rythmes sud-africains et des sonorités soul et pop nord-américaines, développant une identité musicale éclectique.\n\nPremier artiste anglophone signé sur le label francophone 7ième Ciel Records, il se fait rapidement remarquer avec son EP Spectrum, acclamé par la critique et nommé à plusieurs prix, dont l’ADISQ. Son EP No Love Is Ever Wasted (2022) cumule des millions d’écoutes et inclut les succès radio Start Over et Upper Hand.\n\nEn 2023, il remporte plusieurs distinctions, notamment au Gala Dynastie et à la Fondation SOCAN. Son univers évolue ensuite vers une fusion de R&B, rap mélodique et pop alternative, notamment sur son EP It’s Always Sunny in Glendale (2024), inspiré de son expérience en Californie.\n\nIl prépare actuellement Misstape 2, une nouvelle collaboration avec le producteur montréalais High Klassified, suite de leur premier projet Misstape (2018), qui a lancé sa carrière.",
@@ -2851,6 +2681,163 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+      }
+    ]
+  },
+  "GEORGE": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7z3RHiklzT2YLkemEZ2yTE/ca199a78312168a62da4d7ee84d51b3a/fijm26_george.jpg",
+    "description": "Anna Webber-tenor sax/flute Sarah Rossy-voice/keyboards Chiquita Magic-keyboards/voice John Hollenbeck-drums/piano/composition \n\nJohn Hollenbeck a formé GEORGE pendant la pandémie de COVID-19. Il a réuni trois musiciens exceptionnels qu’il admirait depuis longtemps. Même si la plupart des membres ne s’étaient jamais rencontrés auparavant, Hollenbeck était convaincu, grâce à sa connaissance personnelle de chacun, que le groupe serait immédiatement, comme le dit l’un des membres, « tight » (c’est-à-dire « très cool »).\nLe son du groupe échappe volontairement à toute catégorie ou étiquette. Ils ont d’abord enregistré à distance une sorte de « preuve de concept » en mars 2021, puis se sont rencontrés en personne en janvier 2022 à Montréal, au Canada, où ils ont enregistré Letters to George, paru en vinyle, CD et numérique chez Out Of Your Head Records le 27 janvier 2023.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=NkvuEwfwc1A"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3fmiUaaO5sa8bpnA0Kaz44"
+      }
+    ]
+  },
+  "Jeremie Poitras and Friends": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3uSp1JRUkMYivxvvzrM2sf/743536b2e5c747c27277ab4bd167bf42/fijm26_jeremie_poitras.jpg",
+    "links": []
+  },
+  "Hansom Eli": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/bdw695I2TKh1jM9o8DFq4/81f3c3bb3c51ede13d11e37f4faf68d7/fijm26_hansom_eli.jpg",
+    "description": "Hansom Ēli est un duo formé en 2019 à Montréal par les frère et sœur Camille et Alexy Guérer. Camille signe les paroles et la voix, tandis qu’Alexy, multi-instrumentiste et producteur, compose les mélodies.\n\nLeur musique, à la croisée du folk, du R&B, du funk et de l’indie-pop, évoque des influences comme Feist et Christine and the Queens. Bilingues (français/anglais) et parfois hispanophones, ils créent de façon intuitive, souvent par improvisation.\n\nLeur nom, inspiré du mot « handsome », reflète une volonté de dépasser les codes de genre. Engagés dans un mode de vie écologique, leurs valeurs se retrouvent aussi dans leur musique, marquée par le voyage et la nature.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=h2XRoBeq5_o"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+      }
+    ]
+  },
+  "Les Saxophones de l'Orchestre National de Jazz de Montréal": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/12cuIdFxfHuAxzgmkwVlPT/590be83b0716ea091355273b49dc3e2d/fijm26_saxophones_onj.jpg",
+    "links": []
+  },
+  "Mei Semones": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1qfICWaBkmd7TLFK3WQWb8/fdfe7597e1c83e3b9b810dc488503e5e/fijm26_mei_semones.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=ZeycZRRZM3Y"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+      }
+    ]
+  },
+  "Station Culture": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5oVfYHvaEzuUwnjzodRFRN/d6f79b8d58a97edbb52e6328f447cf91/fijm26_cibl_jazzette.jpg",
+    "description": "La vie culturelle montréalaise est bouillante et inspirante. STATION CULTURE en est le porte-voix du lundi au jeudi, de 13 h à 14 h. Festivals, spectacles à grand déploiement, performances de ruelle éphémères, théâtre, musées, activités de quartier, projections dans les parcs, arts de rue… rien n’échappe à l’équipe de journalistes de STATION CULTURE. Sa mission : couvrir les événements incontournables qui font vibrer la métropole, voir l’art autrement et accéder à ses coulisses. À ne pas manquer sur les ondes de CIBL 101,5.",
+    "links": []
+  },
+  "Alfa Mist": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4aCipXf1BFgjYkqvnMgB0X/0e8da4f380be6d4e8c06ca6cf66618ef/fijm26_alfa_mist.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=O8AKyIF8wt8"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+      }
+    ]
+  },
+  "Joe Sullivan BigBand": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6zlkv7QSYm27Mk9J7FfElt/0f68c7c61fa1dae893f29bea75af49e3/FIJM26-generique-1104x767__1_.jpg",
+    "description": "Joe Sullivan Compos et Arrangements17 musiciens sur scène",
+    "links": []
+  },
+  "SAMANT": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6xMt8XsspH0FWBYj4nEsG8/25a9e180ae3cf6be0e00654696fa4e0b/fijm26_samant.jpg",
+    "description": "Samant est un compositeur et producteur polyvalent basé à Montréal, reconnu pour créer des univers sonores distinctifs naviguant entre le R&B, le hip-hop, la pop et la musique alternative. Avec une approche intuitive et collaborative, il façonne des mondes sonores uniques adaptés à chaque artiste et projet, en privilégiant toujours l’émotion, l’expérimentation et l’authenticité.\nAlors que sa présence continue de grandir sur la scène musicale canadienne, Samant prépare actuellement la sortie de son premier album, ATMANS. Le projet est introduit par les singles RUFFRIDE avec Lou Val et HEARTLESS avec Topaz Jones, offrant un premier aperçu de son univers musical aux frontières des genres.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=-NeL6isq9eQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+      }
+    ]
+  },
+  "Arielle Soucy": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/72aHDW3EWl7TVVsBubw17F/dea5c3027769c736ec6cc7e98ed4b62d/fijm26_arielle_soucy.jpg",
+    "description": "Arielle Soucy est une autrice-compositrice-interprète originaire de Montréal qui s’impose comme une figure montante de la musique québécoise. Son premier album, Il n’y a rien que je ne suis pas (2023), a été acclamé comme meilleur album de l’année par Le Devoir, CISM, Bandcamp, Exclaim!, et plusieurs autres médias. Cet opus a également figuré sur la Long List du prix Polaris, confirmant l’impact de son approche folk organique et minimaliste. \n\nAvec six nominations aux ADISQ 2024, dont celles pour Révélation de l’année et Album folk de l’année, et les prix de Révélation de l’année et Album folk de l’année aux GAMIQ, Arielle Soucy récolte les honneurs pour sa capacité à marier sensibilité et créativité. En tournée, elle a présenté plus de 70 spectacles partout au Québec et partagé la scène avec des artistes renommés comme Philippe B, Philippe Brach, Comment Debord, et Vanille. \n\nÀ travers son écriture introspective, ses mélodies lumineuses et ses arrangements raffinés, Arielle Soucy transporte son public dans un univers où tradition et modernité s’entrelacent avec audace et émotion. Suivez-la dans un nouveau chapitre de sa carrière alors qu’elle pousse encore plus loin ses expérimentations folk sur de nouvelles chansons.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=171WwFkns3s"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+      }
+    ]
+  },
+  "Craig Taborn": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/568SC9sCs6v5bn2Ih16BGX/8bc417270bcc0f2222168c143ce46b5a/fijm26_craig_taborn.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=qUxnD9GMm8Y"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77"
+      }
+    ]
+  },
+  "Alex Bellegarde Trio + Invité suivi du Jam Session": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4hAIk31RuYndoZ8lJ12dcL/78211c95e1beee6ddc08f965cb4268e1/FIJM26-generique-1104x767__1_.jpg",
+    "description": "Alex Bellegarde Contrebasse Éric St-Jean PianoMartin Auguste Batterie",
+    "links": []
+  },
+  "Bricknasty": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2siM5QKSOlh2irCly6GFKV/75699ca26ecfb150010c06f0dc2e13b7/fijm26_bricknasty.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=gp2KENEqphA"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+      }
+    ]
+  },
+  "Okonski": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5M80J1zFb9CNEtf5cuLyOf/5fc66ad6cde4ddcfa26c7f99d1f6b48a/fijm26_okonski.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=TeWT-b4Gq00"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
+      }
+    ]
+  },
+  "Olive Jones": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5AlW4VnPrQe4YAPFhPH8Ne/eac7522044cc4d7806df8510df1cfca8/fijm26_olive_jones.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=PL4LhYOSLss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
       }
     ]
   },
