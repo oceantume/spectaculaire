@@ -2182,14 +2182,14 @@
   },
   {
     "date": "2026-07-02",
-    "time": "20:00",
+    "time": "21:00",
     "venue": "Club Montréal Loto-Québec",
     "paid": false,
     "artist": "Afrotronix"
   },
   {
     "date": "2026-07-02",
-    "time": "23:00",
+    "time": "23:30",
     "venue": "Club Montréal Loto-Québec",
     "paid": false,
     "artist": "Laylit"
@@ -2287,7 +2287,7 @@
   },
   {
     "date": "2026-07-02",
-    "time": "21:00",
+    "time": "21:30",
     "venue": "Scène Rio Tinto",
     "paid": false,
     "artist": "The Free Label"
@@ -2323,7 +2323,7 @@
   },
   {
     "date": "2026-07-02",
-    "time": "21:30",
+    "time": "22:00",
     "venue": "Scène TD",
     "paid": false,
     "artist": "Saint Levant"
@@ -2889,6 +2889,13 @@
     "venue": "Scène Rogers",
     "paid": false,
     "artist": "Chicha Libre"
+  },
+  {
+    "date": "2026-07-04",
+    "time": "19:00",
+    "venue": "Scène TD",
+    "paid": false,
+    "artist": "Sparklmami"
   },
   {
     "date": "2026-07-04",

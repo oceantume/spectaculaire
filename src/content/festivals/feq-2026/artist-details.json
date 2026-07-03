@@ -668,6 +668,20 @@
       }
     ]
   },
+  "Milhan": {
+    "description": "Pour Milhan, tout commence par un voyage : à Madrid d’abord, puis à Medellin (ville natale de sa mère) en Colombie, dix ans après sa dernière visite. Ce regard vers une partie de son passé et vers ses origines, nourrit peu à peu sa musique entre percussions latines, cuivres, et une écriture douce-amère. En 2023 Milhan dévoile Evisu, une bossa nova aux accents pop frappée par le rock du guitariste Emile Masclanis, sideman de l’artiste lors de ses concerts. Toujours en recherche d’une couleur musicale plus intime et sincère, inspiré par ses peines de cœur, l’artiste décide de se questionner plus profondément pour écrire un EP intitulé Mulato, carnet de ses itinéraires psychiques et sentimentaux, récits de ses ambivalences et de son mal du pays. A l’occasion de la release party il fera salle comble au POPUP! Du Label à Paris.",
+    "imageUrl": "https://cdn.festigest.com/27/a158a70a-e12d-4a91-8c26-f93ac3b71057.jpg",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/holamilhan/"
+      },
+      {
+        "label": "Youtube",
+        "url": "https://www.youtube.com/channel/UCFYXerZtqD4U3Sg9z4ijLmg"
+      }
+    ]
+  },
   "Simon Lachance": {
     "description": "Simon Lachance, musicien polyvalent et batteur engagé sur la scène québécoise, dévoile enfin son projet solo nourri par ses nombreuses collaborations. En 2023, il lance Le chemin des pots cassés, un premier album raffiné et accessible, co-réalisé avec Simon Pedneault, Marc Chartrain et Simon Kearney. En 2025, il revient avec Cycle délicat, fruit d’une collaboration avec Dominique Plante, explorant un son groovy et introspectif, teinté de mélancolie et d’indie-pop. Auteur-compositeur-interprète et multi-instrumentiste, Simon Lachance propose un univers musical profondément personnel, mêlant douceur radicale, autodérision et maturité artistique.",
     "imageUrl": "https://cdn.festigest.com/27/ab2ebe01-c660-4c62-a592-62ee14f625dd.jpg",
@@ -3761,6 +3775,72 @@
       {
         "label": "TikTok",
         "url": "https://www.tiktok.com/@officialjellyroll"
+      }
+    ]
+  },
+  "N Nao": {
+    "description": "N NAO, alias Naomie de Lorimier, est une artiste montréalaise qui explore une pop expérimentale inspirée par les rêves, les rituels et une démarche écoféministe. Reconnue par le Prix Polaris pour ses albums L’eau et les rêves et Nouveau Langage, elle s’impose comme une voix singulière de la scène indépendante actuelle.",
+    "imageUrl": "https://cdn.festigest.com/27/6f98cb00-abe7-4b1a-8b57-a2cae37bdc49.png",
+    "links": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/nnaomusic/?locale=fr_CA"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/n_naoming/?hl=fr"
+      },
+      {
+        "label": "Vidéo officielle",
+        "url": "https://www.youtube.com/watch?v=SoTI0wTDda0"
+      }
+    ]
+  },
+  "Hawa B": {
+    "description": "HAWA B est une auteure-compositrice-interprète montréalaise dont la musique brouille les frontières entre rock, R&B, jazz et électro. Après avoir accompagné plusieurs artistes de renom comme choriste, elle développe un projet solo audacieux qui célèbre l’authenticité, les différences et la liberté d’être soi-même.",
+    "imageUrl": "https://cdn.festigest.com/27/b443e68b-909e-4480-829e-233380d8aec8.png",
+    "links": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/hawa.b.music/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/hawa.b.music/?hl=fr"
+      },
+      {
+        "label": "Site officiel",
+        "url": "https://www.hawa-b.com/"
+      },
+      {
+        "label": "Vidéo officielle",
+        "url": "https://www.youtube.com/watch?v=CNj_qee76Y4"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@hawa.b.music"
+      }
+    ]
+  },
+  "Grand Eugène": {
+    "description": "Le duo québécois Grand Eugène, formé de Melyssa Lemieux et Jeremy Lachance, propose un indie rock rêveur et sincère, porté par des mélodies tantôt douces, tantôt incisives. Après avoir attiré l’attention avec leurs EPs et des tournées au Québec et en France, ils présentent Deux places au cimetière, un premier album où chansons d’amour, humour discret et énergie grunge se rencontrent.",
+    "imageUrl": "https://cdn.festigest.com/27/57918217-c4d8-4d29-94e6-371b4116dae3.png",
+    "links": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/grandeugene/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/grand.eugene/"
+      },
+      {
+        "label": "Vidéo officielle",
+        "url": "https://www.youtube.com/watch?v=VHxTw_iK3aQ"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@grandeugene"
       }
     ]
   },

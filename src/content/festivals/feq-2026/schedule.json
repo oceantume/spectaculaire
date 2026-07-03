@@ -264,6 +264,15 @@
     "date": "2026-07-10",
     "venue": "Place D’Youville",
     "paid": false,
+    "time": "18:00",
+    "artist": "Milhan",
+    "country": "France",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-07-10",
+    "venue": "Place D’Youville",
+    "paid": false,
     "time": "19:15",
     "artist": "Simon Lachance",
     "country": "Québec",
@@ -1501,6 +1510,33 @@
     "artist": "Jelly Roll",
     "country": "États-Unis",
     "genre": "Country"
+  },
+  {
+    "date": "2026-07-19",
+    "venue": "Place George-V",
+    "paid": true,
+    "time": "17:50",
+    "artist": "N Nao",
+    "country": "Québec",
+    "genre": "Électro-pop"
+  },
+  {
+    "date": "2026-07-19",
+    "venue": "Place George-V",
+    "paid": true,
+    "time": "18:15",
+    "artist": "Hawa B",
+    "country": "Québec",
+    "genre": "Soul"
+  },
+  {
+    "date": "2026-07-19",
+    "venue": "Place George-V",
+    "paid": true,
+    "time": "18:40",
+    "artist": "Grand Eugène",
+    "country": "Québec",
+    "genre": "Indie rock"
   },
   {
     "date": "2026-07-19",
