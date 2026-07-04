@@ -1,320 +1,4 @@
 {
-  "Saint Levant": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/Nn0Wfo0KFWEEYjmjIswB6/89f3d4019063573787d5ff94bf0c7fdb/fijm26_saint_levant.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=tCwh9GRLWQs"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-      }
-    ]
-  },
-  "Melody Gardot": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3HGiaVqah9Rwi9guyM7APL/83077d7c4fcbbac4d87913470d633073/fijm26_melody_gardot__2_.jpg",
-    "description": "Melody Gardot est une musicienne dotée d'une sensibilité et d'un équilibre rare et remarquable. C'est une chanteuse dont la voix est immédiatement reconnaissable, caractérisée par une délicatesse envoûtante et une précision émotionnelle pénétrante. C'est une compositrice dont les mélodies définissent un équilibre entre économie lyrique et ampleur luxuriante et passionnée.  \n\nC'est une artiste qui maîtrise l'utilisation du studio, se forgeant une identité musicale tout en expérimentant diverses approches d'enregistrement et styles musicaux, produisant des albums d'une cohérence étonnante — une réussite qui a commencé dès le tout début de sa carrière.  \n\nParmi les innombrables chanteurs présents sur la scène musicale actuelle, seuls quelques-uns ont atteint ces trois sommets musicaux.  \n\nVingt ans après avoir lancé sa carrière, Melody Gardot fait aujourd'hui partie du cercle très fermé de ces artistes rares, dont la musique a eu un impact populaire et  a séduit le grand public.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Bgs8S67xx2Q"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-      }
-    ]
-  },
-  "Tortoise": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3h5rMCtlxfWvLFjI53mNK8/71dee30ad27a948f1a4798ac31c14a74/fijm26_tortoise__2_.jpg",
-    "description": "Tortoise est largement considéré comme l'un des groupes musicaux les plus influents de ces quarante dernières années, avec un impact considérable sur la scène musicale contemporaine.  \nAvec seulement sept albums sortis depuis 1990 — dont des classiques tels que Millions Now Living Will Never Die (1996), TNT (1998) et Standards (2001) —, Tortoise a évolué de manière constante et intuitive tout au long de son existence, créant une musique sans genre, aussi intemporelle qu’avant-gardiste.  \nL’héritage du groupe va également au-delà de sa discographie. Selon le New York Times : « Alors que les albums de Tortoise ont exploré les possibilités d’édition et de superposition en studio, le groupe s’épanouit sur scène, en temps réel. » Rolling Stone qualifie Tortoise de « merveille sur scène », tandis que Pitchfork ajoute que les performances du groupe révèlent qu’« au fond, c’est un groupe extrêmement divertissant, ouvert à toutes sortes de possibilités sonores. »",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=EwJf5fw57Yo"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
-      }
-    ]
-  },
-  "Taj Mahal & The Phantom Blues Band": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3XmZnMah2w6W9kHKWaDyCX/570c89a1852298b84ac2645045814dfd/fijm26_taj_mahal.jpg",
-    "description": "Taj Mahal n'attend pas la permission. Si un son l'intrigue, il se met en tête de le reproduire. Si ses origines le mystifient, il part à leur recherche. Si des règles se dressent sur son chemin, il les enfreint sans vergogne. Pour Taj, les conventions n'ont aucune importance, mais les traditions sont sacrées. Il a fait progresser la musique et la culture, tout en gardant un regard affectueux sur le passé. « Je veux simplement pouvoir créer la musique que j'entends, et c'est ce que j'ai fait », explique Taj. « Quand je dis « j'ai fait », ce n'est pas par ego. La musique vient de quelque part. Vous n'êtes que le canal par lequel elle passe. » \n\nTaj est une figure musicale imposante, une légende qui a transcendé le blues non pas en le laissant derrière lui, mais en révélant son magnifique champ d'application. « Le blues est plus grand que la plupart des gens ne le pensent », dit-il. « On pourrait entendre Mozart jouer du blues. » \n\nArtiste brillant doté d'un esprit de musicologue, il a exploré et sublimé les racines de ces sons tant appréciés avec un dévouement et un talent sans limites. En remontant leurs origines jusqu'au sud des États-Unis, aux Caraïbes, en Afrique et ailleurs, il a créé des sons entièrement nouveaux. \n\nIl est impossible de quantifier l'importance de Taj, mais les gens essaient quand même. Il apprécie les éloges, mais sa motivation est ailleurs : « Ce qui compte, c'est que je puisse l'entendre, que je l'ai fait. »",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=XcKSrzCM-QE"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-      }
-    ]
-  },
-  "Bayou": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4wPvY5N72OeUnw9ifbTgr/85a3c904198286600cbc6370de221657/fijm26_bayou.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=RLJs85CJBMA"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
-      }
-    ]
-  },
-  "The Free Label": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3wdSJYVyHLr7Wrvk0Y61FZ/643c3163f722a8347a97c5e8844deca0/fijm26_free_label.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=DWEjF-57E34"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
-      }
-    ]
-  },
-  "Saint Levant X Abu Levant DJ Set": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4Y01mkXykzG9dgwHgcfVfH/fa147a1b0dbd8d58eb0c2bdbe06d8fa7/fijm26_saint_levant.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=tCwh9GRLWQs"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-      }
-    ]
-  },
-  "Ranee Lee": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2bigTI8mR9YTwrRgjFNfnN/647ab2f4196e26f1d0be45eaad94aa7d/fijm26_ranee_lee.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=nxxKwDgfenI"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3G8y9C5n1gfzBzha69Ca1G"
-      }
-    ]
-  },
-  "AMADOU ET MARIAM : SONS DU MALI": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6P80JtA92PTgpyQDGc4V2F/38e1d2e5fbd5657a9518b1d3599d5960/fijm26_amadou_mariam.jpg",
-    "description": "Horaire\n\nSous-titres FR\n\nVendredi 26 juin - 19h30\n\nDimanche 28 juin - 19h00\n\nMardi 30 juin - 17h00\n\nMercredi 1 juillet - 17h00\n\nSous-titres AN\n\nSamedi 27 juin - 14h30\n\nLundi 29 juin - 19h30\n\nJeudi 2 juillet - 17h00\n\nDepuis les années 1980, Amadou & Mariam se sont imposé·es comme des figures majeures de la musique ouest-africaine contemporaine, touchant des millions de personnes à travers le monde avec un style immédiatement identifiable. Tous deux aveugles, ils ont développé une manière unique d’appréhender la musique, fondée sur l’écoute, le geste et l’intuition.\n\nLe film suit les artistes alors qu’ils travaillent sur un nouvel album et préparent un grand concert de retour dans leur pays natal. Entre séances de studio, répétitions et moments de vie en tournée, le film dessine le portrait d’un duo animé par une joie communicative et une foi inébranlable dans le pouvoir du son à rassembler.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=RdxBA9mur4g"
-      }
-    ]
-  },
-  "Big band de l'école de Jazz de Montréal": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1mVH7NGbj7VrPHc0Qyot1v/7ae2127a357a6e5776d0e23057ff57ba/fijm26_ecole_jazz_mtl.jpg",
-    "links": []
-  },
-  "Yvan Belleau": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6Ww9QnLbNB8pOBNlk1oSHC/d10ff9e0712e219df401fae3f67d468d/fijm26_yvan_belleau.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=dwn1AD7pD-w"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/5FbQ400Yjn39QyBXfS26Mq"
-      }
-    ]
-  },
-  "CHANCES": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7eN59zrOvVdCnf6SsAlNow/68f8719bda4230bdbfa6de513c3b3cf3/fijm26_chances.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=M1JYfDLbm5M"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/43rnFVPi0HzBK1CTrjIhBZ"
-      }
-    ]
-  },
-  "Rythmologie": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3l5gssKRFvjYUUOTuQ2tYK/00c9ccb280d53823e3def54e11c9c10c/fijm26_cism_jazzette.jpg",
-    "description": "Diffusée sur les ondes de CISM depuis mai 2003, Rythmologie est LA référence montréalaise ultime en funk, jazz, hip-hop, électro et autres musiques festives de tout acabit. L’animateur Étienne Champagne décortiquera en votre compagnie les spectacles qu’il aura vu jusqu’à maintenant au festival en plus de s’entretenir avec des artistes de la programmation.",
-    "links": []
-  },
-  "Kazdoura": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1GqsCIQdLRCEQeIaUTYlkZ/8d1263f5e2df2dd9245a62bff681abb1/fijm26_kazdoura.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=HyFU0FEfkCQ"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/7zm6lF98wKwyohB2zFetum"
-      }
-    ]
-  },
-  "Thee Marloes": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4R4cxwncKR33EuQxPkgNco/f9d34f3fb6d22f6fd72f9664dafdf7c1/fijm26_thee_marloes.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=EKvzbJ0DMcg"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-      }
-    ]
-  },
-  "Yordan & The Cuban Martinez Show": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5DI04zS7jy2lf61R5rrqgp/82e96229f079b46562787bb468729e74/fijm26_yordan_tcms.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=awaS-EF5_vc"
-      }
-    ]
-  },
-  "Annahstasia": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/10GWqtC68O6cIy4c2MFQKG/d33697612c9e31cdf1084080893bd78e/fijm26_annahstasia.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=yt_FxQXBvBw"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
-      }
-    ]
-  },
-  "Ariane Racicot Trio": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/WV86xbzZktIneXGfHXF20/9864230da8dbe6268cba10c523b27a3c/FIJM26-generique-1104x767__1_.jpg",
-    "description": "Ariane Racicot - PianoAntoine Rochefort - BasseGuillaume Picard - Batterie",
-    "links": []
-  },
-  "Afrotronix": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6gNiBOFkEb62C0R2mxha5o/40e931def26ed6cf38722bfc5a35e2b5/fijm26_afrotonix.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=VN1VOJS8nbw"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr"
-      }
-    ]
-  },
-  "Sumak Brass Band": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3yWoPbWlmRN0SibCLP2ZdY/09303a4dc7349bfd00401d3d74e99c26/FIJM26-generique-1104x767__1_.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=HQTpB0DlgyI"
-      }
-    ]
-  },
-  "Kassa Overall": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3sI921qAFosbLaLdsuB9no/a72ec26e0f9de808d1d35f8370071518/fijm26_kassa_overall.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=h6xQD0asp-k"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
-      }
-    ]
-  },
-  "Rémi-Jean Leblanc présente HEY DAY": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/19PNIRjLnU4DiEkcqkflsG/fbe3116c9739146c81acea089f1f1513/FIJM26-generique-1104x767__1_.jpg",
-    "description": "Rémi-Jean Leblanc - BasseÉrika Angell - VoixNic Ferron - GuitareKevin Warren   - BatterieJérome Beaulieu - Piano et Claviers",
-    "links": []
-  },
-  "Hania Rani": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5cKTk6OUFewJF8ytddBQJg/f9a4fbaa388f78c8bb3c4c01a0014813/fijm26_hania_rani_2.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=xVytWVHX4N0"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-      }
-    ]
-  },
-  "Ciné-concert : Ascenseur pour l’échafaud revisité par Rémi Cormier Quintet": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7oq3QVzaqfq28scfzgp8bK/76a19ba6f43e6347eb4d4670abb300ce/fijm26_cine_concert.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=bNSeW-LsPX4"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1ij0jiHOjNtH6lNBNaPgst"
-      }
-    ]
-  },
-  "DOMi & JD Beck": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4Q4b59hAPFqx2wKhBxWpMm/5dfed80286f2e1ceeb488fcc3a23024e/domi_jd_beck_2026.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=jJVe_6N8cLY"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
-      }
-    ]
-  },
-  "John Roney": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3MxBDlnrxABdgQhVV1iSXX/d36c7a03bb54b359ec44cb7a5566df11/fijm26_john_roney.jpg",
-    "links": []
-  },
-  "Laylit": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/Jqkutz6tKObjGABVF2PuT/e6d15aac38a225dcaa64011e28cf2987/fijm26_laylit__2_.jpg",
-    "links": []
-  },
-  "PHONO Présenté par Music Is My Sanctuary et Ferias": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3xKUHLCiYLvFVPrFsy72ky/a0a5eb6a6bc4379241258db0591e48f7/fijm26_mims_8.jpg",
-    "description": "Voir la porgrammation complète de l'After Jazz au PHONO",
-    "links": []
-  },
-  "Habitat Sonore : A Love Supreme — John Coltrane 100e": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1SK62E2pK6TrwsFKXL2Qe2/084e0872a66d494f8d8c7d2de4030d26/fijm26_habitat_sonore.jpg",
-    "links": []
-  },
-  "World of Soul": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6scspRnMIyNReZy0LtCP2n/ac8365497ec8f0316652ffd2c87692ab/fijm26_wordl_of_soul.jpg",
-    "description": "Plongez dans un monde groovy où la soul et le R’n’B se rencontrent avec élégance. Only The Righteous vous propose une signature musicale unique, mêlant habilement soul, funk, influences afro et sonorités caribéennes pour créer une ambiance à la fois chaleureuse et irrésistiblement dansante.\nLe groupe revisite avec passion des classiques incontournables, tout en intégrant ses propres compositions, offrant ainsi un équilibre dynamique entre reprises et créations originales. Chaque performance est pensée pour faire bouger le public, portée par une énergie contagieuse et des rythmes chauds.\nTarif : Sièges réservés à 10$    \n\nHoraires spectacle : 18h à 22h30",
-    "links": []
-  },
-  "Hommage à Etta James": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3HCB9FN8tVlkfP0VDrIZLe/72c993ecd536eef047eea35cce8cf0c5/fijm26_etta_james.jpg",
-    "description": "La légende de la reine du blues et de la soul.Certaines voix transcendent le temps. Celle de Etta James appartient à cette rare constellation d’artistes dont l’empreinte résonne encore dans l’âme du blues et de la soul.​Le cabaret chic Le Balcon ouvre ses portes à une soirée d’exception : Hommage à Etta James – la légende de la reine du Blues et de la Soul.​Sur scène, l’incomparable Mary Grace incarne avec intensité et raffinement ce répertoire mythique. Sa voix profonde et habitée ravive la voix qui a fait vibrer l’âme du blues, redonnant vie aux chansons qui ont façonné l’histoire de la musique.​De ballades enivrantes aux élans soul électrisants, ce spectacle célèbre l’héritage d’une voix immortelle avec élégance et passion. ​Une soirée à ne pas manquer. Réservez vos billets dès maintenant !\n\nEXPÉRIENCE SOUPER-SPECTACLE\n\nTarifs : À partir de 115 $\n\nHoraires souper : 17h30 -19h\n\nEXPÉRIENCE SPECTACLE\n\nTarifs : À partir de 44.90$\n\nHoraires spectacle : 20h30",
-    "links": []
-  },
-  "Série Compositeurs Jazz": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/70xkpYU5lXtLTd55EMl86r/86678669cd0ad6e2c7f9f0e2cb145d75/fijm26_jazz_composers_series.jpg",
-    "description": "28 Juin: Adam Goulet - GuitarSam Bags - SaxSimone Leblanc - SaxMarcelo Luiz Barbosa - BassAlex Johnson - Drums\n\n29 Juin Samuel Blais - SaxGabriel Genest - SaxCamila Cortila - Piano (NYC)Nicolas Bond - BassMatys Colpron - Drums\n30 Juin Marie Jeanne Paquet - Voice Trevor Turla - Trombone (NYC)Matt De Leon - Trombone (NYC)Jean Philippe Grégoire - GuitarDave Watts - BassAaron Dolman - Drums\n1er Juillet Rachel Therrien - Trompette Adèle Levayer - Flute Guillaume Carpentier - SaxAriane Racicot - PianoHugo Blouin - BassKulusé Souriant - Drums\n2 Juillet Bill Mahar - Trumpet Brookyn Wood - ViolonDavid Ryshpan - PianoSean Burke - BassValérie Lacombe - Drums\n\n3 Juillet Christine Jensen - Sax Claire Devlin - SaxAndrés Vial - PianoDan Martinez - Bass (NYC)Karina Colis - Drums (NYC)",
-    "links": []
-  },
   "Patrick Watson": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5dlYxb6Vh2HpI0vlc3srq4/368537bdf1afbe09e9e3f6147e53ba6d/fijm26_patrick_watson_2.jpg",
     "links": [
@@ -325,19 +9,6 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-      }
-    ]
-  },
-  "Smino": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7xLZV08aMh6mVMd8fA3hbU/bb3926088aa10f7e2b3d53c252943a5c/fijm26_smino.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Pqq7YSbw_Bg"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
       }
     ]
   },
@@ -369,20 +40,6 @@
       }
     ]
   },
-  "Christian McBride & Julian Lage": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5mjx2WnRaEGBNMU1NIxfyr/b02ebe31012e361df85584d5684e5081/fijm26_mcbride_lage.jpg",
-    "description": "Christian McBride, bassiste, contrebassiste et compositeur s'est tracé un parcours extraordinaire, s'imposant comme l'un des musiciens les plus éminents de son époque. Au cours des trois dernières décennies, ce lauréat de onze Grammy® a accompli des progrès remarquables en tant que musicien et artiste de studio dynamique, compositeur, arrangeur et producteur prolifique, éminent promoteur culturel, ainsi que pédagogue et mentor dévoué.  \n  Le guitariste et compositeur Julian Lage est depuis longtemps prolifique : au cours des trois décennies qui ont suivi la sortie du documentaire Jules at Eight, qui l'avait présenté comme un prodige, Lage a enregistré une douzaine d'albums avec ses propres groupes et en duo, et trois fois plus avec des figures de proue de son univers artistique, telles que John Zorn, Gary Burton et Charles Lloyd.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=Dhsi_p-KSG4"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-      }
-    ]
-  },
   "Sofiane Pamart": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/72ZWHlCYdcLSZGu8KPXJE3/593410a765f639d3c6716fea5c69f42b/fijm26_sofiane_pamart_2.jpg",
     "description": "Sofiane Pamart, qui réside désormais à Los Angeles, figure parmi les cinq artistes de musique classique les plus écoutés au monde en 2025. Habitué des scènes prestigieuses en France et à l’international, Sofiane Pamart est le premier pianiste de l’histoire à s’être produit au Stade de France et à l’Accor Arena Bercy, et à avoir fait salle comble dans cette salle légendaire lors de sa première tournée en solo. Son univers musical se situe quelque part entre la grande musique de film et les récits d’aventure. Son œuvre, à la fois sombre et poétique, incarne une justesse émotionnelle qui touche un large public ; c’est une œuvre grandiose accessible à tous. Son positionnement, qui croise l’élégance de la mode avec les codes de la rue, fait de lui un musicien unique, un pianiste haute couture doté de la mentalité et de l’image d’un rappeur.",
@@ -394,20 +51,6 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
-      }
-    ]
-  },
-  "Hania Rani - Non Fiction": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1rqgDeEaqEq1VqGphkrncb/0a1c9ee7c8bb5217ac1d8ea5907b6f34/fijm26_hania_rani.jpg",
-    "description": "Interprété par Hania Rani (piano) et l'invité spécial Jack Wyllie (saxophone)\n\nHania Rani est une compositrice et pianiste plusieurs fois récompensée qui évolue avec aisance entre les univers de la musique classique et expérimentale. Née à Gdańsk, en Pologne (berceau du mouvement Solidarność), elle commence à jouer du piano à l'âge de sept ans, suit une formation de pianiste classique à Varsovie, puis poursuit ses études à Berlin, où elle commence à explorer la musique électronique. Elle s'est récemment installée à Londres. Connue pour une série d'albums remarquables et en constante évolution (Esja, Home et Ghosts), elle a composé pour le cinéma, le théâtre et la télévision, notamment pour Flowers of Alice Hart et la bande originale du prochain film du réalisateur Joachim Trier, Sentimental Values.   \n\nNon Fiction est le premier concerto pour piano et la première pièce symphonique de Rani, composée en partie en réponse à la découverte en 2020 des compositions d'une jeune prodige de la musique, Josima Feldschuh, écrites pendant les horreurs de la Seconde Guerre mondiale dans le ghetto de Varsovie. Émue par l'histoire de cette jeune fille, elle a choisi de l'examiner à travers le prisme des horreurs modernes : l'invasion de l'Ukraine et le génocide à Gaza, et la façon dont nous pouvons les « observer » et les « entendre » de près grâce aux médias modernes. Ce faisant, Rani examine la coexistence constante de l'harmonie et du désordre, créant une métaphore sonore de la survie de l'esprit humain face à la violence, et utilise la valeur émotionnelle du son pour rendre ces conflits quelque peu lointains plus accessibles à notre sensibilité humaine.   \n\nS'appuyant sur la formation classique de Rani et son admiration pour la musique expérimentale et improvisée, juxtaposant symboliquement une musique précisément orchestrée à la beauté de l'élan, « Non Fiction » est un chef-d'œuvre moderne : révélateur, puissant, émouvant et profond.",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=xVytWVHX4N0"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
       }
     ]
   },
@@ -438,29 +81,17 @@
       }
     ]
   },
-  "Etran de L’Aïr": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1201IqSpUXoA8KkKBOaw6Q/8d4596ec66fcba0eb91f4ce5bcbf2e7d/fijm26_etran_de_lair.jpg",
+  "The Barr Brothers": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3GKUvXoxiiEXZn8me8Mo9b/b874f3c58386bb74e675d1fdc5e7b169/fijm26-barr_brothers.jpg",
+    "description": "Cela fait huit ans que le groupe montréalais The Barr Brothers n’avait pas sorti d’album complet. Durant cette période, la vie les a menés dans de nouvelles directions — personnelles et professionnelles — transformant profondément leur manière de faire de la musique ensemble.\n\nLeur quatrième album studio, Let it Hiss, n’est pas seulement une nouvelle collection de chansons. C’est un document de transformation. Sa création marque un tournant décisif : une pause pour réfléchir, une confrontation à la vulnérabilité, et une reconnexion entre les deux frères qui font de la musique côte à côte depuis plus de trente ans.\n\n« En 2022, nous étions arrivés à un point de rupture », explique Brad Barr, guitariste, chanteur et principal auteur du groupe. « Il était clair que quelque chose devait changer. La véritable histoire de cet album, c’est celle de ce changement et de tout ce qui a suivi. »\n\n« Let it Hiss, c’est ce qui s’est passé quand nous avons arrêté de faire semblant que tout allait bien et que nous avons enfin commencé à écouter ce qui se passait réellement », ajoute Andrew.",
     "links": [
       {
         "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=nkCwGCDaaZ4"
+        "url": "https://www.youtube.com/watch?v=MXDc2otIutA"
       },
       {
         "label": "Spotify",
-        "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
-      }
-    ]
-  },
-  "GOAT": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2IRweVZmsYqdfazqeFSOD/ef5d5506fcaf2c69fd6910ba51691833/fijm26_goat.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=3Zd4lgdZ2mo"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
       }
     ]
   },
@@ -470,19 +101,6 @@
       {
         "label": "YouTube",
         "url": "https://www.youtube.com/watch?v=fvKTkMqSTwQ"
-      }
-    ]
-  },
-  "Billy Bragg": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/31mxWYzxitnuOuHQjOCKVQ/f112a3e66adec395cf54e4b0bd6b345a/fijm26_billy_bragg.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=qGNFR7pgxDY"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
       }
     ]
   },
@@ -668,6 +286,15 @@
       }
     ]
   },
+  "John Roney": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5IWCsQ7sXtReT6aazdVpVZ/1dc38805a52434158280b5d6dc5206f3/fijm26_john_roney.jpg",
+    "links": []
+  },
+  "PHONO Présenté par Music Is My Sanctuary et Ferias": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5cxwzNLPeEUcxtXV3Uq4iF/1c50777442968d20959f5eae3672b53f/fijm26_mims_9.jpg",
+    "description": "Voir la porgrammation complète de l'After Jazz au PHONO",
+    "links": []
+  },
   "YOO II & Nolan Potter": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5sH4Gn1VxiLXpSKbkjgmqs/55cc01429073a8743cdb0abc35990480/fijm26_yooII_nolan_potter.jpg",
     "links": [
@@ -678,6 +305,110 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
+      }
+    ]
+  },
+  "Habitat Sonore : A Love Supreme — John Coltrane 100e": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/sD3I2JncF3zqeRFWFDysz/22c40cb678d945835608421b54a59129/fijm26_habitat_sonore.jpg",
+    "links": []
+  },
+  "Soul Jazz & RnB Night": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3u4YMlybdfsGNtbxNb8AkE/6762935477456e94bb4adcaced3665db/fijm26_jennifer_lee.jpg",
+    "description": "Laissez-vous porter par l’univers raffiné et évolutif de Jennifer Lee, où la soul, le R&B et les grooves s’entrelacent avec finesse. À travers un répertoire soigneusement construit, elle propose un équilibre subtil entre reprises et compositions originales, intégrées naturellement tout au long de la performance.\nSon approche musicale évolue avec fluidité, passant d’ambiances soul jazz élégantes et feutrées à des sonorités R&B plus rythmées, pour culminer dans une énergie festive inspirée du disco et de la Motown, irrésistiblement dansante.\nUn spectacle vivant et nuancé, pensé pour captiver, faire monter l’énergie et entraîner le public sur la piste de danse.\n\nTarif : Sièges réservés à 10$    \n\nHoraires spectacle : 18h à 22h30",
+    "links": []
+  },
+  "Hommage à Celia Cruz": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3vptBHYs6zWCuXjaOKXb1S/160f8234f5f2b9c36d974c1bc3a534e7/fijm26_celia_cruz.jpg",
+    "description": "LE GRAND HOMMAGE À CELIA CRUZ\nREINE DE LA MUSIQUE CUBAINE\nDans l’écrin raffiné du cabaret chic Le Balcon, laissez-vous emporter par un grand hommage  à Celia Cruz, icône éternelle et reine incontestée de la musique cubaine. Ce spectacle vibrant, à la fois authentique et dansant, vous transporte au cœur de l’âge d’or des nuits latines. Portée par une interprète d’exception à la voix puissante et à l’âme profondément ancrée dans les traditions cubaines, Lidiurki illumine la scène en invitée d’honneur. Entourée de musiciens cubains d’élite, elle redonne vie, avec grâce et intensité, à l’héritage brillant de l’une des plus grandes étoiles de la musique latine. Sous la direction musicale du charismatique tromboniste Yordan Martinez, figure incontournable du Cabaret Chic Balcon depuis 2011, ce spectacle promet une soirée électrisante où élégance, passion et rythmes enivrants se rencontrent dans une ambiance résolument chic et festive.Réservez dès maintenant.\n\nEXPÉRIENCE SOUPER-SPECTACLE\n\nTarifs : À partir de 130 $\n\nHoraires souper : 17h30 -19h\n\nEXPÉRIENCE SPECTACLE\n\nTarifs : À partir de 60$\n\nHoraires spectacle : 20h30",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=awaS-EF5_vc"
+      }
+    ]
+  },
+  "Série Compositeurs Jazz": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/EYPEcg5D6qQop2R9OUH3P/eb0c01c739b0e2f6d566ccc4e4937a69/fijm26_jazz_composers_series.jpg",
+    "description": "28 Juin: Adam Goulet - GuitarSam Bags - SaxSimone Leblanc - SaxMarcelo Luiz Barbosa - BassAlex Johnson - Drums\n\n29 Juin Samuel Blais - SaxGabriel Genest - SaxCamila Cortila - Piano (NYC)Nicolas Bond - BassMatys Colpron - Drums\n30 Juin Marie Jeanne Paquet - Voice Trevor Turla - Trombone (NYC)Matt De Leon - Trombone (NYC)Jean Philippe Grégoire - GuitarDave Watts - BassAaron Dolman - Drums\n1er Juillet Rachel Therrien - Trompette Adèle Levayer - Flute Guillaume Carpentier - SaxAriane Racicot - PianoHugo Blouin - BassKulusé Souriant - Drums\n2 Juillet Bill Mahar - Trumpet Brookyn Wood - ViolonDavid Ryshpan - PianoSean Burke - BassValérie Lacombe - Drums\n\n3 Juillet Christine Jensen - Sax Claire Devlin - SaxAndrés Vial - PianoDan Martinez - Bass (NYC)Karina Colis - Drums (NYC)",
+    "links": []
+  },
+  "Smino": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7xLZV08aMh6mVMd8fA3hbU/bb3926088aa10f7e2b3d53c252943a5c/fijm26_smino.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Pqq7YSbw_Bg"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+      }
+    ]
+  },
+  "Christian McBride & Julian Lage": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5mjx2WnRaEGBNMU1NIxfyr/b02ebe31012e361df85584d5684e5081/fijm26_mcbride_lage.jpg",
+    "description": "Christian McBride, bassiste, contrebassiste et compositeur s'est tracé un parcours extraordinaire, s'imposant comme l'un des musiciens les plus éminents de son époque. Au cours des trois dernières décennies, ce lauréat de onze Grammy® a accompli des progrès remarquables en tant que musicien et artiste de studio dynamique, compositeur, arrangeur et producteur prolifique, éminent promoteur culturel, ainsi que pédagogue et mentor dévoué.  \n  Le guitariste et compositeur Julian Lage est depuis longtemps prolifique : au cours des trois décennies qui ont suivi la sortie du documentaire Jules at Eight, qui l'avait présenté comme un prodige, Lage a enregistré une douzaine d'albums avec ses propres groupes et en duo, et trois fois plus avec des figures de proue de son univers artistique, telles que John Zorn, Gary Burton et Charles Lloyd.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Dhsi_p-KSG4"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+      }
+    ]
+  },
+  "Hania Rani - Non Fiction": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1rqgDeEaqEq1VqGphkrncb/0a1c9ee7c8bb5217ac1d8ea5907b6f34/fijm26_hania_rani.jpg",
+    "description": "Interprété par Hania Rani (piano) et l'invité spécial Jack Wyllie (saxophone)\n\nHania Rani est une compositrice et pianiste plusieurs fois récompensée qui évolue avec aisance entre les univers de la musique classique et expérimentale. Née à Gdańsk, en Pologne (berceau du mouvement Solidarność), elle commence à jouer du piano à l'âge de sept ans, suit une formation de pianiste classique à Varsovie, puis poursuit ses études à Berlin, où elle commence à explorer la musique électronique. Elle s'est récemment installée à Londres. Connue pour une série d'albums remarquables et en constante évolution (Esja, Home et Ghosts), elle a composé pour le cinéma, le théâtre et la télévision, notamment pour Flowers of Alice Hart et la bande originale du prochain film du réalisateur Joachim Trier, Sentimental Values.   \n\nNon Fiction est le premier concerto pour piano et la première pièce symphonique de Rani, composée en partie en réponse à la découverte en 2020 des compositions d'une jeune prodige de la musique, Josima Feldschuh, écrites pendant les horreurs de la Seconde Guerre mondiale dans le ghetto de Varsovie. Émue par l'histoire de cette jeune fille, elle a choisi de l'examiner à travers le prisme des horreurs modernes : l'invasion de l'Ukraine et le génocide à Gaza, et la façon dont nous pouvons les « observer » et les « entendre » de près grâce aux médias modernes. Ce faisant, Rani examine la coexistence constante de l'harmonie et du désordre, créant une métaphore sonore de la survie de l'esprit humain face à la violence, et utilise la valeur émotionnelle du son pour rendre ces conflits quelque peu lointains plus accessibles à notre sensibilité humaine.   \n\nS'appuyant sur la formation classique de Rani et son admiration pour la musique expérimentale et improvisée, juxtaposant symboliquement une musique précisément orchestrée à la beauté de l'élan, « Non Fiction » est un chef-d'œuvre moderne : révélateur, puissant, émouvant et profond.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=xVytWVHX4N0"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+      }
+    ]
+  },
+  "Etran de L’Aïr": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1201IqSpUXoA8KkKBOaw6Q/8d4596ec66fcba0eb91f4ce5bcbf2e7d/fijm26_etran_de_lair.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=nkCwGCDaaZ4"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
+      }
+    ]
+  },
+  "GOAT": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2IRweVZmsYqdfazqeFSOD/ef5d5506fcaf2c69fd6910ba51691833/fijm26_goat.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=3Zd4lgdZ2mo"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+      }
+    ]
+  },
+  "Billy Bragg": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/31mxWYzxitnuOuHQjOCKVQ/f112a3e66adec395cf54e4b0bd6b345a/fijm26_billy_bragg.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=qGNFR7pgxDY"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
       }
     ]
   },
@@ -760,17 +491,26 @@
       }
     ]
   },
-  "The Barr Brothers": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3GKUvXoxiiEXZn8me8Mo9b/b874f3c58386bb74e675d1fdc5e7b169/fijm26-barr_brothers.jpg",
-    "description": "Cela fait huit ans que le groupe montréalais The Barr Brothers n’avait pas sorti d’album complet. Durant cette période, la vie les a menés dans de nouvelles directions — personnelles et professionnelles — transformant profondément leur manière de faire de la musique ensemble.\n\nLeur quatrième album studio, Let it Hiss, n’est pas seulement une nouvelle collection de chansons. C’est un document de transformation. Sa création marque un tournant décisif : une pause pour réfléchir, une confrontation à la vulnérabilité, et une reconnexion entre les deux frères qui font de la musique côte à côte depuis plus de trente ans.\n\n« En 2022, nous étions arrivés à un point de rupture », explique Brad Barr, guitariste, chanteur et principal auteur du groupe. « Il était clair que quelque chose devait changer. La véritable histoire de cet album, c’est celle de ce changement et de tout ce qui a suivi. »\n\n« Let it Hiss, c’est ce qui s’est passé quand nous avons arrêté de faire semblant que tout allait bien et que nous avons enfin commencé à écouter ce qui se passait réellement », ajoute Andrew.",
+  "Sumak Brass Band": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/563waq6wpWOeLsWkVC32FJ/d23f0517a501e1be96d6f0ef4ad9e66d/FIJM26-generique-1104x767__1_.jpg",
     "links": [
       {
         "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=MXDc2otIutA"
+        "url": "https://www.youtube.com/watch?v=HQTpB0DlgyI"
+      }
+    ]
+  },
+  "KOKOROKO": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3NNXIFacqOgXyuu6BEDnem/98dab43ba3cfb7d5324b9fd0653a50ec/fijm26_kokoroko.jpg",
+    "description": "Filmé pour\n  \n  \n  \n\n  \n    et",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=3IK_RAx4l9c"
       },
       {
         "label": "Spotify",
-        "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
       }
     ]
   },
@@ -845,21 +585,6 @@
       }
     ]
   },
-  "Soul Jazz & RnB Night": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3u4YMlybdfsGNtbxNb8AkE/6762935477456e94bb4adcaced3665db/fijm26_jennifer_lee.jpg",
-    "description": "Laissez-vous porter par l’univers raffiné et évolutif de Jennifer Lee, où la soul, le R&B et les grooves s’entrelacent avec finesse. À travers un répertoire soigneusement construit, elle propose un équilibre subtil entre reprises et compositions originales, intégrées naturellement tout au long de la performance.\nSon approche musicale évolue avec fluidité, passant d’ambiances soul jazz élégantes et feutrées à des sonorités R&B plus rythmées, pour culminer dans une énergie festive inspirée du disco et de la Motown, irrésistiblement dansante.\nUn spectacle vivant et nuancé, pensé pour captiver, faire monter l’énergie et entraîner le public sur la piste de danse.\n\nTarif : Sièges réservés à 10$    \n\nHoraires spectacle : 18h à 22h30",
-    "links": []
-  },
-  "Hommage à Celia Cruz": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3vptBHYs6zWCuXjaOKXb1S/160f8234f5f2b9c36d974c1bc3a534e7/fijm26_celia_cruz.jpg",
-    "description": "LE GRAND HOMMAGE À CELIA CRUZ\nREINE DE LA MUSIQUE CUBAINE\nDans l’écrin raffiné du cabaret chic Le Balcon, laissez-vous emporter par un grand hommage  à Celia Cruz, icône éternelle et reine incontestée de la musique cubaine. Ce spectacle vibrant, à la fois authentique et dansant, vous transporte au cœur de l’âge d’or des nuits latines. Portée par une interprète d’exception à la voix puissante et à l’âme profondément ancrée dans les traditions cubaines, Lidiurki illumine la scène en invitée d’honneur. Entourée de musiciens cubains d’élite, elle redonne vie, avec grâce et intensité, à l’héritage brillant de l’une des plus grandes étoiles de la musique latine. Sous la direction musicale du charismatique tromboniste Yordan Martinez, figure incontournable du Cabaret Chic Balcon depuis 2011, ce spectacle promet une soirée électrisante où élégance, passion et rythmes enivrants se rencontrent dans une ambiance résolument chic et festive.Réservez dès maintenant.\n\nEXPÉRIENCE SOUPER-SPECTACLE\n\nTarifs : À partir de 130 $\n\nHoraires souper : 17h30 -19h\n\nEXPÉRIENCE SPECTACLE\n\nTarifs : À partir de 60$\n\nHoraires spectacle : 20h30",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=awaS-EF5_vc"
-      }
-    ]
-  },
   "Disco Queen Live!": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5ED0VFvqs6RkvfAhZu2f2m/cc6d07dd5c0a08a7b1a189073b3da1de/fijm26_rachelle_jeanty.jpg",
     "description": "Disco Queen Live, c’est LE grand show hommage aux divas du disco ! Portée par Rachelle Jeanty, la reine du disco elle-même et une formation live exceptionnelle, cette production spectaculaire revisite les plus grands succès de Donna Summer, Gloria Gaynor, Thelma Houston et bien d’autres. Une célébration flamboyante du pouvoir des voix féminines, du groove irrésistible et du glamour infini des années 70. Quand le disco retrouve sa couronne ! Achetez vos billets dès maintenant, on se retrouve sur la piste de danse !\n\nEXPÉRIENCE SOUPER-SPECTACLE\n\nTarifs : À partir de 130 $\n\nHoraires souper : 17h30 -19h\n\nEXPÉRIENCE SPECTACLE\n\nTarifs : À partir de 60$\n\nHoraires spectacle : 20h30",
@@ -869,20 +594,6 @@
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/68V5o3svNIZn47LPq0YOBx/481474f5daea222d7552007104838766/fijm26_funktastique.jpg",
     "description": "Pour une fin de soirée endiablée aux rythmes Boogie, Modern et Jazz Funk,  rejoignez la piste de danse XXL du duo de DJ montréalais Voyage Funktastique. Depuis plus de 13 ans, cet évènement mensuel reconnu mondialement attire les meilleurs danseurs de la ville grâce à la sélection de vyniles vintage de Walla P et Dr. Mad.\n\nLors de cette édition spéciale du Festival International de Jazz de Montréal jusqu'à 4h du matin, attendez vous à un hommage aux influences jazz via une sélection fusion Brit-Funk, Jazz Disco, Jazz-Funk japonais et plus encore!\n\nEXPÉRIENCE SPECTACLE\n\nTarifs : 20$\n\nHoraires spectacle : 23h à 4h",
     "links": []
-  },
-  "KOKOROKO": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3NNXIFacqOgXyuu6BEDnem/98dab43ba3cfb7d5324b9fd0653a50ec/fijm26_kokoroko.jpg",
-    "description": "Filmé pour\n  \n  \n  \n\n  \n    et",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=3IK_RAx4l9c"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-      }
-    ]
   },
   "Angine de Poitrine": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5KVl1CUBfUr0kn0t1Mdmhs/95d600749edd53b1d56061b41902ee8d/fijm26_angine_de_poitrine.jpg",
@@ -963,6 +674,19 @@
       }
     ]
   },
+  "Saint Levant": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/Nn0Wfo0KFWEEYjmjIswB6/89f3d4019063573787d5ff94bf0c7fdb/fijm26_saint_levant.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=tCwh9GRLWQs"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+      }
+    ]
+  },
   "Max Richter": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/44N2VTW4DqQ8XRM5IVBLZ/d0709bccd902d97788ab3ac4387404c6/fijm26_max_richter.jpg",
     "description": "Figure marquante de la musique classique contemporaine, Max Richter présente sa tournée mondiale « The Blue Notebooks and In A Landscape » à la Salle Wilfrid-Pelletier, Montréal, où il interprétera une sélection de ses œuvres les plus appréciées sur scène avec ses musiciens, The American Contemporary Music Ensemble (ACME). \n\nEn anglais: \n\nAmerican Contemporary Music Ensemble (ACME)\n\nBen Russell, violin\nGeorge Meyer, violin\nKal Sugatski, viola\nAndrew Janss, cello\nCaleb van der Swaagh, cello\n\nSince 2004, led by cellist and artistic director Clarice Jensen, the American Contemporary Music Ensemble (ACME) has risen to the highest ranks of American new music through a mix of meticulous musicianship, artistic vision, engaging collaborations, and unwavering standards in every regard. NPR calls them “contemporary music dynamos,” and Strings reports, “ACME’s absorbing playing pulsed with warm energy. . . Shared glances and inhales triggered transitions in a flow so seamless it seemed learned in a Jedi temple.” ACME has been honored by ASCAP for the “virtuosity, passion, and commitment with which it performs and champions American composers.” The ensemble has performed at leading international venues including Lincoln Center, Carnegie Hall, BAM, The Kennedy Center, Washington Performing Arts, UCLA's Royce Hall, Stanford Live, Chicago’s Millennium Park, Duke Performances, STG Presents in Seattle, Melbourne Recital Hall and Sydney Opera House in Australia, and at festivals including the Sacrum Profanum Festival in Poland, All Tomorrow's Parties in England, Auckland Arts Festival in New Zealand, Summer Nostos Festival in Greece, Boston Calling, and Big Ears. In addition to recording the work for Deutsche Grammophon, ACME has performed Max Richter’s Sleep (an eight-hour lullaby for a sleeping audience) with him around the world, including at the Great Wall of China; on the piers of Auckland, New Zealand; in Hobart, Tasmania; at the Sydney Opera House; and in LA’s Grand Park, among others. The ensemble's recordings appear on Deutsche Grammophon, Sono Luminus, New World Records, and New Amsterdam Records. www.acmemusic.org",
@@ -1016,6 +740,20 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+      }
+    ]
+  },
+  "Melody Gardot": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4gYMF9HYqXREHYp2CulcsF/fb85a352c0aee1c1457399a90158ce05/fijm26_melody_gardot__2_.jpg",
+    "description": "Melody Gardot est une musicienne dotée d'une sensibilité et d'un équilibre rare et remarquable. C'est une chanteuse dont la voix est immédiatement reconnaissable, caractérisée par une délicatesse envoûtante et une précision émotionnelle pénétrante. C'est une compositrice dont les mélodies définissent un équilibre entre économie lyrique et ampleur luxuriante et passionnée.  \n\nC'est une artiste qui maîtrise l'utilisation du studio, se forgeant une identité musicale tout en expérimentant diverses approches d'enregistrement et styles musicaux, produisant des albums d'une cohérence étonnante — une réussite qui a commencé dès le tout début de sa carrière.  \n\nParmi les innombrables chanteurs présents sur la scène musicale actuelle, seuls quelques-uns ont atteint ces trois sommets musicaux.  \n\nVingt ans après avoir lancé sa carrière, Melody Gardot fait aujourd'hui partie du cercle très fermé de ces artistes rares, dont la musique a eu un impact populaire et  a séduit le grand public.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=Bgs8S67xx2Q"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
       }
     ]
   },
@@ -1099,6 +837,20 @@
       }
     ]
   },
+  "Tortoise": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3h5rMCtlxfWvLFjI53mNK8/71dee30ad27a948f1a4798ac31c14a74/fijm26_tortoise__2_.jpg",
+    "description": "Tortoise est largement considéré comme l'un des groupes musicaux les plus influents de ces quarante dernières années, avec un impact considérable sur la scène musicale contemporaine.  \nAvec seulement sept albums sortis depuis 1990 — dont des classiques tels que Millions Now Living Will Never Die (1996), TNT (1998) et Standards (2001) —, Tortoise a évolué de manière constante et intuitive tout au long de son existence, créant une musique sans genre, aussi intemporelle qu’avant-gardiste.  \nL’héritage du groupe va également au-delà de sa discographie. Selon le New York Times : « Alors que les albums de Tortoise ont exploré les possibilités d’édition et de superposition en studio, le groupe s’épanouit sur scène, en temps réel. » Rolling Stone qualifie Tortoise de « merveille sur scène », tandis que Pitchfork ajoute que les performances du groupe révèlent qu’« au fond, c’est un groupe extrêmement divertissant, ouvert à toutes sortes de possibilités sonores. »",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=EwJf5fw57Yo"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+      }
+    ]
+  },
   "Marcus Miller": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/70jO85DEyHG3Rivql9pQhV/745144f3c6c5b8815c66ef62d68db172/fijm24_marcus_miller.jpg",
     "description": "L'été 2026 marquera le 100e anniversaire de la naissance de Miles Davis, et le monde célébrera sans aucun doute cette étape monumentale.   \n\nMarcus Miller a réuni un groupe explosif, comprenant les membres originaux du groupe qui a accompagné le retour de Miles Davis dans les années 1980, avec Marcus Miller à la basse électrique, Mike Stern à la guitare, Bill Evans au saxophone et Mino Cinelu aux percussions. Le talentueux trompettiste Russell Gunn, qui a tourné avec Marcus Miller au cours de la dernière décennie, mettra en avant ses interprétations uniques de la musique de Davis. Claviériste et batteur à confirmer  \n\nLe projet We Want Miles ! présentera une sélection de morceaux tirés de l'enregistrement live emblématique de 1981 « We Want Miles ! » au Japon, ainsi que des compositions classiques issues du célèbre catalogue de Miles, couvrant les années 1950 et 1960, jusqu'à sa dernière période avec « Tutu » en 1986 et « Amandla » en 1989, tous deux composés et produits par Marcus Miller. « Je suis vraiment ravi de réunir à nouveau ce groupe en l'honneur de Miles », confie Miller. « Depuis qu'ils ont joué dans le groupe de Miles en tant que jeunes musiciens dans les années 1980, tous ces gars sont devenus des artistes respectés à part entière. » À propos du voyage musical qui attend le public, Miller déclare : « Nous allons bien sûr jouer la musique de toutes les périodes importantes de la carrière de Miles, mais je vais également faire appel à ces musiciens incroyables pour emmener Miles vers le futur et explorer d'autres choses que Miles aurait pu apprécier de jouer à l'avenir. » Après tout, comme le fait remarquer Miller, « Miles n'était pas du genre à regarder en arrière ; il était toujours concentré sur ce qui l'attendait. »  \n\nLe projet We Want Miles ! de Marcus Miller promet d'être un hommage passionnant à l'une des figures les plus importantes non seulement du jazz, mais aussi de l'histoire de la musique en général.",
@@ -1138,6 +890,20 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/1uVXezA2zuHxGwdKZHDOaj"
+      }
+    ]
+  },
+  "Taj Mahal & The Phantom Blues Band": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3XmZnMah2w6W9kHKWaDyCX/570c89a1852298b84ac2645045814dfd/fijm26_taj_mahal.jpg",
+    "description": "Taj Mahal n'attend pas la permission. Si un son l'intrigue, il se met en tête de le reproduire. Si ses origines le mystifient, il part à leur recherche. Si des règles se dressent sur son chemin, il les enfreint sans vergogne. Pour Taj, les conventions n'ont aucune importance, mais les traditions sont sacrées. Il a fait progresser la musique et la culture, tout en gardant un regard affectueux sur le passé. « Je veux simplement pouvoir créer la musique que j'entends, et c'est ce que j'ai fait », explique Taj. « Quand je dis « j'ai fait », ce n'est pas par ego. La musique vient de quelque part. Vous n'êtes que le canal par lequel elle passe. » \n\nTaj est une figure musicale imposante, une légende qui a transcendé le blues non pas en le laissant derrière lui, mais en révélant son magnifique champ d'application. « Le blues est plus grand que la plupart des gens ne le pensent », dit-il. « On pourrait entendre Mozart jouer du blues. » \n\nArtiste brillant doté d'un esprit de musicologue, il a exploré et sublimé les racines de ces sons tant appréciés avec un dévouement et un talent sans limites. En remontant leurs origines jusqu'au sud des États-Unis, aux Caraïbes, en Afrique et ailleurs, il a créé des sons entièrement nouveaux. \n\nIl est impossible de quantifier l'importance de Taj, mais les gens essaient quand même. Il apprécie les éloges, mais sa motivation est ailleurs : « Ce qui compte, c'est que je puisse l'entendre, que je l'ai fait. »",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=XcKSrzCM-QE"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
       }
     ]
   },
@@ -1308,6 +1074,32 @@
       }
     ]
   },
+  "Bayou": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4wPvY5N72OeUnw9ifbTgr/85a3c904198286600cbc6370de221657/fijm26_bayou.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=RLJs85CJBMA"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
+      }
+    ]
+  },
+  "The Free Label": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3wdSJYVyHLr7Wrvk0Y61FZ/643c3163f722a8347a97c5e8844deca0/fijm26_free_label.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=DWEjF-57E34"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
+      }
+    ]
+  },
   "Lila Downs": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3GzikjQP7XTXUskYruK3Pn/2951022b8c3484dc5bae749d165aaad0/fijm26_lila_downs.jpg",
     "links": [
@@ -1357,6 +1149,19 @@
       {
         "label": "Spotify",
         "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+      }
+    ]
+  },
+  "Saint Levant X Abu Levant DJ Set": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4Y01mkXykzG9dgwHgcfVfH/fa147a1b0dbd8d58eb0c2bdbe06d8fa7/fijm26_saint_levant.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=tCwh9GRLWQs"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
       }
     ]
   },
@@ -1486,6 +1291,19 @@
       {
         "label": "YouTube",
         "url": "https://www.youtube.com/watch?v=Of_bslZM7zs"
+      }
+    ]
+  },
+  "Ranee Lee": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2bigTI8mR9YTwrRgjFNfnN/647ab2f4196e26f1d0be45eaad94aa7d/fijm26_ranee_lee.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=nxxKwDgfenI"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/3G8y9C5n1gfzBzha69Ca1G"
       }
     ]
   },
@@ -1815,6 +1633,16 @@
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6UT6YJorH66aUeTIPmZtsa/85d16fb4d9d6a0564ebc8b8fc07341dd/FIJM26-generique-1104x767__1_.jpg",
     "description": "Jean-Marc Hébert - GuitareLex French - TrompetteMorgan Moore - ContrebassePierre Tanguay - Batterie",
     "links": []
+  },
+  "AMADOU ET MARIAM : SONS DU MALI": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2z8NWwiUhYfj4MZkvjAsE/f11504c55b658cd485340db07b54c38f/fijm26_amadou_mariam.jpg",
+    "description": "Horaire\n\nSous-titres FR\n\nVendredi 26 juin - 19h30\n\nDimanche 28 juin - 19h00\n\nMardi 30 juin - 17h00\n\nMercredi 1 juillet - 17h00\n\nSous-titres AN\n\nSamedi 27 juin - 14h30\n\nLundi 29 juin - 19h30\n\nJeudi 2 juillet - 17h00\n\nDepuis les années 1980, Amadou & Mariam se sont imposé·es comme des figures majeures de la musique ouest-africaine contemporaine, touchant des millions de personnes à travers le monde avec un style immédiatement identifiable. Tous deux aveugles, ils ont développé une manière unique d’appréhender la musique, fondée sur l’écoute, le geste et l’intuition.\n\nLe film suit les artistes alors qu’ils travaillent sur un nouvel album et préparent un grand concert de retour dans leur pays natal. Entre séances de studio, répétitions et moments de vie en tournée, le film dessine le portrait d’un duo animé par une joie communicative et une foi inébranlable dans le pouvoir du son à rassembler.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=RdxBA9mur4g"
+      }
+    ]
   },
   "Lorraine Desmarais": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/2wliV1pBarXJdn0OxyGUtC/de018a5ebca9bf7a8c45a63c3bf716d0/fijm26_lorraine_desmarais_2.jpg",
@@ -2382,6 +2210,15 @@
       }
     ]
   },
+  "Yordan & The Cuban Martinez Show": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7GWLn9dJLex8WMP8ECGZka/a02cdb55aac523a3aab085424f6ffbe8/fijm26_yordan_tcms.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=awaS-EF5_vc"
+      }
+    ]
+  },
   "Gentiane MG Trio": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/Gy9YNnLzIJG3I0iQP4bR2/80888200cd25254de4be748e354d12ef/FIJM26-generique-1104x767__1_.jpg",
     "description": "Gentiane MG - PianoLevi Dover - ContrebasseMark Nelson - Batterie",
@@ -2826,6 +2663,159 @@
       }
     ]
   },
+  "Big band de l'école de Jazz de Montréal": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1mVH7NGbj7VrPHc0Qyot1v/7ae2127a357a6e5776d0e23057ff57ba/fijm26_ecole_jazz_mtl.jpg",
+    "links": []
+  },
+  "Yvan Belleau": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6Ww9QnLbNB8pOBNlk1oSHC/d10ff9e0712e219df401fae3f67d468d/fijm26_yvan_belleau.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=dwn1AD7pD-w"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/5FbQ400Yjn39QyBXfS26Mq"
+      }
+    ]
+  },
+  "CHANCES": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7eN59zrOvVdCnf6SsAlNow/68f8719bda4230bdbfa6de513c3b3cf3/fijm26_chances.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=M1JYfDLbm5M"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/43rnFVPi0HzBK1CTrjIhBZ"
+      }
+    ]
+  },
+  "Kazdoura": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/1GqsCIQdLRCEQeIaUTYlkZ/8d1263f5e2df2dd9245a62bff681abb1/fijm26_kazdoura.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=HyFU0FEfkCQ"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7zm6lF98wKwyohB2zFetum"
+      }
+    ]
+  },
+  "Rythmologie": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3l5gssKRFvjYUUOTuQ2tYK/00c9ccb280d53823e3def54e11c9c10c/fijm26_cism_jazzette.jpg",
+    "description": "Diffusée sur les ondes de CISM depuis mai 2003, Rythmologie est LA référence montréalaise ultime en funk, jazz, hip-hop, électro et autres musiques festives de tout acabit. L’animateur Étienne Champagne décortiquera en votre compagnie les spectacles qu’il aura vu jusqu’à maintenant au festival en plus de s’entretenir avec des artistes de la programmation.",
+    "links": []
+  },
+  "Thee Marloes": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4R4cxwncKR33EuQxPkgNco/f9d34f3fb6d22f6fd72f9664dafdf7c1/fijm26_thee_marloes.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=EKvzbJ0DMcg"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+      }
+    ]
+  },
+  "Annahstasia": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/10GWqtC68O6cIy4c2MFQKG/d33697612c9e31cdf1084080893bd78e/fijm26_annahstasia.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=yt_FxQXBvBw"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+      }
+    ]
+  },
+  "Ariane Racicot Trio": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/WV86xbzZktIneXGfHXF20/9864230da8dbe6268cba10c523b27a3c/FIJM26-generique-1104x767__1_.jpg",
+    "description": "Ariane Racicot - PianoAntoine Rochefort - BasseGuillaume Picard - Batterie",
+    "links": []
+  },
+  "Afrotronix": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6gNiBOFkEb62C0R2mxha5o/40e931def26ed6cf38722bfc5a35e2b5/fijm26_afrotonix.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=VN1VOJS8nbw"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr"
+      }
+    ]
+  },
+  "Kassa Overall": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3sI921qAFosbLaLdsuB9no/a72ec26e0f9de808d1d35f8370071518/fijm26_kassa_overall.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=h6xQD0asp-k"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+      }
+    ]
+  },
+  "Rémi-Jean Leblanc présente HEY DAY": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/19PNIRjLnU4DiEkcqkflsG/fbe3116c9739146c81acea089f1f1513/FIJM26-generique-1104x767__1_.jpg",
+    "description": "Rémi-Jean Leblanc - BasseÉrika Angell - VoixNic Ferron - GuitareKevin Warren   - BatterieJérome Beaulieu - Piano et Claviers",
+    "links": []
+  },
+  "Hania Rani": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/5cKTk6OUFewJF8ytddBQJg/f9a4fbaa388f78c8bb3c4c01a0014813/fijm26_hania_rani_2.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=xVytWVHX4N0"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+      }
+    ]
+  },
+  "Ciné-concert : Ascenseur pour l’échafaud revisité par Rémi Cormier Quintet": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7oq3QVzaqfq28scfzgp8bK/76a19ba6f43e6347eb4d4670abb300ce/fijm26_cine_concert.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=bNSeW-LsPX4"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/1ij0jiHOjNtH6lNBNaPgst"
+      }
+    ]
+  },
+  "DOMi & JD Beck": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4Q4b59hAPFqx2wKhBxWpMm/5dfed80286f2e1ceeb488fcc3a23024e/domi_jd_beck_2026.jpg",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=jJVe_6N8cLY"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+      }
+    ]
+  },
+  "Laylit": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/Jqkutz6tKObjGABVF2PuT/e6d15aac38a225dcaa64011e28cf2987/fijm26_laylit__2_.jpg",
+    "links": []
+  },
   "Sparklmami": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/7CejK4LmSwswMEwINbeayz/07ea3e3d3cb4fd42d6eb69376db3d6ec/fijm26_sparklmami.jpg",
     "links": [
@@ -2899,6 +2889,16 @@
   "Mercredis Live Jazz": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4v0fFqyBZro5T2llC3V7fi/c0d597076815ce71b39ac42b4cbdaa6d/fijm26_mercredis_jazz.jpg",
     "description": "Bienvenue aux Mercredis Live Jazz, une véritable immersion au cœur des grandes voix et des émotions intemporelles du jazz et du blues. Sur scène, l’incomparable Mary Grace interprète avec intensité, élégance et raffinement un répertoire jazz populaire empreint d’âme et de passion. Sa voix profonde et habitée fait revivre les chansons emblématiques qui ont marqué l’histoire de la musique, ravivant l’esprit des grandes divas du jazz dans une performance à la fois vibrante, chaleureuse et inoubliable.\n\nTarif : Sièges réservés à 10$    \n\nHoraires spectacle : 18h à 22h30",
+    "links": []
+  },
+  "World of Soul": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/6scspRnMIyNReZy0LtCP2n/ac8365497ec8f0316652ffd2c87692ab/fijm26_wordl_of_soul.jpg",
+    "description": "Plongez dans un monde groovy où la soul et le R’n’B se rencontrent avec élégance. Only The Righteous vous propose une signature musicale unique, mêlant habilement soul, funk, influences afro et sonorités caribéennes pour créer une ambiance à la fois chaleureuse et irrésistiblement dansante.\nLe groupe revisite avec passion des classiques incontournables, tout en intégrant ses propres compositions, offrant ainsi un équilibre dynamique entre reprises et créations originales. Chaque performance est pensée pour faire bouger le public, portée par une énergie contagieuse et des rythmes chauds.\nTarif : Sièges réservés à 10$    \n\nHoraires spectacle : 18h à 22h30",
+    "links": []
+  },
+  "Hommage à Etta James": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3HCB9FN8tVlkfP0VDrIZLe/72c993ecd536eef047eea35cce8cf0c5/fijm26_etta_james.jpg",
+    "description": "La légende de la reine du blues et de la soul.Certaines voix transcendent le temps. Celle de Etta James appartient à cette rare constellation d’artistes dont l’empreinte résonne encore dans l’âme du blues et de la soul.​Le cabaret chic Le Balcon ouvre ses portes à une soirée d’exception : Hommage à Etta James – la légende de la reine du Blues et de la Soul.​Sur scène, l’incomparable Mary Grace incarne avec intensité et raffinement ce répertoire mythique. Sa voix profonde et habitée ravive la voix qui a fait vibrer l’âme du blues, redonnant vie aux chansons qui ont façonné l’histoire de la musique.​De ballades enivrantes aux élans soul électrisants, ce spectacle célèbre l’héritage d’une voix immortelle avec élégance et passion. ​Une soirée à ne pas manquer. Réservez vos billets dès maintenant !\n\nEXPÉRIENCE SOUPER-SPECTACLE\n\nTarifs : À partir de 115 $\n\nHoraires souper : 17h30 -19h\n\nEXPÉRIENCE SPECTACLE\n\nTarifs : À partir de 44.90$\n\nHoraires spectacle : 20h30",
     "links": []
   },
   "Lionel Richie and Earth, Wind & Fire": {
