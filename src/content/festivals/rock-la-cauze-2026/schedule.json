@@ -1,0 +1,129 @@
+[
+  {
+    "date": "2026-08-06",
+    "venue": "Scène principale",
+    "paid": false,
+    "time": "18:00",
+    "artist": "Mr 82",
+    "country": "Québec"
+  },
+  {
+    "date": "2026-08-06",
+    "venue": "Scène principale",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Kamakazi",
+    "country": "Québec"
+  },
+  {
+    "date": "2026-08-06",
+    "venue": "Scène principale",
+    "paid": false,
+    "time": "20:00",
+    "artist": "Exterio",
+    "country": "Québec"
+  },
+  {
+    "date": "2026-08-06",
+    "venue": "Scène principale",
+    "paid": false,
+    "time": "22:00",
+    "artist": "L’expédition",
+    "country": "Québec"
+  },
+  {
+    "date": "2026-08-07",
+    "venue": "Scène principale",
+    "paid": true,
+    "time": "15:45",
+    "artist": "Malevolence"
+  },
+  {
+    "date": "2026-08-07",
+    "venue": "Scène principale",
+    "paid": true,
+    "time": "16:45",
+    "artist": "Machine Head"
+  },
+  {
+    "date": "2026-08-07",
+    "venue": "Scène principale",
+    "paid": true,
+    "time": "17:45",
+    "artist": "Basterds"
+  },
+  {
+    "date": "2026-08-07",
+    "venue": "Scène principale",
+    "paid": true,
+    "time": "18:45",
+    "artist": "August Burns red"
+  },
+  {
+    "date": "2026-08-07",
+    "venue": "Scène principale",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Hollywood Undead"
+  },
+  {
+    "date": "2026-08-07",
+    "venue": "Scène principale",
+    "paid": true,
+    "time": "22:00",
+    "artist": "Killswitch Engage",
+    "country": "États-Unis"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène principale",
+    "paid": true,
+    "time": "15:00",
+    "artist": "Ambrosine"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène principale",
+    "paid": true,
+    "time": "15:45",
+    "artist": "2fast4u"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène principale",
+    "paid": true,
+    "time": "16:45",
+    "artist": "Save Ferris",
+    "country": "États-Unis"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène principale",
+    "paid": true,
+    "time": "17:45",
+    "artist": "Voodoo Glow Skulls"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène principale",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Zebrahead"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène principale",
+    "paid": true,
+    "time": "20:30",
+    "artist": "STORY OF THE YEAR",
+    "country": "États-Unis"
+  },
+  {
+    "date": "2026-08-08",
+    "venue": "Scène principale",
+    "paid": true,
+    "time": "22:00",
+    "artist": "I PREVAIL",
+    "country": "États-Unis"
+  }
+]

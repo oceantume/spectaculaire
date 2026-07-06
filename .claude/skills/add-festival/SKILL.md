@@ -72,6 +72,16 @@ Caution: POST-only custom endpoints often serve user-favorites or ICS export fea
 
 Caution: Custom post types exposed via `wp/v2/types` may lack scheduling data (date, time, venue) — those fields are often only in the rendered HTML. If the REST endpoints return only post metadata and taxonomy IDs, fall through to HTML parsing (pattern F).
 
+**Hybrid: JetEngine/Elementor custom post type + taxonomy terms, with time/bio only in HTML.** Some WordPress + Elementor + JetEngine sites expose a custom post type (e.g. `artistes`) with useful taxonomies but no date/time meta in REST. Detection: `wp/v2/types` shows a custom type whose taxonomies include something like `date` (terms are full display strings like `"Vendredi 7 août 2026"`, not ISO dates) plus a `provenance`/origin taxonomy. Approach:
+- Fetch `wp/v2/{taxonomy}?per_page=100` for the `date` and `provenance`(-equivalent) taxonomies to build id→name maps once.
+- Fetch `wp/v2/{cpt}?per_page=100&{edition_taxonomy}={term_id}` filtered to the current edition/year term — gives artist name, slug, and taxonomy term-id arrays (date, country) directly, no need to guess post IDs from the listing page.
+- Parse the date term name with a small French month-name map (`janvier`→`01` … `décembre`→`12`) via regex `(\d{1,2})\s+([a-zûé]+)\s+(\d{4})`.
+- **Time is often missing from REST entirely** — it's rendered as a bare `<h2>` heading on the artist's own detail page (Elementor `heading` widget), right after a `jet-listing-dynamic-terms` widget showing the date term. Fetch each detail page and grab the first/only `h2.elementor-heading-title`.
+- **Bio is also missing from REST** (JetEngine CPTs commonly don't expose `content`) — scrape the `elementor-widget-text-editor` widget(s) on the detail page instead. Elementor reuses the same widget `data-id` across every post built from one template, so a shared site-wide block (e.g. a footer copyright text-editor widget) can show up as a false match — filter it out by its known text rather than relying on selector position.
+- Image: prefer the `og:image` meta tag on the detail page over trying to resolve `featured_media` through another REST call — it's already the full-size URL.
+- Band-level social links are usually absent (only the festival's own Facebook/Instagram appear in the HTML) — leave `links: []` rather than accidentally attaching the festival's own accounts.
+- Reference implementation: `scripts/festivals/rock-la-cauze-2026.ts`.
+
 **E. FestApp widget (Convex backend)**
 Search the page source for `festapp` or `api.sync.festapp.io`. If found, the schedule is served by a Convex backend and this approach gives full structured data including dates, times, venues, paid/free, bios, images, and links.
 

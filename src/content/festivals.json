@@ -210,6 +210,21 @@
     "endDate": "2026-08-09"
   },
   {
+    "name": "Rock la Cauze 2026",
+    "shortName": "Rock la Cauze 2026",
+    "slug": "rock-la-cauze-2026",
+    "year": 2026,
+    "region": "Victoriaville",
+    "features": ["filter-free", "filter-quebec"],
+    "dataDir": "rock-la-cauze-2026",
+    "sourceUrl": "https://rocklacauze.com/programmation/",
+    "sourceLabel": "rocklacauze.com",
+    "sourceAttribution": "Contenu appartenant au Festival Rock la Cauze",
+    "draft": false,
+    "startDate": "2026-08-06",
+    "endDate": "2026-08-08"
+  },
+  {
     "name": "St-Roch XP 2026",
     "shortName": "St-Roch XP 2026",
     "slug": "strochxp-2026",
