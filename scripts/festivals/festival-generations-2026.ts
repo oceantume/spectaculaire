@@ -4,7 +4,7 @@ import type { Row } from "../../src/types.ts";
 import { writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/festival-generations-2026");
+const dataDir = path.join(__dirname, "../../src/data/festivals/festival-generations-2026");
 
 // Schedule extracted from the PNG schedule images on the programmation page.
 // The source has no structured API — the schedule is published as image files only.

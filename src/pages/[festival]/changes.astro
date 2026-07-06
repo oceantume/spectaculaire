@@ -11,7 +11,7 @@ export function getStaticPaths() {
 }
 
 type Props = { festival: Festival };
-const { festival } = Astro.props;
+const { festival }: Props = Astro.props;
 
 const changelog: ChangelogCommit[] = getFestivalChangelog(festival.dataDir);
 

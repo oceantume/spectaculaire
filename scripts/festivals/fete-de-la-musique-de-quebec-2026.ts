@@ -5,7 +5,7 @@ import type { ArtistDetailEntry, Row } from "../../src/types.ts";
 import { writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/fete-de-la-musique-de-quebec-2026");
+const dataDir = path.join(__dirname, "../../src/data/festivals/fete-de-la-musique-de-quebec-2026");
 
 // Sponsor names stripped; short names from fetedelamusiquedequebec.com/les-scenes/
 const VENUE_NAMES: Record<string, string> = {

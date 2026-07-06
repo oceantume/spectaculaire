@@ -33,7 +33,7 @@ interface MamData {
 }
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/feq-2026");
+const dataDir = path.join(__dirname, "../../src/data/festivals/feq-2026");
 
 export async function run(): Promise<void> {
   const url = "https://www.feq.ca/fr/programmation";

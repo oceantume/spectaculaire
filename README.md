@@ -44,7 +44,7 @@ scripts/
     ...
 ```
 
-Data flows one way: ingestion scripts write JSON into `src/content/festivals/`, Astro reads it at build time, and nginx serves the resulting static files. A scheduled action updates the festival data daily in the repository.
+Data flows one way: ingestion scripts write JSON into `src/data/festivals/`, Astro reads it at build time, and nginx serves the resulting static files. A scheduled action updates the festival data daily in the repository.
 
 ## Adding a festival
 
@@ -55,7 +55,7 @@ Data flows one way: ingestion scripts write JSON into `src/content/festivals/`, 
 1. Write `scripts/festivals/{slug}.ts` — fetch the source, map rows to the `Row` type, call `writeFestivalData(dataDir, rows, artistDetails)` from `scripts/utils.ts`.
 2. Register the script in `scripts/update.ts` by adding it to the `festivals` array.
 3. Add a metadata entry to `src/content/festivals.json` (set `"draft": true` until verified).
-4. Run `npm run update` to populate `src/content/festivals/{slug}/`.
+4. Run `npm run update` to populate `src/data/festivals/{slug}/`.
 
 See an existing script like `scripts/festivals/feq-2026.ts` for a concrete example.
 

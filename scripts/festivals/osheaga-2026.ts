@@ -4,7 +4,7 @@ import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
 import { htmlToText, inferLinkLabel, localDateStr, localTimeStr, toEDT, writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/osheaga-2026");
+const dataDir = path.join(__dirname, "../../src/data/festivals/osheaga-2026");
 
 const ALGOLIA_URL = "https://osheaga.com/api/algolia/search";
 const INDEX_NAME = "master_festival_Osheaga_fr-CA";

@@ -4,7 +4,7 @@ import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
 import { htmlToText, inferLinkLabel, writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/chanson-tadoussac-2026");
+const dataDir = path.join(__dirname, "../../src/data/festivals/chanson-tadoussac-2026");
 
 const CONVEX_URL = "https://api.sync.festapp.io/api/query";
 const EDITION_ID = "kh71n5znh7579n7eq1341wkrfs80k67v";

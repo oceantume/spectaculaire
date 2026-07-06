@@ -265,7 +265,7 @@ import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
 import { htmlToText, localDateStr, localTimeStr, toEDT, writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/{slug}");
+const dataDir = path.join(__dirname, "../../src/data/festivals/{slug}");
 ```
 
 Inside `run()`:
@@ -278,7 +278,7 @@ Inside `run()`:
 Consider country normalization: "Montréal" → "Québec"; other Quebec cities → "Québec" to support
 the Quebec filtering features.
 
-**Country data not available in the source?** Create `src/content/festivals/{slug}/field-overrides.json`:
+**Country data not available in the source?** Create `src/data/festivals/{slug}/field-overrides.json`:
 
 ```json
 {

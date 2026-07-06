@@ -6,13 +6,13 @@ description: Resolve artist country/origin data for a festival and write it to f
 
 Festival slug: $ARGUMENTS
 
-Resolve the country of origin for each artist in the festival and write results to `src/content/festivals/{slug}/field-overrides.json`. Follow these steps in order.
+Resolve the country of origin for each artist in the festival and write results to `src/data/festivals/{slug}/field-overrides.json`. Follow these steps in order.
 
 ## 1. Read existing data
 
-- Load `src/content/festivals/{slug}/artist-details.json` — contains `description` (bio text) for each artist.
-- Load `src/content/festivals/{slug}/field-overrides.json` if it exists — skip artists already present there.
-- Load `src/content/festivals/{slug}/schedule.json` — use for the artist name list (some artists may appear in the schedule but have no bio).
+- Load `src/data/festivals/{slug}/artist-details.json` — contains `description` (bio text) for each artist.
+- Load `src/data/festivals/{slug}/field-overrides.json` if it exists — skip artists already present there.
+- Load `src/data/festivals/{slug}/schedule.json` — use for the artist name list (some artists may appear in the schedule but have no bio).
 
 ## 2. Bio text extraction (fast, no network)
 

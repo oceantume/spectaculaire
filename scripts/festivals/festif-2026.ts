@@ -81,7 +81,7 @@ interface ArtistPageData {
 }
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/festif-2026");
+const dataDir = path.join(__dirname, "../../src/data/festivals/festif-2026");
 const BASE_URL = "https://lefestif.ca";
 
 export async function run(): Promise<void> {

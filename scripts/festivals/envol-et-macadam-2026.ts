@@ -5,7 +5,7 @@ import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
 import { htmlToText, inferLinkLabel, writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/envol-et-macadam-2026");
+const dataDir = path.join(__dirname, "../../src/data/festivals/envol-et-macadam-2026");
 
 const SCHEDULE_URL = "https://envoletmacadam.com/fr/programmation-2025/horaire/";
 const FRENCH_MONTHS: Record<string, number> = {

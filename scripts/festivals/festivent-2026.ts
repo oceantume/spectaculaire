@@ -5,7 +5,7 @@ import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
 import { htmlToText, writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/festivent-2026");
+const dataDir = path.join(__dirname, "../../src/data/festivals/festivent-2026");
 
 const DATES = ["2026-07-29", "2026-07-30", "2026-07-31", "2026-08-01", "2026-08-02"];
 

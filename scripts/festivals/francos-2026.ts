@@ -4,7 +4,7 @@ import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
 import { htmlToText, inferLinkLabel, localDateStr, localTimeStr, toEDT, writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/francos-2026");
+const dataDir = path.join(__dirname, "../../src/data/festivals/francos-2026");
 
 const ALGOLIA_URL = "https://francosmontreal.com/api/algolia/search";
 const INDEX_NAME = "master_festival_Franco_fr-CA";

@@ -8,11 +8,12 @@ function git(cmd: string): string {
 }
 
 function getScheduleAtCommit(hash: string, dataDir: string): Row[] {
-  try {
-    return JSON.parse(git(`git show ${hash}:src/content/festivals/${dataDir}/schedule.json`)) as Row[];
-  } catch {
-    return [];
+  for (const base of ["src/data/festivals", "src/content/festivals"]) {
+    try {
+      return JSON.parse(git(`git show ${hash}:${base}/${dataDir}/schedule.json`)) as Row[];
+    } catch {}
   }
+  return [];
 }
 
 function showKey(row: Row): ShowKey {
@@ -93,11 +94,11 @@ function diffSchedules(oldRows: Row[], newRows: Row[]): ScheduleChange[] {
 }
 
 export function getFestivalChangelog(dataDir: string): FestivalChangelog {
-  const filePath = `src/content/festivals/${dataDir}/schedule.json`;
+  const filePath = `src/data/festivals/${dataDir}/schedule.json`;
 
   let logOutput: string;
   try {
-    logOutput = git(`git log --reverse --format="%H %aI %s" -- ${filePath}`);
+    logOutput = git(`git log --follow --reverse --format="%H %aI %s" -- ${filePath}`);
   } catch {
     return [];
   }

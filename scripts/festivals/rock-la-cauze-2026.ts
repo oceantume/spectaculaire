@@ -5,7 +5,7 @@ import type { ArtistDetailEntry, Row } from "../../src/types.ts";
 import { htmlToText, writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/rock-la-cauze-2026");
+const dataDir = path.join(__dirname, "../../src/data/festivals/rock-la-cauze-2026");
 
 const SITE = "https://rocklacauze.com";
 const EDITION_TERM_ID = 90; // 2026

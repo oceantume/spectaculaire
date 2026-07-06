@@ -5,7 +5,7 @@ import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
 import { htmlToText, inferLinkLabel, writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/festivoix-2026");
+const dataDir = path.join(__dirname, "../../src/data/festivals/festivoix-2026");
 
 const FRENCH_MONTHS: Record<string, string> = {
   janvier: "01",

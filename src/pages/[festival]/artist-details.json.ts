@@ -2,13 +2,12 @@ import type { APIRoute } from "astro";
 import allFestivals from "../../content/festivals.json";
 import type { ArtistDetailsByName, Festival } from "../../types";
 
-const artistModules = import.meta.glob<{ default: ArtistDetailsByName }>(
-  "../../content/festivals/*/artist-details.json",
-  { eager: true },
-);
+const artistModules = import.meta.glob<{ default: ArtistDetailsByName }>("../../data/festivals/*/artist-details.json", {
+  eager: true,
+});
 
 const youtubeOverrideModules = import.meta.glob<{ default: Record<string, string> }>(
-  "../../content/festivals/*/youtube-overrides.json",
+  "../../data/festivals/*/youtube-overrides.json",
   { eager: true },
 );
 

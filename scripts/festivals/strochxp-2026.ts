@@ -5,7 +5,7 @@ import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
 import { htmlToText, inferLinkLabel, writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/strochxp-2026");
+const dataDir = path.join(__dirname, "../../src/data/festivals/strochxp-2026");
 
 const SITE_ORIGIN = "https://www.strochxp.com";
 const SCHEDULE_URL = `${SITE_ORIGIN}/programmation/horaire-des-spectacles`;

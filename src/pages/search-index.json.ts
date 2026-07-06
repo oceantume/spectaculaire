@@ -12,15 +12,15 @@ type SearchIndex = {
   entries: CompactEntry[];
 };
 
-const scheduleModules = import.meta.glob<{ default: Row[] }>("../content/festivals/*/schedule.json", {
+const scheduleModules = import.meta.glob<{ default: Row[] }>("../data/festivals/*/schedule.json", {
   eager: true,
 });
 const overrideModules = import.meta.glob<{ default: Record<string, Partial<Row>> }>(
-  "../content/festivals/*/field-overrides.json",
+  "../data/festivals/*/field-overrides.json",
   { eager: true },
 );
 const venueOverrideModules = import.meta.glob<{ default: Record<string, string> }>(
-  "../content/festivals/*/venue-overrides.json",
+  "../data/festivals/*/venue-overrides.json",
   { eager: true },
 );
 

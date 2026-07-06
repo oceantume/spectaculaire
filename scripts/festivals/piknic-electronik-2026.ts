@@ -5,7 +5,7 @@ import type { ArtistDetailEntry, ArtistLink, Row } from "../../src/types.ts";
 import { htmlToText, inferLinkLabel, localDateStr, localTimeStr, toEDT, writeFestivalData } from "../utils.ts";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dataDir = path.join(__dirname, "../../src/content/festivals/piknic-electronik-2026");
+const dataDir = path.join(__dirname, "../../src/data/festivals/piknic-electronik-2026");
 const BASE_URL = "https://piknicelectronik.com";
 
 interface SveltekitShow {
