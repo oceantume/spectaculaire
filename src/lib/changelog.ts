@@ -98,22 +98,27 @@ export function getFestivalChangelog(dataDir: string): FestivalChangelog {
 
   let logOutput: string;
   try {
-    logOutput = git(`git log --follow --reverse --format="%H %aI %s" -- ${filePath}`);
+    // --follow and --reverse can't be combined (git only detects renames walking
+    // history newest-first), so fetch newest-first and reverse ourselves.
+    logOutput = git(`git log --follow --format="%H %aI %s" -- ${filePath}`);
   } catch {
     return [];
   }
 
   if (!logOutput) return [];
 
-  const commits = logOutput.split("\n").map((line) => {
-    const firstSpace = line.indexOf(" ");
-    const secondSpace = line.indexOf(" ", firstSpace + 1);
-    return {
-      hash: line.slice(0, firstSpace),
-      date: line.slice(firstSpace + 1, secondSpace),
-      automated: line.slice(secondSpace + 1) === "Automatically update festival data",
-    };
-  });
+  const commits = logOutput
+    .split("\n")
+    .map((line) => {
+      const firstSpace = line.indexOf(" ");
+      const secondSpace = line.indexOf(" ", firstSpace + 1);
+      return {
+        hash: line.slice(0, firstSpace),
+        date: line.slice(firstSpace + 1, secondSpace),
+        automated: line.slice(secondSpace + 1) === "Automatically update festival data",
+      };
+    })
+    .reverse();
 
   const changelog: ChangelogCommit[] = [];
 
