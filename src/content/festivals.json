@@ -109,7 +109,7 @@
     "shortName": "Cigale 2026",
     "slug": "cigale-2026",
     "year": 2026,
-    "region": "Montréal",
+    "region": "Québec",
     "features": ["all-paid", "filter-quebec"],
     "dataDir": "cigale-2026",
     "sourceUrl": "https://cigalequebec.com/programmation",
