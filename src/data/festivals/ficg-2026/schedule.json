@@ -1,0 +1,906 @@
+[
+  {
+    "date": "2026-08-06",
+    "time": "18:00",
+    "venue": "Place publique de Bromont",
+    "paid": false,
+    "artist": "Laurence St-Martin",
+    "genre": "Country"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Belle hirondelle",
+    "genre": "Bluegrass"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Roublond",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Val d’Avalon",
+    "genre": "Pop-folk"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Samuël Jean",
+    "genre": "Blues"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "J. C. Beaulé",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Aleksi Campagne",
+    "genre": "Indie-folk"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "David Dionne",
+    "genre": "Indie-folk"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Alexandrine Larson",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Tristan Guay",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Flore & JADE",
+    "genre": "Pop-jazz"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Patrick Lac",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "SABAYA",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Système Féodal",
+    "genre": "Métal progressif"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Sandrine Marin",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Albert Asselin",
+    "genre": "Indie-pop"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Sylvie Walker",
+    "genre": "Prairie-Folk"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Alex Gaudreault",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Clémence Dufour",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Dorice",
+    "genre": "Indie"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "OlivieR",
+    "genre": "Alternatif"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Emma Tome",
+    "genre": "Pop effrayante"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Chiens Dog",
+    "genre": "Rock alternatif"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Sophie Ash",
+    "genre": "Pop-folk"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "19:30",
+    "venue": "Foyer Yves-Gagnon - Palace",
+    "paid": false,
+    "artist": "Mathieu Patry",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "16:00",
+    "venue": "Marché public de Granby",
+    "paid": false,
+    "artist": "Julia Larochelle",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-13",
+    "time": "18:00",
+    "venue": "Place publique de Bromont",
+    "paid": false,
+    "artist": "Ivan Boivin-Flamand",
+    "genre": "Pop-Rock Alternatif"
+  },
+  {
+    "date": "2026-08-14",
+    "time": "17:00",
+    "venue": "Cour extérieure du Palace de Granby",
+    "paid": true,
+    "artist": "Valence",
+    "genre": "Indie-pop"
+  },
+  {
+    "date": "2026-08-14",
+    "time": "17:00",
+    "venue": "Cour extérieure du Palace de Granby",
+    "paid": true,
+    "artist": "VioleTT Pi",
+    "genre": "Alternatif"
+  },
+  {
+    "date": "2026-08-14",
+    "time": "17:00",
+    "venue": "Cour extérieure du Palace de Granby",
+    "paid": true,
+    "artist": "Klô Pelgag",
+    "genre": "Art pop"
+  },
+  {
+    "date": "2026-08-14",
+    "time": "16:00",
+    "venue": "Boutique Équestre Pépé",
+    "paid": false,
+    "artist": "Doug St-Louis et DJ Chuck",
+    "genre": "Country"
+  },
+  {
+    "date": "2026-08-15",
+    "time": "17:00",
+    "venue": "Cour extérieure du Palace de Granby",
+    "paid": true,
+    "artist": "Borduas",
+    "genre": "Électro"
+  },
+  {
+    "date": "2026-08-15",
+    "time": "17:00",
+    "venue": "Cour extérieure du Palace de Granby",
+    "paid": true,
+    "artist": "Alexandre Désilets",
+    "genre": "Pop-orchestral"
+  },
+  {
+    "date": "2026-08-15",
+    "time": "17:00",
+    "venue": "Cour extérieure du Palace de Granby",
+    "paid": true,
+    "artist": "Luc De Larochellière",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-15",
+    "time": "16:00",
+    "venue": "Caisse Desjardins de Granby - Haute-Yamaska",
+    "paid": false,
+    "artist": "Marco Calliari",
+    "genre": "Heavy métal"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Céleste Boulianne",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Frédérique Levert",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Salimata Andrews-Cisse",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Mercédès Beaudry",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Sofia Marazzo",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Hélo Rose",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Laurence Landry",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Lora",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Eloi",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Alexis St-Pierre",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Jade Mathieu",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Anissa Essalihi",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Justine Ansima",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Maëlle Bousquet",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Molly Gratton",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Brooke",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Alex",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Arielle Foulkes",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Will Pacaud",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Émile Fleury",
+    "genre": "Jamais Trop Tôt propulsé par Desjardins"
+  },
+  {
+    "date": "2026-08-16",
+    "time": "13:00",
+    "venue": "Parc national de la Yamaska",
+    "paid": false,
+    "artist": "Erwan",
+    "genre": "Alternatif"
+  },
+  {
+    "date": "2026-08-18",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Belle hirondelle",
+    "genre": "Bluegrass"
+  },
+  {
+    "date": "2026-08-18",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Roublond",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-18",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Val d’Avalon",
+    "genre": "Pop-folk"
+  },
+  {
+    "date": "2026-08-18",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Samuël Jean",
+    "genre": "Blues"
+  },
+  {
+    "date": "2026-08-18",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "J. C. Beaulé",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-18",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Aleksi Campagne",
+    "genre": "Indie-folk"
+  },
+  {
+    "date": "2026-08-18",
+    "time": "23:00",
+    "venue": "Louis' Pub",
+    "paid": false,
+    "artist": "Malaimé Soleil",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-18",
+    "time": "18:00",
+    "venue": "restaurant Alegria",
+    "paid": false,
+    "artist": "Junes",
+    "genre": "Pop-electro"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "David Dionne",
+    "genre": "Indie-folk"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Alexandrine Larson",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Tristan Guay",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Flore & JADE",
+    "genre": "Pop-jazz"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Patrick Lac",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "SABAYA",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "23:00",
+    "venue": "Louis' Pub",
+    "paid": false,
+    "artist": "zouz",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "19:00",
+    "venue": "Place du Centenaire, Waterloo",
+    "paid": false,
+    "artist": "Adam El Mouna",
+    "genre": "Pop-Cinématique"
+  },
+  {
+    "date": "2026-08-19",
+    "time": "18:00",
+    "venue": "restaurant Alegria",
+    "paid": false,
+    "artist": "Maïa Barouh",
+    "genre": "Électro"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Matt Boudreau",
+    "genre": "Indie-folk"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Zale Seck",
+    "genre": "Afrobeat"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Nicolas Gémus",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Édouard Tremblay-Grenier",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Maïa Barouh",
+    "genre": "Électro"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Système Féodal",
+    "genre": "Métal progressif"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Sandrine Marin",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Albert Asselin",
+    "genre": "Indie-pop"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Sylvie Walker",
+    "genre": "Prairie-Folk"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Alex Gaudreault",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Clémence Dufour",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "23:00",
+    "venue": "Louis' Pub",
+    "paid": false,
+    "artist": "Georgette",
+    "genre": "Alternatif"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "16:00",
+    "venue": "Marché public de Granby",
+    "paid": false,
+    "artist": "GODETT",
+    "genre": "Pop-electro"
+  },
+  {
+    "date": "2026-08-20",
+    "time": "18:00",
+    "venue": "restaurant Alegria",
+    "paid": false,
+    "artist": "Maïa Barouh",
+    "genre": "Électro"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Sandra Contour",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Jeanne Côté",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Marie Amali",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Clara Roy-Jensen",
+    "genre": "Alternatif"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Baptiste Ventadour",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Chiens Dog",
+    "genre": "Rock alternatif"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Emma Tome",
+    "genre": "Pop effrayante"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "OlivieR",
+    "genre": "Alternatif"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Dorice",
+    "genre": "Indie"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Mathieu Patry",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Sophie Ash",
+    "genre": "Pop-folk"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Audrey-Michèle",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "23:00",
+    "venue": "Louis' Pub",
+    "paid": false,
+    "artist": "Oli Féra",
+    "genre": "Pop-Rock Alternatif"
+  },
+  {
+    "date": "2026-08-21",
+    "time": "18:00",
+    "venue": "restaurant Alegria",
+    "paid": false,
+    "artist": "Alphonse Bisaillon",
+    "genre": "Jazz"
+  },
+  {
+    "date": "2026-08-22",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Héron",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-22",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Veranda",
+    "genre": "Bluegrass"
+  },
+  {
+    "date": "2026-08-22",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Mat Vezio",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-22",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Erika Hagen",
+    "genre": "Indie-folk"
+  },
+  {
+    "date": "2026-08-22",
+    "time": "13:30",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Danilo",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-22",
+    "time": "20:00",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Émile Bourgault",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-22",
+    "time": "20:00",
+    "venue": "Église St-George",
+    "paid": true,
+    "artist": "Louis-Julien Durso",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-22",
+    "time": "23:00",
+    "venue": "Louis' Pub",
+    "paid": false,
+    "artist": "Soraï",
+    "genre": "Pop-rap"
+  },
+  {
+    "date": "2026-08-23",
+    "time": "19:30",
+    "venue": "Palace de Granby",
+    "paid": true,
+    "artist": "Adam El Mouna",
+    "genre": "Pop-Cinématique"
+  },
+  {
+    "date": "2026-08-23",
+    "time": "13:15",
+    "venue": "Cidrerie Milton",
+    "paid": false,
+    "artist": "Violette & Jordan",
+    "genre": "Blues"
+  },
+  {
+    "date": "2026-08-23",
+    "time": "13:45",
+    "venue": "Cidrerie Milton",
+    "paid": false,
+    "artist": "Weedon",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-23",
+    "time": "11:00",
+    "venue": "Zoo de Granby",
+    "paid": false,
+    "artist": "Charlie Juste",
+    "genre": "Pop alternative"
+  }
+]

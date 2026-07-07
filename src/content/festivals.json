@@ -15,6 +15,21 @@
     "endDate": "2026-06-21"
   },
   {
+    "name": "Festival international de la chanson de Granby 2026",
+    "shortName": "FICG 2026",
+    "slug": "ficg-2026",
+    "year": 2026,
+    "region": "Granby",
+    "features": ["filter-free"],
+    "dataDir": "ficg-2026",
+    "sourceUrl": "https://ficg.qc.ca/programmation-complete/",
+    "sourceLabel": "ficg.qc.ca",
+    "sourceAttribution": "Festival international de la chanson de Granby",
+    "draft": true,
+    "startDate": "2026-08-06",
+    "endDate": "2026-08-23"
+  },
+  {
     "name": "Festival d'été de Québec 2026",
     "shortName": "FEQ 2026",
     "slug": "feq-2026",

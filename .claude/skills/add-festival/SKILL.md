@@ -195,6 +195,14 @@ Use `node-html-parser` for parsing (already a devDependency).
 
 **Date in a parent container:** Some sites render items flat inside a day wrapper (e.g. `<div class="day"><h3>25 juin</h3>...<div class="item">`) where the date is on the ancestor, not inside the item. A date field inside the item may show the server's current date rather than the show date — always verify against what's rendered visually. Parse the date from the nearest ancestor that holds it.
 
+**Event cards with multiple artists per show:** Some WordPress festival sites (Elementor/custom theme, e.g. `c-card` blocks) model the schedule as *events* rather than *artist slots* — a single card can represent several artists performing together (e.g. a themed evening, a "vitrines musicales" showcase, or a competition heat), all sharing one date/time/venue. Detection: card titles concatenate several artist names (`"Valence - VioleTT Pi - Klô Pelgag"`) or a competition-round title (`"Demi-finale 1"`) with no artist name at all.
+- Get date/time/venue/paid straight from the listing card — no need to hit each event's detail page for those fields.
+- Paid/free is often already in a `data-filter-item='{"event_category": "...,gratuit,..."}'` JSON attribute on an ancestor of the card — `paid = !/gratuit/.test(attr)` is simpler and more reliable than scraping ticket button text, and catches pay-what-you-can tiers (e.g. `billetterie-solidaire`) that don't say "gratuit" or "payant" explicitly.
+- The event's **own internal detail page** (not necessarily the card's primary "Détails"/"Acheter des billets" button, which may point off-site to a ticketing vendor like Weezevent or a venue's own site) lists the actual participants — look for a second link, e.g. `.c-card_artists`, that always points back to the festival's own `/evenements/{slug}/` page. Fetch that page and read the `#participants` section for the per-artist name, slug/URL, and genre tag.
+- Emit one `Row` per artist per event (same date/time/venue/paid, different `artist`), and fetch each unique artist's own detail page once for bio/image/social links.
+- Competition heats with unannounced lineups (a card whose only "artists" link goes to an external ticketing page, with no matching internal event page) legitimately have no individual names published — it's fine to end up with 0 rows for that card rather than inventing placeholder entries.
+- Reference implementation: `scripts/festivals/ficg-2026.ts`.
+
 **Paid/free on detail pages:** When paid/free isn't in the listing HTML, check detail pages for a ticketing button whose text is "Billets" (paid) vs "Gratuit" (free). This is worth fetching since you're already getting bios and links. Also check venue/scene sub-pages — they sometimes state "gratuits à HH h et payants à HH h" for mixed-access stages.
 
 **G. Image-only schedule (no structured data)**
