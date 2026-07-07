@@ -16,6 +16,8 @@ Resolve the country of origin for each artist in the festival and write results 
 
 ## 2. Bio text extraction (fast, no network)
 
+**Definition of "Québec" for this purpose**: the goal is "where the artist comes from to play the festival" — i.e. their current home base — OR where they were born/raised/started their career, whichever applies. Long-term residency (they live and work there, tour out of there, are part of the local scene) counts as much as birthplace. A single ambiguous phrase ("artiste de Montréal" in one promo bio) is not enough on its own to establish either — corroborate with another source (Wikipedia, label, other press) when the artist is well-known enough to check. A one-off tour stop or "based in X" mention with no other support is not enough.
+
 Scan each artist's `description` for origin signals. This is the first pass and covers most cases. Look for:
 
 **Québec signals** (→ `"Québec"`):
@@ -134,3 +136,4 @@ After running, update this SKILL.md if you found:
 - "habite à Montréal, au Canada" — bio uses "au Canada" not "au Québec": mark `"Canada"` not `"Québec"`
 - Tour date mentions (e.g. "spectacle à Paris", "shows in New York") are NOT origin signals
 - "à travers le Québec" alone is weak — use only as supporting signal when combined with other QC indicators
+- "artiste de Montréal" / "de [QC city]" in a single promo bio can be a throwaway line rather than a real, sustained home base — for well-known artists, corroborate with an external source (Wikipedia, label, press) before trusting it alone. Example: Basia Bulat is originally from Etobicoke (Toronto) and London, Ontario, but has lived in Montreal for years and releases on Montreal's Secret City Records — under the "home base counts" rule she qualifies as `"Québec"`; a newer artist with only a passing "de Montréal" mention and no other corroboration would not, until confirmed.
