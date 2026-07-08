@@ -14,7 +14,8 @@
     "prepare": "husky",
     "update": "node scripts/update.ts",
     "recon": "node scripts/recon.ts",
-    "generate-icons": "node --experimental-strip-types scripts/generate-icons.ts"
+    "generate-icons": "node scripts/generate-icons.ts",
+    "precompress": "node scripts/precompress.ts"
   },
   "repository": {
     "type": "git",
