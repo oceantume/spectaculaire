@@ -3,7 +3,7 @@ type Props = { src: string };
 const { src } = Astro.props;
 ---
 
-<dialog id="artist-dialog" data-src={src} closedby="any">
+<dialog id="artist-dialog" data-src={src}>
   <div id="artist-dialog-content"></div>
 </dialog>
 <script>

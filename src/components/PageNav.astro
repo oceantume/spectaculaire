@@ -166,7 +166,7 @@ function formatDateRange(f: Festival): string {
   </div>
 </div>
 
-<dialog id="festival-dialog" class="festival-dialog" closedby="any">
+<dialog id="festival-dialog" class="festival-dialog">
   <div class="festival-dialog-header">
     <span class="festival-dialog-title">Spectaculaire</span>
     <button
@@ -249,7 +249,11 @@ function formatDateRange(f: Festival): string {
 </dialog>
 
 <script>
+  import { enableBackdropDismiss } from "../scripts/dialog-backdrop";
   import "../scripts/theme";
+
+  const festivalDialog = document.querySelector<HTMLDialogElement>("#festival-dialog");
+  if (festivalDialog) enableBackdropDismiss(festivalDialog);
 </script>
 
 

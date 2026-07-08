@@ -1,4 +1,5 @@
 import type { ArtistDetailsByName } from "../types";
+import { enableBackdropDismiss } from "./dialog-backdrop";
 import { html } from "./html";
 import { getYouTubeEmbed } from "./youtube";
 
@@ -9,6 +10,8 @@ if (!dialogEl || !dialogContentEl) throw new Error("Missing dialog elements");
 
 const dialog = dialogEl;
 const dialogContent = dialogContentEl;
+
+enableBackdropDismiss(dialog);
 
 const artistDetailsPromise: Promise<ArtistDetailsByName> = fetch(dialog.dataset.src ?? "").then((r) => r.json());
 
