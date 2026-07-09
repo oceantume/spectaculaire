@@ -533,6 +533,14 @@
     "date": "2026-07-24",
     "venue": "Gare Menaud & Viandes Bio de Charlevoix",
     "paid": false,
+    "time": "18:00",
+    "artist": "Mean Bean + Russel Quan (The Mummies)",
+    "genre": ""
+  },
+  {
+    "date": "2026-07-24",
+    "venue": "Gare Menaud & Viandes Bio de Charlevoix",
+    "paid": false,
     "time": "22:30",
     "artist": "Pancho",
     "country": "Baie-Saint-Paul",
@@ -1013,15 +1021,6 @@
     "artist": "Pancho",
     "country": "Baie-Saint-Paul",
     "genre": "Électro / House / Funk / Hip-hop latino"
-  },
-  {
-    "date": "2026-07-25",
-    "venue": "Hôtel & Spa Le Germain Charlevoix",
-    "paid": false,
-    "time": "11:00",
-    "artist": "Vincent Vallières",
-    "country": "Québec",
-    "genre": "Folk / Pop québécoise"
   },
   {
     "date": "2026-07-25",

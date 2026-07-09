@@ -77,19 +77,6 @@
       }
     ]
   },
-  "Kehlani": {
-    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4NWCDBKrdq6O0Y6RMMnHtY/cca5da617f40c80f1ff35b685acb2b57/osh26_kehlani.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=KFMYx1TibeQ"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-      }
-    ]
-  },
   "Empire Of The Sun": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/3QQtQdCryIgzxaO602YK0a/e8b0d54c869c3c571d5e59668bde3a67/osh26_empire_of_the_sun.jpg",
     "links": [
@@ -272,6 +259,10 @@
       }
     ]
   },
+  "Blood Orange": {
+    "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/4b4ExtzBPKrDMNnQTfqIst/85a62445a2a4a73ec6df9618960a158f/osh26_blood_orange.jpg",
+    "links": []
+  },
   "Wet Leg": {
     "imageUrl": "https://images.ctfassets.net/dv1qnlptav0x/39LeLQNSRplHNiNf3mjpjn/b26a3ccd91e49292861f7517572a1b9b/osh26_wet_leg.jpg",
     "links": [
@@ -355,7 +346,7 @@
     "links": [
       {
         "label": "YouTube",
-        "url": "https://www.youtube.com/watch?v=XQpu4NZYmLg"
+        "url": "https://www.youtube.com/watch?v=KkY7CEj79bs"
       },
       {
         "label": "Spotify",

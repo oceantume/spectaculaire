@@ -896,6 +896,11 @@
       }
     ]
   },
+  "Mean Bean + Russel Quan (The Mummies)": {
+    "description": "DJ set en duo 100% vinyle proposé par deux collectionneurs passionnés. Une sélection authentique, brute et guidée par le feeling de Budget Rock, Freakbeat, Garage 60s/Nuggets et Soul! Entièrement improvisé au fil des disques, sans playlist préétablie, mais avec une seule ligne directrice : zéro compromis sur la qualité!",
+    "imageUrl": "https://images.prismic.io/le-festif-ca/3Nvi4JjrE_jijs_u_MeanBean%2BRusselQuan-TheMummies-.png",
+    "links": []
+  },
   "Slash Need": {
     "description": "Projet dramaturgique provoquant, camp et séduisant, Slash Need est reconnu pour ses performances live théâtrales à haute intensité. Porté par une techno propulsive et un EBM métallique, le groupe transforme chaque concert en rituel collectif imprévisible. Leur premier album Sit & Grin s’impose comme une claque industrielle brute, audacieuse et sans compromis, qui a contribué à forger un véritable culte autour du projet.",
     "imageUrl": "https://images.prismic.io/le-festif-ca/acVGgJGXnQHGZAGK_Slashneed_1920X1080.jpg",
@@ -2582,40 +2587,6 @@
       }
     ]
   },
-  "JF Pauzé": {
-    "description": "Figure phare de la chanson québécoise, JF Pauzé est l’auteur-compositeur et guitariste des Cowboys Fringants depuis 1995. Reconnu pour sa plume forte et rassembleuse, qui lui a valu le Félix de l’Auteur-compositeur de l’année 2024, il amorce un nouveau chapitre en solo. Son projet s’inscrit dans la chanson folk-rock québécoise, portée par des textes sensibles, engagés et profondément humains, offrant un spectacle festif et généreux de plus de 20 chansons. Un rendez-vous marquant pour la scène musicale d’ici!",
-    "imageUrl": "https://images.prismic.io/le-festif-ca/acVFxZGXnQHGZAEl_JF-Pauze_1920X1080.jpg",
-    "links": [
-      {
-        "label": "Site officiel",
-        "url": "https://www.jfpauze.com/"
-      },
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/@JFPauz%C3%A9"
-      },
-      {
-        "label": "Facebook",
-        "url": "https://www.facebook.com/profile.php?id=100091272240370"
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/lecowboyfringant/?hl=fr"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/intl-fr/artist/39KOW7xbNWdI7SBMcXlo9d?si=DYY3kUD2SQevt9Zab7osuA"
-      },
-      {
-        "label": "Apple Music",
-        "url": "https://music.apple.com/ca/artist/jf-pauz%C3%A9/1820952771?l=fr-CA"
-      },
-      {
-        "label": "Vidéo officielle",
-        "url": "https://www.youtube.com/watch?v=X8ikdX8w-8k"
-      }
-    ]
-  },
   "Vincent Vallières": {
     "description": "Depuis l’âge de 15 ans, Vincent Vallières compose son propre matériel. Après de nombreux albums et des milliers de kilomètres parcourus pour faire vivre ses chansons, il revient sur scène entouré de ses musiciens pour un tout nouveau spectacle, où son imposant répertoire s'unit aux pièces de son nouvel album paru à l’automne 2025. Un spectacle à l’image de cet incontournable de la chanson québécoise : rassembleur, vivant et authentique.",
     "imageUrl": "https://images.prismic.io/le-festif-ca/acVGkJGXnQHGZAGm_Vincent-Vallie%CC%80res_1920X1080.jpg",
@@ -2651,6 +2622,40 @@
       {
         "label": "Vidéo officielle",
         "url": "https://www.youtube.com/watch?v=GUmTRDHDSf4"
+      }
+    ]
+  },
+  "JF Pauzé": {
+    "description": "Figure phare de la chanson québécoise, JF Pauzé est l’auteur-compositeur et guitariste des Cowboys Fringants depuis 1995. Reconnu pour sa plume forte et rassembleuse, qui lui a valu le Félix de l’Auteur-compositeur de l’année 2024, il amorce un nouveau chapitre en solo. Son projet s’inscrit dans la chanson folk-rock québécoise, portée par des textes sensibles, engagés et profondément humains, offrant un spectacle festif et généreux de plus de 20 chansons. Un rendez-vous marquant pour la scène musicale d’ici!",
+    "imageUrl": "https://images.prismic.io/le-festif-ca/acVFxZGXnQHGZAEl_JF-Pauze_1920X1080.jpg",
+    "links": [
+      {
+        "label": "Site officiel",
+        "url": "https://www.jfpauze.com/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@JFPauz%C3%A9"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=100091272240370"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/lecowboyfringant/?hl=fr"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/intl-fr/artist/39KOW7xbNWdI7SBMcXlo9d?si=DYY3kUD2SQevt9Zab7osuA"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ca/artist/jf-pauz%C3%A9/1820952771?l=fr-CA"
+      },
+      {
+        "label": "Vidéo officielle",
+        "url": "https://www.youtube.com/watch?v=X8ikdX8w-8k"
       }
     ]
   },
