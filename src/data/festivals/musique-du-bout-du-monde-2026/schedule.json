@@ -169,6 +169,13 @@
   },
   {
     "date": "2026-08-09",
+    "time": "15:00",
+    "venue": "Scène Loto-Québec",
+    "paid": false,
+    "artist": "Orchestre de danse de Douglastown"
+  },
+  {
+    "date": "2026-08-09",
     "time": "17:30",
     "venue": "Scène Loto-Québec",
     "paid": false,
