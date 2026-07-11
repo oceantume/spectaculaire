@@ -95,6 +95,7 @@ async function openArtistDialog(name: string, country: string | undefined, genre
   const artistDetails = await artistDetailsPromise;
   renderDialogContent(name, country, genre, artistDetails);
   dialog.showModal();
+  history.pushState({ artistDialogOpen: true }, "");
 }
 
 function getVisibleRows(): HTMLElement[] {
@@ -120,9 +121,26 @@ function navigate(delta: -1 | 1) {
   });
 }
 
+// Pressing the Android back button (or a browser back gesture) fires
+// popstate before it would otherwise navigate away, letting us close the
+// dialog instead of leaving the page. See openArtistDialog for the
+// matching pushState.
+let closingFromPopState = false;
+
+window.addEventListener("popstate", () => {
+  if (dialog.open) {
+    closingFromPopState = true;
+    dialog.close();
+  }
+});
+
 dialog.addEventListener("close", () => {
   dialogContent.innerHTML = "";
   currentArtistName = null;
+  if (!closingFromPopState && history.state?.artistDialogOpen) {
+    history.back();
+  }
+  closingFromPopState = false;
 });
 
 document.addEventListener("click", (e) => {
