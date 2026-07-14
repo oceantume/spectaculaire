@@ -1308,7 +1308,31 @@
     "venue": "SCÈNE FIZZ - All Day I Dream",
     "paid": true,
     "time": "17:00",
-    "artist": "All Day I Dream",
+    "artist": "Double Touch",
+    "type": "off"
+  },
+  {
+    "date": "2026-10-12",
+    "venue": "SCÈNE FIZZ - All Day I Dream",
+    "paid": true,
+    "time": "18:15",
+    "artist": "Enamour",
+    "type": "off"
+  },
+  {
+    "date": "2026-10-12",
+    "venue": "SCÈNE FIZZ - All Day I Dream",
+    "paid": true,
+    "time": "19:30",
+    "artist": "Samm",
+    "type": "off"
+  },
+  {
+    "date": "2026-10-12",
+    "venue": "SCÈNE FIZZ - All Day I Dream",
+    "paid": true,
+    "time": "20:45",
+    "artist": "Lee Burridge",
     "type": "off"
   },
   {
