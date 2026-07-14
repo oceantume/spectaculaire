@@ -71,6 +71,9 @@ wrapper.querySelector("[data-sort-toggle]")?.addEventListener("click", () => {
   transition(() => applySortOrder());
 });
 
+const todayStr = new Date().toLocaleDateString("en-CA", { timeZone: "America/Toronto" });
+wrapper.querySelector<HTMLElement>(`tbody[data-day="${todayStr}"]`)?.setAttribute("data-is-today", "");
+
 if (sortByStart) {
   wrapper.setAttribute("data-sort-pending", "");
   requestAnimationFrame(() => {

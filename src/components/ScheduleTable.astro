@@ -328,6 +328,21 @@ for (const rows of schedule.values()) {
     background-color: var(--bg-secondary);
   }
 
+  tbody[data-is-today] .sched-day-cell::after {
+    content: "";
+    display: inline-block;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background-color: #2563eb;
+    margin-left: 0.5rem;
+    vertical-align: middle;
+  }
+
+  .dark tbody[data-is-today] .sched-day-cell::after {
+    background-color: #60a5fa;
+  }
+
   @media (min-width: 640px) {
     .sched-day-cell {
       padding: 0.5rem 0.5rem;
