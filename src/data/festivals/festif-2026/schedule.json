@@ -127,15 +127,6 @@
   },
   {
     "date": "2026-07-23",
-    "venue": "Bistro des Balcons",
-    "paid": false,
-    "time": "19:00",
-    "artist": "Thee Soreheads",
-    "country": "Québec",
-    "genre": "Punk / Rock alternatif"
-  },
-  {
-    "date": "2026-07-23",
     "venue": "Garage du Curé Lepointdevente.com & Exclaim!",
     "paid": false,
     "time": "19:30",
@@ -169,6 +160,15 @@
     "artist": "Riri",
     "country": "Baie-Saint-Paul",
     "genre": "DJ set / Musique du monde / Afrobeat / Funk brésilien / Latin house"
+  },
+  {
+    "date": "2026-07-23",
+    "venue": "Les Balcons - Auberge & Bistro culturel",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Thee Soreheads",
+    "country": "Québec",
+    "genre": "Punk / Rock alternatif"
   },
   {
     "date": "2026-07-23",
@@ -414,15 +414,6 @@
   },
   {
     "date": "2026-07-24",
-    "venue": "Bistro des Balcons",
-    "paid": false,
-    "time": "19:00",
-    "artist": "Interdit les chiens",
-    "country": "Québec",
-    "genre": "Noise-rock"
-  },
-  {
-    "date": "2026-07-24",
     "venue": "En route vers le Quai Bell : Chez Stan",
     "paid": false,
     "time": "10:30",
@@ -566,6 +557,15 @@
   },
   {
     "date": "2026-07-24",
+    "venue": "Les Balcons - Auberge & Bistro culturel",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Interdit les chiens",
+    "country": "Québec",
+    "genre": "Noise-rock"
+  },
+  {
+    "date": "2026-07-24",
     "venue": "Parvis Radio-Canada",
     "paid": false,
     "time": "15:00",
@@ -694,9 +694,9 @@
     "venue": "Zone Chez Mag",
     "paid": false,
     "time": "22:00",
-    "artist": "LaChatte",
+    "artist": "LaChatte, softwarewolfe & Kiviv",
     "country": "Québec",
-    "genre": "DJ queer"
+    "genre": "Bass/Club"
   },
   {
     "date": "2026-07-25",
@@ -871,15 +871,6 @@
   },
   {
     "date": "2026-07-25",
-    "venue": "Bistro des Balcons",
-    "paid": false,
-    "time": "19:00",
-    "artist": "Caniche 666",
-    "country": "Québec",
-    "genre": "Punk francophone / Hardcore"
-  },
-  {
-    "date": "2026-07-25",
     "venue": "En route vers le Quai Bell : Chez Stan",
     "paid": false,
     "time": "10:30",
@@ -1030,6 +1021,15 @@
     "artist": "Emily Beauchamp",
     "country": "Baie-Saint-Paul",
     "genre": "Méditation sonore immersive"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Les Balcons - Auberge & Bistro culturel",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Caniche 666",
+    "country": "Québec",
+    "genre": "Punk francophone / Hardcore"
   },
   {
     "date": "2026-07-25",
