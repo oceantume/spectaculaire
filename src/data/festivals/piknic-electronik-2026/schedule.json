@@ -880,6 +880,30 @@
     "type": "main"
   },
   {
+    "date": "2026-08-02",
+    "venue": "Village au Pied du Courant - Virtualis",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Virtualis",
+    "type": "main"
+  },
+  {
+    "date": "2026-08-09",
+    "venue": "Village au Pied du Courant - DISCOÑO X KVNT Detour",
+    "paid": true,
+    "time": "17:00",
+    "artist": "DISCOÑO X KVNT Detour",
+    "type": "main"
+  },
+  {
+    "date": "2026-08-16",
+    "venue": "Village au Pied du Courant - U-TURN",
+    "paid": true,
+    "time": "17:00",
+    "artist": "U-TURN",
+    "type": "main"
+  },
+  {
     "date": "2026-08-23",
     "venue": "SCÈNE FIZZ",
     "paid": true,
