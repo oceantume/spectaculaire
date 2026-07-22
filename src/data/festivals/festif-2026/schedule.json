@@ -792,7 +792,7 @@
     "date": "2026-07-25",
     "venue": "Scène Chez Mag à la bétonnière",
     "paid": true,
-    "time": "20:00",
+    "time": "19:45",
     "artist": "Marie Davidson (DJ)",
     "country": "Québec",
     "genre": "Techno / Synth pop / Ambient"
@@ -1012,6 +1012,15 @@
     "artist": "Pancho",
     "country": "Baie-Saint-Paul",
     "genre": "Électro / House / Funk / Hip-hop latino"
+  },
+  {
+    "date": "2026-07-25",
+    "venue": "Hôtel & Spa Le Germain Charlevoix",
+    "paid": false,
+    "time": "12:00",
+    "artist": "Vincent Vallières",
+    "country": "Québec",
+    "genre": "Folk / Pop québécoise"
   },
   {
     "date": "2026-07-25",
