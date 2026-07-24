@@ -587,9 +587,8 @@
     "venue": "Parvis Radio-Canada",
     "paid": false,
     "time": "19:00",
-    "artist": "La Niña Kiwi",
-    "country": "Québec",
-    "genre": "Électro-latino urbain"
+    "artist": "Funkyfalz",
+    "genre": ""
   },
   {
     "date": "2026-07-24",
@@ -603,7 +602,7 @@
     "date": "2026-07-24",
     "venue": "Quai Bell",
     "paid": false,
-    "time": "11:30",
+    "time": "11:20",
     "artist": "Mykalle",
     "country": "Québec",
     "genre": "Électro néoclassique / Chant sacré"

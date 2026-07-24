@@ -1387,27 +1387,9 @@
       }
     ]
   },
-  "La Niña Kiwi": {
-    "description": "La Niña Kiwi est une DJ nicaraguayenne basée à Montréal. Son style musical incorpore des rythmes latins urbains classiques et émergents, tout en mêlant des morceaux soigneusement sélectionnées, créant ainsi une palette musicale riche et diversifiée.",
-    "imageUrl": "https://images.prismic.io/le-festif-ca/acVF-ZGXnQHGZAEt_La-nina-kiwi_1920X1080.jpg",
-    "links": [
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/@la_nina_kiwi"
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/la_nina_kiwi/?hl=fr"
-      },
-      {
-        "label": "SoundCloud",
-        "url": "https://soundcloud.com/laninakiwi/tracks"
-      },
-      {
-        "label": "Vidéo officielle",
-        "url": "https://www.youtube.com/watch?v=5AjFs44w8Iw"
-      }
-    ]
+  "Funkyfalz": {
+    "imageUrl": "https://images.prismic.io/le-festif-ca/MkSV5X4xQ1yl-opR__WRA6709.jpeg",
+    "links": []
   },
   "Les Goules": {
     "description": "Formation irrévérencieuse des bas-fonds sociaux, dérangeurs dérangés, punks poétiques, dadaïstes survoltés, coloristes de l’ennui, Les Goules ont repris goût à la chair humaine, après trois shows mémorables en décembre dernier, brisant cinq ans de silence. Ils reviennent au Festif! pour un show de boucane énergique et brut qui secoue les âmes et électrise la foule, pensé pour hanter les pourris et égayer les malades.",
@@ -1667,48 +1649,6 @@
       }
     ]
   },
-  "Maude Audet": {
-    "description": "Autrice-compositrice-interprète au folk moderne, intime, franc et délicat, Maude Audet trace un chemin à son image dans le paysage artistique québécois. Avec sa voix douce et feutrée, elle tisse des chansons qui mêlent émotions, poésie et mélodies flottantes. Entre albums francophones et créations anglophones, tournées et projets orchestraux, elle construit un univers authentique et vibrant, mêlant le contemporain et les textures vintage, où chaque note raconte la vie.",
-    "imageUrl": "https://images.prismic.io/le-festif-ca/acVGC5GXnQHGZAE__Maude-Audet_1920X1080.jpg",
-    "links": [
-      {
-        "label": "Site officiel",
-        "url": "http://www.maudeaudet.com/"
-      },
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/user/maudemusique"
-      },
-      {
-        "label": "TikTok",
-        "url": "https://www.tiktok.com/@maudeaudet"
-      },
-      {
-        "label": "Facebook",
-        "url": "https://www.facebook.com/maudeaudetmusique/"
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/maude_audet"
-      },
-      {
-        "label": "Spotify",
-        "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-      },
-      {
-        "label": "Apple Music",
-        "url": "https://music.apple.com/ca/artist/maude-audet/640151349"
-      },
-      {
-        "label": "Bandcamp",
-        "url": "https://chansonsdemaude.bandcamp.com/"
-      },
-      {
-        "label": "Vidéo officielle",
-        "url": "https://www.youtube.com/watch?v=sfsKQL77Uww"
-      }
-    ]
-  },
   "Mykalle": {
     "description": "Mykalle est une autrice-compositrice-interprète et artiste multidisciplinaire qui navigue entre musique et arts vivants depuis plus de dix ans. Sa démarche, marquée par une trilogie performative autour du sacré (Gloria, Mythe, Warm up), culmine avec Da pacem (2024), un album mêlant chant liturgique, textures électroniques et influences néoclassiques, avec des paroles en latin, grec, bulgare et anglais. Sa musique, portée par une voix envoûtante et des chœurs riches, explore le rituel, la spiritualité et la quête de paix intérieure.",
     "imageUrl": "https://images.prismic.io/le-festif-ca/acVGDJGXnQHGZAFB_Mykalle_1920X1080.jpg",
@@ -1748,6 +1688,48 @@
       {
         "label": "Vidéo officielle",
         "url": "https://www.youtube.com/watch?v=siOvF9HuEuc"
+      }
+    ]
+  },
+  "Maude Audet": {
+    "description": "Autrice-compositrice-interprète au folk moderne, intime, franc et délicat, Maude Audet trace un chemin à son image dans le paysage artistique québécois. Avec sa voix douce et feutrée, elle tisse des chansons qui mêlent émotions, poésie et mélodies flottantes. Entre albums francophones et créations anglophones, tournées et projets orchestraux, elle construit un univers authentique et vibrant, mêlant le contemporain et les textures vintage, où chaque note raconte la vie.",
+    "imageUrl": "https://images.prismic.io/le-festif-ca/acVGC5GXnQHGZAE__Maude-Audet_1920X1080.jpg",
+    "links": [
+      {
+        "label": "Site officiel",
+        "url": "http://www.maudeaudet.com/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/user/maudemusique"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@maudeaudet"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/maudeaudetmusique/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/maude_audet"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ca/artist/maude-audet/640151349"
+      },
+      {
+        "label": "Bandcamp",
+        "url": "https://chansonsdemaude.bandcamp.com/"
+      },
+      {
+        "label": "Vidéo officielle",
+        "url": "https://www.youtube.com/watch?v=sfsKQL77Uww"
       }
     ]
   },

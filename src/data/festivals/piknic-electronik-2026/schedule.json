@@ -1224,8 +1224,32 @@
     "type": "main"
   },
   {
+    "date": "2026-10-02",
+    "venue": "SCÈNE FIZZ | TARAKA - En collaboration avec Produkt",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Sacchi b2b Gala",
+    "type": "off"
+  },
+  {
+    "date": "2026-10-02",
+    "venue": "SCÈNE FIZZ | TARAKA - En collaboration avec Produkt",
+    "paid": true,
+    "time": "18:30",
+    "artist": "AMÉMÉ b2b HoneyLuv",
+    "type": "off"
+  },
+  {
+    "date": "2026-10-02",
+    "venue": "SCÈNE FIZZ | TARAKA - En collaboration avec Produkt",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Gordo",
+    "type": "off"
+  },
+  {
     "date": "2026-10-03",
-    "venue": "SCÈNE FIZZ - BTSM",
+    "venue": "SCÈNE FIZZ | BTSM",
     "paid": true,
     "time": "17:00",
     "artist": "Black Tiger Sex Machine",
@@ -1329,7 +1353,7 @@
   },
   {
     "date": "2026-10-12",
-    "venue": "SCÈNE FIZZ - All Day I Dream",
+    "venue": "SCÈNE FIZZ | All Day I Dream",
     "paid": true,
     "time": "17:00",
     "artist": "Double Touch",
@@ -1337,7 +1361,7 @@
   },
   {
     "date": "2026-10-12",
-    "venue": "SCÈNE FIZZ - All Day I Dream",
+    "venue": "SCÈNE FIZZ | All Day I Dream",
     "paid": true,
     "time": "18:15",
     "artist": "Enamour",
@@ -1345,7 +1369,7 @@
   },
   {
     "date": "2026-10-12",
-    "venue": "SCÈNE FIZZ - All Day I Dream",
+    "venue": "SCÈNE FIZZ | All Day I Dream",
     "paid": true,
     "time": "19:30",
     "artist": "Samm",
@@ -1353,7 +1377,7 @@
   },
   {
     "date": "2026-10-12",
-    "venue": "SCÈNE FIZZ - All Day I Dream",
+    "venue": "SCÈNE FIZZ | All Day I Dream",
     "paid": true,
     "time": "20:45",
     "artist": "Lee Burridge",
@@ -1361,7 +1385,7 @@
   },
   {
     "date": "2026-10-16",
-    "venue": "SCÈNE FIZZ | Steve Angello",
+    "venue": "SCÈNE FIZZ | En collaboration avec Produkt",
     "paid": true,
     "time": "17:00",
     "artist": "Paskal Daze",
@@ -1369,7 +1393,7 @@
   },
   {
     "date": "2026-10-16",
-    "venue": "SCÈNE FIZZ | Steve Angello",
+    "venue": "SCÈNE FIZZ | En collaboration avec Produkt",
     "paid": true,
     "time": "18:30",
     "artist": "SHEE",
@@ -1377,7 +1401,7 @@
   },
   {
     "date": "2026-10-16",
-    "venue": "SCÈNE FIZZ | Steve Angello",
+    "venue": "SCÈNE FIZZ | En collaboration avec Produkt",
     "paid": true,
     "time": "20:00",
     "artist": "Steve Angello",
