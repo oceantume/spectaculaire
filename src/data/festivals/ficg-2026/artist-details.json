@@ -2112,5 +2112,42 @@
         "url": "https://www.youtube.com/@Weedon_le_Band"
       }
     ]
+  },
+  "Lynda Lemay": {
+    "description": "Lynda Lemay, née à Portneuf, développe très tôt une passion pour les mots et l’écriture. Adolescente, elle découvre la guitare et commence à écrire ses premières chansons. Encouragée par sa mère, elle participe à des concours et remporte en 1989 le Festival international de la chanson de Granby, ce qui lance sa carrière.\r\nElle signe ensuite avec Warner Music et connaît le succès avec ses albums et ses spectacles, appréciés pour leur mélange d’émotion et d’humour. Sa carrière prend une dimension internationale, notamment en France, où elle collabore avec de grandes figures comme Charles Aznavour.\r\nAu fil des années, elle enchaîne les albums à succès, reçoit de nombreuses distinctions et continue de se renouveler artistiquement. Malgré les hauts et les bas personnels, elle reste une artiste prolifique, marquée par une écriture sincère et profondément humaine.",
+    "imageUrl": "https://ficg.qc.ca/wp-content/uploads/2026/04/lyndalemay-credit_sebastien-st-jean-2560x1707.png",
+    "links": [
+      {
+        "label": "Site officiel",
+        "url": "https://lyndalemay.com"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/intl-fr/artist/6rVJyC8TepqtRRPeEFZfi0"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/lyndalemayofficiel/"
+      },
+      {
+        "label": "Linktree",
+        "url": "https://linktr.ee/lyndalemay"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/fr/artist/lynda-lemay/30944946"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/LyndaLemayOfficiel"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCyDgMFfuJgqQkF3pgBY0laQ"
+      }
+    ]
+  },
+  "Andréanne A. Malette": {
+    "links": []
   }
 }
