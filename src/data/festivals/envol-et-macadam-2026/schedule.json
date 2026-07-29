@@ -4,7 +4,7 @@
     "venue": "L’Anti Bar & Spectacles",
     "paid": true,
     "time": "00:00",
-    "artist": "Pasteur Papillon",
+    "artist": "Vie de Quartier",
     "country": "Canada"
   },
   {
@@ -12,7 +12,7 @@
     "venue": "L’Anti Bar & Spectacles",
     "paid": true,
     "time": "23:00",
-    "artist": "Vie de Quartier",
+    "artist": "Pasteur Papillon",
     "country": "Canada"
   },
   {
@@ -163,7 +163,15 @@
     "date": "2026-09-12",
     "venue": "",
     "paid": true,
-    "time": "22:00",
+    "time": "00:30",
+    "artist": "Dogo Suicide",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "",
+    "paid": true,
+    "time": "22:30",
     "artist": "Tout Croche",
     "country": "Canada"
   },
@@ -171,8 +179,8 @@
     "date": "2026-09-12",
     "venue": "",
     "paid": true,
-    "time": "23:00",
-    "artist": "Dogo Suicide",
+    "time": "23:30",
+    "artist": "Kouarrg",
     "country": "Canada"
   },
   {

@@ -91,36 +91,6 @@
       }
     ]
   },
-  "Vie de Quartier": {
-    "description": "Vie de Quartier, c’est près de 10 ans de fête sur scène. Atteints de symptômes sévères de\n\njeunesse pas tranquille, le groupe promène son folk et son énergie de bar en bar avec deux\n\nalbums dans le coffre — Rue des Malaises et Dépression Post-brosse — et une soif de\n\nscène jamais étanchée.\n\nSur scène, les compositions originales, crues et festives côtoient des reprises bien connues\n\n: du folk franco revisité avec un coup de tampon d’espresso dans le derrière jusqu’à des\n\nclassiques punk/rock fièrement traduits en français. Résultat : un spectacle bruyant,\n\nrassembleur et sincère, où ça chante fort, ça rit encore plus fort, et où personne ne ressort\n\navec un QI plus élevé.",
-    "imageUrl": "https://envoletmacadam.com/wp-content/uploads/2026/05/Vie-de-Quartier-Demenage-2-.jpg",
-    "links": [
-      {
-        "label": "Facebook",
-        "url": "https://www.facebook.com/viedequartierband"
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/viedequartierfolk/"
-      },
-      {
-        "label": "TikTok",
-        "url": "https://www.tiktok.com/@viedequartier"
-      },
-      {
-        "label": "Site officiel",
-        "url": "https://viedequartiermusique.com/"
-      },
-      {
-        "label": "Bandcamp",
-        "url": "https://viedequartier.bandcamp.com/"
-      },
-      {
-        "label": "YouTube",
-        "url": "https://www.youtube.com/@viedequartiermusique3535"
-      }
-    ]
-  },
   "Pasteur Papillon": {
     "description": "Routard au long cours, Pasteur Papillon sillonne les chemins de l’americana, du blues et de l’outlaw country à son rythme, dans sa langue. À travers des textes qui ne font pas de concessions, il propose une musique rythmée parfois contemplative, parfois grinçante, souvent festive, toujours sincère.\n\nFort d’une trajectoire musicale vibrante qui l’a entraîné dans les dédales de New York et de Londres pour ensuite le ramener dans sa campagne natale, Pasteur Papillon a délaissé le monde de la nuit et des néons au profit de l’aube, de la lumière qui perce et du bruissement des feuilles. La route n’est cependant jamais bien loin, elle continue de battre la mesure dans les refrains entraînants du Pasteur.\n\nSa musique ne craint pas l’introspection : ses multiples vies passées lui donnent assez de fuel pour écrire un millier de chansons. Entouré de musicien·nes chevronné·es, il livre une musique bien charpentée proche de ses racines américaines, rapatriée dans un français proche du monde.\n\nEn avril 2024, Pasteur Papillon lance son nouvel EP, Cocorico, car il faut bien que le jour se lève. Ce nouveau projet fidèle au style country rock de son auteur se veut un retour à la joie et à la légèreté, après l’exploration des profondeurs proposée dans son précédent album, On va sauver ce qui reste. Après la rédemption vient le temps de la célébration, et pour Pasteur Papillon, celle-ci prend les couleurs du honky-tonk et du boogie-woogie.\n\nPasteur Papillon termine 2025 avec la sortie d’un album personnel et déposé, Urubu, gospel d’un charognard, en plus d’accompagner Sara Dufour et Orloge Simard en première partie de plusieurs spectacles leurs tournées respectives.",
     "imageUrl": "https://envoletmacadam.com/wp-content/uploads/2026/05/Pasteur-Papillon-Photo-officielle-2026-Credit-Maude-Bond-scaled.jpg",
@@ -152,6 +122,36 @@
       {
         "label": "YouTube",
         "url": "https://www.youtube.com/@PasteurPapillon"
+      }
+    ]
+  },
+  "Vie de Quartier": {
+    "description": "Vie de Quartier, c’est près de 10 ans de fête sur scène. Atteints de symptômes sévères de\n\njeunesse pas tranquille, le groupe promène son folk et son énergie de bar en bar avec deux\n\nalbums dans le coffre — Rue des Malaises et Dépression Post-brosse — et une soif de\n\nscène jamais étanchée.\n\nSur scène, les compositions originales, crues et festives côtoient des reprises bien connues\n\n: du folk franco revisité avec un coup de tampon d’espresso dans le derrière jusqu’à des\n\nclassiques punk/rock fièrement traduits en français. Résultat : un spectacle bruyant,\n\nrassembleur et sincère, où ça chante fort, ça rit encore plus fort, et où personne ne ressort\n\navec un QI plus élevé.",
+    "imageUrl": "https://envoletmacadam.com/wp-content/uploads/2026/05/Vie-de-Quartier-Demenage-2-.jpg",
+    "links": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/viedequartierband"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/viedequartierfolk/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@viedequartier"
+      },
+      {
+        "label": "Site officiel",
+        "url": "https://viedequartiermusique.com/"
+      },
+      {
+        "label": "Bandcamp",
+        "url": "https://viedequartier.bandcamp.com/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@viedequartiermusique3535"
       }
     ]
   },
@@ -915,6 +915,20 @@
       {
         "label": "YouTube",
         "url": "https://www.youtube.com/@toutcrocheofficiel"
+      }
+    ]
+  },
+  "Kouarrg": {
+    "description": "KOUARRG est un groupe issu de la région de Portneuf composé de quatre vétérans de la scène punk rock Québécoise. Eric Roberge à la guitare et au vocale (Carotté, Eric Panic, Penelope, Vermin), Alexandre Papillion à la batterie (Alambik, Counter The Ace, Kurpill, The Tear’s Theory), Steve MOSS Moisan à la basse (Les Houlala!, Merd’Alors) et André Rochon à la guitare (Vermin). Avant tout ce sont quatre amis qui partagent une même passion musicale. Le groupe, quoique relativement jeune lui-même (formé en 2022), est riche de l’expérience de scène collective de ses membres et offre une musique franche, efficace et énergique!",
+    "imageUrl": "https://envoletmacadam.com/wp-content/uploads/2026/07/KOUARRG-PHOTO-1.jpeg",
+    "links": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/Kouarrg"
+      },
+      {
+        "label": "Bandcamp",
+        "url": "https://kouarrg.bandcamp.com/album/dans-lombre"
       }
     ]
   },
