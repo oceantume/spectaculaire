@@ -179,7 +179,7 @@
       },
       {
         "label": "YouTube",
-        "url": "https://www.youtube.com/@Val.dAvalon "
+        "url": "https://www.youtube.com/@Val.dAvalon"
       }
     ]
   },
@@ -500,6 +500,10 @@
         "url": "https://www.homesteadrecords.ca/"
       },
       {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/intl-fr/artist/6LNS4c3kkH7Fi6Hg0Pwu3A?si=QkUHOeHvSKGRe0bZaXlh0Q&nd=1&dlsi=d31b6e9d2a964c37"
+      },
+      {
         "label": "Instagram",
         "url": "https://www.instagram.com/_sylviewalker/?hl=en"
       },
@@ -508,12 +512,20 @@
         "url": "https://linktr.ee/sylviewalker?utm_source=linktree_profile_share<sid=aea76fa1-3c86-41ed-9316-3036c8904b72"
       },
       {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/ca/artist/sylvie-walker/1769656898?l=fr-CA"
+      },
+      {
         "label": "Facebook",
         "url": "https://www.facebook.com/sylviewalkermusic/"
       },
       {
-        "label": "Site officiel",
-        "url": "www.youtube.com/@Sylvie-Walker"
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/sylviewalker/sets/mon-doux-seigneur"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@Sylvie-Walker"
       }
     ]
   },

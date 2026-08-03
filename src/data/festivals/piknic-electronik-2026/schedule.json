@@ -931,7 +931,7 @@
     "date": "2026-08-28",
     "venue": "SCÈNE FIZZ",
     "paid": true,
-    "time": "17:00",
+    "time": "20:00",
     "artist": "Adriatique",
     "type": "off"
   },
@@ -1245,6 +1245,30 @@
     "paid": true,
     "time": "20:00",
     "artist": "Gordo",
+    "type": "off"
+  },
+  {
+    "date": "2026-10-03",
+    "venue": "SCÈNE FIZZ | BTSM",
+    "paid": true,
+    "time": "00:00",
+    "artist": "TYNAN",
+    "type": "off"
+  },
+  {
+    "date": "2026-10-03",
+    "venue": "SCÈNE FIZZ | BTSM",
+    "paid": true,
+    "time": "00:00",
+    "artist": "KATTANA",
+    "type": "off"
+  },
+  {
+    "date": "2026-10-03",
+    "venue": "SCÈNE FIZZ | BTSM",
+    "paid": true,
+    "time": "00:00",
+    "artist": "WHYPER b2b PSYCHAZM",
     "type": "off"
   },
   {

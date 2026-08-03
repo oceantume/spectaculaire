@@ -43,6 +43,13 @@
   },
   {
     "date": "2026-08-07",
+    "time": "21:05",
+    "venue": "Arts de rue",
+    "paid": false,
+    "artist": "Infinite Inferno"
+  },
+  {
+    "date": "2026-08-07",
     "time": "23:30",
     "venue": "Bistro-bar Le Brise Bise",
     "paid": false,
@@ -120,6 +127,13 @@
   },
   {
     "date": "2026-08-08",
+    "time": "17:30",
+    "venue": "Rue de la Reine - Art de rue",
+    "paid": false,
+    "artist": "Kilombo"
+  },
+  {
+    "date": "2026-08-08",
     "time": "13:00",
     "venue": "Scène Loto-Québec",
     "paid": false,
@@ -173,6 +187,13 @@
     "venue": "Le Petit Café de L'Anse",
     "paid": false,
     "artist": "Tout feu"
+  },
+  {
+    "date": "2026-08-09",
+    "time": "17:00",
+    "venue": "Rue de la Reine - Art de rue",
+    "paid": false,
+    "artist": "Kilombo"
   },
   {
     "date": "2026-08-09",

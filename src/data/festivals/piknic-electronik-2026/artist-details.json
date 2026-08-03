@@ -1001,6 +1001,10 @@
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_07-25_FRANCIS-MERCIER_DJBULLET-B2B-DJK9.png",
     "links": []
   },
+  "Adriatique": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26-ADRIATIQUE.png",
+    "links": []
+  },
   "Hernan Cattaneo": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_08-29_HERNAN-CATTANEO_HERNAN-CATTANEO.png",
     "links": [
@@ -1017,10 +1021,6 @@
         "url": "https://soundcloud.com/hernancattaneo"
       }
     ]
-  },
-  "Adriatique": {
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26-ADRIATIQUE.png",
-    "links": []
   },
   "Sammy Virji": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC24_OUTILS-COMM_SITE-WEB_VISUELS-ARTISTES_07-28_SAMMY-VIRJI.png",
@@ -1073,6 +1073,18 @@
   },
   "Black Tiger Sex Machine": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_10-03_PRESS-PIC_BTSM.jpg",
+    "links": []
+  },
+  "TYNAN": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/628194068_1446794756793970_8693395893653762125_n.jpg",
+    "links": []
+  },
+  "KATTANA": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/Stream-KATTANA-music-_-Listen-to-songs-albums-playlists-for-free-on-SoundCloud.png",
+    "links": []
+  },
+  "WHYPER b2b PSYCHAZM": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_10-03_PRESS-PIC_WHYPER-B2B-PSYCHAZM-1.jpg",
     "links": []
   },
   "Lee Burridge": {
