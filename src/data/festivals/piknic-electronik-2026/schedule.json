@@ -931,6 +931,22 @@
     "date": "2026-08-28",
     "venue": "SCÈNE FIZZ",
     "paid": true,
+    "time": "17:00",
+    "artist": "Kolophane",
+    "type": "off"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
+    "time": "18:30",
+    "artist": "Colyn",
+    "type": "off"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "SCÈNE FIZZ",
+    "paid": true,
     "time": "20:00",
     "artist": "Adriatique",
     "type": "off"

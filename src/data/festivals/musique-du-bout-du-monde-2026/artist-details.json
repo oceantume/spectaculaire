@@ -641,7 +641,7 @@
         "url": "https://www.instagram.com/toutfeutoutfeu"
       }
     ],
-    "description": "Tout feu est un projet de folk-alternatif-éclectique-collaboratif qui explore la superposition d’arrangements acoustiques et électroniques.\n\nLe projet, mené par le glaude-arbourois d’adoption matéo hb, offre des chansons douces et planantes, presque chuchotées au creux de l’oreille. Après la parution de l'album 𝒍𝒆𝒔 𝒎𝒐𝒏𝒔𝒕𝒓𝒆𝒔 𝒅𝒐𝒓𝒎𝒆𝒏𝒕 𝒆𝒏𝒄𝒐𝒓𝒆, en 2022, un deuxième album est à paraître en cette année du cheval de feu : combien de saisons (font les cheveux longs).\n\nEn collaboration avec le Centre culturel Le Griffon, Tout feu vous propose de prolonger la douceur du petit matin au Petit Café de l’Anse, dans une atmosphère feutrée où ses compositions accompagnent naturellement le retour de la lumière après le spectacle du lever du soleil."
+    "description": "Tout feu est un projet de folk-alternatif-éclectique-collaboratif qui explore la superposition d’arrangements acoustiques et électroniques.\n\nLe projet, mené par le glaude-arbourois d’adoption matéo hb, offre des chansons douces et planantes, presque chuchotées au creux de l’oreille. Après la parution de l'album 𝒍𝒆𝒔 𝒎𝒐𝒏𝒔𝒕𝒓𝒆𝒔 𝒅𝒐𝒓𝒎𝒆𝒏𝒕 𝒆𝒏𝒄𝒐𝒓𝒆, en 2022, un deuxième album est à paraître en cette année du cheval de feu : combien de saisons (font les cheveux longs).\n\nEn collaboration avec le Centre culturel Le Griffon, Tout feu vous propose de prolonger la douceur du petit matin au Petit Café de l’Anse, dans une atmosphère feutrée où ses compositions accompagnent naturellement le retour de la lumière après le spectacle du lever du soleil.\n\nSpectacle présenté par"
   },
   "Panel de discussions avec Waahli": {
     "imageUrl": "https://musiqueduboutdumonde.com/wp-content/uploads/Panel-Waahli-1.png",
@@ -691,6 +691,10 @@
   "Orchestre de danse de Douglastown": {
     "imageUrl": "https://musiqueduboutdumonde.com/wp-content/uploads/DougDance-nov2025-1.2.jpg",
     "links": [
+      {
+        "label": "Vidéo officielle",
+        "url": "https://www.youtube.com/watch?v=OgKJiTI6xG4"
+      },
       {
         "label": "Site officiel",
         "url": "https://douglastown.net/"
