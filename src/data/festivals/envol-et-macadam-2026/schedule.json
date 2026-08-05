@@ -51,6 +51,14 @@
     "date": "2026-09-11",
     "venue": "Agora port de Québec",
     "paid": true,
+    "time": "17:00",
+    "artist": "Drop Out Cold",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-11",
+    "venue": "Agora port de Québec",
+    "paid": true,
     "time": "18:00",
     "artist": "Luther",
     "country": "Allemagne"
@@ -161,30 +169,6 @@
   },
   {
     "date": "2026-09-12",
-    "venue": "",
-    "paid": true,
-    "time": "00:30",
-    "artist": "Dogo Suicide",
-    "country": "Canada"
-  },
-  {
-    "date": "2026-09-12",
-    "venue": "",
-    "paid": true,
-    "time": "22:30",
-    "artist": "Tout Croche",
-    "country": "Canada"
-  },
-  {
-    "date": "2026-09-12",
-    "venue": "",
-    "paid": true,
-    "time": "23:30",
-    "artist": "Kouarrg",
-    "country": "Canada"
-  },
-  {
-    "date": "2026-09-12",
     "venue": "Agora port de Québec",
     "paid": true,
     "time": "14:00",
@@ -269,6 +253,30 @@
     "paid": true,
     "time": "23:00",
     "artist": "Killing Daisies",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "La Source de la Martinière",
+    "paid": true,
+    "time": "00:30",
+    "artist": "Dogo Suicide",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "La Source de la Martinière",
+    "paid": true,
+    "time": "22:30",
+    "artist": "Tout Croche",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "La Source de la Martinière",
+    "paid": true,
+    "time": "23:30",
+    "artist": "Kouarrg",
     "country": "Canada"
   },
   {
