@@ -62,5 +62,423 @@
         "url": "https://geo.music.apple.com/ca/album/1818369208?itsct=music_box_link&itscg=30200&at=1l3v7Mm&ls=1&app=music&l=fr"
       }
     ]
+  },
+  "roman.": {
+    "description": "Création de Roman Lauzier-Boulanger et Olivier Bacon, roman. est un projet nourri par la musique populaire et alternative québécoise, le hip-hop francophone et le boom-bap américain des années 1990. Porté par un quintette aux racines jazz, le groupe construit des grooves riches où l’improvisation occupe une place centrale, donnant à chaque spectacle un caractère unique. À travers des textes poétiques et sensibles, roman. explore les défis de la jeunesse, le passage à l’âge adulte, les dépendances et la quête de liberté artistique.",
+    "imageUrl": "https://cdn.festigest.com/26/492e25f1-2772-45c3-bcb2-b5306eae5f8c.jpg",
+    "links": []
+  },
+  "Tout Croche": {
+    "description": "Tout Croche est un groupe festif et déjanté qui fait vibrer les foules grâce à son mélange explosif de folk, de pop-rock québécois et d’énergie punk. Réputé pour ses performances survoltées et sa proximité avec le public, le groupe transforme chacun de ses spectacles en véritable célébration collective. Porté par des mélodies entraînantes, une attitude sans filtre et un esprit de fête contagieux, Tout Croche rassemble les gens autour d’une musique énergique, rassembleuse et résolument festive.",
+    "imageUrl": "https://cdn.festigest.com/26/068e8fb8-1bb0-476d-8187-95244dc3ab2e.jpg",
+    "links": []
+  },
+  "Customer Service": {
+    "description": "Originaire de Halifax, Customer Service s’est rapidement imposé comme l’un des groupes les plus actifs de la scène DIY canadienne. Puisant dans l’énergie de l’emo des années 90 et 2000, le quatuor développe un son mélodique et percutant qui lui est propre. Depuis sa nomination parmi les meilleurs nouveaux artistes d’Exclaim! en 2024, le groupe a donné plus de 200 spectacles à travers le Canada et les États-Unis, partageant la scène avec The Dirty Nil et Death from Above 1979.",
+    "imageUrl": "https://cdn.festigest.com/26/0f294294-b590-4cc7-8491-99a1176d682b.jpg",
+    "links": []
+  },
+  "Roxanne Izzo": {
+    "description": "Roxanne Izzo évolue à la croisée de l’audace et de la vulnérabilité, de l’angoisse et de la tendresse. Basée à Montréal, l’autrice-compositrice transforme ses réflexions intimes en chansons pop sensibles portées par une énergie brute et une plume évocatrice. Entre cynisme existentiel et mélodies accrocheuses, elle donne une voix à celles et ceux qui se sentent entre deux mondes, incompris peut-être, mais toujours prêts à chanter haut et fort.",
+    "imageUrl": "https://cdn.festigest.com/26/d33d894b-454f-4562-be9a-33569d2c3a90.png",
+    "links": []
+  },
+  "happy sunflower": {
+    "description": "happy sunflower est le projet imaginé par l’auteur-compositeur-interprète montréalais Jonas Allamanno, accompagné de Benjamin Proulx, Rory Cogley et Omar Esperón. Ensemble, ils cultivent un univers à mi-chemin entre la surf psychédélique moderne et la pop rêveuse francophone. Après la sortie de l’EP Psyché en 2025, porté notamment par la chanson Amour en photo, le quatuor continue d’affiner son identité sonore avec des textures planantes, des rythmiques soigneusement construites et une douce candeur qui invite à l’évasion.",
+    "imageUrl": "https://cdn.festigest.com/26/e68691e5-f567-44cd-bd59-03ea8df046d3.jpg",
+    "links": []
+  },
+  "Thunder Queens": {
+    "description": "Formé à London, en Ontario, Thunder Queens est un trio rock composé de Violet, Lola et Clara, amies d’enfance qui jouent ensemble depuis l’adolescence. Porté par des riffs puissants, des harmonies vocales éclatantes et une énergie scénique contagieuse, le groupe aborde des thèmes comme l’amitié, la loyauté, la confiance en soi et l’avenir. Après la sortie de leur premier album Strike One (2024), suivie des singles Teenage Years et Birds on a Wire (2025), Thunder Queens poursuit son ascension sur la scène rock canadienne.",
+    "imageUrl": "https://cdn.festigest.com/26/f7cd45e3-2ca9-4eb3-ac93-922a99c78989.jpg",
+    "links": []
+  },
+  "Lou K": {
+    "description": "Artiste belge évoluant au sein de la scène post-punk féministe, Lou K est à la fois peintre, poète et musicienne. Accompagnée de ses complices sur scène, elle livre des chansons habitées où se rencontrent poésie sombre, guitares saturées et intensité brute. Influencée par PJ Harvey, Whispering Sons, Model/Actriz et Klô Pelgag, elle explore un territoire allant du grunge à la folk. Son premier album, L’obscurité, propose un rock viscéral, engagé et onirique qui transforme chaque concert en un moment de rage, de communion et de sororité.",
+    "imageUrl": "https://cdn.festigest.com/26/798b0bfd-9652-4504-9f70-c6e0219248f8.jpg",
+    "links": []
+  },
+  "BALACLAVA": {
+    "description": "Né dans l’effervescence de la scène underground new-yorkaise, Balaclava propose un punk énergique et sans détour, où guitares bruyantes, synthés tourbillonnants et mélodies accrocheuses se rencontrent. Forgé sur les scènes les plus crasses de New York, le groupe s’est bâti une réputation grâce à des prestations intenses qui laissent le public en sueur, conquis et prêt à revenir. Avec son esthétique déjantée et son esprit rassembleur, Balaclava livre une bande sonore parfaite pour oublier les tracas du quotidien et se laisser emporter par le moment.",
+    "imageUrl": "https://cdn.festigest.com/26/557e0d95-1eda-4bc4-bf62-719256014a2a.jpg",
+    "links": []
+  },
+  "Samuel Bourgeois": {
+    "description": "Originaire de Memramcook, au Nouveau-Brunswick, Samuel Bourgeois insuffle une énergie nouvelle au bluegrass en mariant tradition et modernité. Entouré de musiciens talentueux, il revisite les sonorités de la contrebasse, du banjo, du violon, de la guitare acoustique et des harmonies vocales à travers des arrangements créatifs et surprenants. Sur scène, chaque spectacle devient une aventure musicale imprévisible, où l’humour, l’émotion et la virtuosité se rencontrent pour créer un moment aussi rassembleur qu’authentique.",
+    "imageUrl": "https://cdn.festigest.com/26/6db904ca-5bed-4ac7-bea5-6f4c0e3bea4f.png",
+    "links": []
+  },
+  "Joey Robin Haché": {
+    "description": "Originaire du nord du Nouveau-Brunswick, Joey Robin Haché s’est imposé comme une figure marquante de la scène acadienne grâce à son rock alternatif aux accents punk, à la fois fougueux et réfléchi. Lauréat de nombreux prix, dont un ECMA pour Repaver l’âme, il aborde avec franchise des thèmes personnels comme la santé mentale et le passage à l’âge adulte. Son plus récent album, Moins zéro (2023), propose un univers pop-folk rock psychédélique né d’une collaboration entre l’Acadie et la Belgique. Sur scène, il livre des performances énergiques, intenses et profondément rassembleuses.",
+    "imageUrl": "https://cdn.festigest.com/26/f8a87acf-296a-4804-9ccd-632eb2a17737.png",
+    "links": []
+  },
+  "Éléonore Dessureault": {
+    "description": "Autrice-compositrice-interprète émergente, Éléonore Dessureault propose un univers où les influences pop et jazz se rencontrent dans une approche à la fois sensible et intrigante. Portées par son jeu de piano et une écriture oscillant entre abstraction et lucidité, ses chansons transportent le public dans un monde foisonnant de couleurs, de sensations et d’émotions. Avec créativité et ambition, elle développe une signature artistique singulière qui captive autant qu’elle surprend.",
+    "imageUrl": "https://cdn.festigest.com/26/042db9a6-bd27-43cd-88bc-b34e0828016d.jpg",
+    "links": []
+  },
+  "Lucky Chemistry": {
+    "description": "Lucky Chemistry est un collectif montréalais de musique contemporaine qui fusionne jazz, hip-hop et improvisation dans un univers vibrant et rassembleur. Réunissant instrumentistes et MCs, le projet marie la liberté expressive du jazz à la force narrative du rap, créant une musique aussi énergique qu’accessible. Après une troisième participation consécutive au Festival international de jazz de Montréal en 2026, le collectif présente Chain Reaction, un premier EP qui reflète toute la créativité, la diversité et l’effervescence de la scène montréalaise.",
+    "imageUrl": "https://cdn.festigest.com/26/67e4d7c4-2812-49fc-97f7-ec4b5a70d937.png",
+    "links": []
+  },
+  "Max Baby": {
+    "description": "Originaire de Bourges, Max Baby est un auteur-compositeur, producteur et multi-instrumentiste dont l’approche instinctive façonne une musique à la croisée de l’indie moderne, du rock alternatif, de la pop expérimentale et de l’électronique. Après son premier EP OUT OF CONTROL, INTO THE WALL, enregistré aux Greasy Studios, il approfondit sa démarche avec BREAK, un projet où cohabitent dissonance, reconstruction et liberté créative. Collaborateur recherché, il a également travaillé avec Weyes Blood, Goldie Boutilier et Clara Luciani.",
+    "imageUrl": "https://cdn.festigest.com/26/ae90188b-c13e-4cbd-a491-679cf220b3a3.jpg",
+    "links": []
+  },
+  "Shunk": {
+    "description": "Originaire de Montréal, Shunk fusionne post-punk, dream-pop, shoegaze, indie pop et même des influences opératiques pour créer une signature sonore singulière. Reflet de la scène montréalaise en constante évolution, le groupe se distingue par des performances aussi excentriques qu’électrisantes. La voix caméléon de Gabrielle Colette passe de passages lyriques inspirés de l’opéra à des élans d’une intensité presque hardcore, soutenue par la section rythmique solide de Adrian Vaktor et Julia Hill, ainsi que les textures de guitare lumineuses de Peter Baylis.",
+    "imageUrl": "https://cdn.festigest.com/26/4f9d6652-2535-45fa-9596-c0f6359dde46.jpg",
+    "links": []
+  },
+  "Clara Roy-Jensen": {
+    "description": "Autrice-compositrice-interprète, Clara Roy-Jensen façonne une pop lumineuse où se rencontrent influences latines, textures synthétiques et sensibilité contemporaine. Issue d’une famille d’artistes, elle développe un univers à la fois intime et éclatant, entourée de Juliette Décarie aux claviers et Thomas Godbout à la batterie. Son premier microalbum, Divinité profane, explore avec finesse les notions de densité, de liberté et de lumière à travers cinq pièces où s’entrelacent intuition, structure et émotion.",
+    "imageUrl": "https://cdn.festigest.com/26/7d682c43-6c6f-43e0-b6ce-2ae7fa5f8d5d.jpg",
+    "links": []
+  },
+  "LeParc": {
+    "description": "Originaire de Jonquière, LeParc façonne un univers sonore où la nostalgie de l’enfance rencontre l’expérimentation brute. Entre distorsions assumées, rythmiques inventives et explorations sonores décomplexées, le groupe transforme chaque pièce en terrain de jeu. Leur musique écrase, déforme et réinvente les repères avec une approche à la fois ludique et audacieuse, invitant le public à plonger dans un imaginaire où toutes les règles semblent pouvoir être réécrites.",
+    "imageUrl": "https://cdn.festigest.com/26/1280348a-9c24-4082-b134-e1824b3773ff.jpg",
+    "links": []
+  },
+  "Fyore": {
+    "description": "Née d’un héritage togolais, québécois et haïtien, Fyore façonne une musique audacieuse qui échappe aux catégories. Son univers fusionne pop, électronique, afropop, R&B, house, Jersey Club et funk brésilien dans une approche résolument actuelle. Après la parution de son premier EP DZIDZI en 2024, elle a été finaliste de la 30e édition des Francouvertes en 2026. Son premier album, attendu à l’automne 2026, explore l’identité afro-québécoise, la décolonisation personnelle et la reprise de sa voix à travers les rythmes du tama.",
+    "imageUrl": "https://cdn.festigest.com/26/f64a517d-fcbe-48cd-8cf6-024d0c1933e3.png",
+    "links": []
+  },
+  "Joseph Lorange": {
+    "description": "Artiste émergent de la scène pop alternative québécoise et montréalaise, Joseph Lorange trace aujourd’hui son parcours sous son vrai nom après s’être d’abord fait connaître dans le milieu hip-hop sous le nom de Jiuzeph. Affranchi des frontières de genre, il développe une approche musicale libre où les influences se croisent naturellement. À travers ses chansons, Joseph Lorange explore de nouvelles avenues créatives, porté par une sensibilité contemporaine et un désir constant de réinventer son expression artistique.",
+    "imageUrl": "https://cdn.festigest.com/26/f2f272ce-c896-4aed-abf7-37f6e0487bcc.jpg",
+    "links": []
+  },
+  "Donalda": {
+    "description": "DONALDA est le projet de musique électronique francophone de Florence Lafontaine et Olivier Martin-Fréchette. Influencé par le UK Garage, le dubstep, le left-field bass et la culture queer nocturne, le duo crée un univers dansant où se rencontrent intuition club et recherche musicale. Forts d’un parcours en composition numérique, musique contemporaine et jazz, les deux artistes explorent les frontières des genres avec une approche inclusive, curieuse et rassembleuse. DONALDA célèbre la diversité, la langue française et la liberté à travers des performances immersives et actuelles.",
+    "imageUrl": "https://cdn.festigest.com/26/a167dbce-4106-4af9-af38-3347a84ad2fb.png",
+    "links": []
+  },
+  "Sunderloom": {
+    "description": "Fondé à Québec en 2017 par Alinoë Schneider et Charles Bélanger, puis rejoint par Matt Moln et François-Gabriel Marcotte en 2018, Sunderloom façonne un univers indie wave riche et immersif. Inspiré par Tame Impala, Radiohead et Boards of Canada, le groupe fusionne les styles pour créer une signature sonore singulière. Entre compositions atmosphériques, paroles évocatrices et onirisme métaphysique, Sunderloom invite à un voyage intérieur où se croisent introspection, émotions et réflexions sur les états psychologiques qui façonnent nos vies.",
+    "imageUrl": "https://cdn.festigest.com/26/341fc63f-c574-40a5-b7fd-29b5c79259c9.jpg",
+    "links": []
+  },
+  "Mort Rose": {
+    "description": "Fondé à Montréal en 2016 par Alexandre Archambault, Christophe Charest-Latif, Julien Comptour et Mark Cool, Mort Rose s’est rapidement imposé sur la scène underground montréalaise grâce à son premier album Nés pour aimer, salué par la critique. Inspiré par le rock psychédélique de la fin des années 1960, le groupe développe une approche à la fois personnelle, moderne et intemporelle. Habitué des scènes d’envergure, Mort Rose a notamment assuré les premières parties de Hubert Lenoir, des Trois Accords et de Weezer.",
+    "imageUrl": "https://cdn.festigest.com/26/a6b821de-73b7-4d97-aefd-b61e70210863.jpg",
+    "links": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/mrtpink"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/lesmortrose/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?v=_AlksK2tU38"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://geo.music.apple.com/ca/album/1490483577?itsct=music_box_link&itscg=30200&at=1l3v7Mm&ls=1&app=music&l=fr"
+      }
+    ]
+  },
+  "Good Fortune": {
+    "description": "Good Fortune est le projet de la musicienne, autrice-compositrice et réalisatrice canadienne Kelsey McNulty. À la croisée de la pop des années 60, de la soul et de la dream-pop contemporaine, elle crée des chansons cinématographiques portées par une voix douce en français et en anglais. Nourri de synthétiseurs chaleureux, d’orgues vintage et de textures analogiques, son univers oscille entre nostalgie et modernité. Sur scène, Good Fortune transforme chaque concert en une expérience immersive, intime et délicatement hors du temps.",
+    "imageUrl": "https://cdn.festigest.com/26/ce1a5233-477d-45e8-a7ef-439038a8e1bc.jpg",
+    "links": []
+  },
+  "Floraison Tardive": {
+    "description": "Floraison Tardive est le projet de Tony Baitch au micro et de Tetro à la production, né dans un sous-sol de Mascouche pendant la pandémie. Porté par des textes mélancoliques et des productions éclectiques, le duo s’est rapidement fait remarquer avec l’EP Les pétales au bout du quai (2023) puis aux Francouvertes 2024. Avec la sortie de leur premier album, Radeau Capharnaüm (2025), Floraison Tardive affirme sa maturité artistique à travers un spectacle full band énergique, coloré et résolument rassembleur.",
+    "imageUrl": "https://cdn.festigest.com/26/02f67611-1dea-486e-aca3-e5cd27dbba65.jpg",
+    "links": []
+  },
+  "Fine Food Market": {
+    "description": "Fine Food Market est le projet folk dream-pop de l’artiste multidisciplinaire montréalaise Sophie Perras. Inspirée par sa formation de pianiste classique et par les sonorités uniques de son clavier PSR3000, elle compose des chansons intuitives, sensibles et lumineuses. À la croisée du country-folk et de l’indie expérimental, Fine Food Market crée un univers peuplé d’images familières et de réflexions intimes. Entre fantaisie, mélancolie et humour, ses textes bilingues explorent avec sincérité les complexités du quotidien.",
+    "imageUrl": "https://cdn.festigest.com/26/955cc5a4-8d83-48e7-bbb4-a609a308ce43.jpg",
+    "links": []
+  },
+  "SCOPA": {
+    "description": "SCOPA est le projet instrumental de Vincent Deit, musicien et multi-instrumentiste établi à Québec, également membre de Malaimé Soleil. Après avoir accompagné de nombreux artistes tels que hôte, Fiction et Nana Quinn, il lance un projet où les mélodies et le groove occupent l’avant-plan, sans avoir recours aux paroles. Inspiré par la soul, le library music, le krautrock, les premières musiques électroniques et diverses traditions extra-occidentales, SCOPA développe un univers à la fois nostalgique, immersif et profondément personnel.",
+    "imageUrl": "https://cdn.festigest.com/26/dbb9da83-7615-4f51-adf2-bc16a4fe7796.jpg",
+    "links": []
+  },
+  "Le Miel": {
+    "description": "Originaire de Québec, Le Miel est un projet de soul-funk instrumental inspiré par des groupes comme The Fearless Flyers et The Meters. Mariant les sonorités du funk des années 70 à une approche contemporaine, le groupe propose une musique à la fois accessible, créative et rassembleuse. Porté par une volonté de mettre de l’avant des femmes issues de la diversité, Le Miel explore à travers ses compositions des thèmes tels que la résilience, les dualités intérieures et l’espoir, le tout avec un groove chaleureux et affirmé.",
+    "imageUrl": "https://cdn.festigest.com/26/a3ff9230-29dc-41a8-ad27-a4611262ad5a.png",
+    "links": []
+  },
+  "Dauphins": {
+    "description": "Né à Sainte-Thérèse en 2024, Dauphins navigue entre la nostalgie des années 70 et l’énergie de la pop actuelle. Formé de Mathis Boulay, Mathilde Côté, Antoine Boucher, Laurent Duval et Adam Plante-Cary, le groupe propose un art rock lumineux où se croisent guitares mordantes, harmonies vocales et refrains rassembleurs. Puisant autant dans l’héritage des Rolling Stones que dans celui de Beau Dommage, Dauphins livre des prestations électrisantes, portées par une énergie brute et un amour profond de la scène.",
+    "imageUrl": "https://cdn.festigest.com/26/d9474a07-2c7d-4ca1-8f06-0384e25a07f2.png",
+    "links": []
+  },
+  "Vermeil": {
+    "description": "Vermeil propose un univers pop-adjacent où se déploie un groove clair-obscur, comme un fil conducteur traversant chacune de ses chansons. Portée par des textes intimes, des synthétiseurs granuleux et de subtiles touches électro, sa musique explore les nuances de la mélancolie avec sensibilité et lucidité. Entre introspection et mouvement, Vermeil invite à accueillir, et parfois même à célébrer, les émotions qui nous habitent au quotidien.",
+    "imageUrl": "https://cdn.festigest.com/26/3297975d-4f75-42e1-884a-08087232d9cf.jpg",
+    "links": []
+  },
+  "Christine Campbell": {
+    "description": "Originaire de l’Île-du-Prince-Édouard, Christine Campbell se distingue par sa voix puissante et son jeu de guitare empreint de caractère. Que ce soit en solo, en duo avec Campbell & Johnston ou accompagnée du Black Market Band, elle propose un mélange de blues-rock et de roots aux accents vintage et contemporains. Lauréate du prix « Rooted to the Island » en 2023, elle a également remporté, avec l’album Paisley Hearts, les prix « Best Blues Release » aux ECMAs et « Best Blues Recording » à Music Nova Scotia en 2025.",
+    "imageUrl": "https://cdn.festigest.com/26/63312f25-a586-4f56-b149-5d81f198f4b8.jpeg",
+    "links": []
+  },
+  "All Day Breakfast": {
+    "description": "Né d’une passion commune pour les harmonies vocales et le folk contemporain, All Day Breakfast réunit Andrew Shier, Joseph Martel, Daisy Progosh et Peter Klassen. Après plusieurs années à collaborer au sein de différents projets musicaux, le groupe développe une identité ancrée dans les arrangements acoustiques riches et les harmonies à quatre voix. En 2026, il enregistre cinq titres à Montréal, au Banjaxed Studio. Leur musique marie la chaleur du folk traditionnel à une approche d’écriture moderne, portée par le partage d’histoires et de perspectives humaines.",
+    "imageUrl": "https://cdn.festigest.com/26/08b020d8-f049-4943-a81a-7039b4627b24.jpg",
+    "links": []
+  },
+  "Bonace": {
+    "description": "Basé à Québec, Bonace est un groupe féministe et engagé qui marie la pop et le jazz francophone dans un univers aussi festif que réfléchi. Porté par les textes de Flavie Dornier, chanteuse, comédienne et instigatrice du projet, le groupe aborde des enjeux politiques, sociaux et féministes avec une plume sensible et percutante. Entre costumes flamboyants, accessoires éclatés et théâtralité assumée, Bonace propose une expérience immersive où se rencontrent musique, revendication et célébration de la culture francophone.",
+    "imageUrl": "https://cdn.festigest.com/26/4f8ac902-b21e-45be-a7e2-b0c79575e71b.jpg",
+    "links": []
+  },
+  "Chanelle Salinger": {
+    "description": "Originaire de Sainte-Agathe-des-Monts et établie à Québec depuis 2011, Chanelle Salinger amorce un nouveau chapitre artistique avec son projet solo lancé en 2025. Après avoir évolué au sein du groupe Winterglow, elle propose une dream-pop vaporeuse aux influences des années 90, portée par une voix douce et envoûtante. Inspirée notamment par Helena Deland et Billie Eilish, elle crée des atmosphères intimes où se rencontrent sensibilité, élégance et émotion brute. Son premier mini-album est attendu à l’automne 2026.",
+    "imageUrl": "https://cdn.festigest.com/26/30cddd5e-9a9d-4726-82c4-069c467b32e2.jpg",
+    "links": []
+  },
+  "Naomi": {
+    "description": "Naomi est une artiste multidisciplinaire qui allie avec aisance pop, R&B, house et influences caribéennes. Reconnue pour son charisme, son sens du spectacle et sa polyvalence, elle crée un univers où danse, musique et théâtre se rencontrent naturellement. Après le succès de son premier album éponyme en 2022, elle a dévoilé Un coin sombre pour danser en 2024, un projet plus ambitieux et raffiné. Impliquée dans tous les aspects de sa démarche créative, Naomi propose une expérience scénique immersive, énergique et résolument à son image.",
+    "imageUrl": "https://cdn.festigest.com/26/0dcbffbf-b2b2-40a1-8c4c-32f9d0547479.jpg",
+    "links": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/howaboutnao/?locale=fr_CA"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/howaboutnao/?hl=fr"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/watch?time_continue=1&v=x2HEaTQeC-k&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dnaomi%2Bmusique%26rlz%3D1C1VDKB_frCA1073CA1073%26oq%3Dnaomi%2Bmusique%26gs"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/intl-fr/artist/7kCkigPAOvUemaGziItnCo"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://geo.music.apple.com/ca/album/1640043586?itsct=music_box_link&itscg=30200&at=1l3v7Mm&ls=1&app=music&l=fr"
+      }
+    ]
+  },
+  "Laraw": {
+    "description": "Avec sa pop alternative accrocheuse et dansante, Laraw privilégie l’authenticité plutôt que la perfection. Portée par une voix délicate, empreinte d’une légère irrévérence, elle transforme les incertitudes et les bouleversements de la vingtaine en chansons aussi sensibles qu’entraînantes. Accompagnée de ses musiciens sur scène, l’artiste présente les pièces de son premier album, Quarter Life Crisis, un projet sincère et lumineux qui aborde les hauts et les bas du passage à l’âge adulte avec spontanéité et charme.",
+    "imageUrl": "https://cdn.festigest.com/26/3a7707c4-896a-471c-ab85-ae40dc8b1974.jpg",
+    "links": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/larawland/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/larawland/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/embed/vOcC1iqdwyo?si=i-3MVpp5GRLLZNsB"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/intl-fr/album/5noUqLaOZ29vralKskmrm3"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@larawland"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://geo.music.apple.com/ca/album/1729810465?itsct=music_box_link&itscg=30200&at=1l3v7Mm&ls=1&app=music&l=fr"
+      }
+    ]
+  },
+  "Joe DeVito": {
+    "description": "Originaire du Bronx et de Yonkers, Joe DeVito est un auteur-compositeur, poète et guitariste qui réinvente les codes du folk et de l’Americana. Nourri autant par l’héritage de Woody Guthrie que par des influences contemporaines inattendues, il privilégie une approche axée sur le récit et la prise de parole. Sa chanson Deny, Defend, Depose, devenue virale en 2024, lui a valu une attention internationale. Signé chez Interscope, il a récemment parcouru les États-Unis aux côtés du groupe folk irlandais Amble lors d’une tournée complète à guichets fermés.",
+    "imageUrl": "https://cdn.festigest.com/26/dfaca9c0-9f2c-4480-bd90-fe2c47d2b1e8.jpg",
+    "links": []
+  },
+  "Nora Kelly Band": {
+    "description": "Né de rencontres musicales improvisées le long des voies ferrées du quartier Mile End à Montréal, Nora Kelly Band a rapidement attiré une foule fidèle, jusqu’à ce que la police mette fin aux rassemblements. Le groupe propose une vision singulière de l’alt-country, où harmonies envoûtantes, twang énergique et textes empreints d’humour se rencontrent. Sur scène, Nora Kelly Band offre des prestations chaleureuses et rassembleuses qui invitent naturellement le public à chanter avec eux.",
+    "imageUrl": "https://cdn.festigest.com/26/4903b716-d875-4029-8670-94ee355ed87d.jpg",
+    "links": []
+  },
+  "vinciane": {
+    "description": "Originaire de France et établi au Québec depuis 2023, Vinciane crée une musique électronique brute, organique et résolument dansante. Armé de synthétiseurs modulaires et de boîtes à rythmes, il construit et improvise ses performances en direct, dans un dialogue constant entre l’humain et la machine. Inspiré par la chanson, la techno et les musiques répétitives, ce multi-instrumentiste de formation classique façonne des textures uniques et immersives. À travers ses créations spontanées, Vinciane s’impose comme une voix émergente de la scène électronique actuelle.",
+    "imageUrl": "https://cdn.festigest.com/26/8161f3f9-fab2-4be1-b2e5-1056b5aafe67.jpg",
+    "links": []
+  },
+  "Émilie Landry": {
+    "description": "Originaire de Campbellton, au Nouveau-Brunswick, Émilie Landry est une auteure-compositrice-interprète bilingue dont la musique marie folk contemporain, country et pop alternative. Inspirée par le récit et l’émotion, elle s’est illustrée au Canada comme à l’international grâce à des albums remarqués tels que Arroser les fleurs et Enfiler mes bottes. Après plus de 150 spectacles et des passages aux ECMA, au Festival Interceltique de Lorient et aux Jeux olympiques de Paris 2024, elle prépare À l’aube de la trentaine, un projet intime et lumineux attendu en 2027.",
+    "imageUrl": "https://cdn.festigest.com/26/6c4baf94-3c25-48dc-aac3-53087c63faf9.png",
+    "links": []
+  },
+  "Framboise": {
+    "description": "Framboise propose un univers où le passé et le présent se rencontrent dans une célébration festive et colorée. Porté par des sonorités rétros revisitées à travers une production moderne, le groupe navigue librement entre le funk, la pop, le rock et le jazz. Comme un véritable système solaire musical, leurs compositions gravitent autour de mélodies accrocheuses, d’arrangements dynamiques et d’une énergie contagieuse, offrant un spectacle à la fois dansant, lumineux et rassembleur.",
+    "imageUrl": "https://cdn.festigest.com/26/afeaf2ef-b522-464c-97f4-56b9a912672e.jpg",
+    "links": []
+  },
+  "Flore & JADE": {
+    "description": "Flore & JADE est un projet pop-jazz familial gravitant autour de Flore, de son frère, de son père et de son copain. Ensemble, ils transforment de simples idées nées à la guitare en compositions riches et nuancées, façonnées collectivement. Avec leur premier EP, Mauvais Mots, Mauvais Moments, enregistré au Pantoum sous la supervision de Jean-Étienne Colin-Marcoux, le groupe propose une réflexion sensible sur l’introspection, la culpabilité, le changement et l’influence du milieu familial.",
+    "imageUrl": "https://cdn.festigest.com/26/07e6c0d7-da7f-4d75-b25d-ebba42096ebd.jpg",
+    "links": []
+  },
+  "Murray Drive": {
+    "description": "Au cœur de Murray Drive se trouve un duo uni autant dans la vie que dans la musique, qui compose des chansons ancrées dans l’authenticité et la force du récit. Accompagné sur scène d’une section rythmique dynamique, l’ensemble déploie une chimie naturelle nourrie par la camaraderie et le plaisir de jouer. Entre folk énergique et moments plus intimistes, leurs chansons marient paroles sincères, mélodies accrocheuses et rythmes entraînants. Avec la sortie de leur premier EP, yesterday, Murray Drive s’impose comme une nouvelle voix prometteuse du folk canadien.",
+    "imageUrl": "https://cdn.festigest.com/26/f0b212bd-785d-4076-8e2d-13d5476cfec4.jpg",
+    "links": []
+  },
+  "Luan Larobina": {
+    "description": "Née à Gaspé, Luan Larobina façonne une musique pop-folk-latine nourrie autant par ses racines latino-américaines que par les paysages du fleuve Saint-Laurent. Ses chansons, sensibles et lumineuses, explorent la vulnérabilité des émotions humaines avec authenticité. Diplômée de l’École nationale de la chanson de Granby, elle cumule plus de 200 spectacles, deux microalbums et plusieurs expériences artistiques au Québec comme en France. Récemment lauréate du Cabaret Festif et demi-finaliste en tête du classement aux Francouvertes, elle s’impose comme une voix montante de la scène québécoise.",
+    "imageUrl": "https://cdn.festigest.com/26/e4daa2e0-481c-4733-afa4-c67f82d174bb.jpg",
+    "links": []
+  },
+  "Erwan": {
+    "description": "Force tranquille du folk alternatif, Erwan propose une musique à la fois vaste et introspective, où les instruments acoustiques et la voix occupent une place centrale. Portées par des textes limpides et profonds, ses chansons explorent avec sincérité les beautés et les complexités du quotidien. Sur scène, il navigue entre douceur contemplative et élans plus groovés, présentant les pièces de ses trois mini-albums ainsi que celles de ALLURE, son premier album paru en juin 2026.",
+    "imageUrl": "https://cdn.festigest.com/26/66537e63-3a11-4005-a51d-bae35b24d257.jpg",
+    "links": []
+  },
+  "Coco Rose": {
+    "description": "Originaire de Montréal, Coco Rose fusionne funk et pop depuis 2022 avec une énergie contagieuse et un sens inné du groove. À travers les EP Love Faster (2022) et Cuddle Funk (2025), le groupe a façonné un son qui évolue d’un funk inspiré des années 70 vers une approche moderne et raffinée. Porté par des influences comme L’Impératrice et Lawrence, Coco Rose s’est démarqué avec la chanson Ambulance, classée dans le Top 100 québécois. Fort de plusieurs tournées au Québec et en Ontario, le groupe propose des performances festives et rassembleuses.",
+    "imageUrl": "https://cdn.festigest.com/26/05bed056-c7ea-4b05-9479-8b38573d0e33.jpg",
+    "links": []
+  },
+  "Grand Public": {
+    "description": "Mêlant tension explosive, mélodies accrocheuses et guitares hypnotiques, Grand Public réunit Grégory Paquet (The Stills, Peter Peter, Molly Rankin d’Alvvays) et trois amis d’enfance qui jouent ensemble depuis l’adolescence. Le groupe s’est rapidement démarqué avec son premier EP, Idéal Tempo (2023), récipiendaire du GAMIQ du meilleur EP rock. Porté par une énergie brute et un sens aiguisé de la mélodie, Grand Public travaille actuellement à son deuxième album, attendu au début de 2027 sur l’étiquette montréalaise Lisbon Lux.",
+    "imageUrl": "https://cdn.festigest.com/26/288bd208-2941-4963-9bdc-4cd455bff877.jpg",
+    "links": []
+  },
+  "Beauséjour": {
+    "description": "Beauséjour propose un spectacle country folk chaleureux et authentique, porté par des voix riches et harmonieuses. Inspiré à la fois par l’Acadie et l’Ouest canadien, le duo fait voyager le public à travers des chansons empreintes de souvenirs, de traditions et d’émotions. Sur scène, le violon et les influences folk se mêlent à l’esprit du « bon vieux country », dans des arrangements actuels et enveloppants. Entre humour, complicité et moments touchants, Beauséjour crée une expérience rassembleuse et sincère.",
+    "imageUrl": "https://cdn.festigest.com/26/c4136235-64ab-4706-8d8f-a34245e90314.png",
+    "links": []
+  },
+  "JP Leblanc": {
+    "description": "Originaire de Bathurst, au Nouveau-Brunswick, JP LeBlanc est un auteur-compositeur-interprète et guitariste blues dont la musique fait le pont entre les traditions acadiennes et les racines du blues américain. Lauréat d’un East Coast Music Award et représentant du Canada atlantique à l’International Blues Challenge de Memphis en 2024, il s’est imposé comme une figure importante du blues canadien. Son plus récent album, All In My Blood, marie blues, swamp rock et influences cajuns dans un univers à la fois personnel, authentique et rassembleur.",
+    "imageUrl": "https://cdn.festigest.com/26/f5b79dec-95a3-4e1a-8978-414084317223.png",
+    "links": []
+  },
+  "Bonne nuit, chérie": {
+    "description": "Bonne nuit, chérie est le projet nocturne de Florence Crête-Lafrenière, né dans les marges du quotidien comme un espace de création libre, guidé par l’instinct et le plaisir de suivre son élan. Paru en 2026, le mini-album xx, réalisé par Francis Mineau, explore une quête de lumière où la joie devient un geste de résistance. Portées par les synthétiseurs et des voix superposées, ses chansons naviguent entre rêve et réalité dans une approche sincère, frontale et sans compromis.",
+    "imageUrl": "https://cdn.festigest.com/26/9a9b09a6-5e9a-431d-8731-2b9691b21937.jpg",
+    "links": []
+  },
+  "Spaghatt": {
+    "description": "Formé en 2021 par Émile Touzin et Patrick Bourdon, Spaghatt insuffle une énergie rafraîchissante à la scène country montréalaise. Né de simples jams du vendredi soir, le projet a rapidement trouvé son public grâce à son country americana brut, poétique et rassembleur. Porté par des refrains accrocheurs, des lignes de pedal steel inspirées et des textes sincères sur l’amour, la fête et la route, le groupe franchit une nouvelle étape en 2026 avec la sortie de son premier EP, Perte totale, et sa participation à la 30e édition des Francouvertes.",
+    "imageUrl": "https://cdn.festigest.com/26/43a86ef8-0347-46af-8392-84c811dc8890.jpg",
+    "links": []
+  },
+  "Gawbé": {
+    "description": "Gawbé est le projet de rock alternatif francophone de Gabrielle Côté, fièrement ancré dans la basse-ville de Québec. Portées par une voix enveloppante et singulière, ses chansons racontent des histoires intimes et familières à travers des mélodies accrocheuses et un son oscillant entre hargne, relâchement et douceur mélancolique. Après une cinquantaine de spectacles à travers le Québec, Gawbé lançait son premier album, l’endroit l’envers, en février 2025, un disque sensible réalisé par Vivianne Roy qui explore les dualités personnelles et collectives.",
+    "imageUrl": "https://cdn.festigest.com/26/17ddeab7-c167-4256-bfd1-b997a5167b38.png",
+    "links": []
+  },
+  "Hush": {
+    "description": "Formé de Paige Barlow, Miles Dupire-Gagnon et Gabriel Lambert (Elephant Stone, Anemone, The Besnard Lakes), HUSH s’inscrit dans une nouvelle vague d’artistes montréalais qui repoussent les frontières de la pop psychédélique. À la croisée de l’art-rock, du jazz, du krautrock, du surf et de la dream-pop, le trio crée un univers à la fois cinématographique et profondément humain. Paru en mai 2026, leur premier album, For Dolly, puise son inspiration dans la riche scène psychédélique underground de Montréal.",
+    "imageUrl": "https://cdn.festigest.com/26/4d8ee90c-6eb7-40af-9432-d1679eaee227.jpg",
+    "links": []
+  },
+  "Tom Chicoine": {
+    "description": "Originaire de la Montérégie, Tom Chicoine explore les territoires du country, du folk, de l’americana et du rock psychédélique avec une sensibilité profondément québécoise. Inspiré par des figures comme Townes Van Zandt et Waylon Jennings, il façonne des chansons ancrées dans les paysages, les rencontres et les histoires du quotidien. Après Moteur super sport (2023), nommé à l’ADISQ et au GAMIQ, il poursuit sa route avec Divertir (2025), confirmant la richesse de sa plume et la singularité de son univers.",
+    "imageUrl": "https://cdn.festigest.com/26/874de21b-d808-49d3-ba07-14dc2d9bf504.jpg",
+    "links": []
+  },
+  "La Grosse Équipe": {
+    "description": "Originaire d’Edmundston, au Nouveau-Brunswick, La Grosse Équipe fait vibrer les scènes de l’Est du Canada avec son country-rock acadien festif et rassembleur. Depuis 2023, le groupe a présenté son spectacle du Québec jusqu’à Terre-Neuve, séduisant le public par son énergie contagieuse. Fort de deux EP et d’un album complet, La Grosse Équipe a récolté plusieurs nominations aux Prix Musique NB et a reçu le prix de la Tournée RADARTS 2026. Un groupe qui promet une soirée haute en couleur.",
+    "imageUrl": "https://cdn.festigest.com/26/ac4038d6-3d21-4bc6-ba20-cabea887b71d.png",
+    "links": []
+  },
+  "Tes Amants": {
+    "description": "À la croisée du rock, du funk, du prog et d’une foule d’autres influences, Tes Amants propose un univers musical théâtral, maximaliste et profondément québécois. Porté par des textes décomplexés, une approche sans compromis et une énergie scénique débordante, le groupe célèbre l’excès autant dans sa musique que dans son attitude. Avec ses musiciens irrévérencieux et ses arrangements audacieux, Tes Amants livre un spectacle unique où se rencontrent liberté créative, intensité et plaisir de repousser les frontières.",
+    "imageUrl": "https://cdn.festigest.com/26/ae4bb409-85e6-463a-a7b1-5e923c1d15dc.jpg",
+    "links": []
+  },
+  "ABOiTEAU": {
+    "description": "Porté par une énergie contagieuse, ABOiTEAU fait rayonner l’Acadie à travers un savant mélange de folk, trad, celtique et rock. Inspiré par les personnages et les légendes d’ici, le groupe propose des spectacles festifs où musique et patrimoine se rencontrent. Lauréat de trois prix à la FrancoFête en Acadie en 2023, dont la tournée RADARTS, ABOiTEAU poursuit son ascension avec des prestations en France, au Festival interceltique de Lorient, ainsi que des vitrines à l’ECMA et au Gate to Southwell Festival.",
+    "imageUrl": "https://cdn.festigest.com/26/c47f06ed-c3e8-40cd-8e71-92366ba16864.png",
+    "links": []
+  },
+  "Jacques Surette": {
+    "description": "Originaire de Yarmouth, en Nouvelle-Écosse, Jacques Surette est un auteur-compositeur-interprète acadien qui met en valeur son coin de pays à travers des chansons empreintes d’authenticité. Écrivant principalement en français, il fait découvrir la culture et le parler acadjonne dans des spectacles intimistes qui l’ont mené partout dans les Maritimes, au Québec, en Louisiane et en Europe. Avec quatre albums à son actif, dont Les vieux chapeaux paru en 2025, il propose un folk-pop aux influences country, ancré dans son identité néo-écossaise.",
+    "imageUrl": "https://cdn.festigest.com/26/4fa5c6cd-beba-4815-bb3f-fc26527ce010.png",
+    "links": []
+  },
+  "646yf4t": {
+    "description": "Originaire d’Oshawa, en Ontario, Babyfat (Zachary Simmonds) brouille les frontières entre les genres avec une approche instinctive qui mêle alt-R&B, punk-rock et influences difficiles à catégoriser. Ancien producteur, il prend le micro en 2025 avec son premier EP, Growing Pains (Sincerely Yours), un récit sans filtre sur le passage à l’âge adulte, la foi, l’isolement et la résilience. En 2026, il fait ses débuts sur scène à Toronto, confirmant la force de son univers autant en spectacle qu’en studio.",
+    "imageUrl": "https://cdn.festigest.com/26/b00fa4b5-78a4-4fbd-9511-c294759328b7.jpg",
+    "links": []
+  },
+  "Clay Hazey": {
+    "description": "Alliant tradition et exploration, Clay Hazey revisite les codes du country et du western à travers une signature sonore qui lui est propre. Porté par une écriture à la fois affûtée et émotive, une voix brute et des mélodies accrocheuses, il bâtit un univers accessible où le twang rencontre des influences contemporaines. Paru en 2024, son premier EP éponyme a été diffusé sur CBC Radio 1 et remarqué sur les radios universitaires canadiennes. Son titre Past Two est notamment demeuré pendant plus de six mois sur les ondes de NorthAmericana, à SiriusXM.",
+    "imageUrl": "https://cdn.festigest.com/26/19028743-b16e-4697-bdb2-e31ba4efd876.jpg",
+    "links": []
+  },
+  "Buvette Mila": {
+    "description": "L’équipe du Café-Buvette Mila propose une conférence-dégustation mettant en lumière sa passion pour les produits d’ici, les saveurs authentiques et l’art de recevoir. À travers un échange convivial ponctué de dégustations, les participant·es découvriront l’approche du Mila, où gastronomie, café et culture se rencontrent dans un esprit de partage et de curiosité. Une occasion de savourer autrement le savoir-faire local et d’explorer les histoires qui se cachent derrière chaque produit.",
+    "imageUrl": "https://cdn.festigest.com/26/00264e6a-e896-4f28-92b0-6d0e1ae8bbd6.png",
+    "links": []
+  },
+  "Olivier Graton": {
+    "description": "Diplômé de l’ITHQ, Olivier Graton s’est d’abord fait connaître du grand public grâce à l’émission Les Chefs!. Aujourd’hui, c’est sur les réseaux sociaux qu’il partage sa passion pour la cuisine avec humour, authenticité et simplicité. Entre recettes accessibles, astuces culinaires et collaborations avec plusieurs personnalités québécoises, il démystifie l’art de cuisiner dans une approche aussi divertissante que rassembleuse. Son énergie communicative et son célèbre « PARDON!? » ont fait de lui une figure appréciée des amateurs de bonne bouffe.",
+    "imageUrl": "https://cdn.festigest.com/26/9b326fd9-8708-4de9-b2f1-24a1779e329b.png",
+    "links": []
+  },
+  "Samuel Boisvert - Soif de Bouffe": {
+    "description": "Mieux connu sous le nom de Soif de bouffe, Samuel Boisvert est le grand gagnant de la troisième saison de MasterChef Québec. Chef, passionné de mixologie et fin ambassadeur du terroir québécois, il se distingue par une approche culinaire inspirée des techniques japonaises et des produits d’ici. Curieux et créatif, il explore autant l’univers des cocktails que celui de la gastronomie, proposant une cuisine conviviale, accessible et résolument portée par la recherche des saveurs umami.",
+    "imageUrl": "https://cdn.festigest.com/26/993ea716-4389-48eb-a7e6-fd66eb388122.png",
+    "links": []
+  },
+  "M. Gazon": {
+    "description": "Maître de l’acrobatie, du jonglage, de l’équilibre et du monocycle, M. Gazon transporte le public dans un univers ludique où l’humour clownesque rencontre la virtuosité. Porté par des musiques entraînantes, David enchaîne prouesses et surprises en jonglant avec balles, quilles, couteaux, torches enflammées et bien plus encore. Grâce à son charisme naturel et à son sens de l’improvisation, il captive petits et grands dans un spectacle rempli d’émerveillement, de rires et de moments mémorables.",
+    "imageUrl": "https://cdn.festigest.com/26/f2e21f84-21e0-4a53-9a36-879bc5f9ba81.jpg",
+    "links": []
+  },
+  "Alix Atomix": {
+    "description": "Alix Atomix invite le public à découvrir « la science qui décoiffe » à travers un spectacle participatif, drôle et éclaté. Entre démonstrations surprenantes, expériences spectaculaires et interactions constantes, chaque numéro met en lumière les phénomènes scientifiques qui façonnent le quotidien, de la gravité à la force centrifuge. Avec son approche ludique et accessible, Alix transforme la science en véritable terrain de jeu, offrant un moment aussi amusant qu’éducatif où curiosité et éclats de rire sont toujours au rendez-vous.",
+    "imageUrl": "https://cdn.festigest.com/26/ac556ab9-07af-4068-8a16-2ba60f9de909.png",
+    "links": []
+  },
+  "Fistule": {
+    "description": "Originaire de Belgique et établi au Québec, Fistule évolue depuis toujours au cœur des scènes rave, techno, drum and bass et bass music. Influencé par la culture underground européenne, il développe aujourd’hui une identité musicale ancrée dans le bounce, la hard trance et la hardtechno, tout en conservant une ouverture aux sonorités bass. Ses DJ sets, conçus pour le dancefloor, s’adaptent au public et au moment, offrant une expérience immersive où énergie, intensité et sens du spectacle se rencontrent.",
+    "imageUrl": "https://cdn.festigest.com/26/7d014f18-a491-4143-95d7-a2197d556fb3.jpg",
+    "links": []
+  },
+  "Tartine": {
+    "description": "Originaire de la scène électronique montréalaise, Tartine découvre sa passion pour la musique électronique à son arrivée dans la métropole. Après avoir exploré différents courants, elle se tourne vers la techno sous toutes ses formes et en fait son terrain d’expression privilégié. Membre du collectif Doppler Effect, elle s’investit autant derrière les platines que dans l’organisation d’événements et la vie de la communauté. Ses sets traduisent son engagement envers une scène techno vivante, inclusive et en constante évolution.",
+    "imageUrl": "https://cdn.festigest.com/26/43a0c405-aa9f-4018-9fdb-6c7d66c757f1.png",
+    "links": []
+  },
+  "Alex Murphy": {
+    "description": "Passionné de musique house, Alex Murphy a façonné son identité musicale à Montréal, où il s’est imprégné des rythmes latins, du hip-hop et de la musique pop. Spécialisé en House, Soulful House et Nu Disco, il est reconnu pour son habileté à dénicher des perles underground et des remixes soigneusement sélectionnés. Actif depuis plus d’une décennie, il se distingue par des DJ sets dynamiques et son aptitude à lire les foules. Il est également fondateur, propriétaire et directeur du Paradise Club, un espace créatif conçu pour les DJs, par des DJs.",
+    "imageUrl": "https://cdn.festigest.com/26/f030bc4e-7208-4b8c-a822-45e5f731f366.jpg",
+    "links": []
+  },
+  "French Vanilia": {
+    "description": "Artiste multidisciplinaire, French Vanilia navigue entre le DJing, le design d’intérieur et la mode avec une créativité assumée. Passionnée par la musique et la vie nocturne, elle développe un univers rythmé par les sonorités disco et house. Derrière les platines, elle privilégie des sélections festives et entraînantes qui invitent le public à se laisser porter par le rythme. French Vanilia crée des ambiances chaleureuses et rassembleuses où l’énergie de la piste de danse est toujours au rendez-vous.",
+    "imageUrl": "https://cdn.festigest.com/26/fdd104a6-6ff4-418e-8f6d-38a9f618985c.jpg",
+    "links": []
+  },
+  "Millimetrik & Marco G": {
+    "description": "Légendes réunit Marco G et Millimetrik pour une célébration de la scène électronique québécoise des années 2000. Inspiré par une époque où la musique façonnait les nuits de Québec, le duo revisite les sonorités qui ont marqué les pistes de danse d’hier, en les faisant dialoguer avec celles d’aujourd’hui. Présenté en formule back-to-back, ce spectacle propose un voyage entre house, techno et culture club, porté par deux figures qui ont contribué à faire vibrer la ville jusqu’au petit matin.",
+    "imageUrl": "https://cdn.festigest.com/26/eb1938ad-9228-4e44-aadb-b78e14cd51cb.png",
+    "links": []
+  },
+  "Rizomagic": {
+    "description": "Rizomagic est un duo colombien de musique électronique formé par Diego Manrique et Edgar Marún. Leur univers crée un dialogue unique entre les rythmes traditionnels des côtes pacifique et atlantique de la Colombie et les textures de l’IDM. Depuis leur premier album Voltaje Raizal (2020), ils ont tourné à travers l’Europe et se sont produits dans des festivals tels que Nuits Sonores et Worm Festival. Leur plus récent album, Marimbitiaos (2023), confirme leur approche novatrice où traditions tropicales et électronique contemporaine se rencontrent.",
+    "imageUrl": "https://cdn.festigest.com/26/cc6761cb-f28f-4be5-b2a7-55ab7229a7fd.png",
+    "links": []
+  },
+  "Poirier": {
+    "description": "Figure incontournable de la scène électronique montréalaise, Poirier bâtit depuis plus de 25 ans des ponts entre les cultures, les langues et les communautés à travers une musique chaleureuse et résolument tournée vers la danse. Auteur-compositeur, DJ et producteur prolifique, il compte 12 albums à son actif, parus notamment sur Ninja Tune et Wonderwheel Recordings. Lauréat d’un ADISQ et nommé à plusieurs reprises aux prix Juno et Polaris, il poursuit son exploration des rythmes house du monde avec son prochain album Flip The Script Sounds Fun, attendu en 2026.",
+    "imageUrl": "https://cdn.festigest.com/26/7b411de3-6d11-49cb-8a56-0315e1f70676.png",
+    "links": []
+  },
+  "M.I.M et Shortlist": {
+    "description": "M.I.M et Shortlist unissent leurs univers dans un DJ set où la house, le disco et les sonorités électroniques plus avant-gardistes se rencontrent avec naturel. D’un côté, M.I.M se démarque par son goût pour les rythmes percussifs et les touches inattendues; de l’autre, Shortlist, fort de plus de 15 ans d’expérience, puise dans sa collection de vinyles et sa passion pour le crate digging pour bâtir des sélections riches et évolutives. Ensemble, ils proposent des sets organiques, groovés et résolument tournés vers la découverte musicale.",
+    "imageUrl": "https://cdn.festigest.com/26/734dcca6-0833-4547-aeec-3c3d23cd7253.png",
+    "links": []
   }
 }
