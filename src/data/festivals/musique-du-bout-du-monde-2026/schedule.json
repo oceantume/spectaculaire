@@ -79,7 +79,7 @@
   {
     "date": "2026-08-07",
     "time": "16:30",
-    "venue": "Auditorium du Cégep de la Gaspésie et des Îles",
+    "venue": "Scène TELUS à l'auditorium du CÉGEP de la gaspésie et des Îles",
     "paid": true,
     "artist": "Alysha Brilla"
   },
@@ -156,7 +156,7 @@
   {
     "date": "2026-08-08",
     "time": "16:30",
-    "venue": "Auditorium du Cégep de la Gaspésie et des Îles",
+    "venue": "Scène TELUS à l'auditorium du CÉGEP de la gaspésie et des Îles",
     "paid": true,
     "artist": "Waahli"
   },
@@ -218,13 +218,6 @@
   },
   {
     "date": "2026-08-09",
-    "time": "14:30",
-    "venue": "Auditorium du Cégep de la Gaspésie et des Îles",
-    "paid": true,
-    "artist": "Maïa Barouh"
-  },
-  {
-    "date": "2026-08-09",
     "time": "04:45",
     "venue": "Lever du Soleil au Cap-Bon-Ami dans le parc national Forillon",
     "paid": true,
@@ -236,5 +229,12 @@
     "venue": "Petite Églize",
     "paid": true,
     "artist": "Ligue d’improvisation musicale de Gaspé"
+  },
+  {
+    "date": "2026-08-09",
+    "time": "14:30",
+    "venue": "Scène TELUS à l'auditorium du CÉGEP de la gaspésie et des Îles",
+    "paid": true,
+    "artist": "Maïa Barouh"
   }
 ]
