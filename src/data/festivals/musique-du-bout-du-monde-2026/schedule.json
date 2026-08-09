@@ -8,6 +8,13 @@
   },
   {
     "date": "2026-08-06",
+    "time": "21:05",
+    "venue": "Arts de rue",
+    "paid": false,
+    "artist": "Infinite Inferno"
+  },
+  {
+    "date": "2026-08-06",
     "time": "23:30",
     "venue": "Bistro-bar Le Brise Bise",
     "paid": false,
@@ -40,13 +47,6 @@
     "venue": "Site du chapiteau Harbour - Scène Hydro-Québec sous le chapiteau",
     "paid": true,
     "artist": "Un coin du ciel par Alex Burger et invité·es : Mara Tremblay, Fred Fortin & Stephen Faulkner"
-  },
-  {
-    "date": "2026-08-07",
-    "time": "21:05",
-    "venue": "Arts de rue",
-    "paid": false,
-    "artist": "Infinite Inferno"
   },
   {
     "date": "2026-08-07",
