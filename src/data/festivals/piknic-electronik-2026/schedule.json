@@ -1344,6 +1344,30 @@
     "type": "main"
   },
   {
+    "date": "2026-10-09",
+    "venue": "SCÈNE FIZZ | MEDUZA",
+    "paid": true,
+    "time": "17:00",
+    "artist": "Shirlee",
+    "type": "off"
+  },
+  {
+    "date": "2026-10-09",
+    "venue": "SCÈNE FIZZ | MEDUZA",
+    "paid": true,
+    "time": "18:30",
+    "artist": "KUNGS",
+    "type": "off"
+  },
+  {
+    "date": "2026-10-09",
+    "venue": "SCÈNE FIZZ | MEDUZA",
+    "paid": true,
+    "time": "20:00",
+    "artist": "Meduza",
+    "type": "off"
+  },
+  {
     "date": "2026-10-11",
     "venue": "SCÈNE BANQUE NATIONALE - NOREINER",
     "paid": true,
