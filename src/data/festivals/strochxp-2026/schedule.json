@@ -462,15 +462,6 @@
     "date": "2026-08-28",
     "venue": "Vitrines SiriusXM",
     "paid": false,
-    "time": "16:00",
-    "artist": "Jacques Surette",
-    "country": "Acadie",
-    "genre": "Folk pop"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
     "time": "17:00",
     "artist": "happy sunflower",
     "country": "Québec",
@@ -652,18 +643,9 @@
     "venue": "Vitrines SiriusXM",
     "paid": false,
     "time": "19:00",
-    "artist": "ABOiTEAU",
+    "artist": "Jacques Surette",
     "country": "Acadie",
-    "genre": "Rock"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:20",
-    "artist": "ABOiTEAU",
-    "country": "Acadie",
-    "genre": "Rock"
+    "genre": "Folk pop"
   },
   {
     "date": "2026-08-28",
@@ -1128,6 +1110,15 @@
     "date": "2026-08-29",
     "venue": "Vitrines SiriusXM",
     "paid": false,
+    "time": "16:00",
+    "artist": "ABOiTEAU",
+    "country": "Acadie",
+    "genre": "Rock"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Vitrines SiriusXM",
+    "paid": false,
     "time": "16:40",
     "artist": "Éléonore Dessureault",
     "country": "Québec",
@@ -1339,6 +1330,15 @@
     "artist": "Hush",
     "country": "Québec",
     "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Vitrines SiriusXM",
+    "paid": false,
+    "time": "19:20",
+    "artist": "ABOiTEAU",
+    "country": "Acadie",
+    "genre": "Rock"
   },
   {
     "date": "2026-08-29",
