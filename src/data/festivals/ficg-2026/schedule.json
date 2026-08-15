@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-08-14",
-    "time": "17:00",
-    "venue": "Cour extérieure du Palace de Granby",
-    "paid": true,
-    "artist": "Valence",
-    "genre": "Indie-pop"
-  },
-  {
-    "date": "2026-08-14",
-    "time": "17:00",
-    "venue": "Cour extérieure du Palace de Granby",
-    "paid": true,
-    "artist": "VioleTT Pi",
-    "genre": "Alternatif"
-  },
-  {
-    "date": "2026-08-14",
-    "time": "17:00",
-    "venue": "Cour extérieure du Palace de Granby",
-    "paid": true,
-    "artist": "Klô Pelgag",
-    "genre": "Art pop"
-  },
-  {
-    "date": "2026-08-14",
-    "time": "16:00",
-    "venue": "Boutique Équestre Pépé",
-    "paid": false,
-    "artist": "Doug St-Louis et DJ Chuck",
-    "genre": "Country"
-  },
-  {
     "date": "2026-08-15",
     "time": "17:00",
     "venue": "Cour extérieure du Palace de Granby",

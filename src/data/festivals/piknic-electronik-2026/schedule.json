@@ -227,14 +227,6 @@
     "date": "2026-06-12",
     "venue": "SCÈNE FIZZ - CHASE & STATUS",
     "paid": true,
-    "time": "17:00",
-    "artist": "Honeydrip",
-    "type": "off"
-  },
-  {
-    "date": "2026-06-12",
-    "venue": "SCÈNE FIZZ - CHASE & STATUS",
-    "paid": true,
     "time": "19:30",
     "artist": "Delta Heavy",
     "type": "off"
@@ -245,6 +237,14 @@
     "paid": true,
     "time": "20:45",
     "artist": "Chase & Status",
+    "type": "off"
+  },
+  {
+    "date": "2026-06-12",
+    "venue": "SCÈNE FIZZ - CHASE & STATUS",
+    "paid": true,
+    "time": "21:00",
+    "artist": "Honeydrip",
     "type": "off"
   },
   {
@@ -900,7 +900,23 @@
     "venue": "Village au Pied-du-Courant  - U-TURN",
     "paid": true,
     "time": "17:00",
-    "artist": "U-TURN",
+    "artist": "Raef",
+    "type": "main"
+  },
+  {
+    "date": "2026-08-16",
+    "venue": "Village au Pied-du-Courant  - U-TURN",
+    "paid": true,
+    "time": "19:00",
+    "artist": "Lia Plutonic",
+    "type": "main"
+  },
+  {
+    "date": "2026-08-16",
+    "venue": "Village au Pied-du-Courant  - U-TURN",
+    "paid": true,
+    "time": "21:00",
+    "artist": "HoneyDrip",
     "type": "main"
   },
   {
@@ -1268,14 +1284,6 @@
     "venue": "SCÈNE FIZZ | BTSM",
     "paid": true,
     "time": "17:00",
-    "artist": "Black Tiger Sex Machine",
-    "type": "off"
-  },
-  {
-    "date": "2026-10-03",
-    "venue": "SCÈNE FIZZ | BTSM",
-    "paid": true,
-    "time": "17:00",
     "artist": "WHYPER b2b PSYCHAZM",
     "type": "off"
   },
@@ -1293,6 +1301,14 @@
     "paid": true,
     "time": "19:35",
     "artist": "TYNAN",
+    "type": "off"
+  },
+  {
+    "date": "2026-10-03",
+    "venue": "SCÈNE FIZZ | BTSM",
+    "paid": true,
+    "time": "20:35",
+    "artist": "Black Tiger Sex Machine",
     "type": "off"
   },
   {

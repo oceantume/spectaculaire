@@ -83,7 +83,7 @@
     "links": []
   },
   "Tali Rose": {
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-07_TALI-ROSE.png",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC24_OUTILS-COMM_SITE-WEB_VISUELS-ARTISTES_06-16_TOWNSHIP-REBELLION.png",
     "links": [
       {
         "label": "Instagram",
@@ -405,9 +405,27 @@
     "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/VPC26_BILLETTERIE_OUTBOX_PHOTOS-GENERIQUES_JEUDI.png",
     "links": []
   },
-  "U-TURN": {
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/VPC26_BILLETTERIE_OUTBOX_PHOTOS-GENERIQUES_JEUDI.png",
+  "HoneyDrip": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_06-12_PRESS-PIC_HONEYDRIP.jpg",
     "links": []
+  },
+  "Lia Plutonic": {
+    "description": "La DJ house en plein essor, Lia Plutonic, vous emmènera dans un voyage au cœur du son. Avec un catalogue en constante expansion des meilleurs rythmes et mélodies qu'elle peut trouver, sa sélection garantit de faire bouger les corps. Lia vous emportera avec une énergie débordante et des morceaux de danse intemporels choisis spécialement pour toucher votre âme.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-04_LIA-PLUTONIC.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/lia_plutonic/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/lialiyah"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/liaplutonic"
+      }
+    ]
   },
   "Misstress Barbara": {
     "description": "Établie dans les années 90, Misstress Barbara (jeu de mots entre Miss et Stress) est une DJ/ productrice pionnière et l'une des premières superstar DJ féminines qui a aidé à inspirer les générations futures avec ses sets Techno explosifs. Tout en étant en tête d'affiche des grands festivals et événements à travers le monde, il y a eu une période dans les années 2000 où elle a été régulièrement classée parmi les 100 meilleurs DJs par DJ Mag.\nNée en Italie, elle a déménagé au Canada à l'âge de 8 ans. Curieuse et passionnée par nature, elle aime explorer de nouveaux domaines et atteindre de nouveaux objectifs. Pour n'en citer que quelques-uns, elle est batteuse, elle détient une licence de pilote de planeur et de pilote privé, elle est diplômée de l'Université en Communications/Cinéma, elle est capitaine de bateau et instructrice de voile, et elle a également lancé sa propre marque de chocolat de fève à barre Barbon Chocolate, fabriquant tout elle-même à la main. Une femme aux nombreux talents en effet.\nMais parmi toutes ses passions, la musique a toujours été son principal centre d'intérêt depuis le début de sa remarquable carrière, qui lui a valu de multiples distinctions (Prix de la meilleure initiative musicale internationale de Montréal en 2001/Meilleur DJ révélation aux UK Underground Music Awards en 2002/Meilleur album électronique de l'année aux GAMIQ Awards en 2009 et nomination pour le meilleur album de danse de l'année aux JUNO Awards du Canada en 2010 pour \"I'm No Human\" / Meilleure DJ de Montréal aux MTL Awards en 2014, pour n'en citer que quelques-unes). Sa discographie extensive se trouve parmi les meilleurs labels Techno du monde, y compris le sien, lancé en 1999 sous le nom de Relentless, qui est devenu Iturnem en 2003. Barbara Brown était autrefois son alter-ego utilisé pour ses productions plus douces, mais elle sort maintenant toute sa musique sous son nom principal, quel que soit le style, comme elle l'a fait pour ses albums \"I'm No Human\" et \"Many Shades of Grey\". Cela pourrait dérouter ses fans de Techno les plus fidèles, bien qu'ils puissent être assurés qu'elle ne s'éloignera jamais de son premier amour véritable : la Techno.",
@@ -560,24 +578,6 @@
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-04_ERIS-DREW.png",
     "links": []
   },
-  "Lia Plutonic": {
-    "description": "La DJ house en plein essor, Lia Plutonic, vous emmènera dans un voyage au cœur du son. Avec un catalogue en constante expansion des meilleurs rythmes et mélodies qu'elle peut trouver, sa sélection garantit de faire bouger les corps. Lia vous emportera avec une énergie débordante et des morceaux de danse intemporels choisis spécialement pour toucher votre âme.",
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-04_LIA-PLUTONIC.png",
-    "links": [
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/lia_plutonic/"
-      },
-      {
-        "label": "SoundCloud",
-        "url": "https://soundcloud.com/lialiyah"
-      },
-      {
-        "label": "Facebook",
-        "url": "https://www.facebook.com/liaplutonic"
-      }
-    ]
-  },
   "cori": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-04_CORI.png",
     "links": [
@@ -722,6 +722,10 @@
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-05_DEFECTED_EDD.png",
     "links": []
   },
+  "Honeydrip": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_06-12_PRESS-PIC_HONEYDRIP.jpg",
+    "links": []
+  },
   "Chase & Status": {
     "description": "Chase and Status sont Will Kennard et Saul Milton. Ils sont l'un des groupes britanniques les plus réussis de la dernière décennie. Leur premier album révolutionnaire \"More Than A Lot\" est certifié Or et a été suivi par l'album sophomore \"No More Idols\" - le deuxième album britannique le plus vendu au Royaume-Uni l'année de sa sortie. Ayant maintenant dépassé le statut de double platine, \"No More Idols\" incluait le succès \"Blind Faith\" classé dans le top 5 au Royaume-Uni avec Liam Bailey, ainsi que \"End Credits\" avec Plan B, classé dans le top 10 au Royaume-Uni. Le troisième album studio de Chase and Status, \"Brand New Machine\", a également fait ses débuts à la deuxième place des charts d'albums et a engendré deux singles du top 10 pour le groupe.\n\nJuste après une performance virale à la Boiler Room en 2023, le duo a sorti son LP de 10 titres \"2 Ruff Vol 1\". Le projet est sorti en trombe avec le single à succès \"Baddadan\", qui passe plus de 15 semaines dans le Top 10 des charts britanniques et est déjà certifié Or. Ils ont ensuite sorti \"Liquor & Cigarettes\", \"Say The Word\" et \"Selecta\". Parmi les artistes invités, on retrouve des noms tels que Stefflon Don, Arrdee et le chanteur nominé aux Grammy Awards Flowdan. IRAH et Takura font également leur retour sur plusieurs pistes de la mixtape. Le duo s'est également associé à des producteurs de gen D&B comme Bou, Mozey et Hedex. Ce qui a commencé comme un projet passionné pour le duo a fini par dominer les charts britanniques.\n\nAvec la sortie de \"2 Ruff Vol 1\", C&S ont également annoncé que leur spectacle live reviendrait en février 2024, avec une tournée britannique à guichets fermés. C&S feront escale à Cardiff, Londres et Manchester.\n\nCette incroyable nouvelle musique fait suite à \"What Came Before\", le sixième album studio de Chase and Status, qui s'est classé n°4 dans le classement officiel des albums britanniques. Composé de 13 pistes, \"What Came Before\" a distillé 15 ans d'expériences incomparables dans un album audacieux et revigorant; informé par des tournées mondiales, des spectacles en tête d'affiche à guichets fermés, cinq albums, de nombreux prix, du succès dans les charts, du respect underground, des collaborations et des remixes de haut niveau, et, surtout, cette énergie inébranlable sur la piste de danse qui reste aussi tangible et transformative maintenant qu'au tout début.\n\nPour les pionniers Chase & Status, faire de la musique est un processus constant de régénération et de raffinement qui revient à plein cercle, et ce nouveau single met en lumière leur présence inimitable dans la scène de la musique électronique britannique. Avec plus de 2 milliards de streams impressionnants, Will et Saul ne montrent aucun signe de ralentissement.\n\nCélébrant plus de 15 ans dans le jeu, Chase and Status sont un talent de premier plan dans la scène électronique britannique. Ils ont été le premier acte électronique britannique à être en tête d'affiche à l'O2 Arena, ont eu plus de 2 milliards de streams, 2,6 millions de ventes d'albums, vendu des millions de billets dans le monde entier, ont été nominés aux Brit Awards pour le meilleur groupe, ont été en tête d'affiche à Glastonbury sur la Other Stage, ont été en tête d'affiche à Reading & Leeds et ont collaboré avec des artistes comme Dizzee Rascal, Kano, Snoop Dogg, Rihanna, Rita Ora, Major Lazer, Nile Rogers, Slaves et bien d'autres encore.",
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_06-12_CHASE-STATUS_CHASE-STATUS.png",
@@ -746,10 +750,6 @@
   },
   "Delta Heavy": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_06-12_PRESS-PIC_DELTA-HEAVY.jpg",
-    "links": []
-  },
-  "Honeydrip": {
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_06-12_PRESS-PIC_HONEYDRIP.jpg",
     "links": []
   },
   "Steve Aoki": {
@@ -1079,16 +1079,16 @@
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/Capture-d’écran-le-2026-07-23-à-09.40.55.png",
     "links": []
   },
+  "Black Tiger Sex Machine": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_10-03_PRESS-PIC_BTSM.jpg",
+    "links": []
+  },
   "TYNAN": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/628194068_1446794756793970_8693395893653762125_n.jpg",
     "links": []
   },
   "KATTANA": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/Stream-KATTANA-music-_-Listen-to-songs-albums-playlists-for-free-on-SoundCloud.png",
-    "links": []
-  },
-  "Black Tiger Sex Machine": {
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_10-03_PRESS-PIC_BTSM.jpg",
     "links": []
   },
   "WHYPER b2b PSYCHAZM": {
@@ -1104,7 +1104,7 @@
     "links": []
   },
   "Shirlee": {
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-09_MEDUZA_SHIRLEE.png",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/PRE-PIKNIC26_PHOTOS-ARTISTES_08-30_SHIRLEE.jpg",
     "links": []
   },
   "Lee Burridge": {
