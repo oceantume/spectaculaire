@@ -1,37 +1,5 @@
 [
   {
-    "date": "2026-08-15",
-    "time": "17:00",
-    "venue": "Cour extérieure du Palace de Granby",
-    "paid": true,
-    "artist": "Borduas",
-    "genre": "Électro"
-  },
-  {
-    "date": "2026-08-15",
-    "time": "17:00",
-    "venue": "Cour extérieure du Palace de Granby",
-    "paid": true,
-    "artist": "Alexandre Désilets",
-    "genre": "Pop-orchestral"
-  },
-  {
-    "date": "2026-08-15",
-    "time": "17:00",
-    "venue": "Cour extérieure du Palace de Granby",
-    "paid": true,
-    "artist": "Luc De Larochellière",
-    "genre": "Pop"
-  },
-  {
-    "date": "2026-08-15",
-    "time": "16:00",
-    "venue": "Caisse Desjardins de Granby - Haute-Yamaska",
-    "paid": false,
-    "artist": "Marco Calliari",
-    "genre": "Heavy métal"
-  },
-  {
     "date": "2026-08-16",
     "time": "19:30",
     "venue": "Palace de Granby",
