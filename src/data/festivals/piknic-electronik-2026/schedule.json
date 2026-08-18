@@ -169,14 +169,6 @@
   },
   {
     "date": "2026-06-07",
-    "venue": "SCÈNE BANQUE NATIONALE - GABA COLLECTIVE",
-    "paid": true,
-    "time": "12:00",
-    "artist": "GABA Collective",
-    "type": "main"
-  },
-  {
-    "date": "2026-06-07",
     "venue": "SCÈNE BANQUE NATIONALE - T.I.T.S",
     "paid": true,
     "time": "16:00",
@@ -465,22 +457,6 @@
   },
   {
     "date": "2026-06-28",
-    "venue": "SCÈNE BANQUE NATIONALE - QUEEN & QUEER",
-    "paid": true,
-    "time": "12:00",
-    "artist": "Sydney Sarayeva",
-    "type": "main"
-  },
-  {
-    "date": "2026-06-28",
-    "venue": "SCÈNE BANQUE NATIONALE - QUEEN & QUEER",
-    "paid": true,
-    "time": "13:30",
-    "artist": "PØPTRT",
-    "type": "main"
-  },
-  {
-    "date": "2026-06-28",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "16:00",
@@ -573,22 +549,6 @@
     "paid": true,
     "time": "19:30",
     "artist": "Vincent Lemieux",
-    "type": "main"
-  },
-  {
-    "date": "2026-07-05",
-    "venue": "SCÈNE BANQUE NATIONALE - STICKY RICE",
-    "paid": true,
-    "time": "12:00",
-    "artist": "soratora b2b venus in bed",
-    "type": "main"
-  },
-  {
-    "date": "2026-07-05",
-    "venue": "SCÈNE BANQUE NATIONALE - STICKY RICE",
-    "paid": true,
-    "time": "14:00",
-    "artist": "DJ Hi Chew",
     "type": "main"
   },
   {
@@ -777,22 +737,6 @@
   },
   {
     "date": "2026-07-19",
-    "venue": "SCÈNE BANQUE NATIONALE (GRATUIT)",
-    "paid": true,
-    "time": "12:00",
-    "artist": "Dusty FingerZ",
-    "type": "main"
-  },
-  {
-    "date": "2026-07-19",
-    "venue": "SCÈNE BANQUE NATIONALE (GRATUIT)",
-    "paid": true,
-    "time": "13:30",
-    "artist": "Ruby Jane",
-    "type": "main"
-  },
-  {
-    "date": "2026-07-19",
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "16:00",
@@ -977,18 +921,34 @@
   },
   {
     "date": "2026-08-30",
-    "venue": "SCÈNE BANQUE NATIONALE - MUTEK",
+    "venue": "Casino de Montréal [Gratuit]",
     "paid": true,
-    "time": "16:00",
-    "artist": "Artistes Surprise",
+    "time": "11:00",
+    "artist": "Roudy",
     "type": "main"
   },
   {
     "date": "2026-08-30",
-    "venue": "SCÈNE BANQUE NATIONALE (GRATUIT)",
+    "venue": "Casino de Montréal [Gratuit]",
+    "paid": true,
+    "time": "13:00",
+    "artist": "Shirlee",
+    "type": "main"
+  },
+  {
+    "date": "2026-08-30",
+    "venue": "PETIT PIKNIC (GRATUIT)",
     "paid": true,
     "time": "12:00",
     "artist": "Le LOOP",
+    "type": "main"
+  },
+  {
+    "date": "2026-08-30",
+    "venue": "SCÈNE BANQUE NATIONALE - MUTEK",
+    "paid": true,
+    "time": "16:00",
+    "artist": "Artistes Surprise",
     "type": "main"
   },
   {
@@ -1030,6 +990,22 @@
     "time": "20:00",
     "artist": "Sammy Virji",
     "type": "off"
+  },
+  {
+    "date": "2026-09-06",
+    "venue": "Casino de Montréal [Gratuit]",
+    "paid": true,
+    "time": "11:00",
+    "artist": "Dimitry",
+    "type": "main"
+  },
+  {
+    "date": "2026-09-06",
+    "venue": "Casino de Montréal [Gratuit]",
+    "paid": true,
+    "time": "13:00",
+    "artist": "Lara Bee",
+    "type": "main"
   },
   {
     "date": "2026-09-06",
@@ -1121,6 +1097,22 @@
   },
   {
     "date": "2026-09-13",
+    "venue": "Casino de Montréal [Gratuit]",
+    "paid": true,
+    "time": "11:00",
+    "artist": "Andrea de Tour",
+    "type": "main"
+  },
+  {
+    "date": "2026-09-13",
+    "venue": "Casino de Montréal [Gratuit]",
+    "paid": true,
+    "time": "13:00",
+    "artist": "Tali Rose",
+    "type": "main"
+  },
+  {
+    "date": "2026-09-13",
     "venue": "SCÈNE BANQUE NATIONALE - ROCHE MUSIQUE",
     "paid": true,
     "time": "16:00",
@@ -1190,6 +1182,22 @@
     "time": "19:00",
     "artist": "Ricardo Villalobos",
     "type": "off"
+  },
+  {
+    "date": "2026-09-27",
+    "venue": "Casino de Montréal [Gratuit]",
+    "paid": true,
+    "time": "11:00",
+    "artist": "Arielle Roberge",
+    "type": "main"
+  },
+  {
+    "date": "2026-09-27",
+    "venue": "Casino de Montréal [Gratuit]",
+    "paid": true,
+    "time": "13:00",
+    "artist": "Cece The Red",
+    "type": "main"
   },
   {
     "date": "2026-09-27",
@@ -1313,6 +1321,14 @@
   },
   {
     "date": "2026-10-04",
+    "venue": "Casino de Montréal [Gratuit]",
+    "paid": true,
+    "time": "11:00",
+    "artist": "Ferias : Guthrie b2b Alina",
+    "type": "main"
+  },
+  {
+    "date": "2026-10-04",
     "venue": "SCÈNE BANQUE NATIONALE - ETHER",
     "paid": true,
     "time": "16:00",
@@ -1382,6 +1398,22 @@
     "time": "20:00",
     "artist": "Meduza",
     "type": "off"
+  },
+  {
+    "date": "2026-10-11",
+    "venue": "Casino de Montréal [Gratuit]",
+    "paid": true,
+    "time": "11:00",
+    "artist": "Flleur",
+    "type": "main"
+  },
+  {
+    "date": "2026-10-11",
+    "venue": "Casino de Montréal [Gratuit]",
+    "paid": true,
+    "time": "13:00",
+    "artist": "Minzi Roberta",
+    "type": "main"
   },
   {
     "date": "2026-10-11",
