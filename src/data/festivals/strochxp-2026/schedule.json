@@ -885,6 +885,24 @@
     "date": "2026-08-29",
     "venue": "Vitrines SiriusXM",
     "paid": false,
+    "time": "11:00",
+    "artist": "André-Carl Vachon",
+    "country": "Acadie",
+    "genre": "Autres"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Vitrines SiriusXM",
+    "paid": false,
+    "time": "11:50",
+    "artist": "Aimée LeBreton",
+    "country": "Acadie",
+    "genre": "Autres"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Vitrines SiriusXM",
+    "paid": false,
     "time": "13:20",
     "artist": "Good Fortune",
     "country": "Toronto",
