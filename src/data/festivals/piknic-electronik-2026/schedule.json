@@ -1164,6 +1164,22 @@
     "venue": "SCÈNE FIZZ - RuPaul",
     "paid": true,
     "time": "17:00",
+    "artist": "BisouBizou",
+    "type": "off"
+  },
+  {
+    "date": "2026-09-19",
+    "venue": "SCÈNE FIZZ - RuPaul",
+    "paid": true,
+    "time": "18:30",
+    "artist": "French Vanilia",
+    "type": "off"
+  },
+  {
+    "date": "2026-09-19",
+    "venue": "SCÈNE FIZZ - RuPaul",
+    "paid": true,
+    "time": "20:00",
     "artist": "FIZZ STAGE - RUPAUL",
     "type": "off"
   },

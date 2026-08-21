@@ -236,6 +236,14 @@
     "venue": "L’Anti Bar & Spectacles",
     "paid": true,
     "time": "00:00",
+    "artist": "Killing Daisies",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-12",
+    "venue": "L’Anti Bar & Spectacles",
+    "paid": true,
+    "time": "01:00",
     "artist": "Doghouse Rose",
     "country": "Canada"
   },
@@ -243,17 +251,9 @@
     "date": "2026-09-12",
     "venue": "L’Anti Bar & Spectacles",
     "paid": true,
-    "time": "22:00",
+    "time": "23:00",
     "artist": "For I Am",
     "country": "Belgique"
-  },
-  {
-    "date": "2026-09-12",
-    "venue": "L’Anti Bar & Spectacles",
-    "paid": true,
-    "time": "23:00",
-    "artist": "Killing Daisies",
-    "country": "Canada"
   },
   {
     "date": "2026-09-12",

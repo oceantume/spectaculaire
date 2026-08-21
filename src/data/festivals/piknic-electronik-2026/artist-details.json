@@ -1081,6 +1081,24 @@
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC25_OUTILS-COMM_SITE-WEB_VISUELS-ARTISTES_09-13_RUPAUL.png",
     "links": []
   },
+  "French Vanilia": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_09-18_PRESS-PIC_French_Vanilla.jpeg",
+    "links": []
+  },
+  "BisouBizou": {
+    "description": "BisouBizou est une DJ montréalaise connue pour ses sets enchanteurs caractérisés par un mélange éthéré de genres. Elle apporte une atmosphère éblouissante et dynamique à ses performances. Elle ne cherche qu'à répandre de bonnes vibrations.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC25_OUTILS-COMM_SITE-WEB_VISUELS-ARTISTES_06-29_AYYBO.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/bisoubizou_/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/lily-jade-beauregard"
+      }
+    ]
+  },
   "Gordo": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_10-02_PRESS-PIC_GORDO-1.jpg",
     "links": []
