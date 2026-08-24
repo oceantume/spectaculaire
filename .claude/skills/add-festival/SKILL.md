@@ -279,7 +279,7 @@ const dataDir = path.join(__dirname, "../../src/data/festivals/{slug}");
 Inside `run()`:
 - Fetch and parse the data source
 - Build `Row[]` and `Record<string, ArtistDetailEntry>`
-- Sort rows: `date` → paid-first → venue order → `time`
+- Sort rows: `date` → venue order → `time`, for readability of the written JSON and stable diffs. Do not sort by `paid` — a paid-first tiebreak makes same-venue shows read out of time order whenever a venue mixes paid and free shows on the same day. Note the site itself re-sorts by `date` → venue → `time` at render time (in `src/pages/[festival]/index.astro`, after venue-override resolution) regardless of the script's row order, so this sort is about a clean, diffable `schedule.json` rather than being load-bearing for the page's default display order.
 - Call `writeFestivalData(dataDir, rows, artistDetailsMap)` to write both JSON files
 - For artists appearing multiple times: each appearance is its own row; `artist-details` entry written once
 
@@ -356,5 +356,7 @@ After the festival is successfully added, review what you learned:
 1. **New pattern?** If the data source didn't match any of A–F, document it here with the same structure (detection signal, fetch approach, response shape, field mapping) and add a reference to the new festival script as an example.
 2. **New edge case?** If you found a technique or quirk within an existing pattern that would have helped avoid a dead end, add a note under that section.
 3. **Recon gap?** If the recon script missed a signal that would have identified the source faster, note what HTML/JS marker to add and update `detectFramework` in `scripts/recon.ts`.
+
+Before adding a note, check it generalizes: would it plausibly help with a *different* festival's site, or is it a one-off quirk of this specific site that's unlikely to recur? Skip notes that are really just "here's what I did for festival X" — those belong in the script's own code/comments, not in this shared skill.
 
 This ensures each festival added makes future ones faster.

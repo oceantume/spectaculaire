@@ -169,13 +169,7 @@ export async function run(): Promise<void> {
     country: artistCountries.get(show.artist),
   }));
 
-  rows.sort(
-    (a, b) =>
-      a.date.localeCompare(b.date) ||
-      (b.paid ? 1 : 0) - (a.paid ? 1 : 0) ||
-      a.venue.localeCompare(b.venue) ||
-      a.time.localeCompare(b.time),
-  );
+  rows.sort((a, b) => a.date.localeCompare(b.date) || a.venue.localeCompare(b.venue) || a.time.localeCompare(b.time));
 
   await writeFestivalData(dataDir, rows, artistDetailsMap);
 }

@@ -31,7 +31,10 @@ export async function run(): Promise<void> {
   type ShowRef = { href: string; venue: string };
   const shows: ShowRef[] = [];
   for (const stage of scheduleRoot.querySelectorAll(".schedule-stage")) {
-    const venue = stage.querySelector(".schedule-stage__information strong")?.textContent.trim() ?? "";
+    // The first <strong> is a sponsor/section label (e.g. "Vitrines SiriusXM"), shared by many
+    // distinct stages — the actual venue name is the second <strong>.
+    const strongs = stage.querySelectorAll(".schedule-stage__information strong");
+    const venue = (strongs[1] ?? strongs[0])?.textContent.trim() ?? "";
     for (const article of stage.querySelectorAll(".schedule-event")) {
       const link = article.querySelector(".decal-h3 a");
       const href = link?.getAttribute("href");
@@ -93,13 +96,7 @@ export async function run(): Promise<void> {
     }
   }
 
-  rows.sort(
-    (a, b) =>
-      a.date.localeCompare(b.date) ||
-      Number(b.paid) - Number(a.paid) ||
-      a.venue.localeCompare(b.venue) ||
-      a.time.localeCompare(b.time),
-  );
+  rows.sort((a, b) => a.date.localeCompare(b.date) || a.venue.localeCompare(b.venue) || a.time.localeCompare(b.time));
 
   await writeFestivalData(dataDir, rows, artistDetailsMap);
 }

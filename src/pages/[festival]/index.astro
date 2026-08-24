@@ -37,16 +37,26 @@ const fieldOverrides = overridesKey ? overrideModules[overridesKey].default : {}
 const venueOverrides = venueOverridesKey ? venueOverrideModules[venueOverridesKey].default : {};
 const overridesByLower = Object.fromEntries(Object.entries(fieldOverrides).map(([k, v]) => [k.toLowerCase(), v]));
 
-const schedule = new Map<string, Row[]>();
-for (const row of rawRows) {
+const resolvedRows: Row[] = rawRows.map((row) => {
   const override = overridesByLower[row.artist.toLowerCase()];
   const resolvedVenue = resolveVenue(row.venue, venueOverrides);
-  const resolvedRow = override ? { ...row, venue: resolvedVenue, ...override } : { ...row, venue: resolvedVenue };
+  return override ? { ...row, venue: resolvedVenue, ...override } : { ...row, venue: resolvedVenue };
+});
+
+// Canonical display order: date -> venue -> time. Sorted here (post venue-override resolution)
+// rather than relying on each ingestion script's row order, so it's consistent across festivals
+// and correct even when overrides merge multiple raw venues into one display name.
+resolvedRows.sort(
+  (a, b) => a.date.localeCompare(b.date) || a.venue.localeCompare(b.venue) || a.time.localeCompare(b.time),
+);
+
+const schedule = new Map<string, Row[]>();
+for (const row of resolvedRows) {
   const group = schedule.get(row.date);
   if (group) {
-    group.push(resolvedRow);
+    group.push(row);
   } else {
-    schedule.set(row.date, [resolvedRow]);
+    schedule.set(row.date, [row]);
   }
 }
 

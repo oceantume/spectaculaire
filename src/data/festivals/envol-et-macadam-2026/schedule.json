@@ -1,22 +1,6 @@
 [
   {
     "date": "2026-09-10",
-    "venue": "L’Anti Bar & Spectacles",
-    "paid": true,
-    "time": "00:00",
-    "artist": "Vie de Quartier",
-    "country": "Canada"
-  },
-  {
-    "date": "2026-09-10",
-    "venue": "L’Anti Bar & Spectacles",
-    "paid": true,
-    "time": "23:00",
-    "artist": "Pasteur Papillon",
-    "country": "Canada"
-  },
-  {
-    "date": "2026-09-10",
     "venue": "Agora port de Québec",
     "paid": false,
     "time": "18:00",
@@ -45,6 +29,22 @@
     "paid": false,
     "time": "21:30",
     "artist": "Les Goules",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-10",
+    "venue": "L’Anti Bar & Spectacles",
+    "paid": true,
+    "time": "00:00",
+    "artist": "Vie de Quartier",
+    "country": "Canada"
+  },
+  {
+    "date": "2026-09-10",
+    "venue": "L’Anti Bar & Spectacles",
+    "paid": true,
+    "time": "23:00",
+    "artist": "Pasteur Papillon",
     "country": "Canada"
   },
   {

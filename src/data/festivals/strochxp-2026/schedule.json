@@ -1,7 +1,124 @@
 [
   {
     "date": "2026-08-27",
-    "venue": "Conférences-dégustation",
+    "venue": "405, rue St-Joseph Est",
+    "paid": false,
+    "time": "17:40",
+    "artist": "Grand Public",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "405, rue St-Joseph Est",
+    "paid": false,
+    "time": "19:40",
+    "artist": "roman.",
+    "country": "Québec",
+    "genre": "Électro-pop"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "405, rue St-Joseph Est",
+    "paid": false,
+    "time": "21:40",
+    "artist": "Customer Service",
+    "country": "Nouvelle-Écosse",
+    "genre": "Pop punk"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "595, rue St-Joseph Est",
+    "paid": false,
+    "time": "17:40",
+    "artist": "happy sunflower",
+    "country": "Québec",
+    "genre": "Surf Psychédélique"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "595, rue St-Joseph Est",
+    "paid": false,
+    "time": "20:20",
+    "artist": "Tes Amants",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Ampli de Québec",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Le Miel",
+    "country": "Québec",
+    "genre": "Instrumental"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Ampli de Québec",
+    "paid": false,
+    "time": "21:00",
+    "artist": "Dauphins",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Ancien local Benjo",
+    "paid": false,
+    "time": "17:40",
+    "artist": "Dauphins",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Ancien local Benjo",
+    "paid": false,
+    "time": "20:20",
+    "artist": "Coco Rose",
+    "country": "Québec",
+    "genre": "Funk"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Bar Le Vox",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Thunder Queens",
+    "country": "Toronto",
+    "genre": "Punk"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Bar Le Vox",
+    "paid": false,
+    "time": "21:40",
+    "artist": "Clara Roy-Jensen",
+    "country": "Québec",
+    "genre": "Chanson"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Bati Bassac",
+    "paid": false,
+    "time": "17:40",
+    "artist": "Sunderloom",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Bati Bassac",
+    "paid": false,
+    "time": "20:20",
+    "artist": "Tout Croche",
+    "country": "Québec",
+    "genre": "Chanson"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Bibliothèque Gabrielle-Roy - Cuisine",
     "paid": false,
     "time": "15:00",
     "artist": "Buvette Mila",
@@ -10,7 +127,70 @@
   },
   {
     "date": "2026-08-27",
-    "venue": "Extras XP",
+    "venue": "Bibliothèque Gabrielle-Roy - Hall",
+    "paid": false,
+    "time": "17:00",
+    "artist": "Luan Larobina",
+    "country": "Québec",
+    "genre": "Indie folk"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Bibliothèque Gabrielle-Roy - Hall",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Erwan",
+    "country": "Québec",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "BLEUFEU",
+    "paid": false,
+    "time": "17:40",
+    "artist": "Roxanne Izzo",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "BLEUFEU",
+    "paid": false,
+    "time": "19:40",
+    "artist": "Clay Hazey",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "BLEUFEU",
+    "paid": false,
+    "time": "21:40",
+    "artist": "Thunder Queens",
+    "country": "Toronto",
+    "genre": "Punk"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Café Pékoe",
+    "paid": false,
+    "time": "17:00",
+    "artist": "Naomi",
+    "country": "Québec",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Café Pékoe",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Tom Chicoine",
+    "country": "Québec",
+    "genre": "Country"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Grizzly Fuzz – Plateau 1",
     "paid": false,
     "time": "21:00",
     "artist": "Fistule",
@@ -19,16 +199,7 @@
   },
   {
     "date": "2026-08-27",
-    "venue": "Extras XP",
-    "paid": false,
-    "time": "21:30",
-    "artist": "Rizomagic",
-    "country": "Colombie",
-    "genre": "Électro"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Extras XP",
+    "venue": "Grizzly Fuzz – Plateau 1",
     "paid": false,
     "time": "23:00",
     "artist": "Tartine",
@@ -37,7 +208,16 @@
   },
   {
     "date": "2026-08-27",
-    "venue": "Extras XP",
+    "venue": "Grizzly Fuzz – Plateau 2",
+    "paid": false,
+    "time": "21:30",
+    "artist": "Rizomagic",
+    "country": "Colombie",
+    "genre": "Électro"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Grizzly Fuzz – Plateau 2",
     "paid": false,
     "time": "23:30",
     "artist": "Poirier",
@@ -46,115 +226,7 @@
   },
   {
     "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:00",
-    "artist": "roman.",
-    "country": "Québec",
-    "genre": "Électro-pop"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:00",
-    "artist": "Luan Larobina",
-    "country": "Québec",
-    "genre": "Indie folk"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:00",
-    "artist": "Le Miel",
-    "country": "Québec",
-    "genre": "Instrumental"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:00",
-    "artist": "Naomi",
-    "country": "Québec",
-    "genre": "Pop"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:00",
-    "artist": "La Grosse Équipe",
-    "country": "Acadie",
-    "genre": "Rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:40",
-    "artist": "Sunderloom",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:40",
-    "artist": "Grand Public",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:40",
-    "artist": "Roxanne Izzo",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:40",
-    "artist": "Dauphins",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:40",
-    "artist": "happy sunflower",
-    "country": "Québec",
-    "genre": "Surf Psychédélique"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Tout Croche",
-    "country": "Québec",
-    "genre": "Chanson"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Clara Roy-Jensen",
-    "country": "Québec",
-    "genre": "Chanson"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
+    "venue": "La Korrigane",
     "paid": false,
     "time": "18:20",
     "artist": "Émilie Landry",
@@ -163,187 +235,7 @@
   },
   {
     "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Coco Rose",
-    "country": "Québec",
-    "genre": "Funk"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Tes Amants",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Clay Hazey",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:00",
-    "artist": "Thunder Queens",
-    "country": "Toronto",
-    "genre": "Punk"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:00",
-    "artist": "Le Miel",
-    "country": "Québec",
-    "genre": "Instrumental"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:00",
-    "artist": "Erwan",
-    "country": "Québec",
-    "genre": "Folk"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:00",
-    "artist": "Tom Chicoine",
-    "country": "Québec",
-    "genre": "Country"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:00",
-    "artist": "La Grosse Équipe",
-    "country": "Acadie",
-    "genre": "Rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:40",
-    "artist": "Customer Service",
-    "country": "Nouvelle-Écosse",
-    "genre": "Pop punk"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:40",
-    "artist": "Sunderloom",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:40",
-    "artist": "roman.",
-    "country": "Québec",
-    "genre": "Électro-pop"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:40",
-    "artist": "Luan Larobina",
-    "country": "Québec",
-    "genre": "Indie folk"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:40",
-    "artist": "Clay Hazey",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:20",
-    "artist": "Tout Croche",
-    "country": "Québec",
-    "genre": "Chanson"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:20",
-    "artist": "Naomi",
-    "country": "Québec",
-    "genre": "Pop"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:20",
-    "artist": "Tom Chicoine",
-    "country": "Québec",
-    "genre": "Country"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:20",
-    "artist": "Coco Rose",
-    "country": "Québec",
-    "genre": "Funk"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:20",
-    "artist": "Tes Amants",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "21:00",
-    "artist": "Roxanne Izzo",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "21:00",
-    "artist": "Dauphins",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
+    "venue": "La Korrigane",
     "paid": false,
     "time": "21:00",
     "artist": "happy sunflower",
@@ -352,16 +244,88 @@
   },
   {
     "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
+    "venue": "La Place Boutique gourmande",
     "paid": false,
-    "time": "21:00",
-    "artist": "Grand Public",
+    "time": "18:20",
+    "artist": "Clay Hazey",
     "country": "Québec",
     "genre": "Indie rock"
   },
   {
     "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
+    "venue": "La Place Boutique gourmande",
+    "paid": false,
+    "time": "20:20",
+    "artist": "Tom Chicoine",
+    "country": "Québec",
+    "genre": "Country"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Marché Tradition Courtemanche Baril",
+    "paid": false,
+    "time": "18:20",
+    "artist": "Clara Roy-Jensen",
+    "country": "Québec",
+    "genre": "Chanson"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Marché Tradition Courtemanche Baril",
+    "paid": false,
+    "time": "20:20",
+    "artist": "Naomi",
+    "country": "Québec",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Motel Acadie, présenté par la Société Nationale de l'Acadie",
+    "paid": false,
+    "time": "19:00",
+    "artist": "La Grosse Équipe",
+    "country": "Acadie",
+    "genre": "Rock"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Motel Acadie, présenté par la Société Nationale de l'Acadie",
+    "paid": false,
+    "time": "21:40",
+    "artist": "Émilie Landry",
+    "country": "Acadie",
+    "genre": "Chanson"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Parvis Desjardins de l’église St-Roch",
+    "paid": false,
+    "time": "17:00",
+    "artist": "La Grosse Équipe",
+    "country": "Acadie",
+    "genre": "Rock"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Parvis Desjardins de l’église St-Roch",
+    "paid": false,
+    "time": "18:20",
+    "artist": "Tes Amants",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Parvis Desjardins de l’église St-Roch",
+    "paid": false,
+    "time": "19:40",
+    "artist": "Luan Larobina",
+    "country": "Québec",
+    "genre": "Indie folk"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Parvis Desjardins de l’église St-Roch",
     "paid": false,
     "time": "21:00",
     "artist": "Erwan",
@@ -370,25 +334,97 @@
   },
   {
     "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Place Jacques-Cartier",
     "paid": false,
-    "time": "21:40",
-    "artist": "Clara Roy-Jensen",
+    "time": "17:00",
+    "artist": "Le Miel",
+    "country": "Québec",
+    "genre": "Instrumental"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Place Jacques-Cartier",
+    "paid": false,
+    "time": "18:20",
+    "artist": "Coco Rose",
+    "country": "Québec",
+    "genre": "Funk"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Place Jacques-Cartier",
+    "paid": false,
+    "time": "19:40",
+    "artist": "Sunderloom",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Place Jacques-Cartier",
+    "paid": false,
+    "time": "21:00",
+    "artist": "Grand Public",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Rue St-Anselme",
+    "paid": false,
+    "time": "17:00",
+    "artist": "roman.",
+    "country": "Québec",
+    "genre": "Électro-pop"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Rue St-Anselme",
+    "paid": false,
+    "time": "18:20",
+    "artist": "Tout Croche",
     "country": "Québec",
     "genre": "Chanson"
   },
   {
     "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Rue St-Anselme",
     "paid": false,
-    "time": "21:40",
+    "time": "19:40",
     "artist": "Customer Service",
     "country": "Nouvelle-Écosse",
     "genre": "Pop punk"
   },
   {
     "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Rue St-Anselme",
+    "paid": false,
+    "time": "21:00",
+    "artist": "Roxanne Izzo",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "405, rue St-Joseph Est",
+    "paid": false,
+    "time": "17:40",
+    "artist": "Spaghatt",
+    "country": "Québec",
+    "genre": "Country"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "405, rue St-Joseph Est",
+    "paid": false,
+    "time": "19:40",
+    "artist": "Max Baby",
+    "country": "France",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "405, rue St-Joseph Est",
     "paid": false,
     "time": "21:40",
     "artist": "Thunder Queens",
@@ -396,26 +432,98 @@
     "genre": "Punk"
   },
   {
-    "date": "2026-08-27",
-    "venue": "Vitrines SiriusXM",
+    "date": "2026-08-28",
+    "venue": "595, rue St-Joseph Est",
+    "paid": false,
+    "time": "17:40",
+    "artist": "Christine Campbell",
+    "country": "Nouvelle-Écosse",
+    "genre": "Blues"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "595, rue St-Joseph Est",
+    "paid": false,
+    "time": "20:20",
+    "artist": "Good Fortune",
+    "country": "Toronto",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Ampli de Québec",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Vermeil",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Ampli de Québec",
+    "paid": false,
+    "time": "21:00",
+    "artist": "Christine Campbell",
+    "country": "Nouvelle-Écosse",
+    "genre": "Blues"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Ancien local Benjo",
+    "paid": false,
+    "time": "17:40",
+    "artist": "Max Baby",
+    "country": "France",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Ancien local Benjo",
+    "paid": false,
+    "time": "20:20",
+    "artist": "Naomi",
+    "country": "Québec",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Bar Le Vox",
+    "paid": false,
+    "time": "19:00",
+    "artist": "BALACLAVA",
+    "country": "New York",
+    "genre": "Post-Punk"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Bar Le Vox",
     "paid": false,
     "time": "21:40",
-    "artist": "Émilie Landry",
-    "country": "Acadie",
-    "genre": "Chanson"
+    "artist": "LeParc",
+    "country": "Saguenay",
+    "genre": "Instrumental"
   },
   {
     "date": "2026-08-28",
-    "venue": "Série Ubisoft",
-    "paid": true,
-    "time": "21:00",
-    "artist": "Le Gong Show",
+    "venue": "Bati Bassac",
+    "paid": false,
+    "time": "17:40",
+    "artist": "Mort Rose",
     "country": "Québec",
-    "genre": "Humour"
+    "genre": "Pop rock"
   },
   {
     "date": "2026-08-28",
-    "venue": "Conférences-dégustation",
+    "venue": "Bati Bassac",
+    "paid": false,
+    "time": "20:20",
+    "artist": "happy sunflower",
+    "country": "Québec",
+    "genre": "Surf Psychédélique"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Bibliothèque Gabrielle-Roy - Cuisine",
     "paid": false,
     "time": "15:00",
     "artist": "Olivier Graton",
@@ -424,7 +532,70 @@
   },
   {
     "date": "2026-08-28",
-    "venue": "Extras XP",
+    "venue": "Bibliothèque Gabrielle-Roy - Hall",
+    "paid": false,
+    "time": "17:00",
+    "artist": "All Day Breakfast",
+    "country": "Toronto",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Bibliothèque Gabrielle-Roy - Hall",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Joe DeVito",
+    "country": "New York",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "BLEUFEU",
+    "paid": false,
+    "time": "17:40",
+    "artist": "Lou K",
+    "country": "Belgique",
+    "genre": "Post-Punk"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "BLEUFEU",
+    "paid": false,
+    "time": "19:40",
+    "artist": "LeParc",
+    "country": "Saguenay",
+    "genre": "Instrumental"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "BLEUFEU",
+    "paid": false,
+    "time": "21:40",
+    "artist": "Customer Service",
+    "country": "Nouvelle-Écosse",
+    "genre": "Pop punk"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Café Pékoe",
+    "paid": false,
+    "time": "17:00",
+    "artist": "Éléonore Dessureault",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Café Pékoe",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Murray Drive",
+    "country": "Toronto",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Grizzly Fuzz – Plateau 1",
     "paid": false,
     "time": "21:00",
     "artist": "Alex Murphy",
@@ -433,16 +604,7 @@
   },
   {
     "date": "2026-08-28",
-    "venue": "Extras XP",
-    "paid": false,
-    "time": "21:30",
-    "artist": "Rizomagic",
-    "country": "Colombie",
-    "genre": "Électro"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Extras XP",
+    "venue": "Grizzly Fuzz – Plateau 1",
     "paid": false,
     "time": "23:00",
     "artist": "French Vanilia",
@@ -451,7 +613,16 @@
   },
   {
     "date": "2026-08-28",
-    "venue": "Extras XP",
+    "venue": "Grizzly Fuzz – Plateau 2",
+    "paid": false,
+    "time": "21:30",
+    "artist": "Rizomagic",
+    "country": "Colombie",
+    "genre": "Électro"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Grizzly Fuzz – Plateau 2",
     "paid": false,
     "time": "23:30",
     "artist": "Poirier",
@@ -460,376 +631,394 @@
   },
   {
     "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:00",
-    "artist": "happy sunflower",
-    "country": "Québec",
-    "genre": "Surf Psychédélique"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:00",
-    "artist": "All Day Breakfast",
-    "country": "Toronto",
-    "genre": "Folk"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:00",
-    "artist": "Vermeil",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:00",
-    "artist": "Éléonore Dessureault",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:00",
-    "artist": "Jacques Surette",
-    "country": "Acadie",
-    "genre": "Folk pop"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:40",
-    "artist": "Mort Rose",
-    "country": "Québec",
-    "genre": "Pop rock"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:40",
-    "artist": "Spaghatt",
-    "country": "Québec",
-    "genre": "Country"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:40",
-    "artist": "Lou K",
-    "country": "Belgique",
-    "genre": "Post-Punk"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:40",
-    "artist": "Max Baby",
-    "country": "France",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:40",
-    "artist": "Christine Campbell",
-    "country": "Nouvelle-Écosse",
-    "genre": "Blues"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Thunder Queens",
-    "country": "Toronto",
-    "genre": "Punk"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Laraw",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Good Fortune",
-    "country": "Toronto",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Beauséjour",
-    "country": "Acadie",
-    "genre": "Country"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Customer Service",
-    "country": "Nouvelle-Écosse",
-    "genre": "Pop punk"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Naomi",
-    "country": "Québec",
-    "genre": "Pop"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:00",
-    "artist": "BALACLAVA",
-    "country": "New York",
-    "genre": "Post-Punk"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:00",
-    "artist": "Vermeil",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:00",
-    "artist": "Joe DeVito",
-    "country": "New York",
-    "genre": "Folk"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:00",
-    "artist": "Murray Drive",
-    "country": "Toronto",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:00",
-    "artist": "Jacques Surette",
-    "country": "Acadie",
-    "genre": "Folk pop"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:40",
-    "artist": "Lou K",
-    "country": "Belgique",
-    "genre": "Post-Punk"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:40",
-    "artist": "Éléonore Dessureault",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:40",
-    "artist": "Max Baby",
-    "country": "France",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:40",
-    "artist": "Spaghatt",
-    "country": "Québec",
-    "genre": "Country"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:40",
-    "artist": "LeParc",
-    "country": "Saguenay",
-    "genre": "Instrumental"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:20",
-    "artist": "happy sunflower",
-    "country": "Québec",
-    "genre": "Surf Psychédélique"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:20",
-    "artist": "Joe DeVito",
-    "country": "New York",
-    "genre": "Folk"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:20",
-    "artist": "All Day Breakfast",
-    "country": "Toronto",
-    "genre": "Folk"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:20",
-    "artist": "Naomi",
-    "country": "Québec",
-    "genre": "Pop"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:20",
-    "artist": "Good Fortune",
-    "country": "Toronto",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "21:00",
-    "artist": "BALACLAVA",
-    "country": "New York",
-    "genre": "Post-Punk"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "21:00",
-    "artist": "Christine Campbell",
-    "country": "Nouvelle-Écosse",
-    "genre": "Blues"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "21:00",
-    "artist": "Laraw",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "21:00",
-    "artist": "Murray Drive",
-    "country": "Toronto",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "21:00",
-    "artist": "Mort Rose",
-    "country": "Québec",
-    "genre": "Pop rock"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "21:40",
-    "artist": "LeParc",
-    "country": "Saguenay",
-    "genre": "Instrumental"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "21:40",
-    "artist": "Thunder Queens",
-    "country": "Toronto",
-    "genre": "Punk"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "21:40",
-    "artist": "Customer Service",
-    "country": "Nouvelle-Écosse",
-    "genre": "Pop punk"
-  },
-  {
-    "date": "2026-08-28",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "21:40",
-    "artist": "Beauséjour",
-    "country": "Acadie",
-    "genre": "Country"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Série Ubisoft",
+    "venue": "Impérial Bell",
     "paid": true,
     "time": "21:00",
-    "artist": "Coeur de Pirate",
+    "artist": "Le Gong Show",
+    "country": "Québec",
+    "genre": "Humour"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "La Korrigane",
+    "paid": false,
+    "time": "18:20",
+    "artist": "Good Fortune",
+    "country": "Toronto",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "La Korrigane",
+    "paid": false,
+    "time": "21:00",
+    "artist": "Laraw",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "La Place Boutique gourmande",
+    "paid": false,
+    "time": "18:20",
+    "artist": "Naomi",
+    "country": "Québec",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "La Place Boutique gourmande",
+    "paid": false,
+    "time": "20:20",
+    "artist": "All Day Breakfast",
+    "country": "Toronto",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Marché Tradition Courtemanche Baril",
+    "paid": false,
+    "time": "18:20",
+    "artist": "Laraw",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Marché Tradition Courtemanche Baril",
+    "paid": false,
+    "time": "20:20",
+    "artist": "Joe DeVito",
+    "country": "New York",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Motel Acadie, présenté par la Société Nationale de l'Acadie",
+    "paid": false,
+    "time": "19:00",
+    "artist": "Jacques Surette",
+    "country": "Acadie",
+    "genre": "Folk pop"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Motel Acadie, présenté par la Société Nationale de l'Acadie",
+    "paid": false,
+    "time": "21:40",
+    "artist": "Beauséjour",
+    "country": "Acadie",
+    "genre": "Country"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Parvis Desjardins de l’église St-Roch",
+    "paid": false,
+    "time": "17:00",
+    "artist": "Jacques Surette",
+    "country": "Acadie",
+    "genre": "Folk pop"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Parvis Desjardins de l’église St-Roch",
+    "paid": false,
+    "time": "18:20",
+    "artist": "Customer Service",
+    "country": "Nouvelle-Écosse",
+    "genre": "Pop punk"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Parvis Desjardins de l’église St-Roch",
+    "paid": false,
+    "time": "19:40",
+    "artist": "Spaghatt",
+    "country": "Québec",
+    "genre": "Country"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Parvis Desjardins de l’église St-Roch",
+    "paid": false,
+    "time": "21:00",
+    "artist": "Mort Rose",
+    "country": "Québec",
+    "genre": "Pop rock"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Place Jacques-Cartier",
+    "paid": false,
+    "time": "17:00",
+    "artist": "Vermeil",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Place Jacques-Cartier",
+    "paid": false,
+    "time": "18:20",
+    "artist": "Beauséjour",
+    "country": "Acadie",
+    "genre": "Country"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Place Jacques-Cartier",
+    "paid": false,
+    "time": "19:40",
+    "artist": "Éléonore Dessureault",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Place Jacques-Cartier",
+    "paid": false,
+    "time": "21:00",
+    "artist": "Murray Drive",
+    "country": "Toronto",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Rue St-Anselme",
+    "paid": false,
+    "time": "17:00",
+    "artist": "happy sunflower",
+    "country": "Québec",
+    "genre": "Surf Psychédélique"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Rue St-Anselme",
+    "paid": false,
+    "time": "18:20",
+    "artist": "Thunder Queens",
+    "country": "Toronto",
+    "genre": "Punk"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Rue St-Anselme",
+    "paid": false,
+    "time": "19:40",
+    "artist": "Lou K",
+    "country": "Belgique",
+    "genre": "Post-Punk"
+  },
+  {
+    "date": "2026-08-28",
+    "venue": "Rue St-Anselme",
+    "paid": false,
+    "time": "21:00",
+    "artist": "BALACLAVA",
+    "country": "New York",
+    "genre": "Post-Punk"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "405, rue St-Joseph Est",
+    "paid": false,
+    "time": "14:40",
+    "artist": "Murray Drive",
+    "country": "Toronto",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "405, rue St-Joseph Est",
+    "paid": false,
+    "time": "16:40",
+    "artist": "Gawbé",
+    "country": "Québec",
+    "genre": "Chanson"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "405, rue St-Joseph Est",
+    "paid": false,
+    "time": "19:20",
+    "artist": "Hush",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "405, rue St-Joseph Est",
+    "paid": false,
+    "time": "22:00",
+    "artist": "Lucky Chemistry",
+    "country": "Québec",
+    "genre": "Jazz / Hip-hop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "595, rue St-Joseph Est",
+    "paid": false,
+    "time": "14:40",
+    "artist": "Bonne nuit, chérie",
+    "country": "Sherbrooke",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "595, rue St-Joseph Est",
+    "paid": false,
+    "time": "17:20",
+    "artist": "Laraw",
     "country": "Québec",
     "genre": "Indie pop"
   },
   {
     "date": "2026-08-29",
-    "venue": "Conférences-dégustation",
+    "venue": "595, rue St-Joseph Est",
+    "paid": false,
+    "time": "20:00",
+    "artist": "Éléonore Dessureault",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Ampli de Québec",
+    "paid": false,
+    "time": "14:40",
+    "artist": "All Day Breakfast",
+    "country": "Toronto",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Ampli de Québec",
+    "paid": false,
+    "time": "17:20",
+    "artist": "Bonace",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Ampli de Québec",
+    "paid": false,
+    "time": "19:20",
+    "artist": "Chanelle Salinger",
+    "country": "Québec",
+    "genre": "Électro-pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Ampli de Québec",
+    "paid": false,
+    "time": "21:20",
+    "artist": "Fyore",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Ancien local Benjo",
+    "paid": false,
+    "time": "14:40",
+    "artist": "646yf4t",
+    "country": "Toronto",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Ancien local Benjo",
+    "paid": false,
+    "time": "17:20",
+    "artist": "Framboise",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Ancien local Benjo",
+    "paid": false,
+    "time": "20:00",
+    "artist": "Gawbé",
+    "country": "Québec",
+    "genre": "Chanson"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Bar Le Vox",
+    "paid": false,
+    "time": "14:40",
+    "artist": "Fyore",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Bar Le Vox",
+    "paid": false,
+    "time": "16:00",
+    "artist": "Lou K",
+    "country": "Belgique",
+    "genre": "Post-Punk"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Bar Le Vox",
+    "paid": false,
+    "time": "18:40",
+    "artist": "Joseph Lorange",
+    "country": "Québec",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Bar Le Vox",
+    "paid": false,
+    "time": "22:00",
+    "artist": "Donalda",
+    "country": "Québec",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Bati Bassac",
+    "paid": false,
+    "time": "13:20",
+    "artist": "Good Fortune",
+    "country": "Toronto",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Bati Bassac",
+    "paid": false,
+    "time": "15:20",
+    "artist": "Floraison Tardive",
+    "country": "Québec",
+    "genre": "Rap / Hip-hop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Bati Bassac",
+    "paid": false,
+    "time": "17:20",
+    "artist": "Fine Food Market",
+    "country": "Québec",
+    "genre": "Indie folk"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Bati Bassac",
+    "paid": false,
+    "time": "20:00",
+    "artist": "SCOPA",
+    "country": "Québec",
+    "genre": "Instrumental"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Bibliothèque Gabrielle-Roy - Cuisine",
     "paid": false,
     "time": "11:00",
     "artist": "Samuel Boisvert - Soif de Bouffe",
@@ -838,34 +1027,34 @@
   },
   {
     "date": "2026-08-29",
-    "venue": "Extras XP",
+    "venue": "Bibliothèque Gabrielle-Roy - Hall",
     "paid": false,
-    "time": "21:00",
-    "artist": "Millimetrik & Marco G",
+    "time": "13:20",
+    "artist": "Bonace",
     "country": "Québec",
-    "genre": "Électro"
+    "genre": "Indie pop"
   },
   {
     "date": "2026-08-29",
-    "venue": "Extras XP",
+    "venue": "Bibliothèque Gabrielle-Roy - Hall",
     "paid": false,
-    "time": "21:30",
-    "artist": "M.I.M et Shortlist",
+    "time": "16:00",
+    "artist": "SCOPA",
     "country": "Québec",
-    "genre": "Électro"
+    "genre": "Instrumental"
   },
   {
     "date": "2026-08-29",
-    "venue": "Extras XP",
+    "venue": "Bibliothèque Gabrielle-Roy - Hall",
     "paid": false,
-    "time": "23:30",
-    "artist": "Poirier",
+    "time": "18:40",
+    "artist": "Vermeil",
     "country": "Québec",
-    "genre": "Électro"
+    "genre": "Indie pop"
   },
   {
     "date": "2026-08-29",
-    "venue": "Mini XP",
+    "venue": "Bibliothèque Gabrielle-Roy - Salle de Diffusion",
     "paid": false,
     "time": "10:00",
     "artist": "M. Gazon",
@@ -874,7 +1063,7 @@
   },
   {
     "date": "2026-08-29",
-    "venue": "Mini XP",
+    "venue": "Bibliothèque Gabrielle-Roy - Salle de Diffusion",
     "paid": false,
     "time": "13:00",
     "artist": "Alix Atomix",
@@ -883,7 +1072,214 @@
   },
   {
     "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
+    "venue": "BLEUFEU",
+    "paid": false,
+    "time": "13:20",
+    "artist": "Joseph Lorange",
+    "country": "Québec",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "BLEUFEU",
+    "paid": false,
+    "time": "15:20",
+    "artist": "Max Baby",
+    "country": "France",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "BLEUFEU",
+    "paid": false,
+    "time": "18:00",
+    "artist": "Shunk",
+    "country": "Québec",
+    "genre": "Post-Punk"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "BLEUFEU",
+    "paid": false,
+    "time": "20:00",
+    "artist": "vinciane",
+    "country": "Québec",
+    "genre": "Instrumental"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "BLEUFEU",
+    "paid": false,
+    "time": "22:00",
+    "artist": "BALACLAVA",
+    "country": "New York",
+    "genre": "Post-Punk"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Café Pékoe",
+    "paid": false,
+    "time": "14:40",
+    "artist": "Joe DeVito",
+    "country": "New York",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Café Pékoe",
+    "paid": false,
+    "time": "17:20",
+    "artist": "Good Fortune",
+    "country": "Toronto",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Café Pékoe",
+    "paid": false,
+    "time": "20:00",
+    "artist": "All Day Breakfast",
+    "country": "Toronto",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Grizzly Fuzz – Plateau 1",
+    "paid": false,
+    "time": "21:00",
+    "artist": "Millimetrik & Marco G",
+    "country": "Québec",
+    "genre": "Électro"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Grizzly Fuzz – Plateau 2",
+    "paid": false,
+    "time": "21:30",
+    "artist": "M.I.M et Shortlist",
+    "country": "Québec",
+    "genre": "Électro"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Grizzly Fuzz – Plateau 2",
+    "paid": false,
+    "time": "23:30",
+    "artist": "Poirier",
+    "country": "Québec",
+    "genre": "Électro"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Impérial Bell",
+    "paid": true,
+    "time": "21:00",
+    "artist": "Coeur de Pirate",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "La Korrigane",
+    "paid": false,
+    "time": "14:00",
+    "artist": "Framboise",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "La Korrigane",
+    "paid": false,
+    "time": "16:40",
+    "artist": "Flore & JADE",
+    "country": "Québec",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "La Korrigane",
+    "paid": false,
+    "time": "18:40",
+    "artist": "Murray Drive",
+    "country": "Toronto",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "La Korrigane",
+    "paid": false,
+    "time": "21:20",
+    "artist": "Lou K",
+    "country": "Belgique",
+    "genre": "Post-Punk"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "La Place Boutique gourmande",
+    "paid": false,
+    "time": "14:00",
+    "artist": "Fine Food Market",
+    "country": "Québec",
+    "genre": "Indie folk"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "La Place Boutique gourmande",
+    "paid": false,
+    "time": "16:00",
+    "artist": "Nora Kelly Band",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "La Place Boutique gourmande",
+    "paid": false,
+    "time": "18:40",
+    "artist": "Joe DeVito",
+    "country": "New York",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Marché Tradition Courtemanche Baril",
+    "paid": false,
+    "time": "13:20",
+    "artist": "Nora Kelly Band",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Marché Tradition Courtemanche Baril",
+    "paid": false,
+    "time": "16:00",
+    "artist": "vinciane",
+    "country": "Québec",
+    "genre": "Instrumental"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Marché Tradition Courtemanche Baril",
+    "paid": false,
+    "time": "18:00",
+    "artist": "Christine Campbell",
+    "country": "Nouvelle-Écosse",
+    "genre": "Blues"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Marché Tradition Courtemanche Baril",
+    "paid": false,
+    "time": "20:00",
+    "artist": "Donalda",
+    "country": "Québec",
+    "genre": "Pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Motel Acadie, présenté par la Société Nationale de l'Acadie",
     "paid": false,
     "time": "11:00",
     "artist": "André-Carl Vachon",
@@ -892,7 +1288,7 @@
   },
   {
     "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Motel Acadie, présenté par la Société Nationale de l'Acadie",
     "paid": false,
     "time": "11:50",
     "artist": "Aimée LeBreton",
@@ -901,43 +1297,7 @@
   },
   {
     "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "13:20",
-    "artist": "Good Fortune",
-    "country": "Toronto",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "13:20",
-    "artist": "Nora Kelly Band",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "13:20",
-    "artist": "Bonace",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "13:20",
-    "artist": "Joseph Lorange",
-    "country": "Québec",
-    "genre": "Pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Motel Acadie, présenté par la Société Nationale de l'Acadie",
     "paid": false,
     "time": "13:20",
     "artist": "JP Leblanc",
@@ -946,187 +1306,7 @@
   },
   {
     "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "14:00",
-    "artist": "Samuel Bourgeois",
-    "country": "Acadie",
-    "genre": "Folk"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "14:00",
-    "artist": "Framboise",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "14:00",
-    "artist": "Chanelle Salinger",
-    "country": "Québec",
-    "genre": "Électro-pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "14:00",
-    "artist": "Flore & JADE",
-    "country": "Québec",
-    "genre": "Pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "14:00",
-    "artist": "Fine Food Market",
-    "country": "Québec",
-    "genre": "Indie folk"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "14:40",
-    "artist": "Fyore",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "14:40",
-    "artist": "All Day Breakfast",
-    "country": "Toronto",
-    "genre": "Folk"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "14:40",
-    "artist": "Murray Drive",
-    "country": "Toronto",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "14:40",
-    "artist": "Joe DeVito",
-    "country": "New York",
-    "genre": "Folk"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "14:40",
-    "artist": "646yf4t",
-    "country": "Toronto",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "14:40",
-    "artist": "Bonne nuit, chérie",
-    "country": "Sherbrooke",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "15:20",
-    "artist": "Joey Robin Haché",
-    "country": "Acadie",
-    "genre": "Chanson"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "15:20",
-    "artist": "Floraison Tardive",
-    "country": "Québec",
-    "genre": "Rap / Hip-hop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "15:20",
-    "artist": "Laraw",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "15:20",
-    "artist": "Vermeil",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "15:20",
-    "artist": "Max Baby",
-    "country": "France",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "16:00",
-    "artist": "Lou K",
-    "country": "Belgique",
-    "genre": "Post-Punk"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "16:00",
-    "artist": "vinciane",
-    "country": "Québec",
-    "genre": "Instrumental"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "16:00",
-    "artist": "SCOPA",
-    "country": "Québec",
-    "genre": "Instrumental"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "16:00",
-    "artist": "Nora Kelly Band",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Motel Acadie, présenté par la Société Nationale de l'Acadie",
     "paid": false,
     "time": "16:00",
     "artist": "ABOiTEAU",
@@ -1135,25 +1315,97 @@
   },
   {
     "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Motel Acadie, présenté par la Société Nationale de l'Acadie",
     "paid": false,
-    "time": "16:40",
-    "artist": "Éléonore Dessureault",
-    "country": "Québec",
-    "genre": "Indie pop"
+    "time": "18:40",
+    "artist": "Samuel Bourgeois",
+    "country": "Acadie",
+    "genre": "Folk"
   },
   {
     "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Motel Acadie, présenté par la Société Nationale de l'Acadie",
     "paid": false,
-    "time": "16:40",
+    "time": "20:40",
+    "artist": "Joey Robin Haché",
+    "country": "Acadie",
+    "genre": "Chanson"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Parvis Desjardins de l’église St-Roch",
+    "paid": false,
+    "time": "14:00",
     "artist": "Flore & JADE",
     "country": "Québec",
     "genre": "Pop"
   },
   {
     "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Parvis Desjardins de l’église St-Roch",
+    "paid": false,
+    "time": "15:20",
+    "artist": "Vermeil",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Parvis Desjardins de l’église St-Roch",
+    "paid": false,
+    "time": "16:40",
+    "artist": "Hush",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Parvis Desjardins de l’église St-Roch",
+    "paid": false,
+    "time": "18:00",
+    "artist": "BALACLAVA",
+    "country": "New York",
+    "genre": "Post-Punk"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Parvis Desjardins de l’église St-Roch",
+    "paid": false,
+    "time": "19:20",
+    "artist": "ABOiTEAU",
+    "country": "Acadie",
+    "genre": "Rock"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Parvis Desjardins de l’église St-Roch",
+    "paid": false,
+    "time": "20:40",
+    "artist": "646yf4t",
+    "country": "Toronto",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Place Jacques-Cartier",
+    "paid": false,
+    "time": "14:00",
+    "artist": "Chanelle Salinger",
+    "country": "Québec",
+    "genre": "Électro-pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Place Jacques-Cartier",
+    "paid": false,
+    "time": "15:20",
+    "artist": "Laraw",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Place Jacques-Cartier",
     "paid": false,
     "time": "16:40",
     "artist": "JP Leblanc",
@@ -1162,88 +1414,7 @@
   },
   {
     "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "16:40",
-    "artist": "Gawbé",
-    "country": "Québec",
-    "genre": "Chanson"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "16:40",
-    "artist": "Hush",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:20",
-    "artist": "Fine Food Market",
-    "country": "Québec",
-    "genre": "Indie folk"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:20",
-    "artist": "Bonace",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:20",
-    "artist": "Good Fortune",
-    "country": "Toronto",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:20",
-    "artist": "Framboise",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "17:20",
-    "artist": "Laraw",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:00",
-    "artist": "Lucky Chemistry",
-    "country": "Québec",
-    "genre": "Jazz / Hip-hop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:00",
-    "artist": "Christine Campbell",
-    "country": "Nouvelle-Écosse",
-    "genre": "Blues"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Place Jacques-Cartier",
     "paid": false,
     "time": "18:00",
     "artist": "Bonne nuit, chérie",
@@ -1252,88 +1423,7 @@
   },
   {
     "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:00",
-    "artist": "BALACLAVA",
-    "country": "New York",
-    "genre": "Post-Punk"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:00",
-    "artist": "Shunk",
-    "country": "Québec",
-    "genre": "Post-Punk"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:40",
-    "artist": "Joseph Lorange",
-    "country": "Québec",
-    "genre": "Pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:40",
-    "artist": "Murray Drive",
-    "country": "Toronto",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:40",
-    "artist": "Vermeil",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:40",
-    "artist": "Joe DeVito",
-    "country": "New York",
-    "genre": "Folk"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "18:40",
-    "artist": "Samuel Bourgeois",
-    "country": "Acadie",
-    "genre": "Folk"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:20",
-    "artist": "Max Baby",
-    "country": "France",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:20",
-    "artist": "Chanelle Salinger",
-    "country": "Québec",
-    "genre": "Électro-pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Place Jacques-Cartier",
     "paid": false,
     "time": "19:20",
     "artist": "Floraison Tardive",
@@ -1342,124 +1432,7 @@
   },
   {
     "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:20",
-    "artist": "Hush",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "19:20",
-    "artist": "ABOiTEAU",
-    "country": "Acadie",
-    "genre": "Rock"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:00",
-    "artist": "SCOPA",
-    "country": "Québec",
-    "genre": "Instrumental"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:00",
-    "artist": "Donalda",
-    "country": "Québec",
-    "genre": "Pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:00",
-    "artist": "All Day Breakfast",
-    "country": "Toronto",
-    "genre": "Folk"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:00",
-    "artist": "vinciane",
-    "country": "Québec",
-    "genre": "Instrumental"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:00",
-    "artist": "Gawbé",
-    "country": "Québec",
-    "genre": "Chanson"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:00",
-    "artist": "Éléonore Dessureault",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:40",
-    "artist": "Shunk",
-    "country": "Québec",
-    "genre": "Post-Punk"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:40",
-    "artist": "646yf4t",
-    "country": "Toronto",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "20:40",
-    "artist": "Joey Robin Haché",
-    "country": "Acadie",
-    "genre": "Chanson"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "21:20",
-    "artist": "Fyore",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
-    "paid": false,
-    "time": "21:20",
-    "artist": "Lou K",
-    "country": "Belgique",
-    "genre": "Post-Punk"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Place Jacques-Cartier",
     "paid": false,
     "time": "21:20",
     "artist": "Christine Campbell",
@@ -1468,29 +1441,56 @@
   },
   {
     "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Rue St-Anselme",
     "paid": false,
-    "time": "22:00",
-    "artist": "Donalda",
-    "country": "Québec",
-    "genre": "Pop"
+    "time": "14:00",
+    "artist": "Samuel Bourgeois",
+    "country": "Acadie",
+    "genre": "Folk"
   },
   {
     "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Rue St-Anselme",
     "paid": false,
-    "time": "22:00",
+    "time": "15:20",
+    "artist": "Joey Robin Haché",
+    "country": "Acadie",
+    "genre": "Chanson"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Rue St-Anselme",
+    "paid": false,
+    "time": "16:40",
+    "artist": "Éléonore Dessureault",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Rue St-Anselme",
+    "paid": false,
+    "time": "18:00",
     "artist": "Lucky Chemistry",
     "country": "Québec",
     "genre": "Jazz / Hip-hop"
   },
   {
     "date": "2026-08-29",
-    "venue": "Vitrines SiriusXM",
+    "venue": "Rue St-Anselme",
     "paid": false,
-    "time": "22:00",
-    "artist": "BALACLAVA",
-    "country": "New York",
+    "time": "19:20",
+    "artist": "Max Baby",
+    "country": "France",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-29",
+    "venue": "Rue St-Anselme",
+    "paid": false,
+    "time": "20:40",
+    "artist": "Shunk",
+    "country": "Québec",
     "genre": "Post-Punk"
   }
 ]
