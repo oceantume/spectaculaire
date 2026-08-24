@@ -245,7 +245,7 @@
     "slug": "strochxp-2026",
     "year": 2026,
     "region": "Québec",
-    "features": ["all-paid", "filter-quebec"],
+    "features": ["filter-free", "filter-quebec"],
     "dataDir": "strochxp-2026",
     "sourceUrl": "https://www.strochxp.com/programmation/horaire-des-spectacles",
     "sourceLabel": "strochxp.com",
