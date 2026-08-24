@@ -3,6 +3,7 @@
   "description": "Horaire de la programmation du Festival d'été de Québec 2026",
   "lang": "fr",
   "start_url": "/feq-2026/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#111827",
   "theme_color": "#111827",
