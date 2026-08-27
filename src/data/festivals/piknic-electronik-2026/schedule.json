@@ -948,7 +948,15 @@
     "venue": "SCÈNE BANQUE NATIONALE - MUTEK",
     "paid": true,
     "time": "16:00",
-    "artist": "Artistes Surprise",
+    "artist": "Artiste Surprise",
+    "type": "main"
+  },
+  {
+    "date": "2026-08-30",
+    "venue": "SCÈNE BANQUE NATIONALE - MUTEK",
+    "paid": true,
+    "time": "18:30",
+    "artist": "NVST",
     "type": "main"
   },
   {
