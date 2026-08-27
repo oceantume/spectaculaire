@@ -1,4 +1,24 @@
 {
+  "roman.": {
+    "description": "Création de Roman Lauzier-Boulanger et Olivier Bacon, roman. est un projet nourri par la musique populaire et alternative québécoise, le hip-hop francophone et le boom-bap américain des années 1990. Porté par un quintette aux racines jazz, le groupe construit des grooves riches où l’improvisation occupe une place centrale, donnant à chaque spectacle un caractère unique. À travers des textes poétiques et sensibles, roman. explore les défis de la jeunesse, le passage à l’âge adulte, les dépendances et la quête de liberté artistique.",
+    "imageUrl": "https://cdn.festigest.com/26/492e25f1-2772-45c3-bcb2-b5306eae5f8c.jpg",
+    "links": []
+  },
+  "Tout Croche": {
+    "description": "Tout Croche est un groupe festif et déjanté qui fait vibrer les foules grâce à son mélange explosif de folk, de pop-rock québécois et d’énergie punk. Réputé pour ses performances survoltées et sa proximité avec le public, le groupe transforme chacun de ses spectacles en véritable célébration collective. Porté par des mélodies entraînantes, une attitude sans filtre et un esprit de fête contagieux, Tout Croche rassemble les gens autour d’une musique énergique, rassembleuse et résolument festive.",
+    "imageUrl": "https://cdn.festigest.com/26/068e8fb8-1bb0-476d-8187-95244dc3ab2e.jpg",
+    "links": []
+  },
+  "Customer Service": {
+    "description": "Originaire de Halifax, Customer Service s’est rapidement imposé comme l’un des groupes les plus actifs de la scène DIY canadienne. Puisant dans l’énergie de l’emo des années 90 et 2000, le quatuor développe un son mélodique et percutant qui lui est propre. Depuis sa nomination parmi les meilleurs nouveaux artistes d’Exclaim! en 2024, le groupe a donné plus de 200 spectacles à travers le Canada et les États-Unis, partageant la scène avec The Dirty Nil et Death from Above 1979.",
+    "imageUrl": "https://cdn.festigest.com/26/0f294294-b590-4cc7-8491-99a1176d682b.jpg",
+    "links": []
+  },
+  "Roxanne Izzo": {
+    "description": "Roxanne Izzo évolue à la croisée de l’audace et de la vulnérabilité, de l’angoisse et de la tendresse. Basée à Montréal, l’autrice-compositrice transforme ses réflexions intimes en chansons pop sensibles portées par une énergie brute et une plume évocatrice. Entre cynisme existentiel et mélodies accrocheuses, elle donne une voix à celles et ceux qui se sentent entre deux mondes, incompris peut-être, mais toujours prêts à chanter haut et fort.",
+    "imageUrl": "https://cdn.festigest.com/26/d33d894b-454f-4562-be9a-33569d2c3a90.png",
+    "links": []
+  },
   "Le Gong Show": {
     "description": "Le Gong Show Spiiicial – Tout le monde peut être drôle, mais est-ce que n’importe qui peut l’être sur scène? C’est l’opportunité que Le Gong Show offre! Charles Deschamps et ses juges invité·es, Maude Landry et Jean-Michel Martel, donnent la chance à n’importe qui d’essayer le stand-up. L’attrape ? Ils n’ont que 3 minutes pour réussir à faire rire les juges, sinon ils se font arrêter par le gong! Évidemment, le but n’est pas d’être méchant envers les participants… mais clairement pas d’être gentil.\n\n Le Gong Show, c’est un spectacle qui fait place à la découverte pour le meilleur ou pour le pire!\n\n N.B : Le spectacle fait l'objet d'une captation.",
     "imageUrl": "https://cdn.festigest.com/26/1166df31-91c6-4f42-be65-f3ba1969cb97.png",
@@ -63,26 +83,6 @@
       }
     ]
   },
-  "roman.": {
-    "description": "Création de Roman Lauzier-Boulanger et Olivier Bacon, roman. est un projet nourri par la musique populaire et alternative québécoise, le hip-hop francophone et le boom-bap américain des années 1990. Porté par un quintette aux racines jazz, le groupe construit des grooves riches où l’improvisation occupe une place centrale, donnant à chaque spectacle un caractère unique. À travers des textes poétiques et sensibles, roman. explore les défis de la jeunesse, le passage à l’âge adulte, les dépendances et la quête de liberté artistique.",
-    "imageUrl": "https://cdn.festigest.com/26/492e25f1-2772-45c3-bcb2-b5306eae5f8c.jpg",
-    "links": []
-  },
-  "Tout Croche": {
-    "description": "Tout Croche est un groupe festif et déjanté qui fait vibrer les foules grâce à son mélange explosif de folk, de pop-rock québécois et d’énergie punk. Réputé pour ses performances survoltées et sa proximité avec le public, le groupe transforme chacun de ses spectacles en véritable célébration collective. Porté par des mélodies entraînantes, une attitude sans filtre et un esprit de fête contagieux, Tout Croche rassemble les gens autour d’une musique énergique, rassembleuse et résolument festive.",
-    "imageUrl": "https://cdn.festigest.com/26/068e8fb8-1bb0-476d-8187-95244dc3ab2e.jpg",
-    "links": []
-  },
-  "Customer Service": {
-    "description": "Originaire de Halifax, Customer Service s’est rapidement imposé comme l’un des groupes les plus actifs de la scène DIY canadienne. Puisant dans l’énergie de l’emo des années 90 et 2000, le quatuor développe un son mélodique et percutant qui lui est propre. Depuis sa nomination parmi les meilleurs nouveaux artistes d’Exclaim! en 2024, le groupe a donné plus de 200 spectacles à travers le Canada et les États-Unis, partageant la scène avec The Dirty Nil et Death from Above 1979.",
-    "imageUrl": "https://cdn.festigest.com/26/0f294294-b590-4cc7-8491-99a1176d682b.jpg",
-    "links": []
-  },
-  "Roxanne Izzo": {
-    "description": "Roxanne Izzo évolue à la croisée de l’audace et de la vulnérabilité, de l’angoisse et de la tendresse. Basée à Montréal, l’autrice-compositrice transforme ses réflexions intimes en chansons pop sensibles portées par une énergie brute et une plume évocatrice. Entre cynisme existentiel et mélodies accrocheuses, elle donne une voix à celles et ceux qui se sentent entre deux mondes, incompris peut-être, mais toujours prêts à chanter haut et fort.",
-    "imageUrl": "https://cdn.festigest.com/26/d33d894b-454f-4562-be9a-33569d2c3a90.png",
-    "links": []
-  },
   "happy sunflower": {
     "description": "happy sunflower est le projet imaginé par l’auteur-compositeur-interprète montréalais Jonas Allamanno, accompagné de Benjamin Proulx, Rory Cogley et Omar Esperón. Ensemble, ils cultivent un univers à mi-chemin entre la surf psychédélique moderne et la pop rêveuse francophone. Après la sortie de l’EP Psyché en 2025, porté notamment par la chanson Amour en photo, le quatuor continue d’affiner son identité sonore avec des textures planantes, des rythmiques soigneusement construites et une douce candeur qui invite à l’évasion.",
     "imageUrl": "https://cdn.festigest.com/26/e68691e5-f567-44cd-bd59-03ea8df046d3.jpg",
@@ -93,9 +93,8 @@
     "imageUrl": "https://cdn.festigest.com/26/f7cd45e3-2ca9-4eb3-ac93-922a99c78989.jpg",
     "links": []
   },
-  "Lou K": {
-    "description": "Artiste belge évoluant au sein de la scène post-punk féministe, Lou K est à la fois peintre, poète et musicienne. Accompagnée de ses complices sur scène, elle livre des chansons habitées où se rencontrent poésie sombre, guitares saturées et intensité brute. Influencée par PJ Harvey, Whispering Sons, Model/Actriz et Klô Pelgag, elle explore un territoire allant du grunge à la folk. Son premier album, L’obscurité, propose un rock viscéral, engagé et onirique qui transforme chaque concert en un moment de rage, de communion et de sororité.",
-    "imageUrl": "https://cdn.festigest.com/26/798b0bfd-9652-4504-9f70-c6e0219248f8.jpg",
+  "Vinni Payne": {
+    "imageUrl": "https://www.strochxp.com/Frontend/StRochXP/images/default-show.jpg",
     "links": []
   },
   "BALACLAVA": {
@@ -341,16 +340,6 @@
     "imageUrl": "https://cdn.festigest.com/26/66537e63-3a11-4005-a51d-bae35b24d257.jpg",
     "links": []
   },
-  "Coco Rose": {
-    "description": "Originaire de Montréal, Coco Rose fusionne funk et pop depuis 2022 avec une énergie contagieuse et un sens inné du groove. À travers les EP Love Faster (2022) et Cuddle Funk (2025), le groupe a façonné un son qui évolue d’un funk inspiré des années 70 vers une approche moderne et raffinée. Porté par des influences comme L’Impératrice et Lawrence, Coco Rose s’est démarqué avec la chanson Ambulance, classée dans le Top 100 québécois. Fort de plusieurs tournées au Québec et en Ontario, le groupe propose des performances festives et rassembleuses.",
-    "imageUrl": "https://cdn.festigest.com/26/05bed056-c7ea-4b05-9479-8b38573d0e33.jpg",
-    "links": []
-  },
-  "Grand Public": {
-    "description": "Mêlant tension explosive, mélodies accrocheuses et guitares hypnotiques, Grand Public réunit Grégory Paquet (The Stills, Peter Peter, Molly Rankin d’Alvvays) et trois amis d’enfance qui jouent ensemble depuis l’adolescence. Le groupe s’est rapidement démarqué avec son premier EP, Idéal Tempo (2023), récipiendaire du GAMIQ du meilleur EP rock. Porté par une énergie brute et un sens aiguisé de la mélodie, Grand Public travaille actuellement à son deuxième album, attendu au début de 2027 sur l’étiquette montréalaise Lisbon Lux.",
-    "imageUrl": "https://cdn.festigest.com/26/288bd208-2941-4963-9bdc-4cd455bff877.jpg",
-    "links": []
-  },
   "Beauséjour": {
     "description": "Beauséjour propose un spectacle country folk chaleureux et authentique, porté par des voix riches et harmonieuses. Inspiré à la fois par l’Acadie et l’Ouest canadien, le duo fait voyager le public à travers des chansons empreintes de souvenirs, de traditions et d’émotions. Sur scène, le violon et les influences folk se mêlent à l’esprit du « bon vieux country », dans des arrangements actuels et enveloppants. Entre humour, complicité et moments touchants, Beauséjour crée une expérience rassembleuse et sincère.",
     "imageUrl": "https://cdn.festigest.com/26/c4136235-64ab-4706-8d8f-a34245e90314.png",
@@ -364,6 +353,11 @@
   "Bonne nuit, chérie": {
     "description": "Bonne nuit, chérie est le projet nocturne de Florence Crête-Lafrenière, né dans les marges du quotidien comme un espace de création libre, guidé par l’instinct et le plaisir de suivre son élan. Paru en 2026, le mini-album xx, réalisé par Francis Mineau, explore une quête de lumière où la joie devient un geste de résistance. Portées par les synthétiseurs et des voix superposées, ses chansons naviguent entre rêve et réalité dans une approche sincère, frontale et sans compromis.",
     "imageUrl": "https://cdn.festigest.com/26/9a9b09a6-5e9a-431d-8731-2b9691b21937.jpg",
+    "links": []
+  },
+  "Grand Public": {
+    "description": "Mêlant tension explosive, mélodies accrocheuses et guitares hypnotiques, Grand Public réunit Grégory Paquet (The Stills, Peter Peter, Molly Rankin d’Alvvays) et trois amis d’enfance qui jouent ensemble depuis l’adolescence. Le groupe s’est rapidement démarqué avec son premier EP, Idéal Tempo (2023), récipiendaire du GAMIQ du meilleur EP rock. Porté par une énergie brute et un sens aiguisé de la mélodie, Grand Public travaille actuellement à son deuxième album, attendu au début de 2027 sur l’étiquette montréalaise Lisbon Lux.",
+    "imageUrl": "https://cdn.festigest.com/26/288bd208-2941-4963-9bdc-4cd455bff877.jpg",
     "links": []
   },
   "Spaghatt": {
@@ -386,16 +380,6 @@
     "imageUrl": "https://cdn.festigest.com/26/874de21b-d808-49d3-ba07-14dc2d9bf504.jpg",
     "links": []
   },
-  "La Grosse Équipe": {
-    "description": "Originaire d’Edmundston, au Nouveau-Brunswick, La Grosse Équipe fait vibrer les scènes de l’Est du Canada avec son country-rock acadien festif et rassembleur. Depuis 2023, le groupe a présenté son spectacle du Québec jusqu’à Terre-Neuve, séduisant le public par son énergie contagieuse. Fort de deux EP et d’un album complet, La Grosse Équipe a récolté plusieurs nominations aux Prix Musique NB et a reçu le prix de la Tournée RADARTS 2026. Un groupe qui promet une soirée haute en couleur.",
-    "imageUrl": "https://cdn.festigest.com/26/ac4038d6-3d21-4bc6-ba20-cabea887b71d.png",
-    "links": []
-  },
-  "Tes Amants": {
-    "description": "À la croisée du rock, du funk, du prog et d’une foule d’autres influences, Tes Amants propose un univers musical théâtral, maximaliste et profondément québécois. Porté par des textes décomplexés, une approche sans compromis et une énergie scénique débordante, le groupe célèbre l’excès autant dans sa musique que dans son attitude. Avec ses musiciens irrévérencieux et ses arrangements audacieux, Tes Amants livre un spectacle unique où se rencontrent liberté créative, intensité et plaisir de repousser les frontières.",
-    "imageUrl": "https://cdn.festigest.com/26/ae4bb409-85e6-463a-a7b1-5e923c1d15dc.jpg",
-    "links": []
-  },
   "Jacques Surette": {
     "description": "Originaire de Yarmouth, en Nouvelle-Écosse, Jacques Surette est un auteur-compositeur-interprète acadien qui met en valeur son coin de pays à travers des chansons empreintes d’authenticité. Écrivant principalement en français, il fait découvrir la culture et le parler acadjonne dans des spectacles intimistes qui l’ont mené partout dans les Maritimes, au Québec, en Louisiane et en Europe. Avec quatre albums à son actif, dont Les vieux chapeaux paru en 2025, il propose un folk-pop aux influences country, ancré dans son identité néo-écossaise.",
     "imageUrl": "https://cdn.festigest.com/26/4fa5c6cd-beba-4815-bb3f-fc26527ce010.png",
@@ -416,6 +400,16 @@
     "imageUrl": "https://cdn.festigest.com/26/19028743-b16e-4697-bdb2-e31ba4efd876.jpg",
     "links": []
   },
+  "Coco Rose": {
+    "description": "Originaire de Montréal, Coco Rose fusionne funk et pop depuis 2022 avec une énergie contagieuse et un sens inné du groove. À travers les EP Love Faster (2022) et Cuddle Funk (2025), le groupe a façonné un son qui évolue d’un funk inspiré des années 70 vers une approche moderne et raffinée. Porté par des influences comme L’Impératrice et Lawrence, Coco Rose s’est démarqué avec la chanson Ambulance, classée dans le Top 100 québécois. Fort de plusieurs tournées au Québec et en Ontario, le groupe propose des performances festives et rassembleuses.",
+    "imageUrl": "https://cdn.festigest.com/26/05bed056-c7ea-4b05-9479-8b38573d0e33.jpg",
+    "links": []
+  },
+  "La Grosse Équipe": {
+    "description": "Originaire d’Edmundston, au Nouveau-Brunswick, La Grosse Équipe fait vibrer les scènes de l’Est du Canada avec son country-rock acadien festif et rassembleur. Depuis 2023, le groupe a présenté son spectacle du Québec jusqu’à Terre-Neuve, séduisant le public par son énergie contagieuse. Fort de deux EP et d’un album complet, La Grosse Équipe a récolté plusieurs nominations aux Prix Musique NB et a reçu le prix de la Tournée RADARTS 2026. Un groupe qui promet une soirée haute en couleur.",
+    "imageUrl": "https://cdn.festigest.com/26/ac4038d6-3d21-4bc6-ba20-cabea887b71d.png",
+    "links": []
+  },
   "André-Carl Vachon": {
     "description": "André-Carl Vachon détient une maîtrise en histoire acadienne (UQTR 2018) et il est　maître généalogiste agréé (MGA) depuis 2023. En plus de sa participation dans 5 livres de　collectif d’auteurs, il a écrit 16 livres, dont un album jeunesse, Les religions, ainsi que 14 livres sur l’histoire acadienne, incluant un roman jeunesse. De plus, il est également chroniqueur dans la revue L’Ancêtre. Depuis 2014, il a reçu 22 prix et distinctions, notamment le Prix Acadie-Québec en 2015, la médaille de Morne-Rouge, Martinique, en 2017, le Prix France-Acadie 2018 et président d’honneur du Salon du livre de Dieppe (N.-B.) en 2020. Il a aussi été le consultant historique d’Evangéline – Le spectacle musical (2025).",
     "imageUrl": "https://cdn.festigest.com/26/16237646-ed28-4347-bc9c-e7b28e9d6fb1.png",
@@ -424,6 +418,11 @@
   "Aimée LeBreton": {
     "description": "À la fois traductrice, réviseure, interprète et consultante linguistique en français et en anglais, Aimée LeBreton a grandi le long de la baie des Chaleurs à Petit-Rocher, au nord-est du Nouveau-Brunswick et a étudié à l’Université de Moncton et à l’Université Laval. Aimée entretient un profond sentiment d’appartenance envers son Acadie d’origine ainsi que la grande région de Québec, son port d’attache depuis près de 30　ans. Au fil du temps, elle s’est démarquée dans son milieu professionnel en tant que femme d’affaires et a fait preuve d’engagement dans le milieu sociocommunautaire comme bénévole, porte-parole et présidente actuelle de son association acadienne.",
     "imageUrl": "https://cdn.festigest.com/26/b3451618-1058-46b2-af51-2125b47e3196.png",
+    "links": []
+  },
+  "Tes Amants": {
+    "description": "À la croisée du rock, du funk, du prog et d’une foule d’autres influences, Tes Amants propose un univers musical théâtral, maximaliste et profondément québécois. Porté par des textes décomplexés, une approche sans compromis et une énergie scénique débordante, le groupe célèbre l’excès autant dans sa musique que dans son attitude. Avec ses musiciens irrévérencieux et ses arrangements audacieux, Tes Amants livre un spectacle unique où se rencontrent liberté créative, intensité et plaisir de repousser les frontières.",
+    "imageUrl": "https://cdn.festigest.com/26/ae4bb409-85e6-463a-a7b1-5e923c1d15dc.jpg",
     "links": []
   },
   "Buvette Mila": {

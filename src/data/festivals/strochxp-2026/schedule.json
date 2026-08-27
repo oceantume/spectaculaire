@@ -46,6 +46,15 @@
   },
   {
     "date": "2026-08-27",
+    "venue": "595, rue St-Joseph Est",
+    "paid": false,
+    "time": "21:40",
+    "artist": "Erwan",
+    "country": "Québec",
+    "genre": "Folk"
+  },
+  {
+    "date": "2026-08-27",
     "venue": "Ampli de Québec",
     "paid": false,
     "time": "19:00",
@@ -75,6 +84,15 @@
     "date": "2026-08-27",
     "venue": "Ancien local Benjo",
     "paid": false,
+    "time": "19:00",
+    "artist": "Coco Rose",
+    "country": "Québec",
+    "genre": "Funk"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Ancien local Benjo",
+    "paid": false,
     "time": "20:20",
     "artist": "Coco Rose",
     "country": "Québec",
@@ -82,12 +100,12 @@
   },
   {
     "date": "2026-08-27",
-    "venue": "Bar Le Vox",
+    "venue": "Ancien local Benjo",
     "paid": false,
-    "time": "19:00",
-    "artist": "Thunder Queens",
-    "country": "Toronto",
-    "genre": "Punk"
+    "time": "21:40",
+    "artist": "Grand Public",
+    "country": "Québec",
+    "genre": "Indie rock"
   },
   {
     "date": "2026-08-27",
@@ -103,6 +121,15 @@
     "venue": "Bati Bassac",
     "paid": false,
     "time": "17:40",
+    "artist": "Sunderloom",
+    "country": "Québec",
+    "genre": "Indie pop"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Bati Bassac",
+    "paid": false,
+    "time": "19:00",
     "artist": "Sunderloom",
     "country": "Québec",
     "genre": "Indie pop"
@@ -142,6 +169,33 @@
     "artist": "Erwan",
     "country": "Québec",
     "genre": "Folk"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Bibliothèque Gabrielle-Roy - Salle de Diffusion",
+    "paid": false,
+    "time": "17:00",
+    "artist": "Le Miel",
+    "country": "Québec",
+    "genre": "Instrumental"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Bibliothèque Gabrielle-Roy - Salle de Diffusion",
+    "paid": false,
+    "time": "18:20",
+    "artist": "Tes Amants",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Bibliothèque Gabrielle-Roy - Salle de Diffusion",
+    "paid": false,
+    "time": "19:40",
+    "artist": "Luan Larobina",
+    "country": "Québec",
+    "genre": "Indie folk"
   },
   {
     "date": "2026-08-27",
@@ -226,6 +280,42 @@
   },
   {
     "date": "2026-08-27",
+    "venue": "Impérial Bell",
+    "paid": false,
+    "time": "17:00",
+    "artist": "roman.",
+    "country": "Québec",
+    "genre": "Électro-pop"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Impérial Bell",
+    "paid": false,
+    "time": "18:20",
+    "artist": "Tout Croche",
+    "country": "Québec",
+    "genre": "Chanson"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Impérial Bell",
+    "paid": false,
+    "time": "19:40",
+    "artist": "Customer Service",
+    "country": "Nouvelle-Écosse",
+    "genre": "Pop punk"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Impérial Bell",
+    "paid": false,
+    "time": "21:00",
+    "artist": "Roxanne Izzo",
+    "country": "Québec",
+    "genre": "Indie rock"
+  },
+  {
+    "date": "2026-08-27",
     "venue": "La Korrigane",
     "paid": false,
     "time": "18:20",
@@ -282,6 +372,15 @@
     "date": "2026-08-27",
     "venue": "Motel Acadie, présenté par la Société Nationale de l'Acadie",
     "paid": false,
+    "time": "17:00",
+    "artist": "La Grosse Équipe",
+    "country": "Acadie",
+    "genre": "Rock"
+  },
+  {
+    "date": "2026-08-27",
+    "venue": "Motel Acadie, présenté par la Société Nationale de l'Acadie",
+    "paid": false,
     "time": "19:00",
     "artist": "La Grosse Équipe",
     "country": "Acadie",
@@ -295,114 +394,6 @@
     "artist": "Émilie Landry",
     "country": "Acadie",
     "genre": "Chanson"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Parvis Desjardins de l’église St-Roch",
-    "paid": false,
-    "time": "17:00",
-    "artist": "La Grosse Équipe",
-    "country": "Acadie",
-    "genre": "Rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Parvis Desjardins de l’église St-Roch",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Tes Amants",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Parvis Desjardins de l’église St-Roch",
-    "paid": false,
-    "time": "19:40",
-    "artist": "Luan Larobina",
-    "country": "Québec",
-    "genre": "Indie folk"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Parvis Desjardins de l’église St-Roch",
-    "paid": false,
-    "time": "21:00",
-    "artist": "Erwan",
-    "country": "Québec",
-    "genre": "Folk"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Place Jacques-Cartier",
-    "paid": false,
-    "time": "17:00",
-    "artist": "Le Miel",
-    "country": "Québec",
-    "genre": "Instrumental"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Place Jacques-Cartier",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Coco Rose",
-    "country": "Québec",
-    "genre": "Funk"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Place Jacques-Cartier",
-    "paid": false,
-    "time": "19:40",
-    "artist": "Sunderloom",
-    "country": "Québec",
-    "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Place Jacques-Cartier",
-    "paid": false,
-    "time": "21:00",
-    "artist": "Grand Public",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Rue St-Anselme",
-    "paid": false,
-    "time": "17:00",
-    "artist": "roman.",
-    "country": "Québec",
-    "genre": "Électro-pop"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Rue St-Anselme",
-    "paid": false,
-    "time": "18:20",
-    "artist": "Tout Croche",
-    "country": "Québec",
-    "genre": "Chanson"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Rue St-Anselme",
-    "paid": false,
-    "time": "19:40",
-    "artist": "Customer Service",
-    "country": "Nouvelle-Écosse",
-    "genre": "Pop punk"
-  },
-  {
-    "date": "2026-08-27",
-    "venue": "Rue St-Anselme",
-    "paid": false,
-    "time": "21:00",
-    "artist": "Roxanne Izzo",
-    "country": "Québec",
-    "genre": "Indie rock"
   },
   {
     "date": "2026-08-28",
@@ -553,9 +544,9 @@
     "venue": "BLEUFEU",
     "paid": false,
     "time": "17:40",
-    "artist": "Lou K",
-    "country": "Belgique",
-    "genre": "Post-Punk"
+    "artist": "Vinni Payne",
+    "country": "Québec",
+    "genre": "Chanson"
   },
   {
     "date": "2026-08-28",
@@ -805,9 +796,9 @@
     "venue": "Rue St-Anselme",
     "paid": false,
     "time": "19:40",
-    "artist": "Lou K",
-    "country": "Belgique",
-    "genre": "Post-Punk"
+    "artist": "Vinni Payne",
+    "country": "Québec",
+    "genre": "Chanson"
   },
   {
     "date": "2026-08-28",
@@ -958,9 +949,9 @@
     "venue": "Bar Le Vox",
     "paid": false,
     "time": "16:00",
-    "artist": "Lou K",
-    "country": "Belgique",
-    "genre": "Post-Punk"
+    "artist": "Vinni Payne",
+    "country": "Québec",
+    "genre": "Chanson"
   },
   {
     "date": "2026-08-29",
@@ -1210,9 +1201,9 @@
     "venue": "La Korrigane",
     "paid": false,
     "time": "21:20",
-    "artist": "Lou K",
-    "country": "Belgique",
-    "genre": "Post-Punk"
+    "artist": "Vinni Payne",
+    "country": "Québec",
+    "genre": "Chanson"
   },
   {
     "date": "2026-08-29",
