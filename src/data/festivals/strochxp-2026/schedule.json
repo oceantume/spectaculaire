@@ -623,7 +623,7 @@
   {
     "date": "2026-08-28",
     "venue": "Impérial Bell",
-    "paid": true,
+    "paid": false,
     "time": "21:00",
     "artist": "Le Gong Show",
     "country": "Québec",
