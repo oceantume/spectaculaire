@@ -831,15 +831,6 @@
     "date": "2026-08-29",
     "venue": "405, rue St-Joseph Est",
     "paid": false,
-    "time": "19:20",
-    "artist": "Hush",
-    "country": "Québec",
-    "genre": "Indie rock"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "405, rue St-Joseph Est",
-    "paid": false,
     "time": "22:00",
     "artist": "Lucky Chemistry",
     "country": "Québec",
@@ -1339,15 +1330,6 @@
     "artist": "Vermeil",
     "country": "Québec",
     "genre": "Indie pop"
-  },
-  {
-    "date": "2026-08-29",
-    "venue": "Parvis Desjardins de l’église St-Roch",
-    "paid": false,
-    "time": "16:40",
-    "artist": "Hush",
-    "country": "Québec",
-    "genre": "Indie rock"
   },
   {
     "date": "2026-08-29",
