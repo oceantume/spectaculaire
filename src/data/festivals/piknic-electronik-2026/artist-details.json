@@ -1148,6 +1148,23 @@
       }
     ]
   },
+  "Nora En Pure": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC25_OUTILS-COMM_SITE-WEB_VISUELS-ARTISTES_10-17_NORA-EN-PURE.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/noraenpure/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/NoraEnPure/"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/NoraEnPure"
+      }
+    ]
+  },
   "Lee Burridge": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_10-12_PRESS-PIC_Lee-Burridge.jpg",
     "links": []
