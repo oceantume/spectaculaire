@@ -977,7 +977,7 @@
   },
   {
     "date": "2026-09-05",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 17H À 22H",
     "paid": true,
     "time": "17:00",
     "artist": "kiju",
@@ -985,7 +985,7 @@
   },
   {
     "date": "2026-09-05",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 17H À 22H",
     "paid": true,
     "time": "18:30",
     "artist": "Silva Bumpa",
@@ -993,7 +993,7 @@
   },
   {
     "date": "2026-09-05",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 17H À 22H",
     "paid": true,
     "time": "20:00",
     "artist": "Sammy Virji",
@@ -1017,7 +1017,7 @@
   },
   {
     "date": "2026-09-06",
-    "venue": "SCÈNE BANQUE NATIONALE",
+    "venue": "SCÈNE BANQUE NATIONALE - 16H À 21H30",
     "paid": true,
     "time": "16:00",
     "artist": "Raf Reza",
@@ -1025,7 +1025,7 @@
   },
   {
     "date": "2026-09-06",
-    "venue": "SCÈNE BANQUE NATIONALE",
+    "venue": "SCÈNE BANQUE NATIONALE - 16H À 21H30",
     "paid": true,
     "time": "18:00",
     "artist": "mayalabae",
@@ -1033,7 +1033,7 @@
   },
   {
     "date": "2026-09-06",
-    "venue": "SCÈNE BANQUE NATIONALE",
+    "venue": "SCÈNE BANQUE NATIONALE - 16H À 21H30",
     "paid": true,
     "time": "19:30",
     "artist": "Dameer",
@@ -1041,7 +1041,7 @@
   },
   {
     "date": "2026-09-06",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 22H",
     "paid": true,
     "time": "16:00",
     "artist": "Ossifer",
@@ -1049,7 +1049,7 @@
   },
   {
     "date": "2026-09-06",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 22H",
     "paid": true,
     "time": "18:00",
     "artist": "Misstress Barbara",
@@ -1057,7 +1057,7 @@
   },
   {
     "date": "2026-09-07",
-    "venue": "SCÈNE BANQUE NATIONALE - NO DIPLOMA RECORDS",
+    "venue": "SCÈNE BANQUE NATIONALE - NO DIPLOMA RECORDS - 16H À 21H",
     "paid": true,
     "time": "16:00",
     "artist": "Nether",
@@ -1065,7 +1065,7 @@
   },
   {
     "date": "2026-09-07",
-    "venue": "SCÈNE BANQUE NATIONALE - NO DIPLOMA RECORDS",
+    "venue": "SCÈNE BANQUE NATIONALE - NO DIPLOMA RECORDS - 16H À 21H",
     "paid": true,
     "time": "17:30",
     "artist": "Kay B",
@@ -1073,7 +1073,7 @@
   },
   {
     "date": "2026-09-07",
-    "venue": "SCÈNE BANQUE NATIONALE - NO DIPLOMA RECORDS",
+    "venue": "SCÈNE BANQUE NATIONALE - NO DIPLOMA RECORDS - 16H À 21H",
     "paid": true,
     "time": "19:30",
     "artist": "Teo2k",
@@ -1081,7 +1081,7 @@
   },
   {
     "date": "2026-09-07",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "16:00",
     "artist": "Pyromane",
@@ -1089,7 +1089,7 @@
   },
   {
     "date": "2026-09-07",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "18:30",
     "artist": "No Police",
@@ -1097,7 +1097,7 @@
   },
   {
     "date": "2026-09-07",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "20:00",
     "artist": "Cloudy",
@@ -1121,7 +1121,7 @@
   },
   {
     "date": "2026-09-13",
-    "venue": "SCÈNE BANQUE NATIONALE - ROCHE MUSIQUE",
+    "venue": "SCÈNE BANQUE NATIONALE - ROCHE MUSIQUE  - 16H À 21H",
     "paid": true,
     "time": "16:00",
     "artist": "Cezaire",
@@ -1129,7 +1129,7 @@
   },
   {
     "date": "2026-09-13",
-    "venue": "SCÈNE BANQUE NATIONALE - ROCHE MUSIQUE",
+    "venue": "SCÈNE BANQUE NATIONALE - ROCHE MUSIQUE  - 16H À 21H",
     "paid": true,
     "time": "18:00",
     "artist": "Didi Han",
@@ -1137,7 +1137,7 @@
   },
   {
     "date": "2026-09-13",
-    "venue": "SCÈNE BANQUE NATIONALE - ROCHE MUSIQUE",
+    "venue": "SCÈNE BANQUE NATIONALE - ROCHE MUSIQUE  - 16H À 21H",
     "paid": true,
     "time": "20:00",
     "artist": "Cezaire b2b Didi Han",
@@ -1145,7 +1145,7 @@
   },
   {
     "date": "2026-09-13",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "16:00",
     "artist": "Elles & U",
@@ -1153,7 +1153,7 @@
   },
   {
     "date": "2026-09-13",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "18:00",
     "artist": "Julian Fijma",
@@ -1161,15 +1161,15 @@
   },
   {
     "date": "2026-09-13",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
-    "time": "19:30",
+    "time": "19:45",
     "artist": "Dean Turnley",
     "type": "main"
   },
   {
     "date": "2026-09-19",
-    "venue": "SCÈNE FIZZ - RuPaul",
+    "venue": "SCÈNE FIZZ - 17H À 22H",
     "paid": true,
     "time": "17:00",
     "artist": "BisouBizou",
@@ -1177,7 +1177,7 @@
   },
   {
     "date": "2026-09-19",
-    "venue": "SCÈNE FIZZ - RuPaul",
+    "venue": "SCÈNE FIZZ - 17H À 22H",
     "paid": true,
     "time": "18:30",
     "artist": "French Vanilia",
@@ -1185,7 +1185,7 @@
   },
   {
     "date": "2026-09-19",
-    "venue": "SCÈNE FIZZ - RuPaul",
+    "venue": "SCÈNE FIZZ - 17H À 22H",
     "paid": true,
     "time": "20:00",
     "artist": "FIZZ STAGE - RUPAUL",
@@ -1193,7 +1193,7 @@
   },
   {
     "date": "2026-09-26",
-    "venue": "SCÈNE FIZZ - Ricardo Villalobos",
+    "venue": "SCÈNE FIZZ - 17H À 22H",
     "paid": true,
     "time": "17:00",
     "artist": "Maher Daniel",
@@ -1201,7 +1201,7 @@
   },
   {
     "date": "2026-09-26",
-    "venue": "SCÈNE FIZZ - Ricardo Villalobos",
+    "venue": "SCÈNE FIZZ - 17H À 22H",
     "paid": true,
     "time": "19:00",
     "artist": "Ricardo Villalobos",
@@ -1225,7 +1225,7 @@
   },
   {
     "date": "2026-09-27",
-    "venue": "SCÈNE BANQUE NATIONALE - RÊVES",
+    "venue": "SCÈNE BANQUE NATIONALE - RÊVES - 16H À 21H",
     "paid": true,
     "time": "16:00",
     "artist": "Baby Bimbo",
@@ -1233,7 +1233,7 @@
   },
   {
     "date": "2026-09-27",
-    "venue": "SCÈNE BANQUE NATIONALE - RÊVES",
+    "venue": "SCÈNE BANQUE NATIONALE - RÊVES - 16H À 21H",
     "paid": true,
     "time": "17:00",
     "artist": "Yume",
@@ -1241,7 +1241,7 @@
   },
   {
     "date": "2026-09-27",
-    "venue": "SCÈNE BANQUE NATIONALE - RÊVES",
+    "venue": "SCÈNE BANQUE NATIONALE - RÊVES - 16H À 21H",
     "paid": true,
     "time": "18:00",
     "artist": "Lorenzi",
@@ -1249,7 +1249,7 @@
   },
   {
     "date": "2026-09-27",
-    "venue": "SCÈNE BANQUE NATIONALE - RÊVES",
+    "venue": "SCÈNE BANQUE NATIONALE - RÊVES - 16H À 21H",
     "paid": true,
     "time": "19:00",
     "artist": "Aamourocean",
@@ -1257,7 +1257,7 @@
   },
   {
     "date": "2026-09-27",
-    "venue": "SCÈNE BANQUE NATIONALE - RÊVES",
+    "venue": "SCÈNE BANQUE NATIONALE - RÊVES - 16H À 21H",
     "paid": true,
     "time": "20:00",
     "artist": "Isla Den (DJ Set)",
@@ -1265,7 +1265,7 @@
   },
   {
     "date": "2026-09-27",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "16:00",
     "artist": "livwutang",
@@ -1273,7 +1273,7 @@
   },
   {
     "date": "2026-09-27",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "18:00",
     "artist": "Martyn Bootyspoon",
@@ -1281,7 +1281,7 @@
   },
   {
     "date": "2026-09-27",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "20:00",
     "artist": "Egyptian Lover",
@@ -1289,7 +1289,7 @@
   },
   {
     "date": "2026-10-02",
-    "venue": "SCÈNE FIZZ | TARAKA - En collaboration avec Produkt",
+    "venue": "SCÈNE FIZZ | TARAKA - En collaboration avec Produkt 17H À 22H45",
     "paid": true,
     "time": "17:00",
     "artist": "Sacchi b2b Gala",
@@ -1297,7 +1297,7 @@
   },
   {
     "date": "2026-10-02",
-    "venue": "SCÈNE FIZZ | TARAKA - En collaboration avec Produkt",
+    "venue": "SCÈNE FIZZ | TARAKA - En collaboration avec Produkt 17H À 22H45",
     "paid": true,
     "time": "18:30",
     "artist": "AMÉMÉ b2b HoneyLuv",
@@ -1305,7 +1305,7 @@
   },
   {
     "date": "2026-10-02",
-    "venue": "SCÈNE FIZZ | TARAKA - En collaboration avec Produkt",
+    "venue": "SCÈNE FIZZ | TARAKA - En collaboration avec Produkt 17H À 22H45",
     "paid": true,
     "time": "20:00",
     "artist": "Gordo",
@@ -1313,7 +1313,7 @@
   },
   {
     "date": "2026-10-03",
-    "venue": "SCÈNE FIZZ | BTSM",
+    "venue": "SCÈNE FIZZ | BTSM 17H À 22H",
     "paid": true,
     "time": "17:00",
     "artist": "WHYPER b2b PSYCHAZM",
@@ -1321,7 +1321,7 @@
   },
   {
     "date": "2026-10-03",
-    "venue": "SCÈNE FIZZ | BTSM",
+    "venue": "SCÈNE FIZZ | BTSM 17H À 22H",
     "paid": true,
     "time": "18:35",
     "artist": "KATTANA",
@@ -1329,7 +1329,7 @@
   },
   {
     "date": "2026-10-03",
-    "venue": "SCÈNE FIZZ | BTSM",
+    "venue": "SCÈNE FIZZ | BTSM 17H À 22H",
     "paid": true,
     "time": "19:35",
     "artist": "TYNAN",
@@ -1337,7 +1337,7 @@
   },
   {
     "date": "2026-10-03",
-    "venue": "SCÈNE FIZZ | BTSM",
+    "venue": "SCÈNE FIZZ | BTSM 17H À 22H",
     "paid": true,
     "time": "20:35",
     "artist": "Black Tiger Sex Machine",
@@ -1401,7 +1401,7 @@
   },
   {
     "date": "2026-10-09",
-    "venue": "SCÈNE FIZZ | MEDUZA",
+    "venue": "SCÈNE FIZZ | 17H À 22H",
     "paid": true,
     "time": "17:00",
     "artist": "Shirlee",
@@ -1409,7 +1409,7 @@
   },
   {
     "date": "2026-10-09",
-    "venue": "SCÈNE FIZZ | MEDUZA",
+    "venue": "SCÈNE FIZZ | 17H À 22H",
     "paid": true,
     "time": "18:30",
     "artist": "KUNGS",
@@ -1417,7 +1417,7 @@
   },
   {
     "date": "2026-10-09",
-    "venue": "SCÈNE FIZZ | MEDUZA",
+    "venue": "SCÈNE FIZZ | 17H À 22H",
     "paid": true,
     "time": "20:00",
     "artist": "Meduza",
@@ -1425,7 +1425,7 @@
   },
   {
     "date": "2026-10-10",
-    "venue": "SCÈNE FIZZ | Nora En Pure - En collaboration avec Produkt",
+    "venue": "SCÈNE FIZZ | Nora En Pure - En collaboration avec Produkt 17H À 22H",
     "paid": true,
     "time": "17:00",
     "artist": "Nora En Pure",
@@ -1497,7 +1497,7 @@
   },
   {
     "date": "2026-10-12",
-    "venue": "SCÈNE FIZZ | All Day I Dream",
+    "venue": "SCÈNE FIZZ | All Day I Dream 17H À 22H",
     "paid": true,
     "time": "17:00",
     "artist": "Double Touch",
@@ -1505,7 +1505,7 @@
   },
   {
     "date": "2026-10-12",
-    "venue": "SCÈNE FIZZ | All Day I Dream",
+    "venue": "SCÈNE FIZZ | All Day I Dream 17H À 22H",
     "paid": true,
     "time": "18:15",
     "artist": "Enamour",
@@ -1513,7 +1513,7 @@
   },
   {
     "date": "2026-10-12",
-    "venue": "SCÈNE FIZZ | All Day I Dream",
+    "venue": "SCÈNE FIZZ | All Day I Dream 17H À 22H",
     "paid": true,
     "time": "19:30",
     "artist": "Samm",
@@ -1521,7 +1521,7 @@
   },
   {
     "date": "2026-10-12",
-    "venue": "SCÈNE FIZZ | All Day I Dream",
+    "venue": "SCÈNE FIZZ | All Day I Dream 17H À 22H",
     "paid": true,
     "time": "20:45",
     "artist": "Lee Burridge",
@@ -1529,7 +1529,7 @@
   },
   {
     "date": "2026-10-16",
-    "venue": "SCÈNE FIZZ | En collaboration avec Produkt",
+    "venue": "SCÈNE FIZZ | Steve Angello En collaboration avec Produkt 17H À 22H",
     "paid": true,
     "time": "17:00",
     "artist": "Paskal Daze",
@@ -1537,7 +1537,7 @@
   },
   {
     "date": "2026-10-16",
-    "venue": "SCÈNE FIZZ | En collaboration avec Produkt",
+    "venue": "SCÈNE FIZZ | Steve Angello En collaboration avec Produkt 17H À 22H",
     "paid": true,
     "time": "18:30",
     "artist": "SHEE",
@@ -1545,7 +1545,7 @@
   },
   {
     "date": "2026-10-16",
-    "venue": "SCÈNE FIZZ | En collaboration avec Produkt",
+    "venue": "SCÈNE FIZZ | Steve Angello En collaboration avec Produkt 17H À 22H",
     "paid": true,
     "time": "20:00",
     "artist": "Steve Angello",
@@ -1564,7 +1564,7 @@
     "venue": "SCÈNE FIZZ",
     "paid": true,
     "time": "18:00",
-    "artist": "MVNGO",
+    "artist": "Anna Wilder",
     "type": "main"
   },
   {

@@ -648,9 +648,9 @@
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-18_ELI-BROWN.png",
     "links": []
   },
-  "MVNGO": {
-    "description": "Ana Alexandra Coman, plus connue sous le nom de \"MVNGO\", est une DJ et productrice de musique roumaine et canadienne. Bien qu'elle se spécialise dans la musique house, son son est plus profond que n'importe quel genre. Son père était DJ en Roumanie, ce qui l'a exposée à la scène musicale underground européenne dès son plus jeune âge. Elle passait ses étés en Europe, ce qui l'a vraiment aidée à développer son son, inspiré par \"la fraîcheur, l'été et l'exotisme\". Qu'il s'agisse de faire la première partie de The Chainsmokers au Beachclub ou de remporter le concours de DJ de la 2022 Yacht Week en Croatie, on peut affirmer sans risque de se tromper que Mvngo est une artiste à surveiller sur la scène house montréalaise.",
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-18_MVNGO.png",
+  "Anna Wilder": {
+    "description": "Ana Alexandra Coman, plus connue sous le nom de \"Anna Wilder\", est une DJ et productrice de musique roumaine et canadienne. Bien qu'elle se spécialise dans la musique house, son son est plus profond que n'importe quel genre. Son père était DJ en Roumanie, ce qui l'a exposée à la scène musicale underground européenne dès son plus jeune âge. Elle passait ses étés en Europe, ce qui l'a vraiment aidée à développer son son, inspiré par \"la fraîcheur, l'été et l'exotisme\". Qu'il s'agisse de faire la première partie de The Chainsmokers au Beachclub ou de remporter le concours de DJ de la 2022 Yacht Week en Croatie, on peut affirmer sans risque de se tromper que Mvngo est une artiste à surveiller sur la scène house montréalaise.",
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC25_OUTILS-COMM_SITE-WEB_VISUELS-ARTISTES_10-10_DEFECTED_MEDUZA.png",
     "links": [
       {
         "label": "Instagram",
@@ -1073,14 +1073,6 @@
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_09-05_PRESS-PIC_KIJU.jpg",
     "links": []
   },
-  "Ricardo Villalobos": {
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_09-26_PRESS-PIC_Ricardo-Villalobos.jpg",
-    "links": []
-  },
-  "Maher Daniel": {
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-26_RICARDO-VILLALOBOS_MAHER-DANIEL.png",
-    "links": []
-  },
   "FIZZ STAGE - RUPAUL": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC25_OUTILS-COMM_SITE-WEB_VISUELS-ARTISTES_09-13_RUPAUL.png",
     "links": []
@@ -1102,6 +1094,14 @@
         "url": "https://soundcloud.com/lily-jade-beauregard"
       }
     ]
+  },
+  "Ricardo Villalobos": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_09-26_PRESS-PIC_Ricardo-Villalobos.jpg",
+    "links": []
+  },
+  "Maher Daniel": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_09-26_RICARDO-VILLALOBOS_MAHER-DANIEL.png",
+    "links": []
   },
   "Gordo": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Artistes/_AUTOxAUTO_crop_center-center_80_none/OFF-PIKNIC26_R-S_SUIVIS-ARTISTES_PHOTOS_10-02_PRESS-PIC_GORDO-1.jpg",
