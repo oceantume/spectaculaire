@@ -1001,7 +1001,7 @@
   },
   {
     "date": "2026-09-06",
-    "venue": "Casino de Montréal [Gratuit]",
+    "venue": "Casino de Montréal [Gratuit] - 11H À 15H",
     "paid": true,
     "time": "11:00",
     "artist": "Dimitry",
@@ -1009,7 +1009,7 @@
   },
   {
     "date": "2026-09-06",
-    "venue": "Casino de Montréal [Gratuit]",
+    "venue": "Casino de Montréal [Gratuit] - 11H À 15H",
     "paid": true,
     "time": "13:00",
     "artist": "Lara Bee",
@@ -1105,7 +1105,7 @@
   },
   {
     "date": "2026-09-13",
-    "venue": "Casino de Montréal [Gratuit]",
+    "venue": "Casino de Montréal [Gratuit] - 11H À 15H",
     "paid": true,
     "time": "11:00",
     "artist": "Andrea de Tour",
@@ -1113,7 +1113,7 @@
   },
   {
     "date": "2026-09-13",
-    "venue": "Casino de Montréal [Gratuit]",
+    "venue": "Casino de Montréal [Gratuit] - 11H À 15H",
     "paid": true,
     "time": "13:00",
     "artist": "Tali Rose",
@@ -1188,7 +1188,7 @@
     "venue": "SCÈNE FIZZ - 17H À 22H",
     "paid": true,
     "time": "20:00",
-    "artist": "FIZZ STAGE - RUPAUL",
+    "artist": "FIZZ STAGE - RUPAUL (DJ SET)",
     "type": "off"
   },
   {
@@ -1209,7 +1209,7 @@
   },
   {
     "date": "2026-09-27",
-    "venue": "Casino de Montréal [Gratuit]",
+    "venue": "Casino de Montréal [Gratuit] - 11H À 15H",
     "paid": true,
     "time": "11:00",
     "artist": "Arielle Roberge",
@@ -1217,7 +1217,7 @@
   },
   {
     "date": "2026-09-27",
-    "venue": "Casino de Montréal [Gratuit]",
+    "venue": "Casino de Montréal [Gratuit] - 11H À 15H",
     "paid": true,
     "time": "13:00",
     "artist": "Cece The Red",
@@ -1345,7 +1345,7 @@
   },
   {
     "date": "2026-10-04",
-    "venue": "Casino de Montréal [Gratuit]",
+    "venue": "Casino de Montréal [Gratuit] - 11H À 15H",
     "paid": true,
     "time": "11:00",
     "artist": "Ferias : Guthrie b2b Alina",
@@ -1353,7 +1353,7 @@
   },
   {
     "date": "2026-10-04",
-    "venue": "SCÈNE BANQUE NATIONALE - ETHER",
+    "venue": "SCÈNE BANQUE NATIONALE - ETHER - 16H À 21H",
     "paid": true,
     "time": "16:00",
     "artist": "Runa b2b Sako",
@@ -1361,7 +1361,7 @@
   },
   {
     "date": "2026-10-04",
-    "venue": "SCÈNE BANQUE NATIONALE - ETHER",
+    "venue": "SCÈNE BANQUE NATIONALE - ETHER - 16H À 21H",
     "paid": true,
     "time": "18:00",
     "artist": "Asha b2b Technique Nado",
@@ -1369,7 +1369,7 @@
   },
   {
     "date": "2026-10-04",
-    "venue": "SCÈNE BANQUE NATIONALE - ETHER",
+    "venue": "SCÈNE BANQUE NATIONALE - ETHER - 16H À 21H",
     "paid": true,
     "time": "19:30",
     "artist": "MIASALAV b2b Mui Mui",
@@ -1377,7 +1377,7 @@
   },
   {
     "date": "2026-10-04",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "16:00",
     "artist": "cori",
@@ -1385,7 +1385,7 @@
   },
   {
     "date": "2026-10-04",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "18:00",
     "artist": "Lia Plutonic",
@@ -1393,7 +1393,7 @@
   },
   {
     "date": "2026-10-04",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "19:30",
     "artist": "Eris Drew",
@@ -1433,7 +1433,7 @@
   },
   {
     "date": "2026-10-11",
-    "venue": "Casino de Montréal [Gratuit]",
+    "venue": "Casino de Montréal [Gratuit] - 11H À 15H",
     "paid": true,
     "time": "11:00",
     "artist": "Flleur",
@@ -1441,7 +1441,7 @@
   },
   {
     "date": "2026-10-11",
-    "venue": "Casino de Montréal [Gratuit]",
+    "venue": "Casino de Montréal [Gratuit] - 11H À 15H",
     "paid": true,
     "time": "13:00",
     "artist": "Minzi Roberta",
@@ -1449,7 +1449,7 @@
   },
   {
     "date": "2026-10-11",
-    "venue": "SCÈNE BANQUE NATIONALE - NOREINER",
+    "venue": "SCÈNE BANQUE NATIONALE - NOREINER - 16H À 21H",
     "paid": true,
     "time": "16:00",
     "artist": "Ponsif",
@@ -1457,7 +1457,7 @@
   },
   {
     "date": "2026-10-11",
-    "venue": "SCÈNE BANQUE NATIONALE - NOREINER",
+    "venue": "SCÈNE BANQUE NATIONALE - NOREINER - 16H À 21H",
     "paid": true,
     "time": "18:00",
     "artist": "Enamor",
@@ -1465,7 +1465,7 @@
   },
   {
     "date": "2026-10-11",
-    "venue": "SCÈNE BANQUE NATIONALE - NOREINER",
+    "venue": "SCÈNE BANQUE NATIONALE - NOREINER - 16H À 21H",
     "paid": true,
     "time": "19:30",
     "artist": "Sumatra",
@@ -1473,7 +1473,7 @@
   },
   {
     "date": "2026-10-11",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "16:00",
     "artist": "Lex Ferenda",
@@ -1481,7 +1481,7 @@
   },
   {
     "date": "2026-10-11",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "18:00",
     "artist": "Demi Riquísimo",
@@ -1489,7 +1489,7 @@
   },
   {
     "date": "2026-10-11",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "19:30",
     "artist": "Beltran",
@@ -1553,7 +1553,7 @@
   },
   {
     "date": "2026-10-18",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "16:00",
     "artist": "YVNNI",
@@ -1561,7 +1561,7 @@
   },
   {
     "date": "2026-10-18",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "18:00",
     "artist": "Anna Wilder",
@@ -1569,7 +1569,7 @@
   },
   {
     "date": "2026-10-18",
-    "venue": "SCÈNE FIZZ",
+    "venue": "SCÈNE FIZZ - 16H À 21H30",
     "paid": true,
     "time": "19:30",
     "artist": "Eli Brown",
