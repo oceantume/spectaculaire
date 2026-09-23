@@ -1428,6 +1428,14 @@
     "venue": "SCÈNE FIZZ | Nora En Pure - En collaboration avec Produkt 17H À 22H",
     "paid": true,
     "time": "17:00",
+    "artist": "Fahlberg",
+    "type": "off"
+  },
+  {
+    "date": "2026-10-10",
+    "venue": "SCÈNE FIZZ | Nora En Pure - En collaboration avec Produkt 17H À 22H",
+    "paid": true,
+    "time": "19:00",
     "artist": "Nora En Pure",
     "type": "off"
   },
