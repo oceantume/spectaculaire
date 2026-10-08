@@ -620,9 +620,22 @@
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-04_RUNA-B2B-SAKO.png",
     "links": []
   },
-  "Beltran": {
-    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-11_BELTRAN.png",
-    "links": []
+  "Melé": {
+    "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/OFF-PIKNIC25_OUTILS-COMM_SITE-WEB_VISUELS-ARTISTES_10-10_DEFECTED_MEDUZA.png",
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mele/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MeleUK"
+      },
+      {
+        "label": "SoundCloud",
+        "url": "https://soundcloud.com/ukmele"
+      }
+    ]
   },
   "Demi Riquísimo": {
     "imageUrl": "https://cms.piknicelectronik.com/uploads/Shows/PIKNIC26_OUTILS-COMM_SITE-WEB_PHOTOS-ARTISTES_10-11_DEMI-RIQUISIMO.png",
